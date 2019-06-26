@@ -1,8 +1,11 @@
+
 # openwrt
 # Note: If dnscrypt-proxy is not starting after a router reboot,
 # it may be trying to start before the network interface is fully up.
 # Add the following to /etc/rc.local, above the line "exit 0":
 
 sleep 10
+
 /etc/init.d/dnscrypt-proxy start
-exit 0
+
+#exit 0
