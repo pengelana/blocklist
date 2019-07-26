@@ -358,7 +358,7 @@ upstream_recursive_servers:
 ##       - digest: "sha256"
 ##         value: pOXrpUt9kgPgbWxBFFcBTbRH2heo2wHwXp1fd4AEVXI=
 # Tiarap DoT
-  - address_data: 45.32.105.4
+  - address_data: 174.138.29.175
     tls_auth_name: "dot.tiar.app"
     tls_port: 853`
 
@@ -562,7 +562,7 @@ upstream_recursive_servers:
 #    tls_port: 443
 #    tls_auth_name: "dot1.appliedprivacy.net"
 ## Tiarap DoT IPv6
-  - address_data: 2001:19f0:4400:7bcc:5400:1ff:fed1:8599
+  - address_data: 2400:6180:0:d0::5f73:4001
     tls_auth_name: "dot.tiar.app"
     tls_port: 853
 
