@@ -360,7 +360,7 @@ upstream_recursive_servers:
 # Tiarap DoT
   - address_data: 174.138.29.175
     tls_auth_name: "dot.tiar.app"
-    tls_port: 853`
+    tls_port: 853
 
 ####### IPv6 addresses #######
 ### Anycast services ###
