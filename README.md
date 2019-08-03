@@ -5,8 +5,8 @@
 * [Features](#features)
 * [DNS](#features)
 * [DNSCrypt](#dnscrypt)
-* [DoH (DNS-over-HTPPS)](doh-dns-over-https)
-* [DoT(DNS-over-TLS)](dot-dns-over-tls)
+* [DoH (DNS-over-HTPPS)](#doh-dns-over-https)
+* [DoT(DNS-over-TLS)](#dot-dns-over-tls)
 
 ## Features
 * Filter: Ad, Ad-tracking and Malware (Adblock)
