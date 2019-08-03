@@ -1,5 +1,13 @@
 # doh.tiar.app
 
+## Table of Contents
+
+* [Features](#features)
+* [DNS](#features)
+* [DNSCrypt](#dnscrypt)
+* [DoH (DNS-over-HTPPS)](doh-dns-over-https)
+* [DoT(DNS-over-TLS)](dot-dns-over-tls)
+
 ## Features
 * Filter: Ad, Ad-tracking and Malware (Adblock)
 * DNSSEC Validation
@@ -37,7 +45,7 @@
 
 `sdns://AgMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY3Mzo0MDAxXSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAxkb2gudGlhci5hcHAKL2Rucy1xdWVyeQ`
 
-## DoT(DNS-over-TLS)
+## DoT (DNS-over-TLS)
 `doh.tiar.app port 853`
 
 ### IPv4
