@@ -5,8 +5,8 @@
 * [Features](#features)
 * [DNS](#features)
 * [DNSCrypt](#dnscrypt)
-* [DoH (DNS-over-HTPPS)](#doh-dns-over-https)
-* [DoT(DNS-over-TLS)](#dot-dns-over-tls)
+* [DoH (DNS-over-HTTPS)](#doh-dns-over-https)
+* [DoT (DNS-over-TLS)](#dot-dns-over-tls)
 
 ## Features
 * Filter: Ad, Ad-tracking and Malware (Adblock)
@@ -34,7 +34,7 @@
 
 `sdns://AQMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY2ZTo0MDAxXSDvloBm6NmU8GXYPt3TGu7t9W2GV0Y-SspHzdf-l8PU9hwyLmRuc2NyeXB0LWNlcnQuZG5zLnRpYXIuYXBw`
 
-## DoH (DNS-over-HTPPS)
+## DoH (DNS-over-HTTPS)
 `https://doh.tiar.app/dns-query`
 
 ### IPv4
