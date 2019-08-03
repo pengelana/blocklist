@@ -1,10 +1,9 @@
 # doh.tiar.app
 
 ## Features
-* No Censorship
-* No logs
-* No ECS
+* Filter: Ad, Ad-tracking and Malware (Adblock)
 * DNSSEC Validation
+* No logs
 * Free
 
 ## DNS
