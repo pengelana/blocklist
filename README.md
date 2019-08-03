@@ -1,5 +1,11 @@
 # doh.tiar.app
 
+## Features
+* Filter: Ad, Ad-tracking and Malware (Adblock)
+* DNSSEC Validation
+* No logs
+* Free
+
 ## Table of Contents
 
 * [Features](#features)
@@ -8,11 +14,6 @@
 * [DoH (DNS-over-HTTPS)](#doh-dns-over-https)
 * [DoT (DNS-over-TLS)](#dot-dns-over-tls)
 
-## Features
-* Filter: Ad, Ad-tracking and Malware (Adblock)
-* DNSSEC Validation
-* No logs
-* Free
 
 ## DNS
 
