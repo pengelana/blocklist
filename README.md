@@ -47,7 +47,7 @@
 `sdns://AgMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY3Mzo0MDAxXSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAxkb2gudGlhci5hcHAKL2Rucy1xdWVyeQ`
 
 ## DoT (DNS-over-TLS)
-`doh.tiar.app port 853`
+`dot.tiar.app port 853`
 
 ### IPv4
 
@@ -55,4 +55,4 @@
 
 ### IPv6
 
-`2400:6180:0:d0::5f73:4001`
+`[2400:6180:0:d0::5f73:4001] port 853`
