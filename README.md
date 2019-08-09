@@ -1,5 +1,7 @@
 # doh.tiar.app
 
+Public DNS Server in Singapore.
+
 ## Features
 * Filter: Ad, Ad-tracking and Malware (Adblock)
 * DNSSEC Validation
