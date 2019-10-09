@@ -43,23 +43,25 @@ Public DNS Server in Singapore.
 
 `https://doh.tiar.app/dns-query`
 
-### IPv4
 
-`sdns://AgMAAAAAAAAADjE3NC4xMzguMjkuMTc1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DGRvaC50aWFyLmFwcAovZG5zLXF1ZXJ5`
-
-### IPv4 (Anycast)
+### IPv4 (doh.tiarap.org)
 
 `sdns://AgMAAAAAAAAADDEwNC4yOC4yOC4zNCBPtWwTIp4-T40ZbjCdyCfeStS1-WkKW8w_WWEQubJpyQ5kb2gudGlhcmFwLm9yZwovZG5zLXF1ZXJ5`
 
-### IPv6
+### IPv4 (doh.tiar.app)
 
-`sdns://AgMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY3Mzo0MDAxXSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAxkb2gudGlhci5hcHAKL2Rucy1xdWVyeQ`
+`sdns://AgMAAAAAAAAADjE3NC4xMzguMjkuMTc1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DGRvaC50aWFyLmFwcAovZG5zLXF1ZXJ5`
 
-### IPv4 (Anycast)
+### IPv6 (doh.tiarap.org)
 
 `sdns://AgMAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0gT7VsEyKePk-NGW4wncgn3krUtflpClvMP1lhELmyackOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ`
 
+### IPv6 (doh.tiar.app)
+
+`sdns://AgMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY3Mzo0MDAxXSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAxkb2gudGlhci5hcHAKL2Rucy1xdWVyeQ`
+
 ## DoT (DNS-over-TLS)
+
 `dot.tiar.app port 853`
 
 ### IPv4
