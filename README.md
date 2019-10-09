@@ -39,9 +39,9 @@ Public DNS Server in Singapore.
 
 ## DoH (DNS-over-HTTPS)
 
-`https://doh.tiar.app/dns-query`
+`https://doh.tiarap.org/dns-query`
 
-`https://doh.tiarap.org/dns-query` (Anycast)
+`https://doh.tiar.app/dns-query`
 
 ### IPv4
 
