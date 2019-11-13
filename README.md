@@ -39,7 +39,7 @@ Public DNS Server in Singapore.
 
 ## DoH (DNS-over-HTTPS)
 
-`https://doh.tiarap.org/dns-query`
+`https://doh.tiarap.org/dns-query` `(cached via Cloudflare.)`
 
 `https://doh.tiar.app/dns-query`
 
