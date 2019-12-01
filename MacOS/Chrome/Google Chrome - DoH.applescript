@@ -1,1 +1,0 @@
-do shell script "open -a '/Applications/Google Chrome.app' --args --enable-features=\"dns-over-https<DoHTrial\" --force-fieldtrials=\"DoHTrial/Group1\" --force-fieldtrial-params=\"DoHTrial.Group1:server/https%3A%2F%2Fdoh%2Etiar%2Eapp%2Fdns-query/method/POST\""
