@@ -1,1 +1,1 @@
-do shell script "open -a '/Applications/Google Chrome.app' --args --enable-features=\"DnsOverHttps<DoHTrial\" --force-fieldtrials=\"DoHTrial/Group1\" --force-fieldtrial-params=\"DoHTrial.Group1:Fallback/False/Templates/https%3A%2F%2Fdoh%2Etiarap%2Eorg%2Fdns-query\""
+do shell script "open -a '/Applications/Google Chrome.app' --args --enable-features=\"DnsOverHttps<DoHTrial\" --force-fieldtrials=\"DoHTrial/Group1\" --force-fieldtrial-params=\"DoHTrial.Group1:Fallback/False/Templates/https%3A%2F%2Fdoh%2Etiarap%2Eorg%2Fdns-query/method/GET\""
