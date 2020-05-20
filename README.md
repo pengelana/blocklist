@@ -74,7 +74,7 @@ Public DNS Server in Singapore.
 `[2400:6180:0:d0::5f73:4001] port 853`
 
 
-## DNS Over Telegram
+## DNS Over [Telegram](https://telegram.org/)
 
 ### Bot
 
