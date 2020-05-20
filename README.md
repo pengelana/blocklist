@@ -15,6 +15,7 @@ Public DNS Server in Singapore.
 * [DNSCrypt](#dnscrypt)
 * [DoH (DNS-over-HTTPS)](#doh-dns-over-https)
 * [DoT (DNS-over-TLS)](#dot-dns-over-tls)
+* [DNS Over Telegram](#dns-over-telegram)
 
 
 ## DNS
@@ -71,3 +72,12 @@ Public DNS Server in Singapore.
 ### IPv6
 
 `[2400:6180:0:d0::5f73:4001] port 853`
+
+
+## DNS Over Telegram
+
+### Query
+![Screen Shot 2020-05-20 at 7 38 15 PM](https://user-images.githubusercontent.com/787301/82442651-a62d0780-9ad2-11ea-937d-3df040c922dd.png)
+
+### Answer
+![Screen Shot 2020-05-20 at 7 38 40 PM](https://user-images.githubusercontent.com/787301/82442658-a88f6180-9ad2-11ea-9e7c-3b7408eb472c.png)
