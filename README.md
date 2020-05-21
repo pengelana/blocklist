@@ -82,6 +82,8 @@ Public DNS Server in Singapore.
 
 ### Query
 
-![Screen Shot 2020-05-21 at 7 33 58 PM](https://user-images.githubusercontent.com/787301/82555431-54e84b00-9b9a-11ea-839b-55a7fd5e8ed5.png)
+![Screen Shot 2020-05-21 at 7 33 44 PM](https://user-images.githubusercontent.com/787301/82555536-89f49d80-9b9a-11ea-92f6-4ad5e9b64132.png)
+
 ### Answer
 
+![Screen Shot 2020-05-21 at 7 33 58 PM](https://user-images.githubusercontent.com/787301/82555431-54e84b00-9b9a-11ea-839b-55a7fd5e8ed5.png)
