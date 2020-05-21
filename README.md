@@ -76,7 +76,7 @@ Public DNS Server in Singapore.
 
 ## DNS Over [Telegram](https://telegram.org/)
 
-### Bot
+### [Bot](https://t.me/dns_tgbot)
 
 ![Screen Shot 2020-05-20 at 7 45 51 PM](https://user-images.githubusercontent.com/787301/82442646-a3321700-9ad2-11ea-8e88-6840637e5d94.png)
 
