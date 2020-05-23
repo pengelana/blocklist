@@ -91,4 +91,3 @@ Public DNS Server in Singapore.
 
 ### Demo
 
-![ezgif com-resize](https://user-images.githubusercontent.com/787301/82726044-0fe82400-9d14-11ea-9a68-12b1c7d97b79.gif)
