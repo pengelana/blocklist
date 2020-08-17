@@ -74,7 +74,7 @@
 `[2400:6180:0:d0::5f73:4001] port 853`
 
 
-## DNS Over [Telegram](https://telegram.org/)
+## DNS Over [Telegram](https://t.me/dns_tgbot)
 
 ### [Bot](https://t.me/dns_tgbot)
 
