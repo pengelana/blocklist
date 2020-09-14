@@ -76,15 +76,22 @@
 
 ## DNS Over [Telegram](https://t.me/dns_tgbot)
 
+
 ### [Bot](https://t.me/dns_tgbot)
 
-![Screen Shot 2020-05-20 at 7 45 51 PM](https://user-images.githubusercontent.com/787301/82442646-a3321700-9ad2-11ea-8e88-6840637e5d94.png)
+![Screen Shot 2020-09-14 at 2 49 31 PM](https://user-images.githubusercontent.com/787301/93053217-140cc880-f69a-11ea-8e70-013c9ca80515.png)
+
+### Help
+
+![Screen Shot 2020-09-14 at 2 52 30 PM](https://user-images.githubusercontent.com/787301/93053134-f50e3680-f699-11ea-9907-8f7691799f12.png)
 
 ### Query
 
-![Screen Shot 2020-05-21 at 7 33 44 PM](https://user-images.githubusercontent.com/787301/82555536-89f49d80-9b9a-11ea-92f6-4ad5e9b64132.png)
+![Screen Shot 2020-09-14 at 2 55 49 PM](https://user-images.githubusercontent.com/787301/93053472-6cdc6100-f69a-11ea-8003-af96ffeee258.png)
 
 ### Answer
 
-![Screen Shot 2020-05-21 at 7 33 58 PM](https://user-images.githubusercontent.com/787301/82555431-54e84b00-9b9a-11ea-839b-55a7fd5e8ed5.png)
+
+![Screen Shot 2020-09-14 at 2 56 02 PM](https://user-images.githubusercontent.com/787301/93053504-78c82300-f69a-11ea-97ee-47a5d0122b31.png)
+
 
