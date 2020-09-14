@@ -85,13 +85,19 @@
 
 ![Screen Shot 2020-09-14 at 2 52 30 PM](https://user-images.githubusercontent.com/787301/93053134-f50e3680-f699-11ea-9907-8f7691799f12.png)
 
-### Query
+### Query Domain
 
 ![Screen Shot 2020-09-14 at 2 55 49 PM](https://user-images.githubusercontent.com/787301/93053472-6cdc6100-f69a-11ea-8003-af96ffeee258.png)
 
-### Answer
-
+### Answer Domain
 
 ![Screen Shot 2020-09-14 at 2 56 02 PM](https://user-images.githubusercontent.com/787301/93053504-78c82300-f69a-11ea-97ee-47a5d0122b31.png)
 
+### Reverse DNS lookup
+
+![Screen Shot 2020-09-14 at 3 02 07 PM](https://user-images.githubusercontent.com/787301/93054087-669ab480-f69b-11ea-8a3c-f1657c1d35f6.png)
+
+### Answer for Reverse DNS lookup
+
+![Screen Shot 2020-09-14 at 3 02 15 PM](https://user-images.githubusercontent.com/787301/93054118-75816700-f69b-11ea-9eab-5d8c39664925.png)
 
