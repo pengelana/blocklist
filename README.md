@@ -79,7 +79,7 @@
 
 ### [Bot](https://t.me/dns_tgbot)
 
-![Screen Shot 2020-09-14 at 2 49 31 PM](https://user-images.githubusercontent.com/787301/93053217-140cc880-f69a-11ea-8e70-013c9ca80515.png)
+![Screen Shot 2020-09-14 at 2 59 40 PM](https://user-images.githubusercontent.com/787301/93053879-0ad02b80-f69b-11ea-9199-b7551568373c.png)
 
 ### Help
 
