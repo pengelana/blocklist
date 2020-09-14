@@ -95,9 +95,10 @@
 
 ### Reverse DNS lookup
 
-![Screen Shot 2020-09-14 at 3 02 07 PM](https://user-images.githubusercontent.com/787301/93054087-669ab480-f69b-11ea-8a3c-f1657c1d35f6.png)
+![Screen Shot 2020-09-14 at 3 06 16 PM](https://user-images.githubusercontent.com/787301/93054531-0c4e2380-f69c-11ea-93aa-74e7b5b1242c.png)
 
 ### Answer for Reverse DNS lookup
 
-![Screen Shot 2020-09-14 at 3 02 15 PM](https://user-images.githubusercontent.com/787301/93054118-75816700-f69b-11ea-9eab-5d8c39664925.png)
+![Screen Shot 2020-09-14 at 3 06 29 PM](https://user-images.githubusercontent.com/787301/93054579-1b34d600-f69c-11ea-8a13-47ba5375c54d.png)
+
 
