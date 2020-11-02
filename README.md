@@ -7,10 +7,12 @@
 <a href="https://www.buymeacoffee.com/tiarap" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" > </a>
 
 ## Features
-* Filter: Ad, Ad-tracking and Malware (Adblock)
-* DNSSEC Validation
-* No logs
-* Free
+
+- [x] Filter: Ad, Ad-tracking and Malware (AdBlock)
+- [x] DNSSEC Validation
+- [x] No EDNS Client Subnet (ECS)
+- [x] No logs
+- [x] Free
 
 ## Table of Contents
 
