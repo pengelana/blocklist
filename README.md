@@ -80,10 +80,10 @@
 `[2400:6180:0:d0::5f73:4001] port 853`
 
 
-## DNS Over [Telegram](https://t.me/dns_tgbot)
+## [DNS Over Telegram](https://t.me/dns_tgbot)
 
 
-### [Bot](https://t.me/dns_tgbot)
+### Bot
 
 ![Screen Shot 2020-09-14 at 2 59 40 PM](https://user-images.githubusercontent.com/787301/93053879-0ad02b80-f69b-11ea-9199-b7551568373c.png)
 
