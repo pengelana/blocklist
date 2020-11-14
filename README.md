@@ -9,6 +9,7 @@
 ## Features
 
 - [x] Filter: Ad, Ad-tracking and Malware (AdBlock)
+- [x] DNS 0x20
 - [x] DNSSEC Validation
 - [x] No EDNS Client Subnet (ECS)
 - [x] No logs
