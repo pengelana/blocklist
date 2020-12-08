@@ -4,7 +4,7 @@
 	<a href="https://xkcd.com/624/"><img src="https://user-images.githubusercontent.com/787301/97881789-cccbbb80-1d5d-11eb-8c77-ed8b84a708c2.png"></a>
 </p>
 
-<iframe src="https://github.com/sponsors/pengelana/card" title="Sponsor pengelana" height="225" width="600" style="border: 0;"></iframe>
+<a href="https://www.buymeacoffee.com/tiarap" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" > </a>
 
 ## Features
 
