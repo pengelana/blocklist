@@ -19,6 +19,7 @@
 * [DNS](#features)
 * [DNSCrypt](#dnscrypt)
 * [DoH (DNS-over-HTTPS)](#doh-dns-over-https)
+* [DoQ (DNS-over-QUIC)](#doq-dns-over-quic)
 * [DoT (DNS-over-TLS)](#dot-dns-over-tls)
 * [DNS Over Telegram](#dns-over-telegram)
 
@@ -65,6 +66,12 @@
 ### IPv6 (doh.tiar.app)
 
 `sdns://AgMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY3Mzo0MDAxXSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAxkb2gudGlhci5hcHAKL2Rucy1xdWVyeQ`
+
+## DoQ (DNS-over-QUIC)
+
+quic://doh.tiar.app
+
+`sdns://BAMAAAAAAAAAEjE3NC4xMzguMjkuMTc1Ojc4NCA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAxkb2gudGlhci5hcHA`
 
 ## DoT (DNS-over-TLS)
 
