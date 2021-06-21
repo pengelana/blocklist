@@ -75,15 +75,14 @@ quic://doh.tiar.app
 
 ## DoT (DNS-over-TLS)
 
-`dot.tiar.app port 853`
+* `dot.tiar.app or doh.tiar.app port 853`
+   
+* `IPv4: 174.138.29.175 port 853`
+   - `sdns://AwMAAAAAAAAADjE3NC4xMzguMjkuMTc1AAxkb3QudGlhci5hcHA`
 
-### IPv4
+* `IPv6: [2400:6180:0:d0::5f73:4001] port 853`
+   - `sdns://AwMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY3Mzo0MDAxXQAMZG90LnRpYXIuYXBw`
 
-`174.138.29.175 port 853`
-
-### IPv6
-
-`[2400:6180:0:d0::5f73:4001] port 853`
 
 
 ## [DNS Over Telegram](https://t.me/dns_tgbot)
