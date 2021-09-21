@@ -103,24 +103,25 @@ sdns://BAMAAAAAAAAAEjE3NC4xMzguMjkuMTc1Ojc4NAAMZG9oLnRpYXIuYXBw
 dot.tiar.app
 ~~~
 
-* IPv4
+### IPv4
 
 ~~~
 174.138.29.175 port 853
 ~~~
    
-   ~~~
-   sdns://AwMAAAAAAAAADjE3NC4xMzguMjkuMTc1AAxkb3QudGlhci5hcHA
-   ~~~
+~~~
+sdns://AwMAAAAAAAAADjE3NC4xMzguMjkuMTc1AAxkb3QudGlhci5hcHA
+~~~
 
-* IPv6
+### IPv6
 
 ~~~
 [2400:6180:0:d0::5f73:4001] port 853
 ~~~
-   ~~~
-   sdns://AwMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY3Mzo0MDAxXQAMZG90LnRpYXIuYXBw
-   ~~~
+
+~~~
+sdns://AwMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY3Mzo0MDAxXQAMZG90LnRpYXIuYXBw
+~~~
 
 
 
