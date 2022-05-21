@@ -92,10 +92,17 @@ sdns://AgMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY3Mzo0MDAxXSA-GhoPbFPz6XpJLVcIS1uYB
 quic://doh.tiar.app
 ~~~
 
+port 784
+
 ~~~
 sdns://BAMAAAAAAAAAEjE3NC4xMzguMjkuMTc1Ojc4NAAMZG9oLnRpYXIuYXBw
 ~~~
 
+port 853
+
+~~~
+sdns://BAMAAAAAAAAAEjE3NC4xMzguMjkuMTc1Ojg1MwAMZG9oLnRpYXIuYXBw
+~~~
 
 ## DoT (DNS-over-TLS)
 
