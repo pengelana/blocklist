@@ -55,7 +55,7 @@ sdns://AQMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY2ZTo0MDAxXSDvloBm6NmU8GXYPt3TGu7t9
 ## DoH (DNS-over-HTTPS)
 
 ~~~
-https://doh.tiarap.org/dns-query` `(cached via Cloudflare.)
+https://doh.tiarap.org/dns-query (cached via Cloudflare.)
 ~~~
 
 ~~~
