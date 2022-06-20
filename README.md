@@ -22,6 +22,7 @@
 * [DoQ (DNS-over-QUIC)](#doq-dns-over-quic)
 * [DoT (DNS-over-TLS)](#dot-dns-over-tls)
 * [DNS Over Telegram](#dns-over-telegram)
+* [Telegram Group](#telegram-group)
 
 
 ## DNS
@@ -158,5 +159,9 @@ sdns://AwMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY3Mzo0MDAxXQAMZG90LnRpYXIuYXBw
 ### Answer for Reverse DNS lookup
 
 ![Screen Shot 2020-09-14 at 3 06 29 PM](https://user-images.githubusercontent.com/787301/93054579-1b34d600-f69c-11ea-8a13-47ba5375c54d.png)
+
+## Telegram Group
+
+`https://t.me/securedns`
 
 
