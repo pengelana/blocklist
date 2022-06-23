@@ -130,8 +130,6 @@ sdns://AwMAAAAAAAAADjE3NC4xMzguMjkuMTc1AAxkb3QudGlhci5hcHA
 sdns://AwMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY3Mzo0MDAxXQAMZG90LnRpYXIuYXBw
 ~~~
 
-
-
 ## [DNS Over Telegram](https://t.me/dns_tgbot)
 
 
