@@ -81,7 +81,7 @@ require_dnssec = true
 require_nolog = true
 
 # Server must not enforce its own blocklist (for parental control, ads blocking...)
-require_nofilter = no
+require_nofilter = false
 
 # Server names to avoid even if they match all criteria
 disabled_server_names = []
