@@ -18,7 +18,7 @@
 * [Features](#features)
 * [DNS](#features)
 * [DNSCrypt](#dnscrypt)
-* [DoH/DoH3 (DNS-over-HTTPS)](#doh-doh3-dns-over-https)
+* [DoH/DoH3 (DNS-over-HTTPS)](#dohdoh3-dns-over-https)
 * [DoQ (DNS-over-QUIC)](#doq-dns-over-quic)
 * [DoT (DNS-over-TLS)](#dot-dns-over-tls)
 * [DNS Over Telegram](#dns-over-telegram)
