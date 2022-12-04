@@ -18,7 +18,7 @@
 * [Features](#features)
 * [DNS](#features)
 * [DNSCrypt](#dnscrypt)
-* [DoH (DNS-over-HTTPS)](#doh-dns-over-https)
+* [DoH/DoH3 (DNS-over-HTTPS)](#doh-doh3-dns-over-https)
 * [DoQ (DNS-over-QUIC)](#doq-dns-over-quic)
 * [DoT (DNS-over-TLS)](#dot-dns-over-tls)
 * [DNS Over Telegram](#dns-over-telegram)
@@ -52,7 +52,7 @@ sdns://AQMAAAAAAAAADjE3NC4xMzguMjEuMTI4IO-WgGbo2ZTwZdg-3dMa7u31bYZXRj5KykfN1_6Xw
 sdns://AQMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY2ZTo0MDAxXSDvloBm6NmU8GXYPt3TGu7t9W2GV0Y-SspHzdf-l8PU9hwyLmRuc2NyeXB0LWNlcnQuZG5zLnRpYXIuYXBw
 ~~~
 
-## DoH (DNS-over-HTTPS)
+## DoH/DoH3 (DNS-over-HTTPS)
 
 ~~~
 https://doh.tiarap.org/dns-query (cached via Cloudflare.)
