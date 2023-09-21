@@ -875,6 +875,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||matches4you.info^$all
 ||reifenachbarn.com^$all
 /zclkredirect?visitid=$doc
+||done-install.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68588
 ! https://github.com/uBlockOrigin/uAssets/issues/8869
@@ -955,6 +956,9 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||fortnite-gamerz-team.shop^$doc
 ||hotelbirlapalace.com^$doc
 ||drop-cloud.org^$all
+||soft-lab.pw^$doc
+||trumpcheat.com^$doc
+||cheatname.xyz^$doc
 ! https://www.virustotal.com/gui/file/a810ae0441a75d4b5ae36e7094343b0ef3661681dfe24cbf8c2131b1dfac0605?nocache=1
 ||oceanofgame.net^$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/8630#issuecomment-810957825
@@ -1266,10 +1270,6 @@ cracksoftwaress.net##div[style="float: none; margin:10px 0 10px 0; text-align:ce
 
 ! https://twitter.com/rarara18181818/status/1530214731608313856
 /rtbfeed.php?$image,3p
-
-! https://forums.balena.io/t/counterfeit-etcher-websites/274606/5
-||etcher.net^$all
-||etcher.download^$all
 
 ! https://twitter.com/ot_inc/status/1532316247094087680
 ||phone-analyzer.com^$doc
@@ -3213,6 +3213,13 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||holy-kantei.com^$doc
 ||sk3-renew.com^$doc
 ||unki-max.com^$doc
+||boost6182ll.com^$doc
+||eir.tdhg7ppa.com^$doc
+||grea-fd12dr.com^$doc
+||cpd.ipllo4ys.com^$doc
+||htjrs-fgds.com^$doc
+||recklessdroughtburglar.com^$doc
+||the-match.jp^$doc
 
 ! https://twitter.com/1ZRR4H/status/1623067548781539339
 ||soft-pro.site^$all
@@ -3460,6 +3467,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||k7ahm75fimizl0v9y8.azureedge.net^$all
 /^https:\/\/[a-z]{6}\.shop\/ed\/$/$doc,domain=shop
 ||s3.ap-northeast-1.amazonaws.com/ongoing.com/aanoitmessure/index.html^$all
+||foodhereandnow.com^$all
+||setkuttina.pages.dev^$all
 
 ! https://insight-jp.nttsecurity.com/post/102ic6o/webgoogle-chrome
 ||gateway.pinata.cloud^$3p
@@ -3616,12 +3625,12 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||magiskapp.com^$all
 ||magiskroot.com^$all
 ||magiskroot.net^$all
-||magisks.com^$doc
-||themagisk.com^$doc
-! LibreTube - Official site: libre-tube.github.io
+||magisks.com^$all
+||themagisk.com^$all
+! LibreTube - Official site: libretube.dev
 ! https://github.com/libre-tube/LibreTube/issues/4409
-||libretube.net^$all,domain=~libre-tube.github.io
-||libretubeapk.com^$doc,domain=~libre-tube.github.io
+||libretube.*^$all,domain=~libretube.dev,to=~libretube.dev
+||libretubeapk.com^$all,domain=~libretube.dev
 ! ReVanced - Official site: revanced.app
 ! https://old.reddit.com/r/revancedapp/comments/1327o38/list_of_fake_revanced_sites_download_sites/
 ! https://old.reddit.com/r/AfterVanced/comments/wf4ov1/the_raftervanced_faq_frequently_asked_questions/
@@ -3653,6 +3662,12 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://old.reddit.com/r/luckypatcher/comments/aln5tj/official_download_for_lucky_patcher/
 ||luckypatchers.net^$all,domain=~luckypatchers.com
 ||luckypatcherwin.com^$all,domain=~luckypatchers.com
+! Balena Etcher - Official site: etcher.balena.io
+! https://forums.balena.io/t/counterfeit-etcher-websites/274606/5
+||etcher.net^$all,domain=~etcher.balena.io
+||etcher.download^$all,domain=~etcher.balena.io
+||balenaetcher.*^$all,domain=~etcher.balena.io
+||balena-etcher.com^$all,domain=~etcher.balena.io
 
 ! phishing https://www.virustotal.com/gui/url/8521a1e5b4269111fb1e98f2142739dad1d6fb42ddf5198597c68abfea395f7f/detection
 ||reink2.top^
