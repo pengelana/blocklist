@@ -1,8 +1,8 @@
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-09-26 06:30:58 CEST
-# entries:        1185
+# last updated:   2023-10-06 07:50:11 CEST
+# entries:        1186
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -1133,6 +1133,7 @@
 127.0.0.1 websdk.appsflyer.com
 127.0.0.1 webstats.100procent.com
 127.0.0.1 web-analytics.ica.se
+127.0.0.1 web-sdk.smartlook.com
 127.0.0.1 widget.boende.se
 127.0.0.1 widget.cdn.citygate.se
 127.0.0.1 widget.citygate.se
