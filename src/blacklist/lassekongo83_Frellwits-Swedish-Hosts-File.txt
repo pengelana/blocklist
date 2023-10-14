@@ -1,8 +1,8 @@
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-10-06 07:50:11 CEST
-# entries:        1186
+# last updated:   2023-10-13 18:47:46 CEST
+# entries:        1188
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -300,6 +300,7 @@
 127.0.0.1 cdn.snigelweb.com
 127.0.0.1 cdn.speedcurve.com
 127.0.0.1 cdn.sprida.se
+127.0.0.1 cdn.subscribers.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.usefathom.com
 127.0.0.1 cdn.userreport.com
@@ -901,6 +902,7 @@
 127.0.0.1 statistik.blogg1.se
 127.0.0.1 statistik.mxo.se
 127.0.0.1 statistik.svenskaakademien.se
+127.0.0.1 stats.agrar.nu
 127.0.0.1 stats.blogg.se
 127.0.0.1 stats.bluebillywig.com
 127.0.0.1 stats.bytelabs.se
