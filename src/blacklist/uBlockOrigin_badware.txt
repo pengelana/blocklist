@@ -1,10 +1,11 @@
 ! Title: uBlock₀ filters – Badware risks
+! Version: %version%
+! Last modified: %timestamp%
 ! Description: |
 !   For sites documented to put users at risk of installing 
 !   adware/crapware/malware, having login credentials stolen, etc.
 !   The purpose is to at least ensure a user is warned of the risks ahead.
 ! Expires: 5 days
-! Last modified: %timestamp%
 ! License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
 ! Homepage: https://github.com/uBlockOrigin/uAssets
 !
@@ -822,11 +823,17 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||trumpcheat.com^$doc
 ||cheatname.xyz^$doc
 ||cheats.ink^$doc
-||gamesoftware.xyz^$doc
 ||tautaracheats.fun^$doc
 ||elitcorp.space^$doc
 ||dload.site^$doc
 ||kloagamelf.site^$doc
+||mewteam.store^$doc
+||www.youtube.com/@Download-Links$doc
+||www.youtube.com/@download-link$doc
+||www.youtube.com/@Download_Link929$doc
+||allsft.info^$doc
+||cheat-world.site^$doc
+||hacksworld.pro^$doc
 ! https://www.virustotal.com/gui/file/a810ae0441a75d4b5ae36e7094343b0ef3661681dfe24cbf8c2131b1dfac0605?nocache=1
 ||oceanofgame.net^$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/8630#issuecomment-810957825
@@ -848,7 +855,6 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||mfroute.com^
 ||miserve-chanics.com^
 ||track-149uew.link^
-||tratbc.com^
 ||update-phone-today.com^
 ||webpushcloud.top^
 ||workerz1.com^
@@ -1075,18 +1081,20 @@ tech4yougadgets.com##+js(aopr, Notification)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/11310
 ! https://github.com/uBlockOrigin/uAssets/issues/14009
-goharpc.com,procrackerz.org,pccrackbox.com,365crack.com,cracklabel.com,keystool.com,pcwarezbox.com,10crack.com,crackproductkey.com,profullversion.com,crackswall.com,crackpcsoft.net,proappcrack.com,crackwinz.com,genuineactivator.com,crackedroot.com,topcracked.com,crackpro.org,fullcrackedpc.com,rootcracks.org,idmfullcrack.info,thecrackbox.com,idmpatched.com,autocracking.com,macwinsofts.com,productkeyfree.org,patchcracks.com,piratpc.com,cracksole.com,allsoftwarekeys.com,softwar2crack.com,procracks.net,productkeyforfree.com,bypassapp.com,zgamespc.com,newproductkey.com,serialkeysfree.org,crackdev.com,wazusoft.com,getpcsofts.net,rootscrack.com,cracktel.com,activators4windows.com,crackfury.com,up4crack.com,torrentfilefree.com,9to5crack.com,greencracks.com,procrackhere.com,proproductkey.com,crack11.com,centerapps.net,freelicensekey.org,pcsoftz.net,freecrackdownload.com,f4file.com,serialkey360.com##[onclick*="open"]
-serialkey89.com,installcracks.com,crackserialkey.co,maliksofts.com,crackpropc.com,ayeshapc.com,crackhomes.com,crackspro.co,crackknow.com,4howcrack.com,trycracksoftware.com,getprocrack.co,activationkeys.co,organiccrack.com,softwarance.com,procrackkey.co,download4mac.com,freeactivationkeys.org,explorecrack.com,okproductkey.com,downloadpc.net,up4pc.com,hitproversion.com,cracktube.net,abbaspc.net,crackdownload.org,crackdownload.me,corecrack.com,windowsactivator.info,keygenstore.com,procrackpc.co,getmacos.org,latestproductkey.co,shanpc.com,crackpckey.com,torrentfilefree.com,patchcracks.com,idmfullversion.com,wareskey.com,crackbell.com,newproductkey.com,osproductkey.com,serialkeysfree.org,autocracking.com,crackzoom.com,greencracks.com,profullversion.com,crackswall.com,rootcracks.org,licensekeys.org,softserialkey.com,free4pc.org,productkeys.org,crackedfine.com,idmcrackeys.com,crackedhere.com,licensekeysfree.org,trycracksetup.com,crackedroot.com,crackedsoft.org,assadpc.com,thecrackbox.com,crackproductkey.com,cracklabel.com,keystool.com,crackedpcs.com,cracksmad.com,licensekeyup.com,chcracked.com,finalcracked.com,activatorpros.com,crackedmod.com,whitecracked.com,cracksoon.com,boxcracked.com,activationkey.org,serialkeypatch.org,crackedsoftpc.com,proapkcrack.com,softscracked.com,freeappstorepc.com,reallpccrack.com,crackfullkey.net,hmzapc.com,zcracked.com,usecracked.com,crackedversion.com,aryancrack.com,piratespc.net,reallcrack.com,fultech.org##center > [class*="buttonPress-"]
-free4pc.org,warezcrack.net,freeprosoftz.com,vcracks.com,crackthere.com,keygenfile.net,scracked.com,cyberspc.com,softzcrack.com,crackintopc.com,zslicensekey.com,procrackpc.com,crackshere.com,crackdj.com,cracktopc.com,serialsofts.com,prosoftlink.com,zscracked.com,crackvip.com,windowcrack.com,softsnew.com,licensecrack.net,vstpatch.net,newcrack.info,topkeygen.com,vsthomes.com,vstserial.com,procrackerz.com,pcfullcrack.org,keygenpc.com,bicfic.com,ikcrack.com,downloadcracker.com,karancrack.com,piratesfile.com,activatorwin.com,starcrack.net,crackproduct.com,dgkcrack.com,crackglobal.com,crackcan.com,keygendownloads.com,crackpatched.com,windowsactivators.org,serialsoft.org,crackit.org,productscrack.com,crackurl.info,crackroot.net,crackmak.com,seeratpc.com,crackmix.com,piratepc.me,activators4windows.com,letcracks.com,latestcracked.com,proproductkey.com,fullversionforever.com,vlsoft.net,topcracked.com,goharpc.com,crackeado.net,freecrackdownload.com,assadpc.com,fileoye.com,f4file.com,crackpcsoft.net,crackwinz.com,excrack.com,mahcrack.com,get4pcs.com,keygenwin.com,mycrackfree.com,crackfullpro.com,crackkey4u.com,fileserialkey.com,cracksdat.com,crackgrid.com,licensekeysfree.com,crackkeymac.com,freecrack4u.com,getintomac.net,protocrack.com,crackreview.com,activatorskey.com,kuyhaa.cc##div[class^="code-block code-block-"]
-crackkits.com,rootcracks.co,crackwatch.org,crackfix.net,origincrack.com,procrackerz.com,crackhub.org,crackrules.com,zeemalcrack.com,haxmac.cc,cracka2zsoft.com,clevercracks.com,crackpropc.com,crackspro.co,crackknow.com##.getox
-alicracks.com,win-crack.com,productkeyfree.org,productkeyforfree.com,procrackerz.org,crackdev.com,wazusoft.com,piratesfile.com,piratpc.com,kalicrack.com,sadeempc.com,letcracks.com##center > a
+goharpc.com,pccrackbox.com,cracklabel.com,keystool.com,pcwarezbox.com,10crack.com,crackproductkey.com,profullversion.com,crackswall.com,crackpcsoft.net,proappcrack.com,crackwinz.com,genuineactivator.com,topcracked.com,fullcrackedpc.com,rootcracks.org,idmfullcrack.info,thecrackbox.com,idmpatched.com,autocracking.com,productkeyfree.org,patchcracks.com,cracksole.com,allsoftwarekeys.com,softwar2crack.com,procracks.net,productkeyforfree.com,bypassapp.com,zgamespc.com,newproductkey.com,serialkeysfree.org,wazusoft.com,getpcsofts.net,rootscrack.com,activators4windows.com,crackfury.com,torrentfilefree.com,9to5crack.com,greencracks.com,procrackhere.com,proproductkey.com,crack11.com,centerapps.net,freelicensekey.org,pcsoftz.net,freecrackdownload.com,f4file.com,serialkey360.com##[onclick*="open"]
+serialkey89.com,installcracks.com,crackserialkey.co,maliksofts.com,crackpropc.com,ayeshapc.com,crackhomes.com,crackspro.co,crackknow.com,4howcrack.com,trycracksoftware.com,getprocrack.co,activationkeys.co,organiccrack.com,softwarance.com,procrackkey.co,download4mac.com,freeactivationkeys.org,explorecrack.com,okproductkey.com,downloadpc.net,up4pc.com,hitproversion.com,cracktube.net,abbaspc.net,crackdownload.org,crackdownload.me,corecrack.com,windowsactivator.info,keygenstore.com,procrackpc.co,getmacos.org,latestproductkey.co,shanpc.com,crackpckey.com,torrentfilefree.com,patchcracks.com,idmfullversion.com,wareskey.com,crackbell.com,newproductkey.com,osproductkey.com,serialkeysfree.org,autocracking.com,crackzoom.com,greencracks.com,profullversion.com,crackswall.com,rootcracks.org,licensekeys.org,softserialkey.com,free4pc.org,productkeys.org,crackedfine.com,idmcrackeys.com,crackedhere.com,licensekeysfree.org,trycracksetup.com,crackedsoft.org,assadpc.com,thecrackbox.com,crackproductkey.com,cracklabel.com,keystool.com,crackedpcs.com,cracksmad.com,licensekeyup.com,chcracked.com,finalcracked.com,activatorpros.com,crackedmod.com,whitecracked.com,cracksoon.com,boxcracked.com,activationkey.org,serialkeypatch.org,crackedsoftpc.com,proapkcrack.com,softscracked.com,freeappstorepc.com,reallpccrack.com,crackfullkey.net,hmzapc.com,zcracked.com,usecracked.com,crackedversion.com,aryancrack.com,piratespc.net,reallcrack.com,fultech.org,crackpro.org,cracksray.com##center > [class*="buttonPress-"]
+free4pc.org,warezcrack.net,freeprosoftz.com,vcracks.com,crackthere.com,keygenfile.net,scracked.com,cyberspc.com,softzcrack.com,crackintopc.com,zslicensekey.com,procrackpc.com,crackshere.com,crackdj.com,cracktopc.com,serialsofts.com,prosoftlink.com,zscracked.com,crackvip.com,windowcrack.com,softsnew.com,licensecrack.net,vstpatch.net,newcrack.info,topkeygen.com,vsthomes.com,vstserial.com,procrackerz.com,pcfullcrack.org,keygenpc.com,bicfic.com,ikcrack.com,downloadcracker.com,karancrack.com,piratesfile.com,activatorwin.com,starcrack.net,crackproduct.com,dgkcrack.com,crackglobal.com,crackcan.com,keygendownloads.com,crackpatched.com,windowsactivators.org,serialsoft.org,crackit.org,productscrack.com,crackurl.info,crackroot.net,crackmak.com,seeratpc.com,crackmix.com,piratepc.me,activators4windows.com,letcracks.com,latestcracked.com,proproductkey.com,fullversionforever.com,vlsoft.net,topcracked.com,goharpc.com,crackeado.net,freecrackdownload.com,assadpc.com,fileoye.com,f4file.com,crackpcsoft.net,crackwinz.com,excrack.com,mahcrack.com,get4pcs.com,keygenwin.com,mycrackfree.com,crackfullpro.com,crackkey4u.com,fileserialkey.com,cracksdat.com,crackgrid.com,licensekeysfree.com,crackkeymac.com,freecrack4u.com,getintomac.net,protocrack.com,crackreview.com,activatorskey.com,kuyhaa.cc,cracktel.com,up4crack.com##div[class^="code-block code-block-"]
+crackkits.com,rootcracks.co,crackwatch.org,crackfix.net,origincrack.com,procrackerz.com,crackhub.org,crackrules.com,zeemalcrack.com,haxmac.cc,cracka2zsoft.com,clevercracks.com,crackpropc.com,crackspro.co,crackknow.com,onhax.in##.getox
+alicracks.com,win-crack.com,productkeyfree.org,productkeyforfree.com,wazusoft.com,piratesfile.com,kalicrack.com,sadeempc.com,letcracks.com##center > a
 cracksoftwaress.net##div[style="float: none; margin:10px 0 10px 0; text-align:center;"]
+haxnode.net##[id^="haxno-"]
 ||xforce-cracks.com^$doc
 ||fileisready.com^$doc
 /?act=*&epcVIP=$doc
 ||yip.su/latestfiles|$all
-||yip.su/premiumfiles|$all
 ||cli.re/premiumfiles|$all
+||coronasfapps.net^$doc
+||sustac.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/11394
 ||theannoyingsite.com^$all
@@ -1246,6 +1254,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||nnjou.com^$all
 ||foilf.com^$all
 ||vlyyg.com^$all
+||pimlm.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136693
 /axad/?lpkey=$doc
@@ -1472,6 +1481,16 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||appslipe.com^$all
 ! https://twitter.com/masaomi346/status/1696821001785635127
 ||tokyobag.shop^$all
+! https://twitter.com/masaomi346/status/1715007675266957355
+||zozo-jp.shop^$all
+! https://twitter.com/masaomi346/status/1716272554464473099
+||erdfkhxrnanm.top^$all
+! https://twitter.com/harugasumi/status/1716678388210180592
+||tfehmsag.xyz^$all
+! https://twitter.com/AP_Zenmashi/status/1716806757299933372
+||authority-uspser.top^$all
+! https://twitter.com/AP_Zenmashi/status/1716769008245182549
+||www.uspertest.vip^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/141376
 ||7oc5b1i3v4iu.top^$all
@@ -1560,7 +1579,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||entertainment-undamped.net^$doc
 ||epel-felmier.com^$doc
 ||everyinfox2023.com^$doc
-||ex-fami.net^$doc
 ||eyes-luv-u.com^$doc
 ||f2f-free.biz^$doc
 ||fallenw8bi.jp^$doc
@@ -1586,7 +1604,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||gm-free.biz^$doc
 ||gokusenn.jp^$doc
 ||goldenluck.jp^$doc
-||hapabb.com^$doc
 ||happy468.net^$doc
 ||happymethod55.com^$doc
 ||hi-a-so-bi.net^$doc
@@ -1598,7 +1615,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||hori-hori.xyz^$doc
 ||hp-dy.net^$doc
 ||hphp-dy.net^$doc
-||htpgkd.xyz^$doc
 ||i.redi-ana.jp^$doc
 ||i2019.jp^$doc
 ||in.other-geronica.com^$doc
@@ -1606,16 +1622,13 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||infoemphasiseleventh.com^$doc
 ||infooperationsqueeze.com^$doc
 ||infosmellleather.com^$doc
-||infostakewit.com^$doc
 ||indi-ana.jp^$doc
-||information2022.com^$doc
 ||ir0d0ri.jp^$doc
 ||iri195.net^$doc
 ||irie3.net^$doc
 ||iuckgzcbceycgjs.com^$doc
 ||ivy2241u.jp^$doc
 ||jamjamjam.biz^$doc
-||jewelry-2018.net^$doc
 ||job0w4zjnk.jp^$doc
 ||k-colorful.jp^$doc
 ||k-smilegallery.com^$doc
@@ -1648,10 +1661,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||love-letter.info^$doc
 ||love.sweet199.com^$doc
 ||loveaholics.com^$doc
-||loveclinic.info^$doc
 ||lovemelo.jp^$doc
 ||lover-stream.com^$doc
-||lx8jq.nydlaepytwuekwhfyvivsf.com^$doc
 ||luuce.jp^$doc
 ||lzogdlorkfssui.net^$doc
 ||machi-match.info^$doc
@@ -1664,14 +1675,12 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||match-mate.net^$doc
 ||matimati.site^$doc
 ||maytail.jp^$doc
-||me22se2255.com^$doc
 ||meetingc5owe.jp^$doc
 ||meguri-eye.net^$doc
 ||meguri-y.net^$doc
 ||meltiness.jp^$doc
 ||message117.jp^$doc
 ||mith-ril.net^$doc
-||ml.ml.advice-obtrusive.com^$doc
 ||mobaapo.net^$doc
 ||moody-night.net^$doc
 ||moogle-set.space^$doc
@@ -1680,15 +1689,11 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||muhamed-online.com^$doc
 ||my7love.xyz^$doc
 ||mystic-wonder.com^$doc
-||mzyg882a63.com^$doc
 ||naja59jg.com^$doc
-||nanaprof.com^$doc
 ||navi-match.net^$doc
 ||near-s.com^$doc
 ||nearing.jp^$doc
-||nebueb.click^$doc
 ||neverthelessadvertising.com^$doc
-||new-match.com^$doc
 ||new.hpk0fu9.jp^$doc
 ||newencounter.pw^$doc
 ||nexttvuo1z.jp^$doc
@@ -1712,18 +1717,14 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||p2p-ent.biz^$doc
 ||paesbeaqerdrsheuboapyh.com^$doc
 ||pair-online.jp^$doc
-||permanent.wwtrend.com^$doc
 ||piasukai.xyz^$doc
 ||pinkredwhitereef.greenreef.net^$doc
-||pjmze.site^$doc
 ||plati-num.com^$doc
 ||pockpocket.com^$doc
 ||poorup2zo.jp^$doc
 ||pr0m.site^$doc
 ||privatelife.jp^$doc
 ||psg.make9-salon.com^$doc
-||ptt3bzstch2.com^$doc
-||purapuraichiban.com^$doc
 ||purpleiyvf.com^$doc
 ||r30address.com^$doc
 ||r30deai.com^$doc
@@ -1736,9 +1737,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||royalclass-dm.com^$doc
 ||royalclass.info^$doc
 ||s4fk.destin0.jp^$doc
-||s5dgy389z7.com^$doc
 ||salon1999.net^$doc
-||salon2022champagne.digital^$doc
 ||salonoshirase.net^$doc
 ||sen-no-y-t.com^$doc
 ||shells.pairapple.net^$doc
@@ -3005,11 +3004,15 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||wa-nago-wagona.com^$doc
 ||chi-yo-1807chiyo.com^$doc
 ||fd-2.shop^$doc
+||cuddle.koi-ba-na.com^$doc
+||globalreward77.com^$doc
+||jukukoi.jp^$doc
+||jukukoi.me^$doc
+||buono2023-web.com^$doc
 
 ! https://twitter.com/1ZRR4H/status/1623067548781539339
 ||soft-pro.site^$all
 ||exp-pc.com^$all
-||download2348.mediafire.com/ewjzz8pmn7rg/4n5bc37ank892fh/Expert-PC_2023.rar^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/142492
 ||apkmirror.co^$all
@@ -3244,6 +3247,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||liq27qbf.monster^$all
 ||sea-lion-app-3mfad.ondigitalocean.app^$all
 ||certificate-certificate.gettrials.com^$all
+||w4ymh005pq76ez4i3.azureedge.net^$all
 
 ! https://insight-jp.nttsecurity.com/post/102ic6o/webgoogle-chrome
 ||gateway.pinata.cloud^$3p
@@ -3390,6 +3394,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://forum.xda-developers.com/t/downloaded-a-fake-magisk.4581461/
 ! https://old.reddit.com/r/Android/comments/7r346t/psa_magiskmanagercom_is_not_the_official_website/
 ! https://github.com/topjohnwu/Magisk/issues/3435
+! https://github.com/hagezi/dns-blocklists/issues/1744
 ||magiskmanager.com^$all
 ||magisk.me^$all
 ||magiskcn.com^$all
@@ -3398,6 +3403,19 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||magiskroot.net^$all
 ||magisks.com^$all
 ||themagisk.com^$all
+||magiskzip.net^$all
+||magiskmanagerroot.com^$all
+||magisk.download^$all
+||magiskmanager.com^$all
+||magisk.info^$all
+! generic rules
+||magisk.$doc,domain=~topjohnwu.github.io
+||magiskzip.$doc,domain=~topjohnwu.github.io
+||magiskmanagerroot.$doc,domain=~topjohnwu.github.io
+||magiskmanager.$doc,domain=~topjohnwu.github.io
+||magiskcn.$doc,domain=~topjohnwu.github.io
+||magiskroot.$doc,domain=~topjohnwu.github.io
+||magiskapp.$doc,domain=~topjohnwu.github.io
 ! LibreTube - Official site: libretube.dev
 ! https://github.com/libre-tube/LibreTube/issues/4409
 ||libretube.*^$all,domain=~libretube.dev,to=~libretube.dev
