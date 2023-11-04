@@ -1,8 +1,8 @@
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-10-20 16:19:37 CEST
-# entries:        1189
+# last updated:   2023-10-25 09:34:57 CEST
+# entries:        1197
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -520,6 +520,7 @@
 127.0.0.1 hb.improvedigital.com
 127.0.0.1 hbid.ams3.cdn.digitaloceanspaces.com
 127.0.0.1 headerlift.com
+127.0.0.1 here.selectofmychoices.com
 127.0.0.1 heroaffiliates.com
 127.0.0.1 highcpmrevenuenetwork.com
 127.0.0.1 hollistersverige.com.se
@@ -842,6 +843,7 @@
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 secure.img-cdn.mediaplex.com
 127.0.0.1 seenthis.se
+127.0.0.1 selectofmychoices.com
 127.0.0.1 sentry.outbid.io
 127.0.0.1 seoab.io
 127.0.0.1 seonify.com
@@ -986,6 +988,10 @@
 127.0.0.1 tracker.gamedock.io
 127.0.0.1 tracker.zummycloud.com
 127.0.0.1 tracker-v4.gamedock.io
+127.0.0.1 tracker.kollega.open-analytics.se
+127.0.0.1 tracker.kulturradet.open-analytics.se
+127.0.0.1 tracker.lakemedelsverket.open-analytics.se
+127.0.0.1 tracker.transportstyrelsen.open-analytics.se
 127.0.0.1 tracking.adviralmedia.com
 127.0.0.1 tracking.aktuellhallbarhet.se
 127.0.0.1 tracking.allehanda.se
@@ -1137,6 +1143,8 @@
 127.0.0.1 webstats.100procent.com
 127.0.0.1 web-analytics.ica.se
 127.0.0.1 web-sdk.smartlook.com
+127.0.0.1 west.statisticplatform.com
+127.0.0.1 where.selectofmychoices.com
 127.0.0.1 widget.boende.se
 127.0.0.1 widget.cdn.citygate.se
 127.0.0.1 widget.citygate.se
