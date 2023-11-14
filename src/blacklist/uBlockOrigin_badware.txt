@@ -834,8 +834,9 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||hacksworld.pro^$doc
 ||clc-link.me^$all
 ||soft-portal.me^$doc
+||gamehacks.xyz^$doc
+||pengwincheat.fun^$doc
 ! https://www.virustotal.com/gui/file/a810ae0441a75d4b5ae36e7094343b0ef3661681dfe24cbf8c2131b1dfac0605?nocache=1
-||oceanofgame.net^$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/8630#issuecomment-810957825
 ||tophacks.pro^$doc
 ! https://www.virustotal.com/gui/file/ef44c876d70663b196cda34095c14b1342eb4f566cb032d7aeddf9e94017e66b?nocache=1
@@ -1257,6 +1258,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||pimlm.com^$all
 ||mciun.com^$all
 ||sanff.com^$all
+||gghhe.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136693
 /axad/?lpkey=$doc
@@ -3029,6 +3031,21 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||d-position.com^$doc
 ||d-position.shop^$doc
 ||kaiunnookite.com^$doc
+||bs-03-6743-2266.net^$doc
+||love2-mail.com^$doc
+||gokinjoscreen.com^$doc
+||koun-wa.com^$doc
+||koto-dama-kin.com^$doc
+||one----talk.com^$doc
+||pc.deainobasyo.jp^$doc
+||tokimeki-2nd-life.com^$doc
+||ewfwetqfbhmlodz.com^$doc
+||wkcs.onesmbg-login.com^$doc
+||bs-03-6743-2266.net^$doc
+||love2-mail.com^$all
+||koto-dama-kin.com^$doc
+||mariage-inc.com^$doc
+||tokimeki-2nd-life.com^$doc
 
 ! https://twitter.com/1ZRR4H/status/1623067548781539339
 ||soft-pro.site^$all
@@ -3269,7 +3286,18 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||certificate-certificate.gettrials.com^$all
 ||w4ymh005pq76ez4i3.azureedge.net^$all
 ||starfish-app-oaxg5.ondigitalocean.app^$all
-||black1.zzz.com.ua^$all
+/^https:\/\/(?:black|white)\d{1,2}\.zzz\.com\.ua\/(?:win|mac)\//$all
+||vasafreight.com/ajax.php?
+||5n7ekzoxbdu3n7.azureedge.net^$all
+||kos8sceu.pics^$all
+||thin-skinned-cost.000webhostapp.com^$all
+||gdagr1byfylaiz.azureedge.net^$all
+||boring-tesla.149-102-231-176.plesk.page^$all
+||happy-diwali-sabhiko-shubhkamneyen.b-cdn.net^$all
+||qwudbhasdwq9h.sa.com^$all
+||security6.djilvblqywdp3.amplifyapp.com^$all
+||soramabola.online^$all
+/^https:\/\/[0-9a-z]{14}\.azureedge\.net\/\d{4}\//$doc
 
 ! https://insight-jp.nttsecurity.com/post/102ic6o/webgoogle-chrome
 ||gateway.pinata.cloud^$3p
@@ -3430,14 +3458,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||magisk.download^$all
 ||magiskmanager.com^$all
 ||magisk.info^$all
-! generic rules
-||magisk.$doc,domain=~topjohnwu.github.io
-||magiskzip.$doc,domain=~topjohnwu.github.io
-||magiskmanagerroot.$doc,domain=~topjohnwu.github.io
-||magiskmanager.$doc,domain=~topjohnwu.github.io
-||magiskcn.$doc,domain=~topjohnwu.github.io
-||magiskroot.$doc,domain=~topjohnwu.github.io
-||magiskapp.$doc,domain=~topjohnwu.github.io
 ! LibreTube - Official site: libretube.dev
 ! https://github.com/libre-tube/LibreTube/issues/4409
 ||libretube.*^$all,domain=~libretube.dev,to=~libretube.dev
@@ -3538,3 +3558,10 @@ cambe.pr.gov.br,paranhos.ms.gov.br##^script[language][type]:has-text(window.loca
 
 ! https://github.com/uBlockOrigin/uAssets/issues/20400
 ||ets2.gr^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/20437
+||api.quantiy.com^$all
+
+! Cryptocurrency MEV bot scam
+||unitradingbot.com^$all
+||unitradingtool.info^$all
