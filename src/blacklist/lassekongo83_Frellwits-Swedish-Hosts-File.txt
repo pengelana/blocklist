@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-13 15:07:44 CET
-# entries:        1061
+# last updated:   2023-11-22 14:03:17 CET
+# entries:        1063
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -212,6 +212,7 @@
 127.0.0.1 caviera-sverige.shop
 127.0.0.1 ccjnhnqfnvsr3otokvf59ns52.litix.io
 127.0.0.1 cd.connatix.com
+127.0.0.1 cdn.adapex.io
 127.0.0.1 cdn.adfenix.com
 127.0.0.1 cdn.adligature.com
 127.0.0.1 cdn.adnuntius.com
@@ -238,7 +239,6 @@
 127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.brandmetrics.com
 127.0.0.1 cdn.broadstreetads.com
-127.0.0.1 cdn.churnkit.com
 127.0.0.1 cdn.convertbox.com
 127.0.0.1 cdn.cxense.com
 127.0.0.1 cdn.decibelinsight.net
@@ -266,6 +266,7 @@
 127.0.0.1 cdn.sprida.se
 127.0.0.1 cdn.subscribers.com
 127.0.0.1 cdn.taboola.com
+127.0.0.1 cdn.unblockia.com
 127.0.0.1 cdn.usefathom.com
 127.0.0.1 cdn.userreport.com
 127.0.0.1 cdn.viglink.com
@@ -653,7 +654,6 @@
 127.0.0.1 rabble-res.cloudinary.com
 127.0.0.1 reauthenticator.com
 127.0.0.1 recirculation.spot.im
-127.0.0.1 record.findtrustclicks.com
 127.0.0.1 redistats.com
 127.0.0.1 region1.google-analytics.com
 127.0.0.1 regstat.se
@@ -790,6 +790,7 @@
 127.0.0.1 stats.bluebillywig.com
 127.0.0.1 stats.datawrapper.de
 127.0.0.1 stats.docu.info
+127.0.0.1 stats.ehandel.se
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.helsingborg.se
 127.0.0.1 stats.jibber.social
@@ -926,6 +927,7 @@
 127.0.0.1 tracking.etidning.vlt.se
 127.0.0.1 tracking.etidning.vn.se
 127.0.0.1 tracking.eurosport.com
+127.0.0.1 tracking.expressen.se
 127.0.0.1 tracking.falkopingstidning.se
 127.0.0.1 tracking.falukuriren.se
 127.0.0.1 tracking.fasab6f.se
@@ -1042,7 +1044,6 @@
 127.0.0.1 www.effectivecreativeformat.com
 127.0.0.1 www.fakturino.se
 127.0.0.1 www.guesssverige.com.se
-127.0.0.1 www.gymsharkswedens.com
 127.0.0.1 www.kundvisaren.se
 127.0.0.1 www.mymediaindex.com
 127.0.0.1 www.nichehuset.dk
@@ -1061,6 +1062,7 @@
 127.0.0.1 www8.smartadserver.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.gymshark-sweden.com.se
+127.0.0.1 www.gym-sharksweden.com
 127.0.0.1 x.bidswitch.net
 127.0.0.1 yieldbird.com
 127.0.0.1 z.moatads.com
