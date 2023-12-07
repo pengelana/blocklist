@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-22 14:03:17 CET
-# entries:        1063
+# last updated:   2023-12-07 06:20:43 CET
+# entries:        1053
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -198,6 +198,7 @@
 127.0.0.1 bulletproof-analytics.com
 127.0.0.1 buzzador.com
 127.0.0.1 b-code.liadm.com
+127.0.0.1 c.aaxads.com
 127.0.0.1 c.adsco.re
 127.0.0.1 c.cintnetworks.com
 127.0.0.1 c.eacla.com
@@ -440,7 +441,6 @@
 127.0.0.1 go.ezodn.com
 127.0.0.1 go.ezoic.net
 127.0.0.1 graphics.adrecord.com
-127.0.0.1 greatstoryvideo.se
 127.0.0.1 gtm.findroommate.dk
 127.0.0.1 gtm.proff.se
 127.0.0.1 gtm.stampenmedia.se
@@ -456,8 +456,6 @@
 127.0.0.1 here.selectofmychoices.com
 127.0.0.1 heroaffiliates.com
 127.0.0.1 highcpmrevenuenetwork.com
-127.0.0.1 hollistersverige.com.se
-127.0.0.1 hotwords.es
 127.0.0.1 hsadspixel.net
 127.0.0.1 hst.tradedoubler.com
 127.0.0.1 htlb.casalemedia.com
@@ -478,7 +476,6 @@
 127.0.0.1 impse.tradedoubler.com
 127.0.0.1 imstore.bet365affiliates.com
 127.0.0.1 infotorg.d2.sc.omtrdc.net
-127.0.0.1 inov-8.com.se
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 insight.nikkasystems.com
 127.0.0.1 instant.page
@@ -489,14 +486,12 @@
 127.0.0.1 ion.btcswe.com
 127.0.0.1 ipmeta.io
 127.0.0.1 izooto.com
-127.0.0.1 jackwolfskinsverige.com.se
 127.0.0.1 js.appboycdn.com
 127.0.0.1 js.datadome.co
 127.0.0.1 js.getlasso.co
 127.0.0.1 js.glitnoraffiliates.com
 127.0.0.1 js.hsadspixel.net
 127.0.0.1 js.hsleadflows.net
-127.0.0.1 js.interestmoments.com
 127.0.0.1 jsc.adskeeper.com
 127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 jsc.mgid.com
@@ -546,10 +541,8 @@
 127.0.0.1 m1.analytics.sitevision-cloud.se
 127.0.0.1 macro.adnami2.io
 127.0.0.1 macro.adnami.io
-127.0.0.1 marcjacobssverige.com.se
 127.0.0.1 marfeel.com
 127.0.0.1 markhor.organicfruitapps.com
-127.0.0.1 marmotsverige.com.se
 127.0.0.1 masture.mobi
 127.0.0.1 match.adsby.bidtheatre.com
 127.0.0.1 match.adsrvr.org
@@ -592,7 +585,6 @@
 127.0.0.1 newstats.blogg.se
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 nichehuset.dk
-127.0.0.1 nobull-sverige.com.se
 127.0.0.1 norranstats.azurewebsites.net
 127.0.0.1 norstatsurveys.com
 127.0.0.1 npario-inc.net
@@ -755,7 +747,6 @@
 127.0.0.1 smtvn.112.2o7.net
 127.0.0.1 snap.licdn.com
 127.0.0.1 sneakersisverige.com
-127.0.0.1 sociuslive.com
 127.0.0.1 source.advisible.com
 127.0.0.1 sp.tinymce.com
 127.0.0.1 spel.expressen.se
@@ -808,6 +799,7 @@
 127.0.0.1 step-dk.gscontxt.net
 127.0.0.1 sting.de17a.com
 127.0.0.1 storymedia.se
+127.0.0.1 stpd.cloud
 127.0.0.1 strossle.com
 127.0.0.1 st-n.ads1-adnow.com
 127.0.0.1 survey.interquest.com
@@ -991,7 +983,6 @@
 127.0.0.1 utt.impactcdn.com
 127.0.0.1 v.lkqd.net
 127.0.0.1 valentinosverige.com
-127.0.0.1 vejaskorstockholm.com.se
 127.0.0.1 vg02.met.vgwort.de
 127.0.0.1 viagogo.se
 127.0.0.1 viamtvse.112.2o7.net
@@ -1023,7 +1014,6 @@
 127.0.0.1 woomio.com
 127.0.0.1 wrap.tradedoubler.com
 127.0.0.1 ws.sharethis.com
-127.0.0.1 wwopenclick.space
 127.0.0.1 www.adnordics.com
 127.0.0.1 www.adpeepshosted.com
 127.0.0.1 www.adplugg.com

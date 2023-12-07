@@ -111,6 +111,7 @@ support.ublock.org##div.hero-unit > div.search-box--hero-unit::before:style(cont
 ||notepad2.com^$doc
 ||office.org^$doc
 ||open-office.fr^$doc
+||openoffice.de^$doc
 ||paintnet.es^$doc
 ||paintnet.fr^$doc
 ||paintnet.it^$doc
@@ -748,6 +749,9 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||tricksygirlw.com^$all
 ||bustymeets.com^$all
 ||aht42trk.com^$all
+||jasnathvibes.com^$all
+||falltes.site^$all
+||lewdmilfh22y.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68588
 ! https://github.com/uBlockOrigin/uAssets/issues/8869
@@ -818,9 +822,11 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||soft-lab.pw^$doc
 ||trumpcheat.com^$doc
 ||cheats.ink^$doc
+||www.youtube.com/@Download-Links/$doc
 ||www.youtube.com/@download-link/$doc
 ||www.youtube.com/@Download-lin/$doc
 ||www.youtube.com/@download_here/$doc
+||www.youtube.com/@download-midnight/$doc
 ||allsft.info^$doc
 ||allsft.pro^$doc
 ||cheat-world.site^$doc
@@ -833,14 +839,22 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||mediafire.com/folder/5fifwp6upg5et/$doc
 ||mediafire.com/folder/j7a69k9mmm7xl/$doc
 ||mediafire.com/folder/y6lclzne27h48/$doc
-||tautarahack.fun^$doc
+||mediafire.com/folder/bhzkt4wjxzkmr/$doc
+||mediafire.com/folder/gbhbhm73350j9/$doc
+||mediafire.com/folder/5fifwp6upg5et/$doc
+||mediafire.com/folder/3od5jmmfc87ie/$doc
 ||hellhacks.fun^$doc
 ||gamefree.vip^$doc
+||cheater-pro.com^$doc
+||tautarahacks.fun^$doc
+||pengwincheats.xyz^$doc
 ! https://www.virustotal.com/gui/file/a810ae0441a75d4b5ae36e7094343b0ef3661681dfe24cbf8c2131b1dfac0605?nocache=1
 ! https://github.com/uBlockOrigin/uAssets/issues/8630#issuecomment-810957825
 ||tophacks.pro^$doc
 ! https://www.virustotal.com/gui/file/ef44c876d70663b196cda34095c14b1342eb4f566cb032d7aeddf9e94017e66b?nocache=1
 ||lavacheat.com^$doc
+! http://193.233.132.47/allsoft
+||193.233.132.47^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/69036
 .systems/signup?ad_domain=$doc,popup
@@ -1248,6 +1262,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||sanff.com^$all
 ||gghhe.com^$all
 ||ooppnm.com^$all
+||vnomm.com^$all
+||nnggo.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136693
 /axad/?lpkey=$doc
@@ -3051,6 +3067,34 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||super-spfortune.com^$doc
 ||uranai-fulfilledfuture.com^$doc
 ||welcome-happyroad.com^$doc
+||az-l.com^$doc
+||luna-t.net^$doc
+||sm-bt.net^$doc
+||sm-heaven.com^$doc
+||smdotcom.com^$doc
+||seselagi.com^$doc
+||nc2.site^$doc
+||recipe000.tokyo^$doc
+||next.nexus2222.com^$doc
+||5y4-hters-765.jp^$doc
+||h5t4rsw-htrs.jp^$doc
+||h6t4sw-nhytd.jp^$doc
+||neyr5s-e45f.jp^$doc
+||uj6y5defg.jp^$doc
+||y54wdrg.com^$doc
+||peach2023.net^$doc
+||gokinjo---hot.com^$doc
+||iwish.ltd^$doc
+||matchin.site^$doc
+||metalepsa.me^$doc
+||nysoctieotion.tech^$doc
+||peroiramus.me^$doc
+||www.academicsingles.jp^$doc
+||ado.wish-best.com^$doc
+||ga6jkbl.jp^$doc
+||keiunkan.com^$doc
+||matching-search.jp^$doc
+||matching-searchh.jp^$doc
 
 ! https://twitter.com/1ZRR4H/status/1623067548781539339
 ||soft-pro.site^$all
@@ -3304,6 +3348,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||perutzxrqe.ru.com^$all
 ||newpappernews4.ru.com^$all
 ||qwudbhasdwq8h.sa.com^$all
+||uwqghwfdwqywetqwfghewqeqweig.s3.ap-southeast-2.amazonaws.com^$all
 
 ! https://insight-jp.nttsecurity.com/post/102ic6o/webgoogle-chrome
 ||gateway.pinata.cloud^$3p
@@ -3316,11 +3361,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://www.virustotal.com/gui/url/0d491da362effc08d2b026f32242046d174165e7995abbde6917ef7864a7556c
 ||crackedpc.org^$all
 ||cracksway.com^$all
-
-! https://www.reddit.com/r/uBlockOrigin/comments/12pues7/
-! https://www.virustotal.com/gui/domain/123moviesgo.ga
-! https://www.urlvoid.com/scan/123moviesgo.ga/
-||123moviesgo.ga^$all
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/12r255v/gamingnewsanalystcom_badware/
 ! https://github.com/uBlockOrigin/uAssets/pull/17655
@@ -3453,7 +3493,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://github.com/hagezi/dns-blocklists/issues/1744
 ||magiskmanager.com^$all
 ||magisk.me^$all
-||magiskcn.com^$all
 ||magiskapp.com^$all
 ||magiskroot.com^$all
 ||magiskroot.net^$all
@@ -3562,6 +3601,9 @@ cambe.pr.gov.br,paranhos.ms.gov.br##^script[language][type]:has-text(window.loca
 ! https://github.com/uBlockOrigin/uAssets/issues/20400
 ||ets2.gr^$all
 
-! Cryptocurrency MEV bot scam
+! Cryptocurrency Scams
 ||unitradingbot.com^$all
 ||unitradingtool.info^$all
+||cealits.com^$all
+||mevnow.com^$all
+||eth-mev.com^$all
