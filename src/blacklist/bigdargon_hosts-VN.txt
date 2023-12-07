@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 11 Oct 2023 22:35 UTC+7
-# Version: 2310112235
-# Blocked: 1,807 domains
+# Last modified: 06 Dec 2023 10:27 UTC+7
+# Version: 2312061027
+# Blocked: 1,808 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -424,12 +424,9 @@
 0.0.0.0 log.zingmp3.vn
 0.0.0.0 za.zingmp3.vn
 0.0.0.0 zlog.zingmp3.vn
-#[zingnews.vn]
+#[zingnews]
 0.0.0.0 log.zingnews.vn
-0.0.0.0 za.zingnews.vn
-#[zingnews.com.vn]
-0.0.0.0 log.zingnews.com.vn
-0.0.0.0 za.zingnews.com.vn
+0.0.0.0 log.znews.vn
 #[zalo.me]
 0.0.0.0 ads-platform.zalo.me
 0.0.0.0 ads.platform.zalo.me
@@ -1079,19 +1076,23 @@
 0.0.0.0 api.piads.vn
 0.0.0.0 piads.vn
 0.0.0.0 static.piads.vn
-#[haraloyalty.com]
-0.0.0.0 app.haraloyalty.com
-0.0.0.0 haraloyalty.com
-0.0.0.0 www.haraloyalty.com
-#[harafunnel.com]
+#[hara*.com]
 0.0.0.0 app.harafunnel.com
-0.0.0.0 assets.harafunnel.com
-0.0.0.0 harafunnel.com
-0.0.0.0 www.harafunnel.com
-#[haraads.com]
+0.0.0.0 app.haraloyalty.com
+0.0.0.0 app.harasocial.com
 0.0.0.0 apps.haraads.com
-0.0.0.0 haraads.com
-0.0.0.0 www.haraads.com
+0.0.0.0 assets.harafunnel.com
+#[haravan.com]
+0.0.0.0 combo-omni.haravan.com
+0.0.0.0 socialloginplus-apps.haravan.com
+0.0.0.0 facebookinbox-omni-onapp.haravan.com
+0.0.0.0 promotion.haravan.com
+0.0.0.0 onapp.haravan.com
+#[hara.vn]
+0.0.0.0 facebook-ads.hara.vn
+0.0.0.0 google-ads.hara.vn
+0.0.0.0 stats.hara.vn
+0.0.0.0 tiktok-ads.hara.vn
 #[starseed.fr]
 0.0.0.0 cdn.starseed.fr
 0.0.0.0 log.starseed.fr
@@ -1474,12 +1475,6 @@
 0.0.0.0 cdn.aanetwork.vn
 0.0.0.0 imgs2.aanetwork.vn
 0.0.0.0 pub.aanetwork.vn
-#[haravan.com]
-0.0.0.0 combo-omni.haravan.com
-0.0.0.0 socialloginplus-apps.haravan.com
-0.0.0.0 facebookinbox-omni-onapp.haravan.com
-0.0.0.0 promotion.haravan.com
-0.0.0.0 onapp.haravan.com
 #[ultraviewer.net]
 0.0.0.0 ads.ultraviewer.net
 0.0.0.0 qc.ultraviewer.net
@@ -1487,6 +1482,15 @@
 0.0.0.0 vipads.cc
 0.0.0.0 pv.vipads.cc
 0.0.0.0 www.vipads.cc
+#[kernh41.com]
+0.0.0.0 kernh41.com
+0.0.0.0 static1.kernh41.com
+#[realclick.vn]
+0.0.0.0 as.realclick.vn
+0.0.0.0 i.realclick.vn
+0.0.0.0 realclick.vn
+0.0.0.0 stats.realclick.vn
+0.0.0.0 www.realclick.vn
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -1671,7 +1675,6 @@
 0.0.0.0 quangcaococcoc.vn
 0.0.0.0 quangcaodantri.vn
 0.0.0.0 r.tinmoi24.vn
-0.0.0.0 realclick.vn
 0.0.0.0 s.cntqk.com
 0.0.0.0 s.cntqk.vn
 0.0.0.0 s.giaoducthoidai.vn
@@ -1701,7 +1704,6 @@
 0.0.0.0 truoctran.com
 0.0.0.0 ttus.tructiepbongda.me
 0.0.0.0 tvc.biphim.club
-0.0.0.0 tvnotice.kg.garena.vn
 0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 user.headlines.pw
 0.0.0.0 v9banners.com
@@ -1719,7 +1721,6 @@
 0.0.0.0 www.delecpuzz.com
 0.0.0.0 www.ketquaxosotoancau.org
 0.0.0.0 www.microad.vn
-0.0.0.0 www.realclick.vn
 0.0.0.0 www.sbbanner.com
 0.0.0.0 www.v9banners.com
 0.0.0.0 www.vietbuzzad.com
@@ -1877,7 +1878,6 @@
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 logapi.misa.com.vn
 0.0.0.0 logging.kinhtedothi.vn
-0.0.0.0 logs-ott.fbox.fpt.vn
 0.0.0.0 logs.1cdn.vn
 0.0.0.0 logs.docnhanh.com.vn
 0.0.0.0 logs.thethaovanhoa.vn
@@ -1997,6 +1997,7 @@
 # --- Block popupVN ---
 0.0.0.0 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 0.0.0.0 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
+0.0.0.0 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 0.0.0.0 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 0.0.0.0 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 0.0.0.0 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
