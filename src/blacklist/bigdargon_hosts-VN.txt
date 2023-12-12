@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Dec 2023 10:27 UTC+7
-# Version: 2312061027
-# Blocked: 1,808 domains
+# Last modified: 11 Dec 2023 22:02 UTC+7
+# Version: 2312112202
+# Blocked: 1,809 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -427,6 +427,11 @@
 #[zingnews]
 0.0.0.0 log.zingnews.vn
 0.0.0.0 log.znews.vn
+#[zingplay.com]
+0.0.0.0 trackingbr.zingplay.com
+0.0.0.0 trackingin.zingplay.com
+0.0.0.0 trackingsea.zingplay.com
+0.0.0.0 trackingvn.zingplay.com
 #[zalo.me]
 0.0.0.0 ads-platform.zalo.me
 0.0.0.0 ads.platform.zalo.me
@@ -1561,6 +1566,7 @@
 0.0.0.0 ads.thegioitiepthi.vn
 0.0.0.0 ads.thesaigontimes.vn
 0.0.0.0 ads.thitruongtaichinhtiente.vn
+0.0.0.0 ads.thvli.vn
 0.0.0.0 ads.tiki.vn
 0.0.0.0 ads.vietbao.vn
 0.0.0.0 ads.vishare.vn
@@ -1651,7 +1657,6 @@
 0.0.0.0 lottery.headlines.pw
 0.0.0.0 marketing.hub-js.com
 0.0.0.0 media.dabong247.com
-0.0.0.0 mega1.yeah1.com
 0.0.0.0 menu.metu.vn
 0.0.0.0 microad.vn
 0.0.0.0 mobileads.dieuviet.com
@@ -1665,7 +1670,6 @@
 0.0.0.0 qc.kqbd88.com
 0.0.0.0 qc.mhsolution.vn
 0.0.0.0 qc.violet.vn
-0.0.0.0 qcao.happyskin.vn
 0.0.0.0 qctt24h.24h.com.vn
 0.0.0.0 qcv5.blogtruyen.vn
 0.0.0.0 quangcao.24h.com.vn
@@ -1709,7 +1713,6 @@
 0.0.0.0 v9banners.com
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
-0.0.0.0 vinaads.vn
 0.0.0.0 vipads.live
 0.0.0.0 vlxx.host
 0.0.0.0 vnadssb.com
@@ -1739,19 +1742,22 @@
 0.0.0.0 affiliate.chiaki.vn
 0.0.0.0 alexajstrack.com
 0.0.0.0 analytic.baodantoc.vn
+0.0.0.0 analytic.thuanbui.me
 0.0.0.0 analytic.vnanet.vn
 0.0.0.0 analytics.admon.com.vn
 0.0.0.0 analytics.aita.gov.vn
+0.0.0.0 analytics.amedigital.vn
 0.0.0.0 analytics.bachtuongphat.com
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.bkav.com.vn
-0.0.0.0 analytics.diamondstarfinancial.com.vn
+0.0.0.0 analytics.digi8.vn
 0.0.0.0 analytics.evgcdn.net
 0.0.0.0 analytics.fsoft.com.vn
+0.0.0.0 analytics.gotama.link
+0.0.0.0 analytics.hapo.vn
 0.0.0.0 analytics.hebela.vn
 0.0.0.0 analytics.hub-js.com
 0.0.0.0 analytics.jamstackvietnam.com
-0.0.0.0 analytics.mfocus.vn
 0.0.0.0 analytics.molistar.com
 0.0.0.0 analytics.moneycat.vn
 0.0.0.0 analytics.nhattao.com
@@ -1786,7 +1792,6 @@
 0.0.0.0 counter.24h.com.vn
 0.0.0.0 counter.ntdvn.com
 0.0.0.0 counter.ntdvn.net
-0.0.0.0 countervov.emitech.vn
 0.0.0.0 crm.bizfly.vn
 0.0.0.0 crm.englishtown.edu.vn
 0.0.0.0 crmbizfly.todo.vn
@@ -1816,7 +1821,6 @@
 0.0.0.0 live.careplusvn.com
 0.0.0.0 live.vnpgroup.net
 0.0.0.0 liveonline.nhanhoa.com
-0.0.0.0 lmsreport.systems.vn
 0.0.0.0 log-collector.shopee.vn
 0.0.0.0 log-dttc.sggp.org.vn
 0.0.0.0 log-en.nhandan.vn
@@ -1862,10 +1866,7 @@
 0.0.0.0 log.tinnhac.com
 0.0.0.0 log.tinnhanhchungkhoan.vn
 0.0.0.0 log.tinxe.vn
-0.0.0.0 log.trithuctructuyen.com.vn
-0.0.0.0 log.trithuctructuyen.vn
 0.0.0.0 log.tv360.vn
-0.0.0.0 log.vietnamdaily.net.vn
 0.0.0.0 log.viettimes.vn
 0.0.0.0 log.vnay.vn
 0.0.0.0 log.vneconomy.vn
@@ -1897,6 +1898,7 @@
 0.0.0.0 newlog.daidoanket.vn
 0.0.0.0 newlog.tapchitaichinh.vn
 0.0.0.0 nstat.headlines.pw
+0.0.0.0 plausible.vucar.vn
 0.0.0.0 production-tracking.riviu.co
 0.0.0.0 proof.sudo.vn
 0.0.0.0 px.saostar.vn
@@ -1949,6 +1951,7 @@
 0.0.0.0 track.lapa.pub
 0.0.0.0 track.lemonnovel.com
 0.0.0.0 track.pnj.com.vn
+0.0.0.0 track.popsww.com
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.vio.edu.vn
 0.0.0.0 tracker.anime47.com
@@ -1975,9 +1978,8 @@
 0.0.0.0 tracking.vegaid.vn
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vietbao.vn
+0.0.0.0 tracking.viez.vn
 0.0.0.0 trackingapi.foody.vn
-0.0.0.0 trackingsea.zingplay.com
-0.0.0.0 trackingvn.zingplay.com
 0.0.0.0 trackity.tiki.vn
 0.0.0.0 traffic.vietnhan.co
 0.0.0.0 trk.123c.vn
