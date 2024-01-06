@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-10 08:32:21 CET
-# entries:        1054
+# last updated:   2024-01-04 12:11:58 CET
+# entries:        1070
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -63,14 +63,12 @@
 127.0.0.1 ads.expekt.se
 127.0.0.1 ads.fotosidan.se
 127.0.0.1 ads.holid.io
-127.0.0.1 ads.insikt24.se
 127.0.0.1 ads.kelkoo.com
 127.0.0.1 ads.leovegas.com
 127.0.0.1 ads.mainloop.net
 127.0.0.1 ads.motorvarlden.se
 127.0.0.1 ads.mrgreen.com
 127.0.0.1 ads.nordreportern.se
-127.0.0.1 ads.nyatider.nu
 127.0.0.1 ads.playpilot.com
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.rubiconproject.com
@@ -120,14 +118,18 @@
 127.0.0.1 analytics.freespee.com
 127.0.0.1 analytics.gen.shield.monitoringservice.co
 127.0.0.1 analytics.hpscloud.se
+127.0.0.1 analytics.icagruppen.se
 127.0.0.1 analytics.ica.se
 127.0.0.1 analytics.kaltura.com
 127.0.0.1 analytics.kb.se
 127.0.0.1 analytics.mailmunch.co
 127.0.0.1 analytics.nikkasystems.com
+127.0.0.1 analytics.smhi.se
 127.0.0.1 analytics.sunet.se
 127.0.0.1 analytics.svt.se
+127.0.0.1 analytics.undeco.se
 127.0.0.1 analytics-sdk.yle.fi
+127.0.0.1 analytics-smhise.smhi.se
 127.0.0.1 analytics.ci-360.se
 127.0.0.1 angry-golick-2a96e5.netlify.app
 127.0.0.1 annoncer.nichehuset.dk
@@ -152,7 +154,6 @@
 127.0.0.1 apsislead.com
 127.0.0.1 aquaplatform.com
 127.0.0.1 arbetaren.innocraft.cloud
-127.0.0.1 asicsisverige.com
 127.0.0.1 asmassets.mtvnservices.com
 127.0.0.1 assets.adfenix.com
 127.0.0.1 assets.adnuntius.com
@@ -176,7 +177,6 @@
 127.0.0.1 bc.marfeelcache.com
 127.0.0.1 bcm.interactives.dk
 127.0.0.1 bellmetric.net
-127.0.0.1 besstahete.info
 127.0.0.1 bet365affiliates.com
 127.0.0.1 betrad.com
 127.0.0.1 bettingstugan.se
@@ -209,7 +209,6 @@
 127.0.0.1 cargodisplayads.com
 127.0.0.1 carneoam.com
 127.0.0.1 casinotoplists.com
-127.0.0.1 caterpillarsverige.net
 127.0.0.1 caviera-sverige.shop
 127.0.0.1 ccjnhnqfnvsr3otokvf59ns52.litix.io
 127.0.0.1 cd.connatix.com
@@ -249,7 +248,6 @@
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.izooto.com
 127.0.0.1 cdn.jst.ai
-127.0.0.1 cdn.maaw.io
 127.0.0.1 cdn.matomo.cloud
 127.0.0.1 cdn.maxetise.net
 127.0.0.1 cdn.myadmessenger.com
@@ -257,6 +255,7 @@
 127.0.0.1 cdn.oribi.io
 127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.popt.in
+127.0.0.1 cdn.pushalert.co
 127.0.0.1 cdn.pushcrew.com
 127.0.0.1 cdn.reaktion.se
 127.0.0.1 cdn.rollbar.com
@@ -305,7 +304,6 @@
 127.0.0.1 cncpt-central.com
 127.0.0.1 code3.adtlgc.com
 127.0.0.1 collect.breakit.se
-127.0.0.1 collect.igodigital.com
 127.0.0.1 collect.tealiumiq.com
 127.0.0.1 collector.brandmetrics.com
 127.0.0.1 collector.cint.com
@@ -441,11 +439,11 @@
 127.0.0.1 go.ezodn.com
 127.0.0.1 go.ezoic.net
 127.0.0.1 graphics.adrecord.com
+127.0.0.1 gtm.allabolag.se
 127.0.0.1 gtm.findroommate.dk
 127.0.0.1 gtm.proff.se
 127.0.0.1 gtm.stampenmedia.se
 127.0.0.1 gwen.insertcoin.se
-127.0.0.1 gym-shark-sverige.com.se
 127.0.0.1 hapyak.com
 127.0.0.1 hb.adpone.com
 127.0.0.1 hb.adx.adform.net
@@ -586,10 +584,12 @@
 127.0.0.1 newstats.blogg.se
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 nichehuset.dk
+127.0.0.1 nitroscripts.com
 127.0.0.1 norranstats.azurewebsites.net
 127.0.0.1 norstatsurveys.com
 127.0.0.1 npario-inc.net
 127.0.0.1 ntrfr.expekt.se
+127.0.0.1 ntrfr.leovegas.com
 127.0.0.1 nucleusanalytics.io
 127.0.0.1 nvpx.adhost.se
 127.0.0.1 offer-go.com
@@ -753,7 +753,6 @@
 127.0.0.1 spel.expressen.se
 127.0.0.1 sprinklecontent.com
 127.0.0.1 sprinkletxt.com
-127.0.0.1 srv.se.znaptag.com
 127.0.0.1 ssl.webserviceaward.com
 127.0.0.1 ssp.api.tappx.com
 127.0.0.1 ssp-nj.webtradehub.com
@@ -851,6 +850,7 @@
 127.0.0.1 track.adtraction.com
 127.0.0.1 track.postkodlotteriet.se
 127.0.0.1 track.uniqodo.com
+127.0.0.1 track.yetric.app
 127.0.0.1 trackcmp.net
 127.0.0.1 tracker.gamedock.io
 127.0.0.1 tracker.zummycloud.com
@@ -864,9 +864,12 @@
 127.0.0.1 tracking.arbetarbladet.se
 127.0.0.1 tracking.avestatidning.com
 127.0.0.1 tracking.bandypuls.se
+127.0.0.1 tracking.barometern.se
 127.0.0.1 tracking.bblat.se
+127.0.0.1 tracking.blt.se
 127.0.0.1 tracking.bonnier.news
 127.0.0.1 tracking.borlangetidning.se
+127.0.0.1 tracking.bt.se
 127.0.0.1 tracking.byggindustrin.se
 127.0.0.1 tracking.dagensmedia.se
 127.0.0.1 tracking.dagensmedicin.se
@@ -932,18 +935,24 @@
 127.0.0.1 tracking.inboxads.com
 127.0.0.1 tracking.jnytt.se
 127.0.0.1 tracking.jp.se
+127.0.0.1 tracking.kalmarposten.se
+127.0.0.1 tracking.klt.nu
+127.0.0.1 tracking.kristianstadsbladet.se
 127.0.0.1 tracking.ljusdalsposten.se
 127.0.0.1 tracking.ljusnan.se
 127.0.0.1 tracking.ltz.se
 127.0.0.1 tracking.lt.se
 127.0.0.1 tracking.market.se
+127.0.0.1 tracking.meraosterlen.se
 127.0.0.1 tracking.missaffiliate.com
 127.0.0.1 tracking.moratidning.se
 127.0.0.1 tracking.na.se
 127.0.0.1 tracking.norrteljetidning.se
+127.0.0.1 tracking.nsk.se
 127.0.0.1 tracking.nvp.se
 127.0.0.1 tracking.nyaludvikatidning.se
 127.0.0.1 tracking.nynashamnsposten.se
+127.0.0.1 tracking.olandsbladet.se
 127.0.0.1 tracking.omniture.nt.se
 127.0.0.1 tracking.op.se
 127.0.0.1 tracking.resume.se
@@ -953,20 +962,27 @@
 127.0.0.1 tracking.skovdenyheter.se
 127.0.0.1 tracking.smalandsdagblad.se
 127.0.0.1 tracking.smalanningen.se
+127.0.0.1 tracking.smp.se
 127.0.0.1 tracking.smt.se
 127.0.0.1 tracking.soderhamnskuriren.se
 127.0.0.1 tracking.sodran.se
 127.0.0.1 tracking.st.nu
+127.0.0.1 tracking.sydostran.se
 127.0.0.1 tracking.sydsvenskan.se
 127.0.0.1 tracking.tailsweep.expressen.se
 127.0.0.1 tracking.tidningenangermanland.se
 127.0.0.1 tracking.tidningenharjedalen.se
 127.0.0.1 tracking.tranastidning.se
+127.0.0.1 tracking.trelleborgsallehanda.se
+127.0.0.1 tracking.ut.se
 127.0.0.1 tracking.vastgotabladet.se
+127.0.0.1 tracking.vaxjobladet.se
 127.0.0.1 tracking.vetlandaposten.se
 127.0.0.1 tracking.visitorsvoice.com
 127.0.0.1 tracking.vlt.se
 127.0.0.1 tracking.vn.se
+127.0.0.1 tracking.vxonews.se
+127.0.0.1 tracking.ystadsallehanda.se
 127.0.0.1 tracking.etidning.fagersta-posten.se
 127.0.0.1 tracking.fagersta-posten.se
 127.0.0.1 traffic.feedremedy.com
