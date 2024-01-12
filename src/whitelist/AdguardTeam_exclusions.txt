@@ -1,3 +1,5 @@
+! Fixing NowTV app and some sites
+||mparticle.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/169684
 ||crashlytics.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1573
@@ -759,7 +761,7 @@ heroeswm.ru
 ! https://github.com/AdguardTeam/AdguardFilters/issues/7061
 mixpanel.com
 ! https://github.com/AdguardTeam/AdguardDNS/issues/191
-app.adjust.com
+||adjust.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/6999
 onvix.tv
 ! https://github.com/AdguardTeam/AdguardDNS/issues/186

@@ -751,6 +751,9 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||skollett.site^$all
 ||browserneedupdate.com^
 ||captchaallow.site^
+||click-allow.top^
+||girlwaityou.com^$all
+||feelfllirty.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68588
 ! https://github.com/uBlockOrigin/uAssets/issues/8869
@@ -1494,6 +1497,16 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://twitter.com/NaomiSuzuki_/status/1740725999845920943
 ||cordialhoist.top^$all
 ||ovxqtp.cfd^$all
+! https://twitter.com/AP_Zenmashi/status/1743978302212276647
+||aeoncojp.shop^$all
+! https://twitter.com/sm_hn/status/1744607746400621030
+||app.stocksj.xyz^
+! https://twitter.com/taku888infinity/status/1744992280384360850
+||oioi-store.vip^$all
+! https://twitter.com/tss_0101/status/1745387976585281810
+||totalpcsecure.com^$all
+! https://twitter.com/KesaGataMe0/status/1745359523140055539
+||my-docomo.tokyo^$all
 
 ! https://onijima.jp/?p=54165
 ||pocket-888.com^$all
@@ -3064,6 +3077,13 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||felicitaline.com^$doc
 ||foretheure.jp^$doc
 ||alt.com^$doc
+||keenchimairaanthem.com^$doc
+||pc.h1ma.jp^$doc
+||pc.ta1k.jp^$doc
+||63jehxd5vfi6.jp^$doc
+||imiqmcyj4wjj.jp^$doc
+||kev8ffh2n9a8.jp^$doc
+||qeucuzpbv6jq.jp^$doc
 
 ! https://twitter.com/1ZRR4H/status/1623067548781539339
 ||soft-pro.site^$all
@@ -3175,7 +3195,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 .online/*/eeeekayresrsammicraaajkaschhoilsebadhiyakuchtanahiaayaajturuionmeebbat/$doc
 ||plesk.page/*?phone=$doc
 ||satttawishonemottorecepi.online^$all
-||s3.ap-southeast-1.amazonaws.com/99991.675.7799.8989.2699.8899.0909.is.access.denied.us/honda+69/seahorsendigitalocean.app/0h0o0n0d0a0/index+(7).html$all
 /Win0xixm07/?phone=$doc
 /DanBEr000CH0Er0Security07/index.html$doc
 ||sanshuni-creeto-senfunamaki.online^$all
@@ -3185,7 +3204,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 /systemerror-win-chx1/?$doc
 /W*ity0*00Er00*/index.$doc
 ||s3.ap-northeast-1.amazonaws.com/tedex.com/*/index.html$all
-/^https:\/\/(?:www\.)?[a-z]{8,15}\.[a-z]{3}\/V1\/$/$document,domain=one|top,match-case
 ||smarttvnew.vercel.app^$all
 /systemerror-mac/?$doc
 /Win0SecurityEr0CH0700Err0rSt/index.html$doc
@@ -3249,8 +3267,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||microagent.site^$all
 ||165-227-173-120.plesk.page^$all
 ||horporn.cfd^$all
-/^https:\/\/[-a-z]{12,20}\.[a-z]{3,7}\/[-0-9A-Za-z]{60,}\d{4}\/001\//$doc,domain=site|top|website
-/^https:\/\/[-a-z]{12,20}\.[a-z]{3,7}\/[-0-9A-Za-z]{60,}\d{4}\/004\//$doc,domain=site|top|website
 ||dare2life.click^$all
 ||pushlandings.b-cdn.net^$all
 ||ssupp2.site^$all
@@ -3292,13 +3308,11 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||edluv.sbs^$all
 ||koskdd.sbs^$all
 ||liqftt.sbs^$all
-/^https:\/\/[a-z]{6}\.shop\/ed\/$/$doc,domain=shop
 ||s3.ap-northeast-1.amazonaws.com/ongoing.com/aanoitmessure/index.html^$all
 ||foodhereandnow.com^$all
 ||setkuttina.pages.dev^$all
 ||liq27qbf.monster^$all
 ||certificate-certificate.gettrials.com^$all
-/^https:\/\/(?:black|white)\d{1,2}\.zzz\.com\.ua\/(?:win|mac)\//$all
 ||vasafreight.com/ajax.php?
 ||kos8sceu.pics^$all
 ||thin-skinned-cost.000webhostapp.com^$all
@@ -3306,7 +3320,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||happy-diwali-sabhiko-shubhkamneyen.b-cdn.net^$all
 ||qwudbhasdwq9h.sa.com^$all
 ||soramabola.online^$all
-/^https:\/\/[0-9a-z]{14,16}\.azureedge\.net\/\d{4}\//$doc
+/^https:\/\/[0-9a-z]{12,16}\.azureedge\.net\/\d{4}\//$doc
 ||fcukxxx.com^$all
 ||xbasugigqiuegiwqdbsx.s3.ap-northeast-1.amazonaws.com^$all
 ||popworldservice.com^$all
@@ -3321,6 +3335,10 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||webinfo0-1.nyc3.cdn.digitaloceanspaces.com^$all
 ||shishimishi.shop^$all
 ||track7.online^$all
+||bdiyakalma.pages.dev^$all
+||ondigitalocean.app/*/index.php?cezp=$doc
+||antiiv.wizbest.com^$all
+||amazonaws.com/*.*.*.*.*.*.*.*/*/index*.html$doc
 
 ! https://insight-jp.nttsecurity.com/post/102ic6o/webgoogle-chrome
 ||gateway.pinata.cloud^$3p
