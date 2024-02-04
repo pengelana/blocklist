@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-01-26 08:12:34 CET
-# entries:        1074
+# last updated:   2024-02-01 07:06:35 CET
+# entries:        1065
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -32,15 +32,6 @@
 127.0.0.1 ad.sxp.smartclip.net
 127.0.0.1 ad.yieldlab.net
 127.0.0.1 ad.zanox.com
-127.0.0.1 ad1.emediate.dk
-127.0.0.1 ad2.emediate.dk
-127.0.0.1 ad3.emediate.dk
-127.0.0.1 ad4.emediate.dk
-127.0.0.1 ad5.emediate.dk
-127.0.0.1 ad6.emediate.dk
-127.0.0.1 ad7.emediate.dk
-127.0.0.1 ad8.emediate.dk
-127.0.0.1 ad9.emediate.dk
 127.0.0.1 adcell.io
 127.0.0.1 addrevenue.io
 127.0.0.1 addy.expressen.se
@@ -204,7 +195,6 @@
 127.0.0.1 c.eacla.com
 127.0.0.1 c.flx1.com
 127.0.0.1 c1.adform.net
-127.0.0.1 campersverige.com.se
 127.0.0.1 capi.connatix.com
 127.0.0.1 cargodisplayads.com
 127.0.0.1 carneoam.com
@@ -299,7 +289,6 @@
 127.0.0.1 cl-eu2.k5a.io
 127.0.0.1 cl-eu4.k5a.io
 127.0.0.1 cm.g.doubleclick.net
-127.0.0.1 cmp.network-n.com
 127.0.0.1 cncpt.dk
 127.0.0.1 cncptx.com
 127.0.0.1 cncpt-central.com
@@ -456,6 +445,7 @@
 127.0.0.1 here.selectofmychoices.com
 127.0.0.1 heroaffiliates.com
 127.0.0.1 highcpmrevenuenetwork.com
+127.0.0.1 hits-i.iubenda.com
 127.0.0.1 hsadspixel.net
 127.0.0.1 hst.tradedoubler.com
 127.0.0.1 htlb.casalemedia.com
@@ -677,6 +667,7 @@
 127.0.0.1 route.carambo.la
 127.0.0.1 royapp.com
 127.0.0.1 rpofsweden.com
+127.0.0.1 rpofsweden.se
 127.0.0.1 rtax.criteo.com
 127.0.0.1 rumcdn.geoedge.be
 127.0.0.1 rum-collector-2.pingdom.net
@@ -728,7 +719,6 @@
 127.0.0.1 sentry.outbid.io
 127.0.0.1 seoab.io
 127.0.0.1 seonify.com
-127.0.0.1 serenitycandles.com.se
 127.0.0.1 serve.albacross.com
 127.0.0.1 servedby.flashtalking.com
 127.0.0.1 servedby.lintigroup.se
@@ -996,6 +986,7 @@
 127.0.0.1 trugaze.io
 127.0.0.1 try.abtasty.com
 127.0.0.1 tt.onthe.io
+127.0.0.1 turbolion.io
 127.0.0.1 twin-iq.kickfire.com
 127.0.0.1 u.openx.net
 127.0.0.1 ubembed.com
