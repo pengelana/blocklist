@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-02-01 07:06:35 CET
-# entries:        1065
+# last updated:   2024-02-16 08:49:21 CET
+# entries:        1075
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -119,6 +119,7 @@
 127.0.0.1 analytics.sunet.se
 127.0.0.1 analytics.svt.se
 127.0.0.1 analytics.undeco.se
+127.0.0.1 analytics.vackertvader.se
 127.0.0.1 analytics-sdk.yle.fi
 127.0.0.1 analytics-smhise.smhi.se
 127.0.0.1 analytics.ci-360.se
@@ -131,6 +132,7 @@
 127.0.0.1 api.deep.bi
 127.0.0.1 api.fouanalytics.com
 127.0.0.1 api.getlevelten.com
+127.0.0.1 api.lab.eu.amplitude.com
 127.0.0.1 api.retargetly.com
 127.0.0.1 api.segment.io
 127.0.0.1 api3847.d41.co
@@ -191,6 +193,7 @@
 127.0.0.1 b-code.liadm.com
 127.0.0.1 c.aaxads.com
 127.0.0.1 c.adsco.re
+127.0.0.1 c.bannerflow.net
 127.0.0.1 c.cintnetworks.com
 127.0.0.1 c.eacla.com
 127.0.0.1 c.flx1.com
@@ -247,6 +250,7 @@
 127.0.0.1 cdn.popt.in
 127.0.0.1 cdn.pushalert.co
 127.0.0.1 cdn.pushcrew.com
+127.0.0.1 cdn.qwtag.com
 127.0.0.1 cdn.reaktion.se
 127.0.0.1 cdn.rollbar.com
 127.0.0.1 cdn.routy.app
@@ -274,11 +278,13 @@
 127.0.0.1 cdn-scripts.signifyd.com
 127.0.0.1 cdn.dep-x.com
 127.0.0.1 cdn.relevant-digital.com
+127.0.0.1 cdn.stat-track.com
 127.0.0.1 cdn.vip-hd-movies.xyz
 127.0.0.1 cdn.zx-adnet.com
 127.0.0.1 ce15487c31ed84e82d0694948a8889f7e3b1685d54.nuid.imrworldwide.com
 127.0.0.1 ced.sascdn.com
 127.0.0.1 cintnetworks.com
+127.0.0.1 cis.schibsted.com
 127.0.0.1 cision.com
 127.0.0.1 cl.k5a.io
 127.0.0.1 classic.avantlink.com
@@ -402,6 +408,7 @@
 127.0.0.1 feedads.feedblitz.com
 127.0.0.1 fila.com.se
 127.0.0.1 findbetterresults.com
+127.0.0.1 flag.lab.eu.amplitude.com
 127.0.0.1 flow.aquaplatform.com
 127.0.0.1 flx1.com
 127.0.0.1 footjoygolfskorrea.com.se
@@ -441,6 +448,7 @@
 127.0.0.1 hb.headbidder.net
 127.0.0.1 hb.improvedigital.com
 127.0.0.1 hbid.ams3.cdn.digitaloceanspaces.com
+127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 headerlift.com
 127.0.0.1 here.selectofmychoices.com
 127.0.0.1 heroaffiliates.com
@@ -454,6 +462,7 @@
 127.0.0.1 iba.feedblitz.com
 127.0.0.1 ib.adnxs-simple.com
 127.0.0.1 iconosquare.com
+127.0.0.1 id.crwdcntrl.net
 127.0.0.1 idpt.360yield.com
 127.0.0.1 images.passendo.com
 127.0.0.1 images-ads.aland.com
@@ -672,6 +681,7 @@
 127.0.0.1 rumcdn.geoedge.be
 127.0.0.1 rum-collector-2.pingdom.net
 127.0.0.1 rum-http-intake.logs.datadoghq.eu
+127.0.0.1 rum-reporter-prod.exp.bn.nr
 127.0.0.1 rum-static.pingdom.net
 127.0.0.1 runtnc.net
 127.0.0.1 s.moatads.com

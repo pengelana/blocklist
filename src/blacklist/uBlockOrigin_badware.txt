@@ -626,7 +626,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||smart-redirecting.com^
 ?adTagId=*&extclickid=$doc
 ||namebawancitel.gq^
-/antibot/ab.php$xhr,1p
+/antibot*/ab.php$xhr,1p
 ||androiddetection.com^$all
 ||elooksjustli.one^
 ||ikouthaupi.com^$all
@@ -750,15 +750,20 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||feelfllirty.com^$all
 ||spiendidates.com^$all
 ||alone-here.online^$all
+||meetsworldsm.link^$all
+||newonlinedates.com^$all
+||tusser.site^$all
 /?l=*&ymid=$doc
+.com/r2.php?e=$doc
+.com/vpnupdate/*/1/index.html?$doc
+/video_app/adult/default/telegram_chat/1/index.html?$doc
+||apphasten.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68588
 ! https://github.com/uBlockOrigin/uAssets/issues/8869
 ! https://github.com/AdguardTeam/AdguardFilters/issues/129112
-/^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.(?:li[fv]e|top|xyz)\/[a-z]{8}\/\?utm_campaign=\w{40,}/$doc,match-case,domain=life|live|top|xyz
+/^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.(?:li[fv]e|top|xyz)\/[a-z]{8}\/(?:article\d{4}\.doc)?\?utm_campaign=\w{40,}/$doc,match-case,domain=life|live|top|xyz
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
-! e.g. https://to3s.biz/?p=gi4tgnjwgu5gi3bpgy2tmmy
-/^https:\/\/to\ds\.biz\/\?p=/$doc,domain=biz
 ! fake dating/prize/video sites
 /^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\/(?:[0-9a-z]{6,8}\/)?\/?(?:article\d{4}\.doc)?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case
 ! https://github.com/uBlockOrigin/uAssets/commit/df17084b4815e87d420e8adf19bf4959e828e6e5#commitcomment-66510549
@@ -821,15 +826,12 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||upload.advgroup.ru/4Fb01xn1$all
 ||mediafire.com/folder/bhzkt4wjxzkmr/$doc
 ||mediafire.com/folder/gbhbhm73350j9/$doc
-||mediafire.com/folder/3od5jmmfc87ie/$doc
-||mediafire.com/folder/92w8lt2acebtt/$doc
-||mediafire.com/folder/zbl3d5935yzf7/$doc
 ||gamefree.vip^$doc
-||cheater-pro.com^$doc
 ||liwishacks.com^$doc
-! https://www.virustotal.com/gui/file/a810ae0441a75d4b5ae36e7094343b0ef3661681dfe24cbf8c2131b1dfac0605?nocache=1
-! https://github.com/uBlockOrigin/uAssets/issues/8630#issuecomment-810957825
-||tophacks.pro^$doc
+||galaxycheats.site^$doc
+||phoenix-software.org^$doc
+||pewhack.com^$doc
+||cheat.aeesan.com^$doc
 ! https://www.virustotal.com/gui/file/ef44c876d70663b196cda34095c14b1342eb4f566cb032d7aeddf9e94017e66b?nocache=1
 ||lavacheat.com^$doc
 ! http://193.233.132.47/allsoft
@@ -1079,6 +1081,7 @@ haxnode.net##[id^="haxno-"]
 ||cli.re/premiumfiles|$all
 ||coronasfapps.net^$doc
 ||sustac.com^$all
+||thefreesoft.com^$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/11394
 ||theannoyingsite.com^$all
@@ -1481,6 +1484,14 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||totalpcsecure.com^$all
 ! https://twitter.com/KesaGataMe0/status/1745359523140055539
 ||my-docomo.tokyo^$all
+! https://twitter.com/harugasumi/status/1757410796089594078
+||gczxaczixzierxzier.com^$all
+! https://twitter.com/harugasumi/status/1757397302090797334
+||aryn.za.com^$all
+! https://twitter.com/KesaGataMe0/status/1759464333145473504
+||verification-jp.smbcpay.info^$all
+! https://twitter.com/harugasumi/status/1759907722391408993
+||zhikunux.com^$all
 
 ! https://onijima.jp/?p=54165
 ||pocket-888.com^$all
@@ -3030,6 +3041,95 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||hoshi-no-michibiki.jp^$doc
 ||miracle.magic-connect.net^$doc
 ||shinoriori2023.jp^$doc
+||book-aerkeep.com^$doc
+||bookblack5208w.com^$doc
+||leterthe-gese.com^$doc
+||libiro-aree22.com^$doc
+||look302se.com^$doc
+||premium-2023.click^$doc
+||premium-2023.info^$doc
+||premium-lucky.com^$doc
+||weekenddogkeep.com^$doc
+||fun-uranai.com^$doc
+||heart-uranai.com^$doc
+||hrt-hrt.com^$doc
+||uranai-su-ki.com^$doc
+||million-vita128.com^$doc
+||eb-nav.com^$doc
+||global-riward77.com^$doc
+||x9mw.com^$doc
+||essence-one.net^$doc
+||himegoto-time.com^$doc
+||himegoto-time.jp^$doc
+||happiness-app.net^$doc
+||happyhappylovely.jp^$doc
+||lovelylovelyhappy.jp^$doc
+||matching364.com^$doc
+||pc.maleana.jp^$doc
+||dr5rmdxa.com^$doc
+||efmg29.com^$doc
+||executiveclub-x3.com^$doc
+||kinkyu-desuku-27.com^$doc
+||pktbuu.morau.top^$doc
+||qxb0v.com^$doc
+||w0o.eu^$doc
+||zj5c3.com^$doc
+||e-summer.top^$doc
+||ehxp.e-flo.top^$doc
+||getchance.top^$doc
+||ilovu.store^$doc
+||in-sight.top^$doc
+||moneyget.top^$doc
+||millionget.top^$doc
+||potfdls.linenet.top^$doc
+||premiers.top^$doc
+||sugukasegu.top^$doc
+||tbotb.top^$doc
+||tyfto.friendmap.top^$doc
+||wdujqj.repaymen.top^$doc
+||iris-making.com^$doc
+||lm-mousey-happy.com^$doc
+||speeds5-mmiliked.com^$doc
+||blackknocckk.jp^$doc
+||finelucckyy.jp^$doc
+||nokiseitjnemnew.jp^$doc
+||vi.violleet.com^$doc
+||gg.garrnnet.com^$doc
+||scmhubffttnnu.jp^$doc
+||super-grander.jp^$doc
+||dznufijtjbgyi.jp^$doc
+||fl.floriittee.com^$doc
+||ll.liberrttyy.com^$doc
+||6kk2a4t.com^$doc
+||eujsiyajep.niigata.jp^$doc
+||fnebvr1a.com^$doc
+||humane-urgent.com^$doc
+||kantanemusuu.jp^$doc
+||nextgenpeacety.jp^$doc
+||sp-ciro-gov.com^$doc
+||startwork-introduce.com^$doc
+||success-dream.jp^$doc
+||super-express-f.com^$doc
+||lovetwipaco.com^$doc
+||sharesharemail.net^$doc
+||high-incomes.com^$doc
+||line-channel-info.com^$doc
+||line-special-information.com^$doc
+||pretty-topspace.com^$doc
+||safety-line-message.com^$doc
+||secure-line-network.com^$doc
+||fun-comu.click^$doc
+||fun-comu.space^$doc
+||make-money-happy.site^$doc
+||money-present.com^$doc
+||rich-cash.fun^$doc
+||t-gotousen.fun^$doc
+||t-gotousen.site^$doc
+||t-haihukikaku.site^$doc
+||take-money-happy.fun^$doc
+||take-money-happy.site^$doc
+||tw-happy.space^$doc
+||tw-lucky.site^$doc
 
 ! https://twitter.com/1ZRR4H/status/1623067548781539339
 ||soft-pro.site^$all
@@ -3063,6 +3163,11 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||vablecable.click^$all
 ||rosterfile4u.click^$all
 ||a18n5nh14xos.click^$all
+||rarvinzp.click^$all
+||mcteirx.click^$all
+||igluumars.click^$all
+||poixtre.click^$all
+||ygabgga.click^$all
 .click/?s=*&g=*&q=files.zip$doc
 .click/*?s=*&g=*&q=$script,3p
 .click/?h=*&user=$script,3p
@@ -3137,16 +3242,9 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 /merrx01/^$doc
 ||ondigitalocean.app/*^phone=+1-$doc
 ||flexedfitt.com^$all
-.online/*/eeeekayresrsammicraaajkaschhoilsebadhiyakuchtanahiaayaajturuionmeebbat/$doc
 ||plesk.page/*?phone=$doc
 ||satttawishonemottorecepi.online^$all
-/Win0xixm07/?phone=$doc
-/DanBEr000CH0Er0Security07/index.html$doc
 ||sanshuni-creeto-senfunamaki.online^$all
-/asdfghjkl.tech/index.html$doc
-/mooncars/rover/chasra*/index.php$doc
-/systemerror-win-chx/?$doc
-/systemerror-win-chx1/?$doc
 /W*ity0*00Er00*/index.$doc
 ||s3.ap-northeast-1.amazonaws.com/tedex.com/*/index.html$all
 ||smarttvnew.vercel.app^$all
@@ -3165,8 +3263,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||s3.amazonaws.com/securityfotrus.1.13/index.html$all
 ||s3.eu-west-2.amazonaws.com/675.88.u6.8878/index.html$all
 ||s3.us-west-1.amazonaws.com/security.uni.firewall.$all
-! apparently hacked and turned to a joke techsupport scam
-||westernbible.edu^$doc
 /Win00Security07/index.html$document
 ||varchardetection777.site^$all
 ||xngqoc.com^$all
@@ -3296,6 +3392,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||tomtom.pages.dev^$all
 ||hiii.dv-tube.com^$all
 ||wertyhjuhg.online^$all
+||adolphusisomlycyou.pages.dev^$all
 
 ! https://insight-jp.nttsecurity.com/post/102ic6o/webgoogle-chrome
 ||gateway.pinata.cloud^$3p
@@ -3434,6 +3531,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||fitgirl.cc^$all,domain=~fitgirl-repacks.site
 ! https://github.com/uBlockOrigin/uAssets/issues/21658
 ||fitgirlrepackz.*^$all,domain=~fitgirl-repacks.site
+! https://github.com/uBlockOrigin/uAssets/pull/22532
+||fitgirltorrent.*^$all,domain=~fitgirl-repacks.site
 ! Magisk manager - Official site: https://github.com/topjohnwu/Magisk
 ! https://xda-developers.com/psa-magiskmanager-com-not-official-website-magisk/
 ! https://forum.xda-developers.com/t/downloaded-a-fake-magisk.4581461/
@@ -3650,3 +3749,7 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/22268
 ||skinboxs.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/22353
+! https://www.virustotal.com/gui/url/3055f95af136e98d1341831e7157269daa57fc6302b6129a10d5560fa5056b94
+||gov.setupgovgr.xyz^$all
