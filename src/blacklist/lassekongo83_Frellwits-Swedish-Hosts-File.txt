@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-02-24 12:03:10 CET
-# entries:        1076
+# last updated:   2024-03-03 12:10:52 CET
+# entries:        1077
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -127,7 +127,6 @@
 127.0.0.1 annoncer.nichehuset.dk
 127.0.0.1 annons.svenskjakt.se
 127.0.0.1 annons.turist.se
-127.0.0.1 anonymousdemographics.com
 127.0.0.1 api.adfenix.com
 127.0.0.1 api.deep.bi
 127.0.0.1 api.fouanalytics.com
@@ -202,7 +201,6 @@
 127.0.0.1 cargodisplayads.com
 127.0.0.1 carneoam.com
 127.0.0.1 casinotoplists.com
-127.0.0.1 caviera-sverige.shop
 127.0.0.1 ccjnhnqfnvsr3otokvf59ns52.litix.io
 127.0.0.1 cd.connatix.com
 127.0.0.1 cdn.adapex.io
@@ -245,7 +243,6 @@
 127.0.0.1 cdn.maxetise.net
 127.0.0.1 cdn.myadmessenger.com
 127.0.0.1 cdn.onthe.io
-127.0.0.1 cdn.oribi.io
 127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.popt.in
 127.0.0.1 cdn.pushalert.co
@@ -277,6 +274,7 @@
 127.0.0.1 cdn-magiclinks.trackonomics.net
 127.0.0.1 cdn-scripts.signifyd.com
 127.0.0.1 cdn.dep-x.com
+127.0.0.1 cdn.pushmaster-cdn.xyz
 127.0.0.1 cdn.relevant-digital.com
 127.0.0.1 cdn.stat-track.com
 127.0.0.1 cdn.vip-hd-movies.xyz
@@ -403,7 +401,7 @@
 127.0.0.1 external.reseguiden.se
 127.0.0.1 ezodn.com
 127.0.0.1 f.convertkit.com
-127.0.0.1 fapp.pw
+127.0.0.1 faro-collector-prod-eu-west-0.grafana.net
 127.0.0.1 fastlane.rubiconproject.com
 127.0.0.1 feed.aservice.tools
 127.0.0.1 feedads.feedblitz.com
@@ -569,6 +567,7 @@
 127.0.0.1 meltwater.com
 127.0.0.1 metapic.se
 127.0.0.1 metrics.brightcove.com
+127.0.0.1 mgdk-cdn.relevant-digital.com
 127.0.0.1 micro.rubiconproject.com
 127.0.0.1 mindreskatt.se
 127.0.0.1 missaffiliate.com
@@ -756,6 +755,7 @@
 127.0.0.1 spel.expressen.se
 127.0.0.1 sprinklecontent.com
 127.0.0.1 sprinkletxt.com
+127.0.0.1 sp-eu.dev.polarbyte.com
 127.0.0.1 ssl.webserviceaward.com
 127.0.0.1 ssp.api.tappx.com
 127.0.0.1 ssp-nj.webtradehub.com
@@ -990,6 +990,7 @@
 127.0.0.1 tracking.ystadsallehanda.se
 127.0.0.1 tracking.etidning.fagersta-posten.se
 127.0.0.1 tracking.fagersta-posten.se
+127.0.0.1 tradecore.tradehouse.media
 127.0.0.1 traffic.feedremedy.com
 127.0.0.1 trafficgateway.research-int.se
 127.0.0.1 trckr.nordiskemedier.dk
