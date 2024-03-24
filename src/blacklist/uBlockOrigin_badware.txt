@@ -140,8 +140,6 @@ support.ublock.org##div.hero-unit > div.search-box--hero-unit::before:style(cont
 ! https://github.com/uBlockOrigin/uAssets/issues/4201
 ||googlo.co^$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/4201#issuecomment-458340273
-||chairgaubsy.com^$doc
-||epailseptox.com^$doc
 ||hentaiplaytime.com^$doc
 ||viewmypdf.com^$doc
 
@@ -190,7 +188,6 @@ majorgeeks.com##b:has(a[target^="reimage"])
 ! Lapsed domains that once hosted adblock lists, several of whom are now used for bad purposes
 ! https://github.com/uBlockOrigin/uAssets/issues/5307
 ||gjtech.net^$doc
-||securemecca.com^$doc
 
 ! Badware
 ||kuhoot.it^$doc
@@ -252,16 +249,8 @@ majorgeeks.com##b:has(a[target^="reimage"])
 ! https://github.com/uBlockOrigin/uAssets/issues/6452
 ||apple.com-*.live^
 
-! some badware testing around
-||cobalten.com^$all
-
-! redirect from egy best
-||stremanp.com^$all
-
 ! redirects
 ||nextyourcontent.com^$all
-||geniusdexchange.com^$all
-||securecloud-smart.com^$all
 ||doctopdftech.com^$all
 ||best2019-games-web4.com^$all
 ||track-enable.com^$all
@@ -485,7 +474,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||buddygays.com^$all
 ||localsnapsext.com^$all
 ||heartmedia.biz^$all
-/click.php?key=*cost=$doc,popup
+.php?key=*cost=$doc,popup
 ||totaltopposts.com^$all
 ||djin.site^$all
 ||ourhypewords.com^$all
@@ -770,6 +759,16 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||meetdats.com^$all
 ||meet-flirts.com^$all
 ||mltrck.com^$all
+||meetshorny.link^$all
+||trckoja.com^$all
+||trckams.com^$all
+||pecuniatrck.com^$all
+||smart-tds.com^$all
+||nicking-unding.com^$all
+||septdate.com^$all
+||maturewomenevm5.com^$all
+||164.132.74.156^$all
+||icetraff.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68588
 ! https://github.com/uBlockOrigin/uAssets/issues/8869
@@ -829,7 +828,6 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||mediafire.com/folder/bhzkt4wjxzkmr/$doc
 ||mediafire.com/folder/gbhbhm73350j9/$doc
 ||mediafire.com/folder/n5pt0wxnn3lua/$doc
-||mediafire.com/folder/4rv8o92g0slaj/$doc
 ||mediafire.com/folder/atuqt39mahs1x/$doc
 ||mediafire.com/folder/oo58rv2asvk2w/$doc
 ||gamefree.vip^$doc
@@ -842,6 +840,8 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||gocrazy.gg^$doc
 ||mrbestgame.com^$doc
 ||adobetools.pw^$doc
+||tautarahack.pro^$doc
+||platinumhack.pw^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/69036
 .systems/signup?ad_domain=$doc,popup
@@ -1511,6 +1511,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||zhikunux.com^$all
 ! https://twitter.com/harugasumi/status/1767190281139671246
 ||myetherwalletet.org^$all
+! https://twitter.com/KesaGataMe0/status/1770987190379823577
+||smart-ex-jp.top^$all
 
 ! https://onijima.jp/?p=54165
 ||pocket-888.com^$all
@@ -3067,6 +3069,58 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||t-haihukikaku.online^$doc
 ||t-present.online^$doc
 ||rich-cash.site^$doc
+||z-lib.io^$all
+||z-lib.id^$all
+||zlibrary.to^$all
+||fr4aj87j.com^$doc
+||island-vanity.com^$doc
+||side-joblp.com^$doc
+||32k987.com^$doc
+||71l0b.com^$doc
+||ajv06.com^$doc
+||f8dt6.com^$doc
+||i7fq6o.com^$doc
+||m65ln.com^$doc
+||mphb0.com^$doc
+||sj74is.com^$doc
+||e-chat1.com^$doc
+||fc67x.com^$doc
+||benefit-billion.com^$doc
+||condemn-fearful.com^$doc
+||heading-towards.net^$doc
+||search-happiness.jp^$doc
+||5hjd9t.com^$doc
+||cd7z7b.com^$doc
+||d8yfr7.com^$doc
+||everydaykennsyou.com^$doc
+||king-sweepstakes.com^$doc
+||qaghoz.com^$doc
+||rjwc95.com^$doc
+||xhictk.com^$doc
+||64ws9x.com^$doc
+||npdptp.com^$doc
+||resort-life7.com^$doc
+||friendmap.top^$doc
+||moraeru.top^$doc
+||m65ln.com^$doc
+||mmnn.jp^$doc
+||pxmmm23.net^$doc
+||lutherinfo2.com^$doc
+||mamatech.pepper.jp^$doc
+||manpuku-ja.com^$doc
+||manpuku-ja.jp^$doc
+||ms-lounge.net^$doc
+||sm-sl.net^$doc
+||ssr1000.com^$doc
+||sslovexxxrr.com^$doc
+||st-art.life^$doc
+||ten-un.com^$doc
+||xanadu-du.com^$doc
+||z9iq6vt.com^$doc
+||yuppie-yuppie.com^$doc
+||enchantedfruit.com^$doc
+||meltsweetbite.com^$doc
+||okanekubari.site^$doc
 
 ! https://twitter.com/1ZRR4H/status/1623067548781539339
 ||soft-pro.site^$all
@@ -3655,12 +3709,17 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! https://www.virustotal.com/gui/url/9f588e39087c3f6bc707205c7fad68545e9b5edc0506dc67f79e7fa684855934
 ! https://www.virustotal.com/gui/url/716d44ef0981fada4907f6c77d18b8c3915ddfaf29c232d8a794d4aff3d3c904
 ! https://www.virustotal.com/gui/url/2e8126228eba8ea905881f3c1cd4b8bb3f251d37ba016c56c001bbe7b4482e1c
+! https://www.virustotal.com/gui/url/dca49090dc4f87432c5c1b0ea589c470d058d71194bcfa1d7765c561d62dd520 - free-mobil.hubside.fr
+! https://www.virustotal.com/gui/url/79a351dd5e9743efbbe360a77198bde28ead78dee2896ca863b9c2a778217292 - web-mail-free-org.hubside.fr
 ||fidelitefree.fr^$all
 ||espacefidelitefree.fr^$all
 ||shopflarehub.com^$all
 ||zimbra-freefr8.godaddysites.com^$all
 ||mobile.i-free.fr^$all
 ||gatekeeperapp.net^$all
+||free-mobil.hubside.fr^$all
+||web-mail-free-org.hubside.fr^$all
+||free-service.hubside.fr^$all
 
 ! https://blog.sucuri.net/2024/02/web3-crypto-malware-angel-drainer.html
 ! https://www.virustotal.com/gui/url/2bf2e7500e2b15877f866b0a782436df8621b2c20f81e3d66f51e394f6ff6f30
@@ -3683,3 +3742,60 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 
 ! https://blog.sucuri.net/2023/08/from-google-dns-to-tech-support-scam-sites-unmasking-the-malware-trail.html
 ||dns.google/resolve?name=*.host-stats.io&type=txt|$xhr,3p
+
+! https://www.reddit.com/r/Picocrypt/comments/196479k/psa_picocryptorg_is_a_fake_website/
+! https://www.virustotal.com/gui/url/5424f4cf2ec78fd959d88b88f9fc14e990aea181a7da47c0ce48791b4887d53a
+||picocrypt.org^$doc
+
+! https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html
+! https://www.virustotal.com/gui/domain/ttincoming.traveltraffic.cc/detection
+! https://www.virustotal.com/gui/domain/host.cloudsonicwave.com
+||traveltraffic.cc^$all
+||cloudsonicwave.com^$all
+
+! https://www.malwarebytes.com/blog/threat-intelligence/2024/03/fakebat-delivered-via-several-active-malvertising-campaigns
+! https://www.virustotal.com/gui/url/1429f749760b6d69d16234f394be11fc61f48df2e1956ecc37f556621abad7e7
+||obs-software.cc^$all
+||bandi-cam.cc^$all
+||breavas.app^$all
+||open-project.org^$all
+||onenote-download.com^$all
+||epicgames-store.org^$all
+||blcnder.org^$all
+||trelconf.com^$all
+||trelconf.net^$all
+||noitons.net^$all
+||bezynet.com^$all
+||church-notes.com^$all
+||avr-energie.com^$all
+
+! https://www.malwarebytes.com/blog/uncategorized/2024/03/tax-scammer-goes-after-small-business-owners-and-self-employed-people
+! https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Firs-ein-gov.us%2F
+! https://safeweb.norton.com/report/show?url=https:%2F%2Firs-ein-gov.us%2F
+! https://www.virustotal.com/gui/domain/irs-ein-gov.us
+||irs-ein-gov.us^$all
+
+! https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html
+/^https:\/\/[a-z]+\.[-a-z0-9]+\.[a-z]{3,7}\/[a-z]{2,6}\.(?:[a-z]{1,8}\.)?17\d{8}\.js\?(?:revision|src|s|v|ver)=65f[a-f0-9]{5}$/$script,3p,match-case,to=~edu|~gov
+/^https:\/\/[a-z]+\.[-a-z0-9]+\.[a-z]{3,7}\/17\d{8}\/em\.js\?(?:revision|src|s|v|ver)=65f[a-f0-9]{5}$/$script,3p,match-case,to=~edu|~gov
+! https://infosec.exchange/@InfobloxThreatIntel/111947476473623155
+! https://malwaretips.com/blogs/re-captha-version-3-55-top/
+||re-captha-version-$all
+
+! https://www.gdatasoftware.com/blog/2024/03/37885-risepro-stealer-campaign-github
+! https://www.virustotal.com/gui/url/b47accf6e1261a50564f6520e8c3c56d6225054a95fe9a48c5e9e47e4ee7d120
+||digitalxnetwork.com^$all
+
+! https://securelist.com/trojanized-text-editor-apps/112167/
+! https://www.virustotal.com/gui/url/dce13fec61cd1b81b55c8d126b99266efbb6166d1a0bba02d4b8482ed53401b1
+||vnote-*.myqcloud.com^$all
+
+! https://infosec.exchange/@urldna/112143355675099806
+! https://www.virustotal.com/gui/url/38ad38ba67efdd42656b489e4df678ee065cad109cd1c9dbacf4632d356250d9
+||metamaskv2.pages.dev^$all
+! https://infosec.exchange/@urldna/112144063432991043
+||metamskilogin.gitbook.io^$all
+! https://infosec.exchange/@urldna/112148192083645551
+||dev-pacifservi.pantheonsite.io^$all
+! https://infosec.exchange/@urldna/112148074116486108
+||yenib65.top^$all
