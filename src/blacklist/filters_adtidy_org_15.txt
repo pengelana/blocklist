@@ -1,9 +1,9 @@
-! Checksum: z65/EPkOAWO9BCbhY/uCNg
-! Diff-Path: ../patches/15/15-s-1712363794-3600.patch
+! Checksum: YQ1/OHA1W5H0Dh8BVoJVeA
+! Diff-Path: ../patches/15/15-s-1712385381-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.63.91
-! TimeUpdated: 2024-04-06T00:33:14+00:00
+! Version: 2.0.63.92
+! TimeUpdated: 2024-04-06T06:33:11+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-06T00:02:32.634Z
+! Last modified: 2024-04-06T06:01:14.048Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -19476,6 +19476,7 @@ vkcdnservice.appspot.com^
 ||kmyunderthf.info^
 ||knackseafood.com^
 ||knaplpdmbrbi.com^
+||knappedmurshid.com^
 ||knaveavo.guru^
 ||knawelgrx.com^
 ||kncecafvdeu.info^
@@ -39421,6 +39422,7 @@ vkcdnservice.appspot.com^
 ||nexeps.com^
 ||nextclick.pl^
 ||nextmillennium.io^
+||nextmillmedia.com^
 ||nextoptim.com^
 ||nitmus.com^
 ||nitropay.com^
@@ -39984,6 +39986,7 @@ vkcdnservice.appspot.com^
 ||plchldr.co^
 ||popmog.com^
 ||promos.fling.com^
+||proto2ad.durasite.net^
 ||pubfeed.linkby.com^
 ||public.porn.fr^
 ||qsearch-a.akamaihd.net^
@@ -60263,6 +60266,13 @@ inapps.appsflyersdk.com^
 ||nuhgpx.xyz^
 ||ojvpigx.xyz^
 ||utkauo.xyz^
+||zekzoh.icu^
+||naihyvz.cn^
+||555bbb333bbb.com^
+||adzdgr-wadd2-f1d.com^
+||img8e51zy4bg.com^
+||img8e94zy4bg.com^
+||m1170.top^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
