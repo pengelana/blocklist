@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-03-24 07:36:33 CET
-# entries:        1088
+# last updated:   2024-04-01 11:44:27 CEST
+# entries:        1078
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -70,7 +70,6 @@
 127.0.0.1 ads.themoneytizer.com
 127.0.0.1 ads.ungdomar.se
 127.0.0.1 ads.varldenidag.se
-127.0.0.1 ads.veterinaren.nu
 127.0.0.1 ads.vidoomy.com
 127.0.0.1 ads.viralize.tv
 127.0.0.1 adsby.bidtheatre.com
@@ -197,7 +196,6 @@
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
 127.0.0.1 bs.serving-sys.com
 127.0.0.1 btloader.com
-127.0.0.1 bulletproof-analytics.com
 127.0.0.1 buzzador.com
 127.0.0.1 b-code.liadm.com
 127.0.0.1 c.aaxads.com
@@ -347,7 +345,6 @@
 127.0.0.1 d261u4g5nqprix.cloudfront.net
 127.0.0.1 dackpartner-web.s3.amazonaws.com
 127.0.0.1 dagenstv.112.2o7.net
-127.0.0.1 dakine.com.se
 127.0.0.1 darwin.affiliatewindow.com
 127.0.0.1 data.adnuntius.com
 127.0.0.1 data.gblcdn.com
@@ -397,13 +394,11 @@
 127.0.0.1 embi-media.com
 127.0.0.1 emea.hhkld.com
 127.0.0.1 emea.viadata.store
-127.0.0.1 engine.widespace.com
 127.0.0.1 etc-cdn-staging.ams3.digitaloceanspaces.com
 127.0.0.1 eum.instana.io
 127.0.0.1 europe-west1-bonnier-big-data.cloudfunctions.net
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 events-collector.spot.im
-127.0.0.1 evtr.nordiskemedier.dk
 127.0.0.1 exitintel.com
 127.0.0.1 expo.ads.ramsalt.com
 127.0.0.1 ext.track.tappx.com
@@ -496,6 +491,7 @@
 127.0.0.1 izooto.com
 127.0.0.1 js.appboycdn.com
 127.0.0.1 js.datadome.co
+127.0.0.1 js.evtr.nordiskemedier.dk
 127.0.0.1 js.getlasso.co
 127.0.0.1 js.glitnoraffiliates.com
 127.0.0.1 js.hsadspixel.net
@@ -516,7 +512,6 @@
 127.0.0.1 kiosked.com
 127.0.0.1 ksdarprt.reseguiden.se
 127.0.0.1 kyrkoskatten.se
-127.0.0.1 kyrkskatt.se
 127.0.0.1 l.betrad.com
 127.0.0.1 l.sharethis.com
 127.0.0.1 lanapengar.expressen.se
@@ -545,7 +540,6 @@
 127.0.0.1 look.ufinkln.com
 127.0.0.1 low1sneakerssverige.com
 127.0.0.1 lwadm.com
-127.0.0.1 m.burt.io
 127.0.0.1 m.extellio.com
 127.0.0.1 m1.analytics.sitevision-cloud.se
 127.0.0.1 macro.adnami2.io
@@ -680,7 +674,6 @@
 127.0.0.1 richmediastudio.com
 127.0.0.1 richmetrics.com
 127.0.0.1 ridsport.adhost.se
-127.0.0.1 rockeringformsweden.com
 127.0.0.1 rockportskorsverige.com
 127.0.0.1 rotarb.bid
 127.0.0.1 rotator.riedta.com
@@ -757,10 +750,8 @@
 127.0.0.1 skattamindre.se
 127.0.0.1 sleeknote.com
 127.0.0.1 sleeknotecustomerscripts.sleeknote.com
-127.0.0.1 smetrics.aftonbladet.se
 127.0.0.1 smtvn.112.2o7.net
 127.0.0.1 snap.licdn.com
-127.0.0.1 sneakersisverige.com
 127.0.0.1 source.advisible.com
 127.0.0.1 sp.tinymce.com
 127.0.0.1 spel.expressen.se
@@ -848,7 +839,6 @@
 127.0.0.1 tags.refinery89.com
 127.0.0.1 tags.smilewanted.com
 127.0.0.1 tapet.bonniernews.se
-127.0.0.1 target.digitalaudience.io
 127.0.0.1 tb.de17a.com
 127.0.0.1 tcd.tourn.se
 127.0.0.1 telemetric.dk
