@@ -1,9 +1,9 @@
-! Checksum: tbH98gPNbe/Tis6B0NrBHg
-! Diff-Path: ../patches/15/15-s-1712450204-3600.patch
+! Checksum: jEmHgyHsEpD5slSERsRlgg
+! Diff-Path: ../patches/15/15-s-1712558202-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.63.95
-! TimeUpdated: 2024-04-07T00:33:12+00:00
+! Version: 2.0.64.0
+! TimeUpdated: 2024-04-08T06:33:18+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-07T00:02:50.245Z
+! Last modified: 2024-04-08T06:01:23.889Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1832,6 +1832,7 @@ vkcdnservice.appspot.com^
 ||61739011039d41a.com^
 ||6179b859b8.com^
 ||61ba68472f.com^
+||61zdn1c9.skin^
 ||6207684432.com^
 ||62b70ac32d4614b.com^
 ||62f9bb0bbc.com^
@@ -14782,6 +14783,7 @@ vkcdnservice.appspot.com^
 ||giliakmisdaub.com^
 ||gilinstruggle.org^
 ||gilledwebeye.life^
+||gillpwiul.com^
 ||gillsapp.com^
 ||gillsisabellaunarmed.com^
 ||gillstaught.com^
@@ -19978,6 +19980,7 @@ vkcdnservice.appspot.com^
 ||laughbuckle.com^
 ||laughedaffront.com^
 ||laughedrevealedpears.com^
+||laughingrecordinggossipy.com^
 ||laughteroccasionallywarp.com^
 ||lauglaph.net^
 ||laugoust.com^
@@ -34174,6 +34177,7 @@ vkcdnservice.appspot.com^
 ||ts134lnki1zd5.pro^
 ||tsandycateup.com^
 ||tsapphires.buzz^
+||tsapphiresand.info^
 ||tsaristcanapes.com^
 ||tsarkinds.com^
 ||tsbntfjyijlx.com^
@@ -38394,6 +38398,7 @@ vkcdnservice.appspot.com^
 ||zonupiza.com^
 ||zonureflakier.uno^
 ||zoocheeh.net^
+||zoogripi.com^
 ||zoojepsainy.com^
 ||zoologicalviolatechoke.com^
 ||zoologyhuntingblanket.com^
@@ -45746,6 +45751,7 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||collector.xhaccess.com^
 ||amplitude.chess.com^
 ||matomo.cloudfront.similarweb.io^
 ||r451.jamanetwork.com^
@@ -54799,8 +54805,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Mar 2024 10:39 UTC+7
-! OriginalVersion: 2403251039
+! Last modified: 08 Apr 2024 10:48 UTC+7
+! OriginalVersion: 2404081048
 ! Blocked: 867 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -55607,9 +55613,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 03 Apr 2024 15:13 UTC+7
-! OriginalVersion: 2404031513
-! Blocked: 4,162 rules
+! Last modified: 08 Apr 2024 10:49 UTC+7
+! OriginalVersion: 2404081049
+! Blocked: 4,168 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -56040,6 +56046,7 @@ inapps.appsflyersdk.com^
 ||dadw55.com^
 ||daef33.com^
 ||daikinvietnam.vn^
+||dailyssshopee.com^
 ||daisyshopp.com^
 ||dangky.electricz.xyz^
 ||dangkyappbank.online^
@@ -56097,6 +56104,7 @@ inapps.appsflyersdk.com^
 ||dichvucong.cvgov.com^
 ||dichvucong.dancuquocgia.net^
 ||dichvucong.dulieuquocgia.com^
+||dichvucong.govnx.com^
 ||dichvucong.hgov.cc^
 ||dichvucong.hgov.net^
 ||dichvucong.kgov.net^
@@ -56104,6 +56112,7 @@ inapps.appsflyersdk.com^
 ||dichvucong.tgovn.cc^
 ||dichvucong.tkgov.com^
 ||dichvucong.vgovn.net^
+||dichvucong.vsgov.com^
 ||dichvucong.xgovn.net^
 ||dichvucong.zlgov.com^
 ||dichvucong.zvgov.com^
@@ -56703,6 +56712,7 @@ inapps.appsflyersdk.com^
 ||keygenwin.com^
 ||kfdg22.com^
 ||kfdg55.com^
+||khach-hang-ca-nhan-vip5.com^
 ||khangdz215.tk^
 ||khcn-han-muc-tin-dung-ca-nhan.com^
 ||khcn-tindung-vp.com^
@@ -57205,6 +57215,7 @@ inapps.appsflyersdk.com^
 ||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
 ||nang-han-muc-vip-vpbank.com^
+||nang-hang-ca-nhan-vib-mrk1.com^
 ||nang-hang-tin-dung-ca-nhan.com^
 ||nanghanmuc-thetindung.com^
 ||nanghanmuc-tindungvn.com^
@@ -59380,6 +59391,7 @@ inapps.appsflyersdk.com^
 ||vn55779p.com^
 ||vn55866shp.com^
 ||vn6315shp.com^
+||vn63251s.com^
 ||vn66733shop.com^
 ||vn667755s.com^
 ||vn66954shp.com^
@@ -59700,6 +59712,7 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||0322cfmtl.cc^
 ||0940088.com^
 ||0j775d.cn^
 ||0k7wod.cn^
@@ -59749,11 +59762,13 @@ inapps.appsflyersdk.com^
 ||ariqye.xyz^
 ||arnhhwo.xyz^
 ||arqvm.cn^
+||atzhcjv.xyz^
 ||awuvcq.xyz^
 ||azyuuk.xyz^
 ||b37r5.cyou^
 ||batijian.com^
 ||bba9603w.com^
+||bdjfea.cn^
 ||bdtdat652.shop^
 ||bdxpdz.xyz^
 ||benpsbp.com^
@@ -59889,6 +59904,7 @@ inapps.appsflyersdk.com^
 ||gblxtlo.xyz^
 ||gcumgu.xyz^
 ||gfjn5.xyz^
+||gfylyw.xyz^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||gicjtss.cn^
@@ -60001,6 +60017,7 @@ inapps.appsflyersdk.com^
 ||lznfuab.xyz^
 ||m1170.top^
 ||m6690.top^
+||m6j37.xyz^
 ||mdhv3.icu^
 ||mdzwjra.cn^
 ||misjgy.xyz^
@@ -60037,6 +60054,7 @@ inapps.appsflyersdk.com^
 ||nvjqtz.xyz^
 ||nyt5j.cyou^
 ||o1b04.cyou^
+||obgekjz.icu^
 ||obturex.com^
 ||ocggec.xyz^
 ||ofkcww.xyz^
@@ -60203,9 +60221,11 @@ inapps.appsflyersdk.com^
 ||vcnpnf.xyz^
 ||vdvcjlp.cn^
 ||veaiyl.icu^
+||vejhln.xyz^
 ||vfchm.cyou^
 ||vflorp.xyz^
 ||vhvwlb.xyz^
+||vioyugo.cn^
 ||vmnlkr.icu^
 ||vpzohx.xyz^
 ||vszzzj.xyz^
@@ -60219,6 +60239,7 @@ inapps.appsflyersdk.com^
 ||wisealty.com^
 ||wjwod.cyou^
 ||wkywrc.cn^
+||wnalzle.top^
 ||wnifdlae.top^
 ||wnmaoc.xyz^
 ||wopvmmy.cn^
@@ -60282,13 +60303,13 @@ inapps.appsflyersdk.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
-||gfylyw.xyz^
-||bdjfea.cn^
-||wnalzle.top^
-||vejhln.xyz^
-||obgekjz.icu^
-||atzhcjv.xyz^
 ||zopuqv.icu^
+||dblijd.xyz^
+||pmiskc.cn^
+||srwwce.xyz^
+||qnalzly.top^
+||mldzwmt.xyz^
+||guwohvw.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
