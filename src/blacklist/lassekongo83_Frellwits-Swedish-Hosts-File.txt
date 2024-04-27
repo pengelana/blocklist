@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-04-01 11:44:27 CEST
-# entries:        1078
+# last updated:   2024-04-25 07:50:51 CEST
+# entries:        1083
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -30,6 +30,7 @@
 127.0.0.1 ad.lkqd.net
 127.0.0.1 ad.mox.tv
 127.0.0.1 ad.sxp.smartclip.net
+127.0.0.1 ad.vidverto.io
 127.0.0.1 ad.yieldlab.net
 127.0.0.1 ad.zanox.com
 127.0.0.1 adcell.io
@@ -247,6 +248,7 @@
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.izooto.com
 127.0.0.1 cdn.jst.ai
+127.0.0.1 cdn.logsnag.com
 127.0.0.1 cdn.matomo.cloud
 127.0.0.1 cdn.maxetise.net
 127.0.0.1 cdn.myadmessenger.com
@@ -595,6 +597,7 @@
 127.0.0.1 npario-inc.net
 127.0.0.1 ntrfr.expekt.se
 127.0.0.1 ntrfr.leovegas.com
+127.0.0.1 ntrfr.pixel.bet
 127.0.0.1 nucleusanalytics.io
 127.0.0.1 nvpx.adhost.se
 127.0.0.1 offer-go.com
@@ -731,6 +734,7 @@
 127.0.0.1 seenthis.se
 127.0.0.1 selectofmychoices.com
 127.0.0.1 sentry.outbid.io
+127.0.0.1 seo.compado.com
 127.0.0.1 seoab.io
 127.0.0.1 seonify.com
 127.0.0.1 serve.albacross.com
@@ -821,6 +825,7 @@
 127.0.0.1 t.contentinsights.com
 127.0.0.1 t.elasticsuite.io
 127.0.0.1 t.fml.rip
+127.0.0.1 t.gatorleads.co.uk
 127.0.0.1 t.myvisitors.se
 127.0.0.1 t.raptorsmartadvisor.com
 127.0.0.1 t0.extreme-dm.com
