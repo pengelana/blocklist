@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-04 14:39:14 UTC                        #
+# Last updated: 2024-05-05 07:01:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	custom-packaging-products.com
 127.0.0.1	chatgpt-app.cloud
 127.0.0.1	beshomandotestbesnd.run.place
 127.0.0.1	strekhost2085.con-ip.com
@@ -12313,4 +12314,4 @@
 127.0.0.1	sdt.faqserv.com
 127.0.0.1	iran-hh.dns05.com
 127.0.0.1	iran-hk.mrface.com
-# Number of entries: 12307
+# Number of entries: 12308
