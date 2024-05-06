@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-05 11:50:36 UTC                        #
+# Last updated: 2024-05-06 09:23:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mybackups.duckdns.org
+127.0.0.1	eastcoastrest.com
+127.0.0.1	service-cycxnhe5-1302650299.sh.tencentapigw.com
+127.0.0.1	microsoftsoftwave.com
+127.0.0.1	azure.microsoftsoftwave.com
 127.0.0.1	july-pty.at.ply.gg
 127.0.0.1	eve.now-dns.net
 127.0.0.1	linux-treatment.gl.at.ply.gg
@@ -12264,6 +12269,4 @@
 127.0.0.1	leaf-japan.net
 127.0.0.1	london-sport.net
 127.0.0.1	gameteamfinder.com
-127.0.0.1	flow.baidu666.pw
-127.0.0.1	efmdwkmwkq.xyz
-# Number of entries: 12260
+# Number of entries: 12263
