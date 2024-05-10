@@ -1,9 +1,9 @@
-! Checksum: Nnn5VMjWvsYn11+mJb44mQ
-! Diff-Path: ../patches/15/15-s-1715258032-3600.patch
+! Checksum: wavfQsNLT9xexx8t/JT5Qw
+! Diff-Path: ../patches/15/15-s-1715344438-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.65.22
-! TimeUpdated: 2024-05-09T12:31:50+00:00
+! Version: 2.0.65.26
+! TimeUpdated: 2024-05-10T12:31:59+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-09T12:01:17.974Z
+! Last modified: 2024-05-10T12:01:11.996Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1832,6 +1832,7 @@ vkcdnservice.appspot.com^
 ||38d9953876.com^
 ||38dbfd540c.com^
 ||38ds89f8.de^
+||39268ea911.com^
 ||395b8c2123.com^
 ||39e6p9p7.de^
 ||39f204776a.com^
@@ -2509,6 +2510,7 @@ vkcdnservice.appspot.com^
 ||absump.com^
 ||absurdunite.com^
 ||abtaurosa.club^
+||abtrcker.com^
 ||abtyroguean.com^
 ||abtyroguer.com^
 ||abuleiasafflow.com^
@@ -2534,6 +2536,7 @@ vkcdnservice.appspot.com^
 ||academyblocked.com^
 ||academyenrage.com^
 ||acalraiz.xyz^
+||acam-2.com^
 ||acaussee.net^
 ||acbbpadizl.com^
 ||acbc68e83c.com^
@@ -3992,6 +3995,7 @@ vkcdnservice.appspot.com^
 ||amendablepartridge.com^
 ||amendablesloppypayslips.com^
 ||amendsgeneralize.com^
+||amendsrecruitingperson.com^
 ||amenityleisurelydays.com^
 ||ameofmuki.info^
 ||ameoutofthe.info^
@@ -6792,6 +6796,7 @@ vkcdnservice.appspot.com^
 ||bourrepardale.com^
 ||boustahe.com^
 ||bouwehee.xyz^
+||bouwhaici.net^
 ||bovategunrack.cfd^
 ||bovemtou.xyz^
 ||bowedcounty.com^
@@ -14519,6 +14524,7 @@ vkcdnservice.appspot.com^
 ||fouharoa.com^
 ||foulageyamshik.life^
 ||fouleewu.net^
+||foulfurnished.com^
 ||founcedaimen.top^
 ||foundationhorny.com^
 ||foundedoaksouthern.com^
@@ -16449,6 +16455,7 @@ vkcdnservice.appspot.com^
 ||habitualexecute.com^
 ||habitualivoryashes.com^
 ||hablvsmnr.com^
+||habovethecit.info^
 ||habovethecity.info^
 ||habovethecityon.info^
 ||habusima.uno^
@@ -20065,6 +20072,7 @@ vkcdnservice.appspot.com^
 ||keywordblocks.com^
 ||keywordsconnect.com^
 ||kfareputfeab.org^
+||kfbdnyeelfxctc.com^
 ||kfebxhjlco.com^
 ||kffawlmqdahowhr.com^
 ||kffxyakqgbprk.xyz^
@@ -20545,6 +20553,7 @@ vkcdnservice.appspot.com^
 ||kvxxkbmby.com^
 ||kvymlsb.com^
 ||kw3y5otoeuniv7e9rsi.com^
+||kwbgmufi.com^
 ||kwbmkwej.com^
 ||kwedzcq.com^
 ||kwhhdwyuvi.com^
@@ -24681,6 +24690,7 @@ vkcdnservice.appspot.com^
 ||npjhdunxxfhwgtv.com^
 ||npkkpknlwaslhtp.xyz^
 ||npkzqlhtecxx.com^
+||npmgfyajejhlde.com^
 ||npnbwfpftjpqwc.com^
 ||npoqyrxjmphdo.com^
 ||npprvby.com^
@@ -25603,6 +25613,7 @@ vkcdnservice.appspot.com^
 ||onwasrv.com^
 ||onwekdebd.xyz^
 ||onychinferous.top^
+||onzazqarhmpi.com^
 ||onznwiocrrim.com^
 ||oo00.biz^
 ||oobitsou.net^
@@ -25807,6 +25818,7 @@ vkcdnservice.appspot.com^
 ||orcjagpox.com^
 ||ordbzeokdxku.com^
 ||ordealsreannoy.top^
+||orderedbewhore.com^
 ||orderlydividepawn.com^
 ||orderlymall.pro^
 ||orderlyregister.pro^
@@ -25858,6 +25870,7 @@ vkcdnservice.appspot.com^
 ||orldwhoisquite.com^
 ||orldwhoisquite.org^
 ||orldwhoisquiteh.info^
+||orlotalers.com^
 ||orlowedonhisdhilt.info^
 ||ormolustuke.top^
 ||ornismolal.top^
@@ -26634,6 +26647,7 @@ vkcdnservice.appspot.com^
 ||paucityirido.space^
 ||pauewr4cw2xs5q.com^
 ||paughtyrostrum.com^
+||paularrears.com^
 ||paulastroid.com^
 ||paulcorrectfluid.com^
 ||paulinruntime.digital^
@@ -30527,6 +30541,7 @@ vkcdnservice.appspot.com^
 ||riverpush.com^
 ||riversingratitudestifle.com^
 ||rivetrearrange.com^
+||rivmuvlnu.com^
 ||rivne.space^
 ||riweeboo.com^
 ||rixaka.com^
@@ -34953,6 +34968,7 @@ vkcdnservice.appspot.com^
 ||tiemerry.com^
 ||tierbignews.com^
 ||tiesmmflv.com^
+||tigainareputaon.info^
 ||tigerpush.net^
 ||tightendescendantcuddle.com^
 ||tighterinfluenced.com^
@@ -35459,6 +35475,7 @@ vkcdnservice.appspot.com^
 ||trafficbass.com^
 ||trafficborder.com^
 ||trafficbottomgrains.com^
+||trafficdecisions.com^
 ||trafficdok.com^
 ||trafficfactory.biz^
 ||traffichunt.com^
@@ -39294,6 +39311,7 @@ vkcdnservice.appspot.com^
 ||xrjponvwqlwthq.com^
 ||xrkxapomphh.com^
 ||xrlkvghzi.com^
+||xrpikxtnmvcm.com^
 ||xrujynhcxtbsgp.com^
 ||xruolsogwsi.com^
 ||xsjc4smhbyjf.com^
@@ -40135,6 +40153,7 @@ vkcdnservice.appspot.com^
 ||zogrepsili.com^
 ||zoiqrudc.com^
 ||zoizfaodz.com^
+||zokaukree.net^
 ||zokbywpncgqrq.com^
 ||zombiharshen.top^
 ||zonealta.com^
@@ -41708,6 +41727,7 @@ vkcdnservice.appspot.com^
 ||7fc8.site^
 ||8acc5c.site^
 ||8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online^
+||a67d12.xyz^
 ||b211.xyz^
 ||b59c.xyz^
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^
@@ -41770,6 +41790,7 @@ vkcdnservice.appspot.com^
 ||1175980934.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1201741305.rsc.cdn77.org^
+||1204491360.rsc.cdn77.org^
 ||1278977604.rsc.cdn77.org^
 ||1288151678.rsc.cdn77.org^
 ||1299757727.rsc.cdn77.org^
@@ -41790,6 +41811,7 @@ vkcdnservice.appspot.com^
 ||1759123620.rsc.cdn77.org^
 ||1770542895.rsc.cdn77.org^
 ||1954342903.rsc.cdn77.org^
+||1957648849.rsc.cdn77.org^
 ||1969301294.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
@@ -42584,6 +42606,7 @@ vkcdnservice.appspot.com^
 ||d3n7ct9nohphbs.cloudfront.net^
 ||d3n9c6iuvomkjk.cloudfront.net^
 ||d3nel6rcmq5lzw.cloudfront.net^
+||d3ngt858zasqwf.cloudfront.net^
 ||d3numuoibysgi8.cloudfront.net^
 ||d3nvrqlo8rj1kw.cloudfront.net^
 ||d3o9njeb29ydop.cloudfront.net^
@@ -62720,6 +62743,19 @@ inapps.appsflyersdk.com^
 ||iuqasw.xyz^
 ||cgidskif.top^
 ||54gtlb.cn^
+||areyoutherenow.com^
+||huiyunbei.com^
+||qfaaokr.icu^
+||xunsfr.xyz^
+||ugolue.xyz^
+||muntswe58.shop^
+||hgidskiu.top^
+||zwzdjb.xyz^
+||elvirassb.com^
+||mmgap.cn^
+||yssryr.cn^
+||88lm15.com^
+||iaosua.com^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^

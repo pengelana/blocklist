@@ -490,7 +490,6 @@ tech4yougadgets.com##+js(aopr, Notification)
 /?banner=*&phone=$doc
 ||advidates.com^$all
 ||dvjqvdfujjvvkuyvhjqdvbjcmioljbhjmijq.s3.ap-northeast-1.amazonaws.com^$all
-/2/index.html#|$doc
 /?clickid=*&cost=0.$doc
 /index.php?key=*&t1=$doc
 ||cmprotraf.club^$all
@@ -723,6 +722,10 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||miafann.online^$all
 ||dating365.link^$all
 ||trckhoul.com^$all
+/utility/adult/*/index.html?*p1=$doc
+/1/index.html?c=$doc
+/2/index.html?c=$doc
+||1win-17545.com^
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68588
 ! https://github.com/uBlockOrigin/uAssets/issues/8869
@@ -795,6 +798,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||whitegames.pro^$doc
 ||torontohack.fun^$doc
 ||gameplayer.click^$all
+||ryosx.cc^$doc
 ! http://92.118.151.48/6B6FGGWm
 ||92.118.151.48^$all
 ! https://cloud-folder.org/KRvjWueEcl/
@@ -3723,7 +3727,6 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||superficial-deserted-territory.glitch.me^$all
 ||taikhoanvps.com.vn^$doc,domain=~vps.com.vn
 ||request--to--fix--63.glitch.me^$all
-||mbfic-plus.com^$all,to=~mbbank.com.vn
 ||quaysomediamart2024.vip^$doc,domain=~mediamart.vn
 ||linktaccountcontant.com^$all,to=~linkt.com.au
 ||mayxanhsupport.com^$all,to=~dienmayxanh.com
@@ -3765,6 +3768,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||canhantpb.com^$all,to=~tpb.vn
 ||finacehoisomb.com^$all,to=~mbbank.com.vn
 ||mbdkb.com^$all,to=~mbbank.com.vn
+||mbfic-plus.com^$all,to=~mbbank.com.vn
 /^https:\/\/hdsaison-?[a-z]{2,}\.(?:cc|com|vip)\//$doc,domain=cc|com|vip|~hdsaison.com.vn
 /^https:\/\/tpbank\.[-a-z0-9]{5,}\.[a-z]{3}(?:\.vn)?\//$doc,domain=~edu|~gov|~gov.vn|~tpb.vn
 ! https://infosec.exchange/@urldna/112400046970276353
@@ -3863,6 +3867,8 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||mybluehost.me/*/MitID/$doc
 ||airpos.co.kr/.well-known/pki-validation/*/MitID/$doc
 ||autolocksmithpro.com/spt/$all
+! https://infosec.exchange/@urldna/112411843484788233
+||asistenciahoy.com^$all
 
 ! swisspass
 ||mybluehost.me/--/SBBCFF$doc
@@ -3875,6 +3881,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||codeanyapp.com/Swiss_com/$doc,domain=~swisscom.ch
 ||secureserver.net/myswisscom$doc,domain=~swisscom.ch
 
+||app-aave.pages.dev^$all,to=~aave.com
 ||web3mainnetdapp.pages.dev^$all
 ||web3connectfix.pages.dev^$all
 ||metannask.aprisacv.com.mx^$all
