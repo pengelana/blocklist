@@ -1445,6 +1445,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||myetherwalletet.org^$all
 ! https://twitter.com/KesaGataMe0/status/1770987190379823577
 ||smart-ex-jp.top^$all
+! https://twitter.com/AP_Zenmashi/status/1788959694658421140
+||paypay-user.com^$all
 
 ! https://onijima.jp/?p=54165
 ||pocket-888.com^$all
@@ -3900,6 +3902,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||opensea-nft.web.app^$all,to=~opensea.io
 ||web3-opensea-multichain.codeanyapp.com^$all,to=~opensea.io
 ||mysteryclick57.vercel.app^$all,to=~opensea.io
+||paslanmazspider.org/bin/$all,to=~opensea.io
 ! pancakeswap
 ||pancakeswap.icu^$all,to=~pancakeswap.finance
 ||pancake.run^$all,to=~pancakeswap.finance
@@ -3908,6 +3911,10 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ! uniswap
 ||interface-git-parallel-cypress-uniswap.vercel.app^$doc,domain=~uniswap.org
 ||uniswap-free.eth.limo^$all,to=~uniswap.org
+
+! https://infosec.exchange/@urldna/112418331605160421
+||copba.org.ar/*/aupost/$all,to=~auspost.com.au
+||candsa.top^$all,to=~auspost.com.au
 
 ! openphish
 ||hybridtoken.org^$all
@@ -3931,7 +3938,6 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||nostalgic-agreeable-stop.glitch.me^$all
 ||dfreg.freechip2023.com^$all
 ||dapper-hexagonal-week.glitch.me^$all,to=~tescobank.com
-||candsa.top^$all,to=~auspost.com.au
 ||od.atami.no/one_drive.html$all
 ||beluxrepm.followme.fr/FolloWMe$all
 ||mybluehost.me/Cope346/$all
@@ -3979,6 +3985,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||anyplacehere.store^$all
 ||infinitytweet.me^$all
 ||infinitweet.com^$all
+||infinitytweet.com^$all
 
 ! https://www.bitdefender.com/blog/labs/ai-meets-next-gen-info-stealers-in-social-media-malvertising-campaigns/
 /^https:\/\/(?:ai|art|get)?-?midjourney(?:s|ai)[^\/]+\//$doc,domain=~midjourney.com|~edu|~gov
