@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 08 May 2024 10:48 UTC+7
-# Version: 2405081048
-# Blocked: 1,844 domains
+# Last modified: 15 May 2024 09:53 UTC+7
+# Version: 2405150953
+# Blocked: 1,846 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1116,8 +1116,7 @@
 0.0.0.0 t.sieu-viet.com
 #[subiz-cdn.com]
 0.0.0.0 public-gcs.subiz-cdn.com
-0.0.0.0 subiz-cdn.com
-0.0.0.0 www.subiz-cdn.com
+0.0.0.0 vcdn.subiz-cdn.com
 #[subiz.com]
 0.0.0.0 apiv4.subiz.com
 0.0.0.0 static.subiz.com
@@ -1427,6 +1426,7 @@
 #[log-*.epicdn.me]
 0.0.0.0 log-baodauthau.epicdn.me
 0.0.0.0 log-baogialai.epicdn.me
+0.0.0.0 log-baolaocai.epicdn.me
 0.0.0.0 log-dttc-sggp.epicdn.me
 0.0.0.0 log-en-nhandan.epicdn.me
 0.0.0.0 log-en-sggp.epicdn.me
@@ -1562,8 +1562,10 @@
 0.0.0.0 ads.baotainguyenmoitruong.vn
 0.0.0.0 ads.bkitsoftware.com
 0.0.0.0 ads.businessstyle.vn
+0.0.0.0 ads.cadovn.biz
 0.0.0.0 ads.careerbuilder.vn
 0.0.0.0 ads.carmudi.vn
+0.0.0.0 ads.cdvn.vip
 0.0.0.0 ads.chanhtuoi.com
 0.0.0.0 ads.cungcau.vn
 0.0.0.0 ads.fpt.vn
