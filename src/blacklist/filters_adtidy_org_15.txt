@@ -1,9 +1,9 @@
-! Checksum: usGkLpiop77a4w/Gb392uQ
-! Diff-Path: ../patches/15/15-s-1716597272-3600.patch
+! Checksum: 2MgP2FtVjOs5aPGfUztk+Q
+! Diff-Path: ../patches/15/15-s-1716618903-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.65.86
-! TimeUpdated: 2024-05-25T00:32:40+00:00
+! Version: 2.0.65.87
+! TimeUpdated: 2024-05-25T06:33:25+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-25T00:02:41.773Z
+! Last modified: 2024-05-25T06:01:27.529Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -23194,6 +23194,7 @@ vkcdnservice.appspot.com^
 ||milfunsource.com^
 ||militiatillers.top^
 ||milkejusd.website^
+||milksquadronsad.com^
 ||milkygoodness.xyz^
 ||milkywaynewspaper.com^
 ||millennialmedia.com^
@@ -42064,6 +42065,7 @@ vkcdnservice.appspot.com^
 ||05751c.site^
 ||07e197.site^
 ||1116c5.xyz^
+||11c7a3.xyz^
 ||1350c3.xyz^
 ||1a1fb6.xyz^
 ||20519a.xyz^
