@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-05-23 16:08:45 CEST
-# entries:        1075
+# last updated:   2024-06-01 06:19:43 CEST
+# entries:        1068
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -32,7 +32,6 @@
 127.0.0.1 ad.vidverto.io
 127.0.0.1 ad.yieldlab.net
 127.0.0.1 ad.zanox.com
-127.0.0.1 adcell.io
 127.0.0.1 addrevenue.io
 127.0.0.1 addy.expressen.se
 127.0.0.1 adeprimo.se
@@ -186,7 +185,6 @@
 127.0.0.1 bilpolicydi.bytelab.dk
 127.0.0.1 biowebb-data.s3.amazonaws.com
 127.0.0.1 bitstarz.com
-127.0.0.1 bn-01d.adtomafusion.com
 127.0.0.1 boost-cdn.manatee.dk
 127.0.0.1 boot.pbstck.com
 127.0.0.1 borsvarlden-banners.azurewebsites.net
@@ -373,7 +371,6 @@
 127.0.0.1 driftt.com
 127.0.0.1 dspk.kindredplc.com
 127.0.0.1 ds-aksb-a.akamaihd.net
-127.0.0.1 dynamic-83d822c6-3868940931.stat.truthlyanalytics.com
 127.0.0.1 e.viously.com
 127.0.0.1 eas.mediekompaniet.com
 127.0.0.1 eas1.emediate.eu
@@ -532,7 +529,6 @@
 127.0.0.1 load.sumome.com
 127.0.0.1 loader.wisepops.com
 127.0.0.1 loadr.exelator.com
-127.0.0.1 loewe.com.se
 127.0.0.1 log.cookieyes.com
 127.0.0.1 log.medietall.no
 127.0.0.1 logs.spilgames.com
@@ -540,7 +536,6 @@
 127.0.0.1 log-api.newrelic.com
 127.0.0.1 longchampstockholm.com.se
 127.0.0.1 look.ufinkln.com
-127.0.0.1 low1sneakerssverige.com
 127.0.0.1 lwadm.com
 127.0.0.1 m.extellio.com
 127.0.0.1 m1.analytics.sitevision-cloud.se
@@ -575,7 +570,6 @@
 127.0.0.1 metrics.brightcove.com
 127.0.0.1 mgdk-cdn.relevant-digital.com
 127.0.0.1 micro.rubiconproject.com
-127.0.0.1 mindreskatt.se
 127.0.0.1 missaffiliate.com
 127.0.0.1 mmetrix.mobi
 127.0.0.1 mraffiliate.com
@@ -634,6 +628,7 @@
 127.0.0.1 platform.bidgear.com
 127.0.0.1 platform.iteratehq.com
 127.0.0.1 platform-api.sharethis.com
+127.0.0.1 plausible.webfokus.no
 127.0.0.1 plus.sharedcount.com
 127.0.0.1 pm.azerioncircle.com
 127.0.0.1 popitunder.com
@@ -744,7 +739,6 @@
 127.0.0.1 servg1.net
 127.0.0.1 services.bilsyndication.com
 127.0.0.1 services.vlitag.com
-127.0.0.1 se-02.adtomafusion.com
 127.0.0.1 se-ads-microservice.ads.allermedia.io
 127.0.0.1 sgtm.inet.se
 127.0.0.1 sibautomation.com
@@ -772,7 +766,6 @@
 127.0.0.1 static.getclicky.com
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.matchads.net
-127.0.0.1 static.stat.truthlyanalytics.com
 127.0.0.1 static.step.dk
 127.0.0.1 static.ws.apsis.one
 127.0.0.1 static.zotabox.com
