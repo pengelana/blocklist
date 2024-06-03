@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-02 16:36:02 UTC                        #
+# Last updated: 2024-06-02 20:31:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dasy.68chat11.com
+127.0.0.1	colet.capsmono.com
+127.0.0.1	sera.capsmono.com
+127.0.0.1	static.nvidiadrives.com
 127.0.0.1	namex-na.com
 127.0.0.1	www.040.red
 127.0.0.1	lamayokohama.shop
@@ -11040,5 +11044,4 @@
 127.0.0.1	sahamedalato.ftp1.biz
 127.0.0.1	bza.fartit.com
 127.0.0.1	saha.fartit.com
-127.0.0.1	service-lew09ujr-1307700818.sh.apigw.tencentcs.com
-# Number of entries: 11035
+# Number of entries: 11038

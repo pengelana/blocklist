@@ -1,9 +1,9 @@
-! Checksum: AipX23TDuwpTA2XNPk8o5g
-! Diff-Path: ../patches/15/15-s-1717331674-3600.patch
+! Checksum: Ex3ZbMyc0OR1qDi4j6SUKA
+! Diff-Path: ../patches/15/15-s-1717374905-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.66.24
-! TimeUpdated: 2024-06-02T12:32:52+00:00
+! Version: 2.0.66.26
+! TimeUpdated: 2024-06-03T00:33:25+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-02T12:01:21.390Z
+! Last modified: 2024-06-03T00:02:55.542Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,8 @@
 !
 !
 !
+||fualujqbhqyn.xyz^
+||pafiptuy.net^
 ||vexolinu.com^
 ||kqduogttdmryguw.com^
 ||cdn.mcnn.pl^
@@ -62018,79 +62020,12 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
-||wqzmed.cn^
-||jxqdl.cn^
-||ieapak.xyz^
-||piksrie.icu^
-||rbrmhz.xyz^
-||aogk88.asia^
-||ksylied.top^
-||cai75tp.com^
-||enviousinevitable.com^
-||jxwqu.cn^
-||uqydcs.xyz^
-||zltndp.xyz^
-||ibaglhc.icu^
-||ssylieb.top^
-||gw2cddpt2hao.asia^
-||onxeacj.cn^
-||3601880.xyz^
-||ehhjfgs.xyz^
-||zvvlbf.xyz^
-||opwoga.xyz^
-||420909.cn^
-||bzqqftz.icu^
-||esyliew.top^
-||fpelfyeesuoivy.com^
-||nlvwdlnhfnnw.com^
-||auisaoa.top^
-||bing001.shop^
-||uskecsx.icu^
-||zhangqifeng12.top^
-||wsyliee.top^
-||abucki.xyz^
-||jinzige.cn^
-||15huhu.cn^
-||nkdgnsfsk.com^
-||sdjbvskjvds.com^
-||aeaw.cn^
-||mqaoweu.icu^
-||mninoq.xyz^
-||hpzktd.xyz^
-||mybgrea97.shop^
-||fjqcqdr.icu^
-||yzgbsg.xyz^
-||zhengwei3.top^
-||qsyliey.top^
-||pmblrt.xyz^
-||retintsmillion.com^
-||zfcoin.cn^
-||pw2ct1.asia^
-||usyliet.top^
-||ycgmnpp.icu^
-||kyemwo.xyz^
-||dfgfdffg.cn^
-||xwdjnj.xyz^
-||bfjsliv.top^
-||sseudorassb.com^
-||fdswrgg.cn^
-||vutjnt.xyz^
-||mgmuye.xyz^
-||zqgixxp.icu^
-||dssdfsf.cn^
-||cpgou.cn^
-||af9dc9.xyz^
-||goole20.shop^
-||fzpzrqou.icu^
-||yskicm.xyz^
-||osyliek.top^
-||sowsuwm.icu^
-||mnpkxgfp.xyz^
-||divxrj.xyz^
-||qywbslk.top^
-||vevhjj.xyz^
-||dajiahao9.top^
-||dajiahao10.top^
+||jsqygwl.top^
+||lsyliel.top^
+||kritgu.xyz^
+||phtivr.xyz^
+||doxihz.xyz^
+||lhmgoik.icu^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -62105,11 +62040,15 @@ inapps.appsflyersdk.com^
 ||0uvt8b.cn^
 ||0uyt5b.cn^
 ||0v1syj.cn^
+||15huhu.cn^
 ||1ny3r.icu^
 ||2jse6.icu^
 ||2qy9zm.cn^
+||3601880.xyz^
+||369bgrec.top^
 ||3bxe2.cyou^
 ||3q1lsj.cn^
+||420909.cn^
 ||4p68.com^
 ||4wu3gf.cn^
 ||51hir.cyou^
@@ -62151,9 +62090,12 @@ inapps.appsflyersdk.com^
 ||999fb.cn^
 ||999xx999kk.com^
 ||aaoisp.com^
+||abucki.xyz^
 ||actitat.com^
 ||adlhxwb.xyz^
 ||adzdgr-wadd2-f1d.com^
+||aeaw.cn^
+||af9dc9.xyz^
 ||agmed.cyou^
 ||ahtfzhs.xyz^
 ||ahyyqq.xyz^
@@ -62166,6 +62108,7 @@ inapps.appsflyersdk.com^
 ||ankczwr.icu^
 ||aoakss.com^
 ||aobtwv.icu^
+||aogk88.asia^
 ||aourgk.xyz^
 ||areyoutherenow.com^
 ||ariqye.xyz^
@@ -62173,6 +62116,7 @@ inapps.appsflyersdk.com^
 ||arnhhwo.xyz^
 ||arqvm.cn^
 ||atzhcjv.xyz^
+||auisaoa.top^
 ||awunkse72.shop^
 ||awuvcq.xyz^
 ||axa123.com^
@@ -62189,8 +62133,10 @@ inapps.appsflyersdk.com^
 ||bdxpdz.xyz^
 ||benpsbp.com^
 ||beyers.cn^
+||bfjsliv.top^
 ||bgidskiv.top^
 ||bijiangqing.com^
+||bing001.shop^
 ||bjswhpy.cn^
 ||bjxfnn.xyz^
 ||bkzmtp.xyz^
@@ -62220,10 +62166,12 @@ inapps.appsflyersdk.com^
 ||bxlmrl.xyz^
 ||bydebd.xyz^
 ||byuwkbv.top^
+||bzqqftz.icu^
 ||bzverx.xyz^
 ||bzzxyyh.xyz^
 ||c11011.com^
 ||ca2686564a.com^
+||cai75tp.com^
 ||caomaotongji.com^
 ||caomeixz7.xyz^
 ||captickc.com^
@@ -62254,6 +62202,7 @@ inapps.appsflyersdk.com^
 ||cooann.top^
 ||costarg.com^
 ||cowm199.com^
+||cpgou.cn^
 ||cqisam.xyz^
 ||cqpph.cn^
 ||crbbhp.xyz^
@@ -62275,6 +62224,8 @@ inapps.appsflyersdk.com^
 ||czxvgod.xyz^
 ||d3g4a.cyou^
 ||dadxnl.xyz^
+||dajiahao10.top^
+||dajiahao9.top^
 ||damiul.icu^
 ||dataryon.com^
 ||dawdlealmonry.com^
@@ -62283,6 +62234,7 @@ inapps.appsflyersdk.com^
 ||ddielv.cn^
 ||delhirs.com^
 ||destinyssa.com^
+||dfgfdffg.cn^
 ||dflkndkzf.com^
 ||dfprljx.xyz^
 ||dfryzh.xyz^
@@ -62291,6 +62243,7 @@ inapps.appsflyersdk.com^
 ||diccsbhij.com^
 ||difhil.icu^
 ||difmnd.xyz^
+||divxrj.xyz^
 ||djxpnuo.xyz^
 ||djxzk.top^
 ||dkjwbv.xyz^
@@ -62309,6 +62262,7 @@ inapps.appsflyersdk.com^
 ||dsbqvj.xyz^
 ||dsjhcgvhjsvc.com^
 ||dsjkbcjsjkbvs.com^
+||dssdfsf.cn^
 ||dtjpihv.xyz^
 ||dvotlhs.cn^
 ||dwbfqmz.cn^
@@ -62332,6 +62286,7 @@ inapps.appsflyersdk.com^
 ||egidskiw.top^
 ||egywbps748.shop^
 ||egywbpu286.shop^
+||ehhjfgs.xyz^
 ||ei1s7b.cn^
 ||eiegkg.xyz^
 ||eiqsky.xyz^
@@ -62345,11 +62300,13 @@ inapps.appsflyersdk.com^
 ||enalzlw.top^
 ||endolift.cn^
 ||enifdlaw.top^
+||enviousinevitable.com^
 ||eoucxzw.icu^
 ||eqqwgw.xyz^
 ||equkgm.xyz^
 ||ersjnpwf837.shop^
 ||esqhsm.xyz^
+||esyliew.top^
 ||etyusiw.top^
 ||eweriow.top^
 ||ewjhic.cn^
@@ -62359,6 +62316,7 @@ inapps.appsflyersdk.com^
 ||f7fe0.cyou^
 ||fadhvz.xyz^
 ||fbfrbt.xyz^
+||fdswrgg.cn^
 ||fefgvh.xyz^
 ||fekpcd.icu^
 ||fendeyrziz.top^
@@ -62367,7 +62325,9 @@ inapps.appsflyersdk.com^
 ||fhtfnb.xyz^
 ||fhvzrr.xyz^
 ||fidelius.cn^
+||fjqcqdr.icu^
 ||fkhxlz.xyz^
+||fklgndklbngg.com^
 ||fluxy.cn^
 ||fmfnrf.xyz^
 ||fmssoj.icu^
@@ -62375,6 +62335,7 @@ inapps.appsflyersdk.com^
 ||fonfn.com^
 ||forrzp.xyz^
 ||foscvbu.icu^
+||fpelfyeesuoivy.com^
 ||fpjjjh.xyz^
 ||fptbdr.xyz^
 ||fpvdrzx.xyz^
@@ -62388,6 +62349,7 @@ inapps.appsflyersdk.com^
 ||fxgkktj.icu^
 ||fxjnfn.xyz^
 ||fzasx.cn^
+||fzpzrqou.icu^
 ||fztyrv.xyz^
 ||gamdus.xyz^
 ||gaochen12.top^
@@ -62403,6 +62365,7 @@ inapps.appsflyersdk.com^
 ||gicjtss.cn^
 ||gkutca.xyz^
 ||golilog.com^
+||goole20.shop^
 ||gpiagk.xyz^
 ||gridline.cn^
 ||grtarpcf963.top^
@@ -62412,6 +62375,7 @@ inapps.appsflyersdk.com^
 ||gueikw.xyz^
 ||guwohvw.icu^
 ||gvbta.icu^
+||gw2cddpt2hao.asia^
 ||gxihcq.xyz^
 ||ha723.icu^
 ||halct.cn^
@@ -62445,6 +62409,7 @@ inapps.appsflyersdk.com^
 ||hphvd.cn^
 ||hptyp.icu^
 ||hpy9w.cn^
+||hpzktd.xyz^
 ||hqhspv.xyz^
 ||hrjctx.xyz^
 ||hrnkdr.xyz^
@@ -62462,8 +62427,10 @@ inapps.appsflyersdk.com^
 ||hyusnisu.top^
 ||hyuwkbu.top^
 ||iaosua.com^
+||ibaglhc.icu^
 ||icqeou.xyz^
 ||idffhq.cn^
+||ieapak.xyz^
 ||ievvo.xyz^
 ||igidskio.top^
 ||ihwlek.com^
@@ -62505,6 +62472,7 @@ inapps.appsflyersdk.com^
 ||jgntjtyf.icu^
 ||jhfcll.cn^
 ||jhnnnb.xyz^
+||jinzige.cn^
 ||jioed.cyou^
 ||jivvjl.xyz^
 ||jmesxbe.icu^
@@ -62513,8 +62481,10 @@ inapps.appsflyersdk.com^
 ||jozbun.icu^
 ||jqbddp.xyz^
 ||jqpejp.xyz^
+||jrpolj.xyz^
 ||js131.cn^
 ||jsxwfb.xyz^
+||jsyliea.top^
 ||jtyusia.top^
 ||jtzdld.xyz^
 ||jubnpx.xyz^
@@ -62522,6 +62492,8 @@ inapps.appsflyersdk.com^
 ||jvkqkzu.cn^
 ||jwerioa.top^
 ||jwhdgt.icu^
+||jxqdl.cn^
+||jxwqu.cn^
 ||jy147a.com^
 ||jypvzd.xyz^
 ||jyqkijp.icu^
@@ -62551,6 +62523,7 @@ inapps.appsflyersdk.com^
 ||kovvild.com^
 ||kpmose.xyz^
 ||kssolo.com^
+||ksylied.top^
 ||ktoioo.xyz^
 ||ktvjpmi.xyz^
 ||ktyusid.top^
@@ -62558,11 +62531,13 @@ inapps.appsflyersdk.com^
 ||kweriod.top^
 ||kwqnki.xyz^
 ||kyaywy.xyz^
+||kyemwo.xyz^
 ||kyokglm.icu^
 ||kytbxcl.cn^
 ||kyuwkbd.top^
 ||kzpizjp.cn^
 ||l5kt1.icu^
+||l7u3kf.cn^
 ||lafirx.xyz^
 ||lardmoni.com^
 ||lbyx.xyz^
@@ -62613,6 +62588,7 @@ inapps.appsflyersdk.com^
 ||meqanhm.icu^
 ||mercor.cn^
 ||mgidskix.top^
+||mgmuye.xyz^
 ||mianyaojsj.com^
 ||miningzhizhong.top^
 ||misjgy.xyz^
@@ -62623,11 +62599,14 @@ inapps.appsflyersdk.com^
 ||mmgap.cn^
 ||mmo2350.top^
 ||mnifdlax.top^
+||mninoq.xyz^
+||mnpkxgfp.xyz^
 ||mnpzrgz.xyz^
 ||moberg.cn^
 ||mohvxrvd.xyz^
 ||mondigo.cn^
 ||mpn56e.cn^
+||mqaoweu.icu^
 ||mqcoycx.icu^
 ||mqsjzm.cn^
 ||mrtxtrq.xyz^
@@ -62640,6 +62619,7 @@ inapps.appsflyersdk.com^
 ||mvirkw.xyz^
 ||mweriox.top^
 ||mxeq.cn^
+||mybgrea97.shop^
 ||naihyvz.cn^
 ||nawpyd.icu^
 ||nclljn.xyz^
@@ -62653,10 +62633,12 @@ inapps.appsflyersdk.com^
 ||njhvalu.cn^
 ||nkbkor.icu^
 ||nkbpft.xyz^
+||nkdgnsfsk.com^
 ||nkfith.xyz^
 ||nlhpxj.xyz^
 ||nljrvdh.xyz^
 ||nltsvf.xyz^
+||nlvwdlnhfnnw.com^
 ||nmntgd.cn^
 ||nowhern.com^
 ||npjvgug.xyz^
@@ -62686,8 +62668,10 @@ inapps.appsflyersdk.com^
 ||onifdlak.top^
 ||onmstgh.icu^
 ||onosyej.icu^
+||onxeacj.cn^
 ||oojjsa.com^
 ||oppnfev.xyz^
+||opwoga.xyz^
 ||oqnkur.icu^
 ||orbnarb.xyz^
 ||osafsr.xyz^
@@ -62695,6 +62679,7 @@ inapps.appsflyersdk.com^
 ||osmzym.xyz^
 ||ostjpig.cn^
 ||osusjsga.com^
+||osyliek.top^
 ||otmebdr.cn^
 ||ovjlccs.xyz^
 ||oweeiyw.icu^
@@ -62715,11 +62700,13 @@ inapps.appsflyersdk.com^
 ||pdnhcks.xyz^
 ||phvfevk.xyz^
 ||pidzlp.xyz^
+||piksrie.icu^
 ||pimg2023.com^
 ||pjzxdl.xyz^
 ||pklujb.xyz^
 ||pkyjuc.cn^
 ||plnbnd.xyz^
+||pmblrt.xyz^
 ||pmiskc.cn^
 ||pmtrkp.icu^
 ||pnxtnp.xyz^
@@ -62732,6 +62719,7 @@ inapps.appsflyersdk.com^
 ||przbzr.xyz^
 ||pseudonym.cn^
 ||pvhjkzo.xyz^
+||pw2ct1.asia^
 ||pwbuhb.xyz^
 ||pwcegau.icu^
 ||pwddhc.xyz^
@@ -62767,6 +62755,7 @@ inapps.appsflyersdk.com^
 ||qrkhwe.xyz^
 ||qrovwu.xyz^
 ||qrttfmo.cn^
+||qsyliey.top^
 ||qtoidch.icu^
 ||qtyusiy.top^
 ||qusrow.xyz^
@@ -62777,6 +62766,7 @@ inapps.appsflyersdk.com^
 ||qwerioy.top^
 ||qwsanan.top^
 ||qyuwkby.top^
+||qywbslk.top^
 ||qzalsk.xyz^
 ||qziuwzn.cn^
 ||qzozsa.xyz^
@@ -62786,11 +62776,13 @@ inapps.appsflyersdk.com^
 ||rayajmp.icu^
 ||rbfxoex.xyz^
 ||rbhunp.xyz^
+||rbrmhz.xyz^
 ||rcyzsh.icu^
 ||rczudr.xyz^
 ||rdiono.cn^
 ||regwiuv.cn^
 ||retinaesprent.com^
+||retintsmillion.com^
 ||rfnvqpo.xyz^
 ||rghqrj.xyz^
 ||rhzvlcu.xyz^
@@ -62824,6 +62816,7 @@ inapps.appsflyersdk.com^
 ||samoryinaner.com^
 ||savionl.com^
 ||sdfsad562.xyz^
+||sdjbvskjvds.com^
 ||sdjkbcjksbdsvv.com^
 ||seslco.xyz^
 ||sfkldbkldgdgh.com^
@@ -62844,13 +62837,17 @@ inapps.appsflyersdk.com^
 ||smallfo.com^
 ||snalzlb.top^
 ||snifdlab.top^
+||snjfasp.com^
 ||soffersk.com^
 ||sogoks.xyz^
 ||sosakk.xyz^
+||sowsuwm.icu^
 ||spsfupq.cn^
 ||srwwce.xyz^
 ||srzpsbf.xyz^
 ||ssestherssa.com^
+||sseudorassb.com^
+||ssylieb.top^
 ||stlpnom.xyz^
 ||styusib.top^
 ||superjj.online^
@@ -62944,8 +62941,12 @@ inapps.appsflyersdk.com^
 ||upyzqf.cn^
 ||uqrcuxp.cn^
 ||uqwbcm.xyz^
+||uqydcs.xyz^
 ||urqwzbu.cn^
+||uskecsx.icu^
 ||usltmus.cn^
+||usmgoxe.cn^
+||usyliet.top^
 ||utkauo.xyz^
 ||utxmb.cn^
 ||uu22662.com^
@@ -62969,6 +62970,7 @@ inapps.appsflyersdk.com^
 ||veaiyl.icu^
 ||vejhln.xyz^
 ||verstug.cn^
+||vevhjj.xyz^
 ||vfchm.cyou^
 ||vfgajrk.cn^
 ||vflorp.xyz^
@@ -62984,6 +62986,7 @@ inapps.appsflyersdk.com^
 ||vpzohx.xyz^
 ||vqbzpv.xyz^
 ||vszzzj.xyz^
+||vutjnt.xyz^
 ||vuvnix.icu^
 ||vuyibsm.icu^
 ||vwyycnq.cn^
@@ -63007,9 +63010,13 @@ inapps.appsflyersdk.com^
 ||wnifdlae.top^
 ||wnmaoc.xyz^
 ||wopvmmy.cn^
+||wpuiuwh.icu^
 ||wqcfg.cn^
+||wqzmed.cn^
+||wscewc.xyz^
 ||wsdwbfs.cn^
 ||wsoqwm.xyz^
+||wsyliee.top^
 ||wtyusie.top^
 ||wubizigeng.com^
 ||wvwqywz.cn^
@@ -63050,6 +63057,7 @@ inapps.appsflyersdk.com^
 ||xvpcjl.xyz^
 ||xvudqzoa.xyz^
 ||xvyugqj.icu^
+||xwdjnj.xyz^
 ||xwvnhe.cn^
 ||xxle.cn^
 ||xxsmad1.com^
@@ -63057,6 +63065,7 @@ inapps.appsflyersdk.com^
 ||xytcboyz.icu^
 ||xzrhvv.xyz^
 ||ybrrvck.xyz^
+||ycgmnpp.icu^
 ||ycqbgm.xyz^
 ||yddjmpjo.xyz^
 ||yddrqwq.xyz^
@@ -63064,6 +63073,7 @@ inapps.appsflyersdk.com^
 ||ydrvkdni.xyz^
 ||ydwkrbg.cn^
 ||ydybwjpa.xyz^
+||ygh5.cn^
 ||yhdemu368.shop^
 ||yhderd69.shop^
 ||yhgfoe.xyz^
@@ -63075,6 +63085,7 @@ inapps.appsflyersdk.com^
 ||ypgjkk.xyz^
 ||yqdnad.icu^
 ||yqlxkzs.cn^
+||yskicm.xyz^
 ||yssryr.cn^
 ||yuanpinghengkangfuyouxiangongsi.top^
 ||yvbjctqs.xyz^
@@ -63085,37 +63096,35 @@ inapps.appsflyersdk.com^
 ||yxgqgq.xyz^
 ||yyddkm526.shop^
 ||yyttmyy.cn^
+||yzgbsg.xyz^
 ||zagyjnn.cn^
 ||zailgrae.com^
 ||zca31.com^
 ||zekzoh.icu^
 ||zeqvqb.icu^
 ||zeuqmpe.icu^
+||zfcoin.cn^
 ||zfzys.top^
+||zhangqifeng12.top^
 ||zhaweifeng.com^
-||jrpolj.xyz^
-||wpuiuwh.icu^
-||ygh5.cn^
-||wscewc.xyz^
-||jsyliea.top^
-||usmgoxe.cn^
-||369bgrec.top^
-||l7u3kf.cn^
+||zhengwei3.top^
 ||zhengzhou12.top^
-||fklgndklbngg.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
+||zltndp.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zozwnv.xyz^
 ||zpplsii.xyz^
+||zqgixxp.icu^
 ||zrdga.cn^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
 ||zuvbzl.xyz^
+||zvvlbf.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
 ||zwzdjb.xyz^
@@ -66708,7 +66717,6 @@ inapps.appsflyersdk.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
-||d3d7a0q05k6bvz.cloudfront.net^
 ||06789.xyz^
 ||3p8801.co^
 ||6651tp.com^
@@ -66729,6 +66737,7 @@ inapps.appsflyersdk.com^
 ||chunmiaosh.com^
 ||cpro.baidustatic.com^
 ||d37d9zbli5ytch.cloudfront.net^
+||d3d7a0q05k6bvz.cloudfront.net^
 ||darren01.oss-cn-beijing.aliyuncs.com^
 ||dingbu.bj.bcebos.com^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
