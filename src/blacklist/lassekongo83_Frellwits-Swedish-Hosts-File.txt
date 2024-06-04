@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-06-01 06:19:43 CEST
-# entries:        1068
+# last updated:   2024-06-03 07:33:19 CEST
+# entries:        1069
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -279,6 +279,7 @@
 127.0.0.1 cdn-a.yieldlove.com
 127.0.0.1 cdn-eu.clickdimensions.com
 127.0.0.1 cdn-gl.imrworldwide.com
+127.0.0.1 cdn-header-bidding.snack-media.com
 127.0.0.1 cdn-magiclinks.trackonomics.net
 127.0.0.1 cdn-scripts.signifyd.com
 127.0.0.1 cdn.dep-x.com
