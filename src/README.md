@@ -3,12 +3,12 @@
 ~~~
 [ OK ]  23,509 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]     527 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
-[ OK ] 108,798 src/blacklist/KADhosts.txt
+[ OK ] 108,812 src/blacklist/KADhosts.txt
 [ OK ]     319 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]   7,117 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,142 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]   2,505 src/blacklist/StevenBlack_hosts.txt
-[ OK ]  12,426 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]  12,427 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,848 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,157 src/blacklist/blocklistproject_abuse.txt
 [ OK ]  23,761 src/blacklist/blocklistproject_crypto.txt
@@ -138,6 +138,8 @@
 [ OK ] 382,774 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]  49,952 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,882 src/blacklist/uBlockOrigin_badware.txt
+
+Total Blacklist: 3,123,152
 
 ~~~
 
