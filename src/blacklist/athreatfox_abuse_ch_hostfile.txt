@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-09 08:48:25 UTC                        #
+# Last updated: 2024-06-09 14:14:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rsmbscm.wikilogistics.wiki
+127.0.0.1	activecode.work
+127.0.0.1	blacktds.black
+127.0.0.1	blacktds.cloud
 127.0.0.1	service-79k3uwa0-1317712796.gz.tencentapigw.com.cn
 127.0.0.1	lebohdc.com
 127.0.0.1	pinaylizzie.com
@@ -12432,6 +12436,4 @@
 127.0.0.1	albumphotography.top
 127.0.0.1	ec2-3-220-158-139.compute-1.amazonaws.com
 127.0.0.1	blissful-kapitsa.139-28-36-237.plesk.page
-127.0.0.1	lestencrypt.dnset.com
-127.0.0.1	greatkingtravel8200.duckdns.org
-# Number of entries: 12428
+# Number of entries: 12430
