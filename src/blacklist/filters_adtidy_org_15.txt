@@ -1,9 +1,9 @@
-! Checksum: pXpD/vAwIiw0LCPXgAF1Gg
-! Diff-Path: ../patches/15/15-s-1717936494-3600.patch
+! Checksum: swbTOY1O9DPuUWAIomf1EQ
+! Diff-Path: ../patches/15/15-s-1718001310-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.66.54
-! TimeUpdated: 2024-06-09T12:33:08+00:00
+! Version: 2.0.66.57
+! TimeUpdated: 2024-06-10T06:33:27+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-09T12:01:27.077Z
+! Last modified: 2024-06-10T06:01:11.229Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -62191,6 +62191,13 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||ligfdjnfd.cn^
+||ozykeor.icu^
+||yxkbgg.xyz^
+||davtvd.xyz^
+||efjsliw.top^
+||hkpeghqu.icu^
+||jglgjz.xyz^
 ||fczunn.xyz^
 ||mymqcy.xyz^
 ||roxfrv.xyz^
@@ -62202,6 +62209,9 @@ inapps.appsflyersdk.com^
 ||hvzrrvj.cn^
 ||bing007.shop^
 ||thgthgfg.cn^
+||gfdgfhh.cn^
+||po2qgo.xyz^
+||kak17p.xyz^
 ||oaqrui.xyz^
 ||tcfgtd.xyz^
 ||jfjslia.top^
