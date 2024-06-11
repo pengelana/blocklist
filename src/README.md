@@ -3,12 +3,12 @@
 ~~~
 [ OK ]  23,509 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]     527 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
-[ OK ] 109,198 src/blacklist/KADhosts.txt
+[ OK ] 109,345 src/blacklist/KADhosts.txt
 [ OK ]     319 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]   7,117 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,142 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]   2,505 src/blacklist/StevenBlack_hosts.txt
-[ OK ]  12,387 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]  12,388 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,850 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,157 src/blacklist/blocklistproject_abuse.txt
 [ OK ]  23,761 src/blacklist/blocklistproject_crypto.txt
@@ -113,7 +113,7 @@
 [NOK ]       0 src/blacklist/blocklists-withsecure.txt
 [ OK ]      35 src/blacklist/blocklists-yarix.txt
 [ OK ]     202 src/blacklist/blocklists-yoroi.txt
-[ OK ]     652 src/blacklist/blocklists-zscaler.txt
+[ OK ]     696 src/blacklist/blocklists-zscaler.txt
 [ OK ]     833 src/blacklist/craiu_list.txt
 [ OK ]      40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]   4,782 src/blacklist/durablenapkin_hosts.txt
@@ -131,22 +131,22 @@
 [ OK ]     176 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]   2,276 src/blacklist/matomo_org_spammers.txt
 [ OK ]      35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]  46,293 src/blacklist/oisd_small.txt
+[ OK ]  46,276 src/blacklist/oisd_small.txt
 [ OK ]      91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]     202 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]  11,741 src/blacklist/someonewhocares_hosts.txt
 [ OK ]  18,090 src/blacklist/stamparm_blackbook.txt
 [ OK ] 383,153 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]  49,968 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]  49,969 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,883 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist: 3,134,894
+Total Blacklist: 3,135,070
 
-   LENGTH     TOTAL
-        2 1,141,095
-        3   332,069
-        4    30,152
-        5    14,029
+   LENGTH     COUNT
+        2 1,141,162
+        3   332,071
+        4    30,154
+        5    14,031
         6     3,549
         7     1,331
         8     2,291
@@ -161,7 +161,7 @@ Total Blacklist: 3,134,894
        17         4
        19         2
 
-Total Blocklist: 1,525,890
+Total Blocklist: 1,525,963
 
 ~~~
 

@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-11 05:19:47 UTC                        #
+# Last updated: 2024-06-11 08:57:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	organic-satire-gw.aws-euc1.cloud-ara.tyk.io
+127.0.0.1	v2.events.data.microsoftsubmit.com
 127.0.0.1	listing-trackbacks.gl.at.ply.gg
 127.0.0.1	jkshb.su
 127.0.0.1	xiao.spicn.xyz
@@ -12393,5 +12395,4 @@
 127.0.0.1	ec2-18-184-2-38.eu-central-1.compute.amazonaws.com
 127.0.0.1	ecs-110-41-11-72.compute.hwclouds-dns.com
 127.0.0.1	doc.belstar.com.cn
-127.0.0.1	cdn-uk.widgetsfordeploy.com
-# Number of entries: 12388
+# Number of entries: 12389
