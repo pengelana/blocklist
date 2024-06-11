@@ -130,7 +130,7 @@
 [ OK ]   1,070 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
 [ OK ]     176 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]   2,276 src/blacklist/matomo_org_spammers.txt
-[ OK ]     519 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
+[ OK ]      35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]  46,293 src/blacklist/oisd_small.txt
 [ OK ]      91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]     202 src/blacklist/quidsup_notrack-malware.txt
@@ -140,15 +140,15 @@
 [ OK ]  49,968 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,883 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist: 3,135,378
+Total Blacklist: 3,134,894
 
    LENGTH     TOTAL
-        2 1,141,094
-        3   332,062
-        4    30,154
-        5    14,055
-        6     3,555
-        7     1,333
+        2 1,141,095
+        3   332,069
+        4    30,152
+        5    14,029
+        6     3,549
+        7     1,331
         8     2,291
         9     1,038
        10       233
@@ -161,7 +161,7 @@ Total Blacklist: 3,135,378
        17         4
        19         2
 
-Total Blocklist: 1,525,918
+Total Blocklist: 1,525,890
 
 ~~~
 
@@ -212,7 +212,7 @@ https://blocklistproject.github.io/Lists/tracking.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt
-https://github.com/nextdns/cname-cloaking-blocklist/blob/master/domains
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 
 ~~~
 
