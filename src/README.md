@@ -3,12 +3,17 @@
 ~~~
 [ OK ]  23,509 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]     527 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
-[ OK ] 109,345 src/blacklist/KADhosts.txt
+[ OK ]     103 src/blacklist/GoodbyeAds-Samsung-AdBlock.txt
+[ OK ]   3,780 src/blacklist/GoodbyeAds-Spotify-AdBlock.txt
+[ OK ]     278 src/blacklist/GoodbyeAds-Xiaomi-Extension.txt
+[ OK ]  97,645 src/blacklist/GoodbyeAds-YouTube-AdBlock.txt
+[ OK ] 323,195 src/blacklist/GoodbyeAds.txt
+[ OK ] 109,613 src/blacklist/KADhosts.txt
 [ OK ]     319 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]   7,117 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,142 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]   2,505 src/blacklist/StevenBlack_hosts.txt
-[ OK ]  12,388 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]  12,367 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,850 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,157 src/blacklist/blocklistproject_abuse.txt
 [ OK ]  23,761 src/blacklist/blocklistproject_crypto.txt
@@ -20,7 +25,7 @@
 [ OK ] 108,684 src/blacklist/blocklistproject_redirect.txt
 [ OK ]   1,274 src/blacklist/blocklistproject_scam.txt
 [ OK ]  15,070 src/blacklist/blocklistproject_tracking.txt
-[ OK ]   1,060 src/blacklist/blocklists-ahnlab.txt
+[ OK ]   1,129 src/blacklist/blocklists-ahnlab.txt
 [ OK ]      32 src/blacklist/blocklists-akamai.txt
 [NOK ]       0 src/blacklist/blocklists-alienlabs.txt
 [ OK ]     142 src/blacklist/blocklists-alternate.txt
@@ -42,7 +47,7 @@
 [NOK ]       0 src/blacklist/blocklists-crowdstrike.txt
 [NOK ]      18 src/blacklist/blocklists-csirt.txt
 [NOK ]       0 src/blacklist/blocklists-cyberint.txt
-[ OK ]     407 src/blacklist/blocklists-cyble.txt
+[ OK ]     421 src/blacklist/blocklists-cyble.txt
 [ OK ]     135 src/blacklist/blocklists-cyfirma.txt
 [NOK ]       0 src/blacklist/blocklists-d3lab.txt
 [ OK ]     103 src/blacklist/blocklists-deepinstinct.txt
@@ -117,40 +122,40 @@
 [ OK ]     833 src/blacklist/craiu_list.txt
 [ OK ]      40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]   4,782 src/blacklist/durablenapkin_hosts.txt
-[ OK ]  67,529 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]  67,534 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]     355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]  30,876 src/blacklist/hagezi_fake.txt
-[ OK ]  78,425 src/blacklist/hagezi_popup.txt
-[ OK ] 701,065 src/blacklist/hagezi_tif.txt
+[ OK ]  77,645 src/blacklist/hagezi_popup.txt
+[ OK ] 696,033 src/blacklist/hagezi_tif.txt
 [ OK ]     409 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]     753 src/blacklist/hpthreatresearch_domains.txt
 [ OK ]     307 src/blacklist/ioclist.domain.raw.txt
 [ OK ]     220 src/blacklist/ioclist.hostname.raw.txt
 [ OK ] 104,827 src/blacklist/jarelllama_domains.txt
 [ OK ]   1,070 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
-[ OK ]     176 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
-[ OK ]   2,276 src/blacklist/matomo_org_spammers.txt
+[ OK ]     167 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
+[ OK ]   2,282 src/blacklist/matomo_org_spammers.txt
 [ OK ]      35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]  46,276 src/blacklist/oisd_small.txt
+[ OK ]  46,211 src/blacklist/oisd_small.txt
 [ OK ]      91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]     202 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]  11,741 src/blacklist/someonewhocares_hosts.txt
 [ OK ]  18,090 src/blacklist/stamparm_blackbook.txt
 [ OK ] 383,153 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]  49,969 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
-[ OK ]   2,883 src/blacklist/uBlockOrigin_badware.txt
+[ OK ]  49,970 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]   2,880 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist: 3,135,070
+Total Blacklist: 3,554,524
 
    LENGTH     COUNT
-        2 1,141,162
-        3   332,071
-        4    30,154
-        5    14,031
-        6     3,549
-        7     1,331
-        8     2,291
-        9     1,038
+        2 1,181,926
+        3   461,358
+        4    63,580
+        5    16,617
+        6     4,046
+        7     1,604
+        8     2,297
+        9     1,042
        10       233
        11        41
        12        18
@@ -161,7 +166,7 @@ Total Blacklist: 3,135,070
        17         4
        19         2
 
-Total Blocklist: 1,525,963
+Total Blocklist: 1,732,806
 
 ~~~
 
