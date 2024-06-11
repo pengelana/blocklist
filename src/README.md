@@ -8,7 +8,7 @@
 [ OK ]     278 src/blacklist/GoodbyeAds-Xiaomi-Extension.txt
 [ OK ]  97,645 src/blacklist/GoodbyeAds-YouTube-AdBlock.txt
 [ OK ] 323,195 src/blacklist/GoodbyeAds.txt
-[ OK ] 109,613 src/blacklist/KADhosts.txt
+[ OK ] 109,771 src/blacklist/KADhosts.txt
 [ OK ]     319 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]   7,117 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,142 src/blacklist/Spam404_main-blacklist.txt
@@ -145,12 +145,12 @@
 [ OK ]  49,970 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,880 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist: 3,554,524
+Total Blacklist: 3,554,682
 
    LENGTH     COUNT
-        2 1,181,926
-        3   461,358
-        4    63,580
+        2 1,181,967
+        3   461,392
+        4    63,582
         5    16,617
         6     4,046
         7     1,604
@@ -166,7 +166,7 @@ Total Blacklist: 3,554,524
        17         4
        19         2
 
-Total Blocklist: 1,732,806
+Total Blocklist: 1,732,883
 
 ~~~
 
