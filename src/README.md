@@ -8,12 +8,12 @@
 [ OK ]     278 src/blacklist/GoodbyeAds-Xiaomi-Extension.txt
 [ OK ]  97,645 src/blacklist/GoodbyeAds-YouTube-AdBlock.txt
 [ OK ] 323,195 src/blacklist/GoodbyeAds.txt
-[ OK ] 109,821 src/blacklist/KADhosts.txt
+[ OK ] 110,841 src/blacklist/KADhosts.txt
 [ OK ]     319 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]   7,117 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,142 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]   2,505 src/blacklist/StevenBlack_hosts.txt
-[ OK ]  12,355 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]  12,345 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,850 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,157 src/blacklist/blocklistproject_abuse.txt
 [ OK ]  23,761 src/blacklist/blocklistproject_crypto.txt
@@ -113,7 +113,7 @@
 [NOK ]       0 src/blacklist/blocklists-unit42-silverterrier.txt
 [ OK ]     795 src/blacklist/blocklists-unit42.txt
 [ OK ]     135 src/blacklist/blocklists-uscert.txt
-[ OK ]   2,072 src/blacklist/blocklists-various.txt
+[ OK ]   2,094 src/blacklist/blocklists-various.txt
 [ OK ]     172 src/blacklist/blocklists-volexity.txt
 [NOK ]       0 src/blacklist/blocklists-withsecure.txt
 [ OK ]      35 src/blacklist/blocklists-yarix.txt
@@ -122,37 +122,38 @@
 [ OK ]     833 src/blacklist/craiu_list.txt
 [ OK ]      40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]   4,825 src/blacklist/durablenapkin_hosts.txt
-[ OK ]  67,557 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]  67,560 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]     355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]  30,892 src/blacklist/hagezi_fake.txt
-[ OK ]  77,731 src/blacklist/hagezi_popup.txt
-[ OK ] 692,147 src/blacklist/hagezi_tif.txt
+[ OK ]  77,721 src/blacklist/hagezi_popup.txt
+[ OK ] 692,906 src/blacklist/hagezi_tif.txt
 [ OK ]     409 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]     753 src/blacklist/hpthreatresearch_domains.txt
 [ OK ]     307 src/blacklist/ioclist.domain.raw.txt
 [ OK ]     220 src/blacklist/ioclist.hostname.raw.txt
 [ OK ] 104,827 src/blacklist/jarelllama_domains.txt
 [ OK ]   1,070 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
-[ OK ]     186 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
+[ OK ]     192 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]   2,282 src/blacklist/matomo_org_spammers.txt
-[ OK ]  46,072 src/blacklist/oisd_small.txt
+[ OK ]      35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
+[ OK ]  46,155 src/blacklist/oisd_small.txt
 [ OK ]      91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]     202 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]  11,742 src/blacklist/someonewhocares_hosts.txt
 [ OK ]  18,090 src/blacklist/stamparm_blackbook.txt
 [ OK ] 383,274 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]  49,972 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
-[ OK ]   2,877 src/blacklist/uBlockOrigin_badware.txt
+[ OK ]  49,975 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]   2,881 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist: 3,551,088
+Total Blacklist: 3,553,003
 
    LENGTH     COUNT
-        2 1,182,848
-        3   458,499
-        4    63,404
-        5    16,620
+        2 1,183,428
+        3   458,838
+        4    63,402
+        5    16,624
         6     4,045
-        7     1,603
+        7     1,604
         8     2,297
         9     1,042
        10       233
@@ -165,7 +166,7 @@ Total Blacklist: 3,551,088
        17         4
        19         2
 
-Total Blocklist: 1,730,694
+Total Blocklist: 1,731,616
 
 ~~~
 
@@ -221,6 +222,7 @@ https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAd
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 
 ~~~
 
