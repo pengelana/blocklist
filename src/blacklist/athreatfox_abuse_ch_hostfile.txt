@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-12 13:58:14 UTC                        #
+# Last updated: 2024-06-13 03:25:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bsrc.baidusec.top
+127.0.0.1	as.baidusec.top
+127.0.0.1	b2b.baidusec.top
+127.0.0.1	tag.baidusec.top
+127.0.0.1	alphormo.servequake.com
+127.0.0.1	fix.sougou87.top
+127.0.0.1	cstrike.webroot.top
+127.0.0.1	service-opql05nu-1253504731.gz.tencentapigw.com.cn
+127.0.0.1	service-i4ipkrwm-1317712796.gz.tencentapigw.com.cn
 127.0.0.1	www.qtvnews.com
 127.0.0.1	api.sftech.one
 127.0.0.1	ad-ed.xyz
@@ -12347,9 +12356,4 @@
 127.0.0.1	orionparti.com
 127.0.0.1	limperus.com
 127.0.0.1	api.speech-microsoft.com
-127.0.0.1	martenesid.com
-127.0.0.1	lorented.com
-127.0.0.1	frasana.com
-127.0.0.1	filersed.com
-127.0.0.1	kelsoret.com
-# Number of entries: 12346
+# Number of entries: 12350
