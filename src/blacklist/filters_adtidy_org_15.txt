@@ -1,9 +1,9 @@
-! Checksum: DwQUFSOahTSxtlh8CiyPHQ
-! Diff-Path: ../patches/15/15-s-1718433297-3600.patch
+! Checksum: m1WSzkaLBdo+q61Dw55SfQ
+! Diff-Path: ../patches/15/15-s-1718476487-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.66.77
-! TimeUpdated: 2024-06-15T06:33:16+00:00
+! Version: 2.0.66.79
+! TimeUpdated: 2024-06-15T18:33:08+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-15T06:01:10.594Z
+! Last modified: 2024-06-15T18:01:18.174Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -4126,7 +4126,6 @@ vkcdnservice.appspot.com^
 ||allocatelacking.com^
 ||allodiafeveret.life^
 ||allodsubussu.com^
-||alloha.tv^
 ||allotnegate.com^
 ||allotupwardmalicious.com^
 ||allow-to-continue.com^
@@ -12131,6 +12130,7 @@ vkcdnservice.appspot.com^
 ||echaruropygi.com^
 ||echehalids.guru^
 ||echevintrunnel.top^
+||echinusandaste.com^
 ||echiovlhu.com^
 ||echoachy.xyz^
 ||echocultdanger.com^
@@ -12555,6 +12555,7 @@ vkcdnservice.appspot.com^
 ||embodimentpronounrunway.com^
 ||embodygoes.com^
 ||embogsoarers.com^
+||embolipokies.com^
 ||embrailcamino.top^
 ||embtrk.com^
 ||embwmpt.com^
@@ -13560,6 +13561,7 @@ vkcdnservice.appspot.com^
 ||faithfullyprotectionundo.com^
 ||faithfullywringfriendship.com^
 ||faithiqs.com^
+||faituzou.net^
 ||faiverty-station.com^
 ||faiwastauk.com^
 ||fajukc.com^
@@ -15329,6 +15331,7 @@ vkcdnservice.appspot.com^
 ||germmasonportfolio.com^
 ||geruksom.net^
 ||gerybeeper.guru^
+||gesanbarrat.com^
 ||gessoesbeavers.uno^
 ||get-browseprotection.com^
 ||get-gx.net^
@@ -15488,6 +15491,7 @@ vkcdnservice.appspot.com^
 ||gimmalscutches.com^
 ||gimme-promo.com^
 ||gimohhfzvmpdt.com^
+||gimpsgenips.com^
 ||gimwcpketr.com^
 ||ginchoirblessed.com^
 ||ginfohpg.com^
@@ -28207,6 +28211,7 @@ vkcdnservice.appspot.com^
 ||propulsionstatute.com^
 ||propulsionswarm.com^
 ||propvideo.net^
+||proreancostaea.com^
 ||prorentisol.com^
 ||proscholarshub.com^
 ||proscontaining.com^
@@ -34708,6 +34713,7 @@ vkcdnservice.appspot.com^
 ||thunderhead.com^
 ||thunderous-request.pro^
 ||thuphedsaup.com^
+||thupsirsifte.xyz^
 ||thurnflfant.com^
 ||thursailso.com^
 ||thursdaydurabledisco.com^
@@ -40529,6 +40535,7 @@ vkcdnservice.appspot.com^
 ||alienhub.xyz^
 ||alimama.com^
 ||allmediadesk.com^
+||alloha.tv^
 ||alpha-affiliates.com^
 ||alright.network^
 ||amateur.cash^
@@ -41499,6 +41506,7 @@ vkcdnservice.appspot.com^
 ||8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online^
 ||977878.xyz^
 ||97b448.xyz^
+||9814b49f.xyz^
 ||a49ebd.xyz^
 ||a67d12.xyz^
 ||b0eb63.xyz^
@@ -41524,6 +41532,7 @@ vkcdnservice.appspot.com^
 ||de214f.xyz^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
+||e1ce13d5.xyz^
 ||ec44.site^
 ||f090.site^
 ||f2f8.xyz^
@@ -50728,6 +50737,7 @@ inapps.appsflyersdk.com^
 ||ade.googlesyndication.com^
 ||adfox.yandex.ru^
 ||adlog.com.com^
+||adv-analytics-collector.videograph.ai^
 ||affiliate-api.raptive.com^
 ||affiliates.minglematch.com^
 ||alexandria.marfeelcdn.com^
@@ -57232,9 +57242,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jun 2024 22:46 UTC+7
-! OriginalVersion: 2406122246
-! Blocked: 885 rules
+! Last modified: 15 Jun 2024 21:16 UTC+7
+! OriginalVersion: 2406152116
+! Blocked: 892 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -57518,6 +57528,9 @@ inapps.appsflyersdk.com^
 ||vads.net.vn^
 ||vads.vn^
 ||vcdn.subiz-cdn.com^
+||vda.viettel.vn^
+||vdacdn1.viettel.vn^
+||vdacdn2.viettel.vn^
 ||viam.com.vn^
 ||vietnamnetad.vn^
 ||vipads.cc^
@@ -57595,9 +57608,11 @@ inapps.appsflyersdk.com^
 ||ads.baoangiang.com.vn^
 ||ads.baobinhduong.vn^
 ||ads.baobinhthuan.com.vn^
+||ads.baocamau.vn^
 ||ads.baocantho.com.vn^
 ||ads.baodatviet.vn^
 ||ads.baohaiduong.vn^
+||ads.baolongan.vn^
 ||ads.baotainguyenmoitruong.vn^
 ||ads.bkitsoftware.com^
 ||ads.businessstyle.vn^
@@ -57621,6 +57636,7 @@ inapps.appsflyersdk.com^
 ||ads.markettimes.vn^
 ||ads.marry.vn^
 ||ads.nghenhinvietnam.vn^
+||ads.nguoiduatin.vn^
 ||ads.nhadatmoi.net^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
@@ -57995,6 +58011,7 @@ inapps.appsflyersdk.com^
 ||track.popsww.com^
 ||track.sendo.vn^
 ||track.vio.edu.vn^
+||track.winigroup.vn^
 ||tracker.anime47.com^
 ||tracker.edupia.vn^
 ||tracker.fado.vn^
@@ -58058,9 +58075,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 12 Jun 2024 16:43 UTC+7
-! OriginalVersion: 2406121643
-! Blocked: 4,327 rules
+! Last modified: 15 Jun 2024 21:17 UTC+7
+! OriginalVersion: 2406152117
+! Blocked: 4,328 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -60855,6 +60872,7 @@ inapps.appsflyersdk.com^
 ||suachuadienmayxanh.com.vn^
 ||suativinguyenkim.com^
 ||subducgiare.shop^
+||suckhoetainha.site^
 ||suitablepartner.life^
 ||sukiem-muahe-pubgmobilevn.com^
 ||sukien-2021lmht.ga^
@@ -62304,6 +62322,8 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||dvgjx.cn^
+||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -62318,7 +62338,6 @@ inapps.appsflyersdk.com^
 ||tjuspyk.icu^
 ||zkrdzn.xyz^
 ||zmbmoxij.icu^
-||d1zoi2q7y0e4d.cloudfront.net^
 ||xx3691b.com^
 ||1028images.com^
 ||537images1.com^
@@ -62354,6 +62373,8 @@ inapps.appsflyersdk.com^
 ||bbqoa.top^
 ||fogolakda.top^
 ||szdpk.cn^
+||9216tp1.com^
+||xianliao.voto^
 ||0op8kh.cn^
 ||0oqt9i.cn^
 ||0q5joc.cn^
@@ -67150,6 +67171,7 @@ inapps.appsflyersdk.com^
 ||ads-6686.top^
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||alimama.alicdn.com^
+||d1zoi2q7y0e4d.cloudfront.net^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||baiducom.bj.bcebos.com^
 ||cb.baidu.com^
