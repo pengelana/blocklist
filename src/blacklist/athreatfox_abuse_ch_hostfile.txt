@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-16 08:57:40 UTC                        #
+# Last updated: 2024-06-16 14:42:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ieee-ecce.info
+127.0.0.1	kauzalvip.com
+127.0.0.1	nakit-yok.org
+127.0.0.1	nathanhr.services
+127.0.0.1	evolved-fashion.azurewebsites.net
 127.0.0.1	monitor.kdkz1213.icu
 127.0.0.1	api.kdkz1213.icu
 127.0.0.1	appstore.windowsupdate.shop
@@ -12129,4 +12134,4 @@
 127.0.0.1	ruggioil.com
 127.0.0.1	torusdt.vvvvvbeng.com
 127.0.0.1	microsoftsyst3m.com
-# Number of entries: 12123
+# Number of entries: 12128
