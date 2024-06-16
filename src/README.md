@@ -13,6 +13,7 @@
 [ OK ]   7,117 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,142 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]   2,505 src/blacklist/StevenBlack_hosts.txt
+[ OK ] 107,307 src/blacklist/anti-ad-domains.txt
 [ OK ]  12,127 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,860 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,157 src/blacklist/blocklistproject_abuse.txt
@@ -145,16 +146,16 @@
 [ OK ]  49,995 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,883 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist: 3,262,468
+Total Blacklist: 3,369,775
 
    LENGTH     COUNT
-        2 1,151,948
-        3   419,475
-        4    42,184
-        5    14,447
-        6     3,563
-        7     1,544
-        8     2,290
+        2 1,158,575
+        3   447,364
+        4    48,712
+        5    15,144
+        6     3,730
+        7     1,583
+        8     2,296
         9     1,041
        10       233
        11        41
@@ -166,7 +167,7 @@ Total Blacklist: 3,262,468
        17         4
        19         2
 
-Total Blocklist: 1,636,828
+Total Blocklist: 1,678,781
 
 ~~~
 
@@ -222,6 +223,7 @@ https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAd
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
 
 ~~~
 
