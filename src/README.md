@@ -8,13 +8,13 @@
 [ OK ]   3,780 src/blacklist/GoodbyeAds-Spotify-AdBlock.txt
 [ OK ]     278 src/blacklist/GoodbyeAds-Xiaomi-Extension.txt
 [ OK ]  97,645 src/blacklist/GoodbyeAds-YouTube-AdBlock.txt
-[ OK ] 114,637 src/blacklist/KADhosts.txt
+[ OK ] 114,918 src/blacklist/KADhosts.txt
 [ OK ]     319 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]   7,117 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,142 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]   2,505 src/blacklist/StevenBlack_hosts.txt
 [ OK ] 107,331 src/blacklist/anti-ad-domains.txt
-[ OK ]  12,127 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]  12,129 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,862 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,157 src/blacklist/blocklistproject_abuse.txt
 [ OK ]  23,761 src/blacklist/blocklistproject_crypto.txt
@@ -25,6 +25,7 @@
 [ OK ]   1,904 src/blacklist/blocklistproject_ransomware.txt
 [ OK ] 108,684 src/blacklist/blocklistproject_redirect.txt
 [ OK ]   1,274 src/blacklist/blocklistproject_scam.txt
+[ OK ]  15,070 src/blacklist/blocklistproject_tracking.txt
 [ OK ]   1,198 src/blacklist/blocklists-ahnlab.txt
 [ OK ]      32 src/blacklist/blocklists-akamai.txt
 [NOK ]       0 src/blacklist/blocklists-alienlabs.txt
@@ -122,7 +123,7 @@
 [ OK ]     833 src/blacklist/craiu_list.txt
 [ OK ]      40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]   4,832 src/blacklist/durablenapkin_hosts.txt
-[ OK ]  67,736 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]  67,742 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]     355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]  31,104 src/blacklist/hagezi_fake.txt
 [ OK ]  79,382 src/blacklist/hagezi_popup.txt
@@ -146,28 +147,28 @@
 [ OK ]  49,995 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,883 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist: 3,565,530
+Total Blacklist: 3,580,889
 
    LENGTH     COUNT
-        2 1,184,884
-        3   463,369
-        4    49,559
-        5    15,224
-        6     3,736
-        7     1,587
-        8     2,298
-        9     1,041
-       10       233
-       11        41
-       12        18
-       13        12
-       14         9
-       15         9
-       16         8
-       17         4
+        2 1,053,387
+        3   432,394
+        4    44,496
+        5    14,660
+        6     3,329
+        7     1,453
+        8     2,243
+        9       787
+       10       223
+       11        31
+       12        14
+       13         6
+       14         7
+       15         6
+       16         5
+       17         1
        19         2
 
-Total Blocklist: 1,722,034
+Total Blocklist: 1,553,044
 
 ~~~
 
@@ -214,6 +215,7 @@ https://blocklistproject.github.io/Lists/phishing.txt
 https://blocklistproject.github.io/Lists/ransomware.txt
 https://blocklistproject.github.io/Lists/redirect.txt
 https://blocklistproject.github.io/Lists/scam.txt
+https://blocklistproject.github.io/Lists/tracking.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt
