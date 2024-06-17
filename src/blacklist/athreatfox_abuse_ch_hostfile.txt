@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-16 14:42:03 UTC                        #
+# Last updated: 2024-06-16 20:49:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	homeimageidea.com
 127.0.0.1	ieee-ecce.info
 127.0.0.1	kauzalvip.com
 127.0.0.1	nakit-yok.org
@@ -12133,5 +12134,4 @@
 127.0.0.1	satanishere-48375.portmap.io
 127.0.0.1	ruggioil.com
 127.0.0.1	torusdt.vvvvvbeng.com
-127.0.0.1	microsoftsyst3m.com
 # Number of entries: 12128
