@@ -1,9 +1,9 @@
-! Checksum: u6L2EttZTAAMcHTRMIp0ig
-! Diff-Path: ../patches/15/15-s-1718714185-3600.patch
+! Checksum: Q+Hp81dvHxd78mM3m95H0Q
+! Diff-Path: ../patches/15/15-s-1718735683-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.66.92
-! TimeUpdated: 2024-06-18T12:34:27+00:00
+! Version: 2.0.66.93
+! TimeUpdated: 2024-06-18T18:32:44+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-18T12:25:02.601Z
+! Last modified: 2024-06-18T18:01:23.012Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -4961,6 +4961,7 @@ vkcdnservice.appspot.com^
 ||arwartortleer.com^
 ||arwhismura.com^
 ||aryabzerznlvn.top^
+||arylidealchemy.com^
 ||arzanphearse.com^
 ||as5000.com^
 ||asacdn.com^
@@ -6234,6 +6235,7 @@ vkcdnservice.appspot.com^
 ||berchchisel.com^
 ||berendphloeum.com^
 ||berenicepunch.com^
+||bergertubbie.com^
 ||bergsmouflon.com^
 ||berideshaptin.com^
 ||berinsestoray.com^
@@ -7492,6 +7494,7 @@ vkcdnservice.appspot.com^
 ||bungalowlame.com^
 ||bungalowsimply.com^
 ||bungarovet.com^
+||bungeedubbah.com^
 ||bunintruder.com^
 ||bunnymediaserver.com^
 ||bunquaver.com^
@@ -11658,6 +11661,7 @@ vkcdnservice.appspot.com^
 ||drawbackcaptiverusty.com^
 ||drawbacksubdue.com^
 ||draweesjabbers.com^
+||draweesoutkiss.com^
 ||drawerenter.com^
 ||drawerfontactual.com^
 ||drawergypsyavalanche.com^
@@ -12433,6 +12437,7 @@ vkcdnservice.appspot.com^
 ||ehpvvxyp.com^
 ||ehpxmsqghx.xyz^
 ||ehqdzqi.com^
+||ehrydnmdoe.com^
 ||eicbgbnbvjf.com^
 ||eiderswergelt.com^
 ||eidosrebegin.com^
@@ -19171,6 +19176,7 @@ vkcdnservice.appspot.com^
 ||jatdticl.com^
 ||jatfugios.com^
 ||jatomayfair.life^
+||jatosbathkol.com^
 ||jatsekse.net^
 ||jattepush.com^
 ||jaubaibil.com^
@@ -24769,6 +24775,7 @@ vkcdnservice.appspot.com^
 ||nursecompellingsmother.com^
 ||nurserysurvivortogether.com^
 ||nuseek.com^
+||nutantvirific.com^
 ||nutattorneyjack.com^
 ||nutchaungong.com^
 ||nutgxfwechkcuf.com^
@@ -30045,6 +30052,7 @@ vkcdnservice.appspot.com^
 ||rerpartmentm.info^
 ||reryn2ce.com^
 ||reryn3ce.com^
+||rerynjie.com^
 ||resailsgyse.com^
 ||resalag.com^
 ||resaypyche.top^
@@ -35978,6 +35986,7 @@ vkcdnservice.appspot.com^
 ||ufzanvc.com^
 ||ufzqrmflbnlze.com^
 ||ugahutoa.com^
+||ugailidsay.xyz^
 ||ugalia.com^
 ||ugawnotrjj.xyz^
 ||ugdffrszmrapj.com^
@@ -36102,6 +36111,7 @@ vkcdnservice.appspot.com^
 ||umiackscursors.com^
 ||umoughtcallm.com^
 ||umoxomv.icu^
+||umpedshumal.com^
 ||umplmoht.com^
 ||umplohzn.com^
 ||umqiapzsc.com^
@@ -37995,6 +38005,7 @@ vkcdnservice.appspot.com^
 ||wesmuqjisx.com^
 ||westernhungryadditions.com^
 ||westernwhetherowen.com^
+||westeselva.com^
 ||westreflection.com^
 ||westslendersolitary.com^
 ||westspulse.com^
@@ -52612,6 +52623,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||bidmatic.io^
 ||vidscriptshark.com^
 ||1qe.info^
 ||23oct2023.site^
@@ -55446,6 +55458,8 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ttad125.com^
+||996js123.com^
 ||ad.886112.xyz^
 ||1x5jlh.xyz^
 ||98765.pw^
@@ -62449,6 +62463,8 @@ inapps.appsflyersdk.com^
 ||dfvmzx.xyz^
 ||fgadsqdma.top^
 ||daksflkalq.top^
+||cduno.cn^
+||infocab888.life^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
