@@ -1,9 +1,9 @@
-! Checksum: 7qFS//SvRaoAvpCu5T1pTA
-! Diff-Path: ../patches/15/15-s-1718692503-3600.patch
+! Checksum: u6L2EttZTAAMcHTRMIp0ig
+! Diff-Path: ../patches/15/15-s-1718714185-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.66.91
-! TimeUpdated: 2024-06-18T06:33:11+00:00
+! Version: 2.0.66.92
+! TimeUpdated: 2024-06-18T12:34:27+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-18T06:01:08.270Z
+! Last modified: 2024-06-18T12:25:02.601Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -49094,6 +49094,7 @@ vkcdnservice.appspot.com^
 ||hit.mynet.com^
 ||hits.dealer.com^
 ||hits.theguardian.com^
+||hits.top.lv^
 ||hitweb2.chosun.com^
 ||hm.baidu.com^
 ||hodor-collect.arabam.com^
@@ -51264,6 +51265,7 @@ inapps.appsflyersdk.com^
 ||pl.connatix.com^
 ||pla.fwdcdn.com^
 ||platform.iteratehq.com^
+||plausible.server.hakai.app^
 ||plausibleio.workers.dev^
 ||play.adtonos.com^
 ||player-metrics.instaread.co^
@@ -51976,7 +51978,6 @@ inapps.appsflyersdk.com^
 ! Latvian
 ||mcloudglobal.com^
 ||ppdb.pl^
-||top.lv^
 ||wos.lv^
 ||maxtraffic.com^
 ||mxapis.com^
