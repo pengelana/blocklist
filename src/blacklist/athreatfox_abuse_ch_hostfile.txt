@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-18 09:00:43 UTC                        #
+# Last updated: 2024-06-18 14:10:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-rfgb6jer-1257331363.sh.tencentapigw.com
 127.0.0.1	www.xincyun.com
 127.0.0.1	magnitogorsk.nl
 127.0.0.1	flynotion.com
@@ -7995,5 +7996,4 @@
 127.0.0.1	seovdetech.com
 127.0.0.1	seohomee.com
 127.0.0.1	metersphere.zenmen.cloud
-127.0.0.1	ritualaccidentrepu.fun
 # Number of entries: 7990

@@ -25,7 +25,7 @@
 [ OK ] 108,684 src/blacklist/blocklistproject_redirect.txt
 [ OK ]   1,274 src/blacklist/blocklistproject_scam.txt
 [ OK ]  15,070 src/blacklist/blocklistproject_tracking.txt
-[ OK ]   1,198 src/blacklist/blocklists-ahnlab.txt
+[ OK ]   1,261 src/blacklist/blocklists-ahnlab.txt
 [ OK ]      32 src/blacklist/blocklists-akamai.txt
 [NOK ]       0 src/blacklist/blocklists-alienlabs.txt
 [ OK ]     142 src/blacklist/blocklists-alternate.txt
@@ -146,19 +146,19 @@
 [ OK ]  49,996 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,884 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 3,448,246
-Filter Duplicates   : 1,970,545
-Filter Whitelist    : 1,637,263
-Import Blacklist    : 1,637,895
-Compressed          : 1,490,704
+Total Blacklist     : 3,448,309
+Filter Duplicates   : 1,970,547
+Filter Whitelist    : 1,636,464
+Import Blacklist    : 1,637,103
+Compressed          : 1,492,498
 
    LENGTH     COUNT
-        2 1,034,832
-        3   396,631
-        4    37,441
-        5    13,916
-        6     3,158
-        7     1,413
+        2 1,034,463
+        3   397,359
+        4    38,830
+        5    13,949
+        6     3,167
+        7     1,417
         8     2,237
         9       782
        10       222
@@ -171,7 +171,7 @@ Compressed          : 1,490,704
        17         1
        19         2
 
-Total Blocklist     : 1,490,704
+Total Blocklist     : 1,492,498
 
 ~~~
 
