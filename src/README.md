@@ -210,6 +210,7 @@ https://blocklistproject.github.io/Lists/scam.txt
 https://blocklistproject.github.io/Lists/tracking.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://phishing.army/download/phishing_army_blocklist.txt
+https://blocklistproject.github.io/Lists/redirect.txt
 
 ~~~
 
