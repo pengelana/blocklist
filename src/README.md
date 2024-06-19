@@ -3,12 +3,12 @@
 ~~~
 [ OK ]  23,509 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]     527 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
-[ OK ] 117,638 src/blacklist/KADhosts.txt
+[ OK ] 117,690 src/blacklist/KADhosts.txt
 [ OK ]     319 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]   7,117 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,142 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]   2,505 src/blacklist/StevenBlack_hosts.txt
-[ OK ]   7,865 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]   7,849 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,862 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,157 src/blacklist/blocklistproject_abuse.txt
 [ OK ]  23,761 src/blacklist/blocklistproject_crypto.txt
@@ -16,7 +16,6 @@
 [ OK ] 435,264 src/blacklist/blocklistproject_malware.txt
 [ OK ] 190,224 src/blacklist/blocklistproject_phishing.txt
 [ OK ]   1,904 src/blacklist/blocklistproject_ransomware.txt
-[ OK ] 108,684 src/blacklist/blocklistproject_redirect.txt
 [ OK ]   1,274 src/blacklist/blocklistproject_scam.txt
 [ OK ]  15,070 src/blacklist/blocklistproject_tracking.txt
 [ OK ]   1,261 src/blacklist/blocklists-ahnlab.txt
@@ -138,18 +137,18 @@
 [ OK ]  50,001 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,869 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,348,393
-Filter Duplicates   : 1,402,577
-Filter Whitelist    : 1,077,857
-Import Blacklist    : 1,078,532
-Compressed          :   956,797
+Total Blacklist     : 2,239,745
+Filter Duplicates   : 1,295,426
+Filter Whitelist    :   970,729
+Import Blacklist    :   971,409
+Compressed          :   849,846
 
    LENGTH     COUNT
-        2   673,739
-        3   234,905
-        4    27,650
-        5    13,110
-        6     2,941
+        2   581,471
+        3   220,564
+        4    27,322
+        5    13,097
+        6     2,940
         7     1,153
         8     2,228
         9       775
@@ -163,7 +162,7 @@ Compressed          :   956,797
        17         1
        19         2
 
-Total Blocklist     :   956,797
+Total Blocklist     :   849,846
 
 ~~~
 
@@ -207,7 +206,6 @@ https://blocklistproject.github.io/Lists/drugs.txt
 https://blocklistproject.github.io/Lists/malware.txt
 https://blocklistproject.github.io/Lists/phishing.txt
 https://blocklistproject.github.io/Lists/ransomware.txt
-https://blocklistproject.github.io/Lists/redirect.txt
 https://blocklistproject.github.io/Lists/scam.txt
 https://blocklistproject.github.io/Lists/tracking.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
