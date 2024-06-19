@@ -119,8 +119,6 @@
 [ OK ]   4,772 src/blacklist/durablenapkin_hosts.txt
 [ OK ]  67,850 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]     355 src/blacklist/firebog_net_w3kbl.txt
-[ OK ]  31,276 src/blacklist/hagezi_fake.txt
-[ OK ]  80,129 src/blacklist/hagezi_popup.txt
 [ OK ]     409 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]     753 src/blacklist/hpthreatresearch_domains.txt
 [ OK ]     307 src/blacklist/ioclist.domain.raw.txt
@@ -131,27 +129,27 @@
 [ OK ]      65 src/blacklist/malwrhunterteam.txt
 [ OK ]   2,282 src/blacklist/matomo_org_spammers.txt
 [ OK ]      35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]  45,784 src/blacklist/oisd_small.txt
+[ OK ]  45,785 src/blacklist/oisd_small.txt
 [ OK ]      91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ] 210,012 src/blacklist/phishing_army_blocklist.txt
 [ OK ]     200 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]  11,743 src/blacklist/someonewhocares_hosts.txt
 [ OK ]  18,100 src/blacklist/stamparm_blackbook.txt
 [ OK ] 384,880 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]  49,999 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]  50,000 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,869 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,655,155
-Filter Duplicates   : 1,591,300
-Filter Whitelist    : 1,265,823
-Import Blacklist    : 1,266,491
-Compressed          : 1,142,226
+Total Blacklist     : 2,543,752
+Filter Duplicates   : 1,517,787
+Filter Whitelist    : 1,192,636
+Import Blacklist    : 1,193,311
+Compressed          : 1,069,290
 
    LENGTH     COUNT
-        2   848,943
-        3   244,717
-        4    27,920
-        5    13,153
+        2   778,064
+        3   242,681
+        4    27,908
+        5    13,144
         6     3,032
         7     1,158
         8     2,231
@@ -166,7 +164,7 @@ Compressed          : 1,142,226
        17         1
        19         2
 
-Total Blocklist     : 1,142,226
+Total Blocklist     : 1,069,290
 
 ~~~
 
@@ -214,8 +212,6 @@ https://blocklistproject.github.io/Lists/ransomware.txt
 https://blocklistproject.github.io/Lists/redirect.txt
 https://blocklistproject.github.io/Lists/scam.txt
 https://blocklistproject.github.io/Lists/tracking.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://phishing.army/download/phishing_army_blocklist.txt
 
