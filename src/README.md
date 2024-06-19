@@ -16,6 +16,7 @@
 [ OK ] 435,264 src/blacklist/blocklistproject_malware.txt
 [ OK ] 190,224 src/blacklist/blocklistproject_phishing.txt
 [ OK ]   1,904 src/blacklist/blocklistproject_ransomware.txt
+[ OK ] 108,684 src/blacklist/blocklistproject_redirect.txt
 [ OK ]   1,274 src/blacklist/blocklistproject_scam.txt
 [ OK ]  15,070 src/blacklist/blocklistproject_tracking.txt
 [ OK ]   1,261 src/blacklist/blocklists-ahnlab.txt
@@ -137,18 +138,18 @@
 [ OK ]  50,001 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,869 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,239,745
-Filter Duplicates   : 1,295,426
-Filter Whitelist    :   970,729
-Import Blacklist    :   971,409
-Compressed          :   849,846
+Total Blacklist     : 2,348,429
+Filter Duplicates   : 1,402,599
+Filter Whitelist    : 1,077,879
+Import Blacklist    : 1,078,559
+Compressed          :   956,825
 
    LENGTH     COUNT
-        2   581,471
-        3   220,564
-        4    27,322
-        5    13,097
-        6     2,940
+        2   673,757
+        3   234,916
+        4    27,649
+        5    13,110
+        6     2,941
         7     1,153
         8     2,228
         9       775
@@ -162,7 +163,7 @@ Compressed          :   849,846
        17         1
        19         2
 
-Total Blocklist     :   849,846
+Total Blocklist     :   956,825
 
 ~~~
 
@@ -208,9 +209,9 @@ https://blocklistproject.github.io/Lists/phishing.txt
 https://blocklistproject.github.io/Lists/ransomware.txt
 https://blocklistproject.github.io/Lists/scam.txt
 https://blocklistproject.github.io/Lists/tracking.txt
+https://blocklistproject.github.io/Lists/redirect.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://phishing.army/download/phishing_army_blocklist.txt
-https://blocklistproject.github.io/Lists/redirect.txt
 
 ~~~
 
