@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-06-04 06:14:10 CEST
-# entries:        1070
+# last updated:   2024-06-20 06:30:00 CEST
+# entries:        1072
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -51,6 +51,7 @@
 127.0.0.1 ads.aralego.com
 127.0.0.1 ads.compro.se
 127.0.0.1 ads.docunordic.net
+127.0.0.1 ads.exakt24.se
 127.0.0.1 ads.expekt.se
 127.0.0.1 ads.fotosidan.se
 127.0.0.1 ads.holid.io
@@ -205,6 +206,7 @@
 127.0.0.1 c.eacla.com
 127.0.0.1 c.flx1.com
 127.0.0.1 c1.adform.net
+127.0.0.1 canariajournalen.ads.ramsalt.com
 127.0.0.1 capi.connatix.com
 127.0.0.1 cargodisplayads.com
 127.0.0.1 carneoam.com
