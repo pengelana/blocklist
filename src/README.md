@@ -9,7 +9,7 @@
 [ OK ]   7,117 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,142 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]   2,505 src/blacklist/StevenBlack_hosts.txt
-[ OK ]   7,668 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]   7,667 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,862 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,157 src/blacklist/blocklistproject_abuse.txt
 [ OK ]  23,761 src/blacklist/blocklistproject_crypto.txt
@@ -144,14 +144,14 @@
 [ OK ]  50,002 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,835 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,469,047
+Total Blacklist     : 2,469,046
 Filter Duplicates   : 1,478,884
-Filter Whitelist    : 1,154,893
-Import Blacklist    : 1,155,279
-Compressed          : 1,028,851
+Filter Whitelist    : 1,154,894
+Import Blacklist    : 1,155,280
+Compressed          : 1,028,852
 
    LENGTH     COUNT
-        2   745,760
+        2   745,761
         3   235,025
         4    27,539
         5    13,121
@@ -169,7 +169,7 @@ Compressed          : 1,028,851
        17         1
        19         2
 
-Total Blocklist     : 1,028,851
+Total Blocklist     : 1,028,852
 
 ~~~
 
