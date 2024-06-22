@@ -145,11 +145,11 @@
 Total Blacklist     : 2,464,758
 Filter Duplicates   : 1,478,711
 Filter Whitelist    : 1,154,748
-Import Blacklist    : 1,155,128
-Compressed          : 1,028,711
+Import Blacklist    : 1,155,133
+Compressed          : 1,028,716
 
    LENGTH     COUNT
-        2   745,616
+        2   745,621
         3   235,028
         4    27,540
         5    13,121
@@ -167,7 +167,7 @@ Compressed          : 1,028,711
        17         1
        19         2
 
-Total Blocklist     : 1,028,711
+Total Blocklist     : 1,028,716
 
 ~~~
 
