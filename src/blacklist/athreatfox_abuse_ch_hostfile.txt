@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-21 18:25:25 UTC                        #
+# Last updated: 2024-06-22 05:20:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	janbours92harbu02.duckdns.org
+127.0.0.1	janbours92harbu03.duckdns.org
 127.0.0.1	bettershaders.xyz
 127.0.0.1	file.rblxshaders.com
 127.0.0.1	rblxshaders.com
@@ -7671,4 +7673,4 @@
 127.0.0.1	annualraises2023.zip
 127.0.0.1	windows.dns-supports.online
 127.0.0.1	biggerfun.org
-# Number of entries: 7665
+# Number of entries: 7667
