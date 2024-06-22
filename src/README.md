@@ -141,18 +141,18 @@
 [ OK ]  11,743 src/blacklist/someonewhocares_hosts.txt
 [ OK ]  18,110 src/blacklist/stamparm_blackbook.txt
 [ OK ] 385,679 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]  50,024 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]  50,025 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,835 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,469,068
-Filter Duplicates   : 1,478,906
-Filter Whitelist    : 1,154,916
-Import Blacklist    : 1,155,307
-Compressed          : 1,028,879
+Total Blacklist     : 2,469,069
+Filter Duplicates   : 1,478,907
+Filter Whitelist    : 1,154,917
+Import Blacklist    : 1,155,310
+Compressed          : 1,028,882
 
    LENGTH     COUNT
-        2   745,788
-        3   235,025
+        2   745,790
+        3   235,026
         4    27,539
         5    13,121
         6     2,956
@@ -169,7 +169,7 @@ Compressed          : 1,028,879
        17         1
        19         2
 
-Total Blocklist     : 1,028,879
+Total Blocklist     : 1,028,882
 
 ~~~
 
