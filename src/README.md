@@ -3,12 +3,12 @@
 ~~~
 [ OK ]  23,510 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]     527 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
-[ OK ] 119,960 src/blacklist/KADhosts.txt
+[ OK ] 120,006 src/blacklist/KADhosts.txt
 [ OK ]     319 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]   7,117 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,142 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]   2,505 src/blacklist/StevenBlack_hosts.txt
-[ OK ]   7,666 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]   7,668 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,862 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,157 src/blacklist/blocklistproject_abuse.txt
 [ OK ]  23,761 src/blacklist/blocklistproject_crypto.txt
@@ -117,7 +117,7 @@
 [ OK ]      40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]     119 src/blacklist/dnstunneling.txt
 [ OK ]   4,843 src/blacklist/durablenapkin_hosts.txt
-[ OK ]  67,990 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]  67,993 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]     355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]  31,526 src/blacklist/hagezi_fake.txt
 [ OK ]  81,121 src/blacklist/hagezi_popup.txt
@@ -132,7 +132,7 @@
 [ OK ]      65 src/blacklist/malwrhunterteam.txt
 [ OK ]   2,283 src/blacklist/matomo_org_spammers.txt
 [ OK ]      35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]  45,598 src/blacklist/oisd_small.txt
+[ OK ]  45,567 src/blacklist/oisd_small.txt
 [ OK ]      91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ] 211,315 src/blacklist/phishing_army_blocklist.txt
 [ OK ]     200 src/blacklist/quidsup_notrack-malware.txt
@@ -142,15 +142,15 @@
 [ OK ]  50,002 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]   2,835 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,464,738
-Filter Duplicates   : 1,478,697
-Filter Whitelist    : 1,154,734
-Import Blacklist    : 1,155,109
-Compressed          : 1,028,692
+Total Blacklist     : 2,464,758
+Filter Duplicates   : 1,478,711
+Filter Whitelist    : 1,154,748
+Import Blacklist    : 1,155,128
+Compressed          : 1,028,711
 
    LENGTH     COUNT
-        2   745,607
-        3   235,018
+        2   745,616
+        3   235,028
         4    27,540
         5    13,121
         6     2,956
@@ -167,7 +167,7 @@ Compressed          : 1,028,692
        17         1
        19         2
 
-Total Blocklist     : 1,028,692
+Total Blocklist     : 1,028,711
 
 ~~~
 
