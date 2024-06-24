@@ -3,7 +3,7 @@
 ~~~
 [ OK ]  23,510 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]     527 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
-[ OK ] 120,158 src/blacklist/KADhosts.txt
+[ OK ] 120,482 src/blacklist/KADhosts.txt
 [ OK ]      81 src/blacklist/LanikSJ_popads-domains.txt
 [ OK ]     319 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]   7,117 src/blacklist/Spam404_adblock-list.txt
@@ -140,20 +140,20 @@
 [ OK ] 385,826 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]  50,035 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     120 src/blacklist/t_dnstunneling.txt
-[ OK ]      35 src/blacklist/t_judol.txt
+[ OK ]      46 src/blacklist/t_judol.txt
 [ OK ]      65 src/blacklist/t_malwrhunterteam.txt
 [ OK ]       7 src/blacklist/t_popup.txt
 [ OK ]   2,840 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,471,378
-Filter Duplicates   : 1,480,597
-Filter Whitelist    : 1,346,206
-Import Blacklist    : 1,346,576
-Compressed          : 1,201,150
+Total Blacklist     : 2,471,713
+Filter Duplicates   : 1,480,766
+Filter Whitelist    : 1,346,375
+Import Blacklist    : 1,346,745
+Compressed          : 1,201,318
 
    LENGTH     COUNT
-        2   885,903
-        3   263,853
+        2   886,064
+        3   263,860
         4    29,392
         5    13,678
         6     3,388
@@ -170,7 +170,7 @@ Compressed          : 1,201,150
        17         4
        19         2
 
-Total Blocklist     : 1,201,150
+Total Blocklist     : 1,201,318
 
 ~~~
 
