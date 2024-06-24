@@ -1,9 +1,9 @@
-! Checksum: /7I4uPH5iXfJ/PhDUJ0wlg
-! Diff-Path: ../patches/15/15-s-1719232487-3600.patch
+! Checksum: O047OXkms+E+gcgYFoagJg
+! Diff-Path: ../patches/15/15-s-1719254097-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.67.16
-! TimeUpdated: 2024-06-24T12:32:53+00:00
+! Version: 2.0.67.17
+! TimeUpdated: 2024-06-24T18:32:54+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-24T12:01:21.959Z
+! Last modified: 2024-06-24T18:01:17.746Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1119,7 +1119,6 @@
 ||kmsofficial.org^
 ||Kmspico-official.org^
 ||Yasir252.com^
-||karanpc.com^
 ||getintopc.today^
 /^23\.109\.73\.\d{3}/
 /^188\.42\.84\.\d{1,3}/
