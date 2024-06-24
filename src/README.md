@@ -146,17 +146,17 @@
 [ OK ]     120 src/blacklist/t_dnstunneling.txt
 [ OK ]      35 src/blacklist/t_judol.txt
 [ OK ]      65 src/blacklist/t_malwrhunterteam.txt
-[ OK ]       2 src/blacklist/t_popup.txt
-[ OK ]   2,838 src/blacklist/uBlockOrigin_badware.txt
+[ OK ]       7 src/blacklist/t_popup.txt
+[ OK ]   2,840 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,471,584
-Filter Duplicates   : 1,480,585
-Filter Whitelist    : 1,156,562
-Import Blacklist    : 1,156,969
-Compressed          : 1,030,255
+Total Blacklist     : 2,471,591
+Filter Duplicates   : 1,480,590
+Filter Whitelist    : 1,156,567
+Import Blacklist    : 1,156,974
+Compressed          : 1,030,260
 
    LENGTH     COUNT
-        2   747,769
+        2   747,774
         3   234,459
         4    27,511
         5    13,111
@@ -174,7 +174,7 @@ Compressed          : 1,030,255
        17         1
        19         2
 
-Total Blocklist     : 1,030,255
+Total Blocklist     : 1,030,260
 
 ~~~
 
