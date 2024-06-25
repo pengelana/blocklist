@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-25 09:41:18 UTC                        #
+# Last updated: 2024-06-25 10:15:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	securenetwork.azureedge.net
 127.0.0.1	filomeranta.com
 127.0.0.1	divyjai2.xyz
 127.0.0.1	loskawist.pics
@@ -7678,4 +7679,4 @@
 127.0.0.1	cachetransferjs.com
 127.0.0.1	www.mygoogleupdate.com
 127.0.0.1	www.temt.top
-# Number of entries: 7672
+# Number of entries: 7673
