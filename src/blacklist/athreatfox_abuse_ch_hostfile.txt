@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-25 22:15:47 UTC                        #
+# Last updated: 2024-06-26 03:49:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	4628eea2b0b6.ngrok.app
 127.0.0.1	swemei.com
 127.0.0.1	service-c394iukq-1327454768.gz.tencentapigw.com.cn
 127.0.0.1	spitechallengddwlsv.xyz
@@ -7688,4 +7689,4 @@
 127.0.0.1	jugoken567.ddns.net
 127.0.0.1	service-pgxnje5g-1307231181.gz.tencentapigw.com
 127.0.0.1	myappsec.eu
-# Number of entries: 7682
+# Number of entries: 7683
