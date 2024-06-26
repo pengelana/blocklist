@@ -1,9 +1,9 @@
-! Checksum: sbjMyzBQ+/AQjuhvF28RXQ
-! Diff-Path: ../patches/15/15-s-1719340518-3600.patch
+! Checksum: u73iTInN/DE70luip9xpIw
+! Diff-Path: ../patches/15/15-s-1719362069-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.67.22
-! TimeUpdated: 2024-06-25T18:33:26+00:00
+! Version: 2.0.67.23
+! TimeUpdated: 2024-06-26T00:32:45+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-25T18:01:21.301Z
+! Last modified: 2024-06-26T00:02:55.229Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,10 @@
 !
 !
 !
+||shuanshu.com.com^
+||kuurza.com^
+||dxtv1.com^
+||googie-anaiytics.com^
 ||maplecurriculum.com^
 ||hdxpqgvqm.com^
 ||grucmost.xyz^
@@ -47938,6 +47942,7 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||matomo.promobil.de^
 ||api.ad-platform.jmty.jp^
 ||events.tryamped.com^
 ||track.sendlane.com^
@@ -62669,6 +62674,11 @@ inapps.appsflyersdk.com^
 ||google-js-01.xyz^
 ||google-js-02.xyz^
 ||ryhuzj.xyz^
+||yhutou.xyz^
+||aiknx.cn^
+||fvyqblc.icu^
+||tdoshbi.top^
+||lxryhx.xyz^
 ||afopr.cn^
 ||qdoshby.top^
 ||eyislow.top^
