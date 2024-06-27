@@ -133,29 +133,29 @@
 [ OK ]      35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]  45,543 src/blacklist/oisd_small.txt
 [ OK ]      91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ] 212,873 src/blacklist/phishing_army_blocklist.txt
+[ OK ] 212,915 src/blacklist/phishing_army_blocklist.txt
 [ OK ]     192 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]  11,744 src/blacklist/someonewhocares_hosts.txt
 [ OK ]  18,110 src/blacklist/stamparm_blackbook.txt
 [ OK ] 387,518 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]  50,051 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
-[ OK ]     121 src/blacklist/t_dnstunneling.txt
-[ OK ]     857 src/blacklist/t_judol.txt
+[ OK ]     123 src/blacklist/t_dnstunneling.txt
+[ OK ]     858 src/blacklist/t_judol.txt
 [ OK ]      65 src/blacklist/t_malwrhunterteam.txt
 [ OK ]       7 src/blacklist/t_popup.txt
 [ OK ]       2 src/blacklist/t_redirect.txt
 [ OK ]   2,853 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,471,828
-Filter Duplicates   : 1,480,093
-Filter Whitelist    : 1,345,703
-Import Blacklist    : 1,346,074
-Compressed          : 1,199,360
+Total Blacklist     : 2,471,873
+Filter Duplicates   : 1,480,120
+Filter Whitelist    : 1,345,730
+Import Blacklist    : 1,346,101
+Compressed          : 1,199,378
 
    LENGTH     COUNT
-        2   883,915
-        3   264,029
-        4    29,388
+        2   883,922
+        3   264,036
+        4    29,392
         5    13,687
         6     3,399
         7     1,293
@@ -171,7 +171,7 @@ Compressed          : 1,199,360
        17         4
        19         2
 
-Total Blocklist     : 1,199,360
+Total Blocklist     : 1,199,378
 
 ~~~
 
