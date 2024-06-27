@@ -1,9 +1,9 @@
-! Checksum: J9tIBvahVAJgJ881VBWVtg
-! Diff-Path: ../patches/15/15-s-1719470074-3600.patch
+! Checksum: cQAEUc0/DPiMu5OYdXqbFA
+! Diff-Path: ../patches/15/15-s-1719513307-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.67.27
-! TimeUpdated: 2024-06-27T06:32:45+00:00
+! Version: 2.0.67.29
+! TimeUpdated: 2024-06-27T18:33:17+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-27T06:01:14.072Z
+! Last modified: 2024-06-27T18:01:19.862Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,7 +30,16 @@
 !
 !
 !
+||outhauzours.com^
+||bbdiknmwgyesw.com^
+||olabdsjovla.com^
+||eas696r.xyz^
+||slk594.com^
+||crambidnonutilitybayadeer.com^
+||theepsie.com^
+||lvhcqaku.com^
 ||precedelaxative.com^
+||167.71.252.38^
 ||pepiggies.xyz^
 ||shuanshu.com.com^
 ||kuurza.com^
@@ -2382,6 +2391,7 @@ vkcdnservice.appspot.com^
 ||536fbeeea4.com^
 ||539f346355.com^
 ||53c2dtzsj7t1.top^
+||53e91a4877.com^
 ||544c1a86a1.com^
 ||550b3ikb9j.com^
 ||561e861cb4.com^
@@ -2823,6 +2833,7 @@ vkcdnservice.appspot.com^
 ||abeenrwvyyre.top^
 ||abelekidr.com^
 ||abelestheca.com^
+||abencwrmt.com^
 ||abethow.com^
 ||abevc.club^
 ||abgeobalancer.com^
@@ -4208,6 +4219,7 @@ vkcdnservice.appspot.com^
 ||allenhoroscope.com^
 ||allenmanoeuvre.com^
 ||allenprepareattic.com^
+||allergicloaded.com^
 ||alleviatediscoveryexpress.com^
 ||alleviatepracticableaddicted.com^
 ||allfb8dremsiw09oiabhboolsebt29jhe3setn.com^
@@ -6471,8 +6483,10 @@ vkcdnservice.appspot.com^
 ||bfxytxdpnk.com^
 ||bg4nxu2u5t.com^
 ||bgbkvawcctzqql.com^
+||bgbtqizsdziw.com^
 ||bgcold.com^
 ||bgcoll.com^
+||bgecvddelzg.com^
 ||bgevhldiekl.xyz^
 ||bginrbancsr.com^
 ||bgjsjep.com^
@@ -14130,6 +14144,7 @@ vkcdnservice.appspot.com^
 ||fiisscqwokt.com^
 ||fijekone.com^
 ||fikedaquabib.com^
+||filasofighit.com^
 ||filasseseeder.com^
 ||filchmadeirahotel.com^
 ||filesdots.com^
@@ -15347,6 +15362,7 @@ vkcdnservice.appspot.com^
 ||gayuxhswva.com^
 ||gazati.com^
 ||gazeesoter.com^
+||gazumpers27.fun^
 ||gb1aff.com^
 ||gbbdkrkvn.xyz^
 ||gbddeyjekkixrn.com^
@@ -15405,6 +15421,7 @@ vkcdnservice.appspot.com^
 ||gekroome.com^
 ||gelatineabstainads.com^
 ||gelatinelighter.com^
+||gelescu.cloud^
 ||gelhp.com^
 ||gelidoctans.digital^
 ||gelofrebromes.top^
@@ -15463,6 +15480,7 @@ vkcdnservice.appspot.com^
 ||geraflows.com^
 ||geratedbawled.com^
 ||gereacumina.com^
+||germanize24.fun^
 ||germanyretorteddonate.com^
 ||germinatecascade.com^
 ||germinateensue.com^
@@ -15869,6 +15887,7 @@ vkcdnservice.appspot.com^
 ||gloutanacard.com^
 ||gloutchi.com^
 ||glouxaih.net^
+||glouzokrache.com^
 ||gloveroadmap.com^
 ||glovesusage.com^
 ||glovet.xyz^
@@ -19533,6 +19552,7 @@ vkcdnservice.appspot.com^
 ||jitanvlw.com^
 ||jitigkvqf.com^
 ||jiuswcpdwgpwetf.com^
+||jivinggrazers.com^
 ||jivskpprocrkv.com^
 ||jiwire.com^
 ||jizzarchives.com^
@@ -22888,6 +22908,7 @@ vkcdnservice.appspot.com^
 ||miaouedcrevass.com^
 ||miayarus.com^
 ||miboundwhiffet.com^
+||micastpyridic.com^
 ||micastskangli.com^
 ||micechillyorchard.com^
 ||micghiga2n7ahjnnsar0fbor.com^
@@ -24996,6 +25017,7 @@ vkcdnservice.appspot.com^
 ||oahaurti.com^
 ||oahosaisaign.com^
 ||oainternetservices.com^
+||oainzuo.xyz^
 ||oaiweznjo.com^
 ||oajagroax.com^
 ||oajsffmrj.xyz^
@@ -25429,6 +25451,7 @@ vkcdnservice.appspot.com^
 ||oldeststrickenambulance.com^
 ||oldfashionedcity.pro^
 ||oldfashionedmadewhiskers.com^
+||oldforeyesheh.info^
 ||oldgyhogola.com^
 ||oldied.com^
 ||oldmilram.com^
@@ -27255,6 +27278,7 @@ vkcdnservice.appspot.com^
 ||pickedincome.com^
 ||pickedlawhandshake.com^
 ||picketsubmission.com^
+||picklecandourbug.com^
 ||picklesdumb.com^
 ||picklespealwanderer.com^
 ||pickupnationalityinexhaustible.com^
@@ -28509,6 +28533,7 @@ vkcdnservice.appspot.com^
 ||pseidpmubwu.com^
 ||psemotion.top^
 ||psensuds.net^
+||psfdi.com^
 ||psfgobbet.com^
 ||pshb.me^
 ||pshmetrk.com^
@@ -28536,6 +28561,7 @@ vkcdnservice.appspot.com^
 ||psockapa.net^
 ||psognaih.xyz^
 ||psojeeng.com^
+||psoofaltoo.com^
 ||psoogaix.net^
 ||psoompou.xyz^
 ||psoopirdifty.xyz^
@@ -31231,6 +31257,7 @@ vkcdnservice.appspot.com^
 ||sales1sales.com^
 ||salesoonerfurnace.com^
 ||salestingoner.org^
+||salicylurdee.com^
 ||salivamenupremise.com^
 ||salivanmobster.com^
 ||salivasboucle.top^
@@ -31949,6 +31976,7 @@ vkcdnservice.appspot.com^
 ||shamelessnullneutrality.com^
 ||shamelesspersonality.pro^
 ||shamepracticegloomily.com^
+||shammesbyssin.top^
 ||shamosmatic.com^
 ||shanaurg.net^
 ||shankarsackage.top^
@@ -34680,7 +34708,6 @@ vkcdnservice.appspot.com^
 ||theelolcuffle.top^
 ||theelrou.net^
 ||theenfu.com^
-||theepsie.com^
 ||theessoapt.com^
 ||theextensionexpert.com^
 ||thefacux.com^
@@ -37183,6 +37210,7 @@ vkcdnservice.appspot.com^
 ||vetcheslegumen.com^
 ||vethojoa.net^
 ||vetoembrace.com^
+||vetrainingukm.info^
 ||vetuststeek.com^
 ||vevatom.com^
 ||vevqlgmmkgu.com^
@@ -41711,6 +41739,7 @@ vkcdnservice.appspot.com^
 ||3a55f02d.xyz^
 ||3ffa255f.xyz^
 ||420db600.xyz^
+||466c4d0f.xyz^
 ||485728.xyz^
 ||48a16802.site^
 ||48d8e4d6.xyz^
@@ -41779,6 +41808,7 @@ vkcdnservice.appspot.com^
 ||f090.site^
 ||f2f8.xyz^
 ||f417a726.xyz^
+||f4c9a0fb.xyz^
 ||f6176563.site^
 ||f816e81d.xyz^
 ||f8a070.xyz^
@@ -44295,6 +44325,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||metrics-fe-na1.hubspot.com^
 ||pixel.mintigo.com^
 ||api.sardine.ai^
 ||dmp.one^
@@ -47967,6 +47998,10 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||metrics.biddertmz.com^
+||moduleanalysis.aliexpress.com^
+||metrics.doppiostreams.com^
+||metrics.imdb.a2z.com^
 ||metrics.api.drift.com^
 ||targeting.api.drift.com^
 ||event.api.drift.com^
@@ -51403,7 +51438,6 @@ inapps.appsflyersdk.com^
 ||metrics.ctvdigital.net^
 ||metrics.doppiocdn.com^
 ||metrics.doppiocdn.org^
-||metrics.doppiostreams.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
 ||metrics.onshape.com^
@@ -52816,6 +52850,8 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||cdn.tameti.com^
+||eehhabacgieacfjeaacg.world^
 ||bidmatic.io^
 ||vidscriptshark.com^
 ||1qe.info^
@@ -55036,6 +55072,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||cdn.cdnhipter.xyz^
 ||kingads2.org^
 ||ad-service.shop^
 ||yonderdim.com^
@@ -57516,8 +57553,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Jun 2024 23:43 UTC+7
-! OriginalVersion: 2406232343
+! Last modified: 27 Jun 2024 16:49 UTC+7
+! OriginalVersion: 2406271649
 ! Blocked: 894 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -62681,6 +62718,8 @@ inapps.appsflyersdk.com^
 ||ytoeyxz.icu^
 ||szdtf.cn^
 ||tyisloi.top^
+||pjdthz.xyz^
+||vqlwoy.xyz^
 ||talyrt.xyz^
 ||okagcw.xyz^
 ||vtlyrj.xyz^
@@ -68794,6 +68833,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 !
 ! # >> A <<
+||adtodate.ir^
 ||adrooz.com^
 ||affilio.ir^
 ||analyt.ir^
