@@ -745,6 +745,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||ohmysweetromancespot.life^$all
 ||yourdatefind.com^$all
 ||olosex.pics^$all
+||painfont.cyou^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68588
 ! https://github.com/uBlockOrigin/uAssets/issues/8869
@@ -1458,6 +1459,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||id.amxeazbcmdoxa.com^$all
 ! https://x.com/catnap707/status/1805416728119361741
 ||jp-kensatsu.com^$all
+! https://x.com/kobefs/status/1806948628831060287
+||saichengbs.com^$all
 
 ! https://onijima.jp/?p=54165
 ||pocket-888.com^$all
@@ -4205,3 +4208,8 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ! https://www.virustotal.com/gui/url/95c95990e40d0859a1766b2da6047f64d2faecee65d74669243d443c7c185ebf
 ! https://www.urlvoid.com/scan/teslafond.io/
 ||teslafond.io^$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/24123
+! https://github.com/pizzaboxer/bloxstrap/blob/main/README.md
+||bloxstrap.*^$doc
+||bloxstrapmenu.com^$doc
