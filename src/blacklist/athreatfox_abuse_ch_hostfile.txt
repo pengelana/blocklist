@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-28 23:54:00 UTC                        #
+# Last updated: 2024-06-29 09:00:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.windowsuserapi.com
+127.0.0.1	robsheraldry.com
+127.0.0.1	xortoprojectnew.xyz
+127.0.0.1	poseidon.cool
+127.0.0.1	osheafarm.com
+127.0.0.1	lascolinasresortdalas.com
 127.0.0.1	service-iktxibt6-1305682303.gz.tencentapigw.com.cn
 127.0.0.1	net.icdns.online
 127.0.0.1	botnetddos.zapto.org
@@ -7842,5 +7848,4 @@
 127.0.0.1	gradingran.de
 127.0.0.1	o-sendungsverfolgung.net
 127.0.0.1	siegemachine.cn
-127.0.0.1	list.xcb.one
-# Number of entries: 7837
+# Number of entries: 7842
