@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-29 18:54:03 UTC                        #
+# Last updated: 2024-06-30 01:24:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ghostghostcom.000webhostapp.com
 127.0.0.1	baidenyes.net
 127.0.0.1	funny-sam.online
 127.0.0.1	login-auth-office.com
@@ -7674,4 +7675,4 @@
 127.0.0.1	astra4512.startdedicated.com
 127.0.0.1	fvia.id.vn
 127.0.0.1	amotel.xyz
-# Number of entries: 7668
+# Number of entries: 7669
