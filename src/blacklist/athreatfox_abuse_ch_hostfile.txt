@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-01 06:45:54 UTC                        #
+# Last updated: 2024-07-01 07:43:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pcvcf.xyz
+127.0.0.1	padrf.xyz
 127.0.0.1	googledocs.duckdns.org
 127.0.0.1	provided-existence.gl.at.ply.gg
 127.0.0.1	them-recommended.gl.at.ply.gg
@@ -7750,4 +7752,4 @@
 127.0.0.1	aaaaaaa.linx.contact
 127.0.0.1	38.6.188.39.shuyingbaofu.com
 127.0.0.1	jcalli.cyberlnerv.com
-# Number of entries: 7744
+# Number of entries: 7746
