@@ -3,13 +3,13 @@
 ~~~
 [ OK ]  23,511 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]     528 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
-[ OK ] 124,005 src/blacklist/KADhosts.txt
+[ OK ] 124,371 src/blacklist/KADhosts.txt
 [ OK ]      81 src/blacklist/LanikSJ_popads-domains.txt
 [ OK ]     319 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]   7,116 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]   2,506 src/blacklist/StevenBlack_hosts.txt
-[ OK ]   7,745 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]   7,739 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,865 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,157 src/blacklist/blocklistproject_abuse.txt
 [ OK ]  23,761 src/blacklist/blocklistproject_crypto.txt
@@ -140,23 +140,23 @@
 [ OK ] 389,653 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]  50,097 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     127 src/blacklist/t_dnstunneling.txt
-[ OK ]   2,104 src/blacklist/t_judol.txt
+[ OK ]   2,129 src/blacklist/t_judol.txt
 [ OK ]      70 src/blacklist/t_malwrhunterteam.txt
 [ OK ]       7 src/blacklist/t_popup.txt
 [ OK ]       2 src/blacklist/t_redirect.txt
 [ OK ]   2,880 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,476,307
-Filter Duplicates   : 1,482,656
-Filter Whitelist    : 1,348,264
-Import Blacklist    : 1,348,644
-Compressed          : 1,200,019
+Total Blacklist     : 2,476,692
+Filter Duplicates   : 1,482,858
+Filter Whitelist    : 1,348,466
+Import Blacklist    : 1,348,846
+Compressed          : 1,200,221
 
    LENGTH     COUNT
-        2   884,327
-        3   264,182
-        4    29,477
-        5    13,700
+        2   884,527
+        3   264,184
+        4    29,478
+        5    13,699
         6     3,390
         7     1,294
         8     2,281
@@ -171,7 +171,7 @@ Compressed          : 1,200,019
        17         4
        19         2
 
-Total Blocklist     : 1,200,019
+Total Blocklist     : 1,200,221
 
 ~~~
 
