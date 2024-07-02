@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-02 05:26:47 UTC                        #
+# Last updated: 2024-07-02 07:32:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jswebcloud.net
+127.0.0.1	pcvvf.xyz
 127.0.0.1	fortnite.cryptoinvest.black
 127.0.0.1	mistasktrin.space
 127.0.0.1	ci-wiki.cn
@@ -7764,5 +7766,4 @@
 127.0.0.1	undiny.ru
 127.0.0.1	mail.137-184-80-125.cprapid.com
 127.0.0.1	nris-d.mqpslop.com
-127.0.0.1	botnet.bydgoszcz.pl
-# Number of entries: 7759
+# Number of entries: 7760
