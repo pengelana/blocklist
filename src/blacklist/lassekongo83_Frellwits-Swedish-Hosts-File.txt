@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-01 05:42:40 CEST
-# entries:        1071
+# last updated:   2024-07-02 06:39:35 CEST
+# entries:        1073
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -445,6 +445,7 @@
 127.0.0.1 go.ezoic.net
 127.0.0.1 graphics.adrecord.com
 127.0.0.1 gtm.allabolag.se
+127.0.0.1 gtm.ekonomifakta.se
 127.0.0.1 gtm.findroommate.dk
 127.0.0.1 gtm.proff.se
 127.0.0.1 gtm.stampenmedia.se
@@ -571,6 +572,7 @@
 127.0.0.1 meltwater.com
 127.0.0.1 metapic.se
 127.0.0.1 metrics.brightcove.com
+127.0.0.1 metrics-fe-na1.hubspot.com
 127.0.0.1 mgdk-cdn.relevant-digital.com
 127.0.0.1 micro.rubiconproject.com
 127.0.0.1 missaffiliate.com
