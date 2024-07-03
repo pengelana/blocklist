@@ -1,9 +1,9 @@
-! Checksum: 804sUuZN2jk9oVBuFLLvdg
-! Diff-Path: ../patches/15/15-s-1719966939-3600.patch
+! Checksum: 0zPhJ5eSjHILZ94l7KbS3w
+! Diff-Path: ../patches/15/15-s-1720006498-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.67.51
-! TimeUpdated: 2024-07-03T00:33:45+00:00
+! Version: 2.0.67.53
+! TimeUpdated: 2024-07-03T11:30:41+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-03T00:02:56.517Z
+! Last modified: 2024-07-03T10:01:40.314Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -43240,6 +43240,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||revotas.com^
 ||track.fluffyfalcon.com^
 ||gojsmanager.com^
 ||adtrack.adleadevent.com^
@@ -43395,7 +43396,6 @@ vkcdnservice.appspot.com^
 ||carrick-ui.advoncommerce.com^
 ||smelel.icu^
 ||ea.epochbase.com^
-||f.revotas.com^
 ||1cpbac.ru^
 ||tracking.utlservice.com^
 ||analytics.myshoptago.com^
@@ -50965,7 +50965,6 @@ inapps.appsflyersdk.com^
 ||do09.net^
 ||early-birds.io^
 ||et-gv.fr^
-||ew3.io^
 ||galaxiemedia.fr^
 ||geovisite.ovh^
 ||hunkal.com^
@@ -55526,8 +55525,8 @@ inapps.appsflyersdk.com^
 ! # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 ! # ----
 ! # title:          Frellwit's Swedish Hosts File
-! # last updated:   2024-07-02 06:39:35 CEST
-! # entries:        1073
+! # last updated:   2024-07-03 06:00:20 CEST
+! # entries:        1075
 ! # format:         hosts (hosts -- in hosts file format)
 ! # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -55754,6 +55753,7 @@ inapps.appsflyersdk.com^
 ||investerarbrevet.se^
 ||inviso.rampanel.com^
 ||ion.btcswe.com^
+||js.adsaga.se^
 ||js.evtr.nordiskemedier.dk^
 ||js.glitnoraffiliates.com^
 ||js.hsleadflows.net^
@@ -56042,6 +56042,7 @@ inapps.appsflyersdk.com^
 ||tracking.vastgotabladet.se^
 ||tracking.vaxjobladet.se^
 ||tracking.vetlandaposten.se^
+||tracking.viivilla.se^
 ||tracking.visitorsvoice.com^
 ||tracking.vlt.se^
 ||tracking.vn.se^
@@ -61681,6 +61682,12 @@ inapps.appsflyersdk.com^
 ||hyislou.top^
 ||tlpyft.xyz^
 ||jbkqemk.icu^
+||jdipsuma.top^
+||fzllis.cn^
+||feofamdak.top^
+||askdlajfbv.top^
+||dajiahao17.top^
+||afqodjc.top^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -68634,6 +68641,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1720
+! Blocked by CNAME data.adobedc.net
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1717
 @@||sax.sina.com.cn^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1709

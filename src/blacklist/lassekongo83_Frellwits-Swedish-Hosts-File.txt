@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-02 06:39:35 CEST
-# entries:        1073
+# last updated:   2024-07-03 06:00:20 CEST
+# entries:        1075
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -493,6 +493,7 @@
 127.0.0.1 ion.btcswe.com
 127.0.0.1 ipmeta.io
 127.0.0.1 izooto.com
+127.0.0.1 js.adsaga.se
 127.0.0.1 js.appboycdn.com
 127.0.0.1 js.datadome.co
 127.0.0.1 js.evtr.nordiskemedier.dk
@@ -982,6 +983,7 @@
 127.0.0.1 tracking.vastgotabladet.se
 127.0.0.1 tracking.vaxjobladet.se
 127.0.0.1 tracking.vetlandaposten.se
+127.0.0.1 tracking.viivilla.se
 127.0.0.1 tracking.visitorsvoice.com
 127.0.0.1 tracking.vlt.se
 127.0.0.1 tracking.vn.se
