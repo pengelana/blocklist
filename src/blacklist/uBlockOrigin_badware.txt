@@ -1087,6 +1087,8 @@ origincrack.com##center > button
 .one/?h=*&user=$script,3p
 .online/?h=*&user=$script,3p
 .pro/?h=*&user=$script,3p
+%3C?php%20echo%20substr(md5(microtime()),0,rand(10,30));?%3E&$doc
+/?*&gkss=$doc,domain=click|pro|xyz|cfd|world
 
 ! https://github.com/uBlockOrigin/uAssets/issues/11394
 ||theannoyingsite.com^$all
@@ -2922,6 +2924,10 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||admin-matching-pair.jp^$doc
 ||matching-pair.jp^$doc
 ||media-matching-pair.jp^$doc
+||mimiray-k.jp^$doc
+||miray-k.jp^$doc
+||kaimiray-k.jp^$doc
+||luna-ria.jp^$doc
 
 ! https://twitter.com/1ZRR4H/status/1623067548781539339
 ||soft-pro.site^$all

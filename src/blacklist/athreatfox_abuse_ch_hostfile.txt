@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-04 10:13:26 UTC                        #
+# Last updated: 2024-07-04 13:50:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pcapi-server.com
+127.0.0.1	solutionhub.cc
+127.0.0.1	c3.redteam.club
+127.0.0.1	c2.redteam.club
+127.0.0.1	c1.redteam.club
+127.0.0.1	arbiankroos.com
+127.0.0.1	d2kw3fh12wz47k.cloudfront.net
+127.0.0.1	testgk.oss-cn-beijing.aliyuncs.com
 127.0.0.1	aa.yukklzwo.vip
 127.0.0.1	qq.yukklzwo.vip
 127.0.0.1	api.yukklzwo.vip
@@ -7724,6 +7732,4 @@
 127.0.0.1	vectorstealer.com
 127.0.0.1	lightfull.shop
 127.0.0.1	reksiaeksinov.fvds.ru
-127.0.0.1	nsns1.container911.site
-127.0.0.1	service-18c6z8nb-1303896379.sh.tencentapigw.cn
-# Number of entries: 7720
+# Number of entries: 7726
