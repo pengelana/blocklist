@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-04 13:50:32 UTC                        #
+# Last updated: 2024-07-04 17:19:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cdn.wnza.shop
+127.0.0.1	trusted-updates.germanywestcentral.cloudapp.azure.com
+127.0.0.1	temp.sftech.shop
+127.0.0.1	www.dpm-sael.com
+127.0.0.1	juderule.africa
 127.0.0.1	pcapi-server.com
 127.0.0.1	solutionhub.cc
 127.0.0.1	c3.redteam.club
@@ -7706,30 +7711,4 @@
 127.0.0.1	ratsakis.ddns.net
 127.0.0.1	sfxn.ddns.net
 127.0.0.1	thietbiytebt.online
-127.0.0.1	potomac-clickstream.usaa.website
-127.0.0.1	clix.usaa.website
-127.0.0.1	bfp.usaa.website
-127.0.0.1	objects.usaa.website
-127.0.0.1	paxful.usaa.website
-127.0.0.1	infallible-lichterman.45-141-215-173.plesk.page
-127.0.0.1	monitor.cll5.fact.solutions
-127.0.0.1	www.petrus4.com
-127.0.0.1	www.ritestowritemyword.org
-127.0.0.1	sessions.usaa.website
-127.0.0.1	lms.usaa.website
-127.0.0.1	sensors.usaa.website
-127.0.0.1	mobile2.usaa.website
-127.0.0.1	secure07c.usaa.website
-127.0.0.1	payandhay.online
-127.0.0.1	www.payandhay.online
-127.0.0.1	ip133.ip-51-195-83.eu
-127.0.0.1	3ps1l0n.life
-127.0.0.1	agniane.sbs
-127.0.0.1	darkeye.online
-127.0.0.1	vps-729780f6.vps.ovh.ca
-127.0.0.1	rastro.pages.dev
-127.0.0.1	z3us.online
-127.0.0.1	vectorstealer.com
-127.0.0.1	lightfull.shop
-127.0.0.1	reksiaeksinov.fvds.ru
-# Number of entries: 7726
+# Number of entries: 7705
