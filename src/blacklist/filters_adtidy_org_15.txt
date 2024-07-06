@@ -1,9 +1,9 @@
-! Checksum: rqgK8OMGFYAJFkJMODXRcQ
-! Diff-Path: ../patches/15/15-s-1720161366-3600.patch
+! Checksum: DTd0O4DRSy3hVUWdaJIbVA
+! Diff-Path: ../patches/15/15-s-1720226221-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.67.61
-! TimeUpdated: 2024-07-05T06:32:59+00:00
+! Version: 2.0.67.64
+! TimeUpdated: 2024-07-06T00:33:44+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-05T06:01:18.709Z
+! Last modified: 2024-07-06T00:02:42.411Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,8 @@
 !
 !
 !
+serve.yourporngod.com^
+serve.everydayporn.co^
 ||xlvul.ajscdn.com^
 ||ahmar2four.xyz^
 ||ser678uikl.xyz^
@@ -1374,6 +1376,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||advertising-cdn.dpgmedia.cloud^
 ||d2lg0swrp15nsj.cloudfront.net^
 ||dpeqm8xv96fuc.cloudfront.net^
 ||d127s3e8wcl3q6.cloudfront.net^
@@ -2277,6 +2280,7 @@ vkcdnservice.appspot.com^
 ||44a9217f10.com^
 ||44ffd27303.com^
 ||452tapgn.de^
+||453130fa9e.com^
 ||46186911.vtt^
 ||46243b6252.com^
 ||463fca0d34.com^
@@ -8139,6 +8143,7 @@ vkcdnservice.appspot.com^
 ||cesebtp.com^
 ||cesiumsemboite.com^
 ||cessationcorrectmist.com^
+||cessationhamster.com^
 ||cessationrepulsivehumid.com^
 ||cestibegster.com^
 ||ceteembathe.com^
@@ -13739,6 +13744,7 @@ vkcdnservice.appspot.com^
 ||fgbthrsxnlo.xyz^
 ||fgdxwpht.com^
 ||fgfgnbmeieorr910.com^
+||fgigrmle.xyz^
 ||fgijincfktbguv.xyz^
 ||fgislklsqqytr.com^
 ||fgisstdudch.com^
@@ -15193,6 +15199,7 @@ vkcdnservice.appspot.com^
 ||ggsbjzyo.com^
 ||ggsfq.com^
 ||ggvhbnkfc.com^
+||ggwifobvx.com^
 ||ggxcoez.com^
 ||ggxyyalrj.com^
 ||ggzckmlts.com^
@@ -24934,6 +24941,7 @@ vkcdnservice.appspot.com^
 ||ongrpdwwnvliao.xyz^
 ||onibyezctus.com^
 ||oninewsful.life^
+||onkafxtiqcu.com^
 ||onkavst.com^
 ||onlinedeltazone.online^
 ||onlinepromousa.com^
@@ -32554,6 +32562,7 @@ vkcdnservice.appspot.com^
 ||stealthlockers.com^
 ||steamdespicable.com^
 ||steamjaws.com^
+||stedrits.xyz^
 ||stedsous.xyz^
 ||steefaulrouy.xyz^
 ||steegnow.com^
@@ -40803,6 +40812,7 @@ vkcdnservice.appspot.com^
 ||f8a070.xyz^
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
 ||fbfec2.xyz^
+||fe30a5b4.xyz^
 ! Samsung/LG/Philips smart-TV ad domains
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
@@ -43311,6 +43321,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||qobuz.surveysparrow.com^
+||srvr.dmvs-apac.com^
 ||dash.zintrack.com^
 ||revotas.com^
 ||track.fluffyfalcon.com^
@@ -46989,6 +47001,7 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||peach-analytics.vercel.app^
 ||lfmetrics.loyalfans.com^
 ||track.amebame.com^
 ||pks-analytics.raenonx.cc^
@@ -50449,6 +50462,7 @@ inapps.appsflyersdk.com^
 ||ms-trackingapi.phenompeople.com^
 ||msadsscale.azureedge.net^
 ||myscoop-tracking.googlecode.com^
+||native-ads-events-api.c4s-rd.services^
 ||neocounter.neoworx-blog-tools.net^
 ||net-tracker.notolytix.com^
 ||netlify-rum.netlify.app^
@@ -51572,6 +51586,7 @@ inapps.appsflyersdk.com^
 ||analyzer51.fc2.com^
 ||bvr.snva.jp^
 ||log.f-tra.com^
+||mail-count.matsui.co.jp^
 ||omt.shinobi.jp^
 ||reproio.com^
 ||sync.shinobi.jp^
@@ -51621,6 +51636,7 @@ inapps.appsflyersdk.com^
 ||statistic.audima.co^
 ||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
+||track.zapimoveis.com.br^
 ||tracker.tolvnow.com^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
 ||webstats.sapo.pt^
@@ -61766,6 +61782,15 @@ inapps.appsflyersdk.com^
 ||urtlist.top^
 ||ortlisk.top^
 ||dmnxkj.cn^
+||gw2cddpt2hao.cloud^
+||gw2cddpt2hao.site^
+||fgwuw.com^
+||febtzd.xyz^
+||olgcpwc.icu^
+||gsywcc.xyz^
+||iptuy.cn^
+||kyislod.top^
+||lijlrz.xyz^
 ||0uyt5b.cn^
 ||0v1syj.cn^
 ||1028images.com^
