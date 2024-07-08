@@ -741,9 +741,10 @@ tech4yougadgets.com##+js(aopr, Notification)
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.(?:li[fv]e|top|xyz)\/[a-z]{8}\/(?:article\d{4}\.doc)?\?utm_campaign=\w{40,}/$doc,match-case,domain=life|live|top|xyz
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
 ! fake dating/prize/video sites
-/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\.?[a-z]{0,7}\/(?:[0-9a-z]{6,10}\/)?\/?(?:article\d{4}\.doc)?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case
+! https://github.com/AdguardTeam/AdguardFilters/issues/183117
+/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\.?[a-z]{0,7}\/(?:[0-9a-z]{6,10}\/)?\/?(?:article\d{4}\.doc)?\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]{7}(?:&t=\d+)?&o=[0-9a-z]{7}/$doc,frame,match-case
 ! https://github.com/uBlockOrigin/uAssets/commit/df17084b4815e87d420e8adf19bf4959e828e6e5#commitcomment-66510549
-/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\.?[a-z]{0,7}\/(?:[0-9a-z]{6,10}\/)?\/?(?:article\d{4}\.doc)?\?o=[0-9a-z]{7}&u=[0-9a-z]{7}/$doc,frame,match-case
+/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\.?[a-z]{0,7}\/(?:[0-9a-z]{6,10}\/)?\/?(?:article\d{4}\.doc)?\?(?:cid=[0-9a-z]+&)?o=[0-9a-z]{7}(?:&t=\d+)?&u=[0-9a-z]{7}/$doc,frame,match-case
 .live/web/?sid=t*~$doc
 ! https://urlscan.io/result/fb21aa1b-9c79-4ac4-8e82-386403964206/
 /?u1=*&o1=*&sid=t*~$doc
@@ -806,7 +807,6 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||softport.fun^$all
 ||cheat.sierramercado.com^$doc
 ||arcanecheat.com^$doc
-||vavilonhack.fun^$all
 ||csfusion.ru^$all
 ||upload.advgroup.ru/mvWwiE4h$all
 ! https://cloud-folder.org/KRvjWueEcl/
@@ -3604,6 +3604,9 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ! https://www.virustotal.com/gui/url/5fef6bafac49c64dc9e0ca06339967aa2ba2936745a57ca2c47aa3606def1707
 /^https:\/\/(?:[a-z]+\.)?hotel-(?:id)?\d{5,8}\.eu\//$doc,domain=eu|~booking.com
 /^https:\/\/(?:[a-z]+\.)?hotel-(?:id)?\d{5,8}\.com\//$doc,domain=com|~booking.com
+! airbnb
+! https://www.virustotal.com/gui/url/8cdc4c3ca9313a9cdd27dc03d855105f37aebe9abac62265ea45993121cf7b31
+/^https:\/\/support-\d{1,2}\.ru\//$doc,domain=ru
 
 ! vodafone
 ||vodafone.scralead.com^$all,to=~vodafone.es
@@ -3633,6 +3636,8 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ! https://urldna.io/scan/6675f810a0a139921a350afd
 ! https://www.virustotal.com/gui/url/9377fb4aca4525f2725505be1fa956898fe427deb060f273f48ed5f7fe05684b
 ||mybluehost.me/*/netflix/net/login.php$doc
+! https://www.virustotal.com/gui/url/f4d836eca8bb2ce50a96dac7d031502d47c0a6ce85af040b911bf9883fbe157a
+||mybluehost.me/watch/a/flix/$doc
 ! https://urldna.io/scan/66789b18c766226ae8d6e3ee
 ! https://www.virustotal.com/gui/url/30bc6d0ab3c42c34c0317e50e0b24db16a8996394bb39f6c959464bc4557fbb3
 ||floridavacationrentalsbyowners.com/*/Info/page_settings/account.php^$all
@@ -3640,6 +3645,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ! allegro
 ||allegrostore.cc^$all
 ||allegrostu.com^$all
+||allegrostroe.vip^$all
 ||wz-2-allegro-4dv.pages.dev^$all
 
 ! rackspace
@@ -3656,6 +3662,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||xform-dna-log-x.resmi-v1.biz.id^$all,to=~dana.id
 ||xclaimz-id-danakagetxid7.x-id.my.id^$all,to=~dana.id
 ||bntuanoffcl-dna.hdco.my.id^$all,to=~dana.id
+||dana-dnr.dana-idn.xyz^$all,to=~dana.id
 
 ! orange.fr
 ||orange53.yolasite.com^$all,to=~orange.fr
@@ -3663,6 +3670,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||smsmmsernorepls.wixsite.com^$all,to=~orange.fr
 ||orange234.wixsite.com^$all,to=~orange.fr
 ||exbtengineers.com/o/$all,to=~orange.fr
+||enjoymatic.com/landings/es-avengers/$all,to=~orange.es
 ! https://infosec.exchange/@urldna/112456905938157006
 ||servicemailorange25.wixsite.com^$all,to=~orange.fr
 ! https://infosec.exchange/@urldna/112467287033433289
@@ -3681,10 +3689,13 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||vn-ebay.quxlpuj.cn^$all
 ||ebayasean.com^$all
 ||new-ebay.shop^$all
+||helsoialsnfience.top^$all
 ! https://www.reddit.com/r/Scams/comments/1cux08b/whatsapp_telegram_instagram_work_from_home_posts/
 ||51eabay.com^$all
 ! https://infosec.exchange/@urldna/112476252310873324
 ||135buy.com^$all
+! https://www.virustotal.com/gui/url/8b2c822dc9c9130367597b14aa848cfacdd6022ad474c0af8c244856e30ee6ae
+||ebaydw.cc^$all
 
 ! AT&T
 ||wixsite.com/att-support/$doc
@@ -3784,6 +3795,10 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||govern-assessment-validation-njbujm.vercel.app^$all
 ! https://www.virustotal.com/gui/url/6091a6693b5581524198c73b1f84c58e9272f1b100d7e68d7ed5fae7d05a06e2
 ||request-page-violation-*.surge.sh^$all
+! https://www.virustotal.com/gui/url/a9ef0c410c76df46d4871a247df980ac912b93df02d7c7012477107171c78964
+||violation-*.surge.sh^$doc
+! https://www.virustotal.com/gui/url/6eeee02278ccbecd060a66c9948c69d98b79c249876e03f7ff410180fa4b4057
+||copyrights-*.surge.sh^$doc
 ||instructions-video.vercel.app/detailed_video.mp4$media
 
 ! shopping sites
@@ -3794,6 +3809,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||tuyendungtiki2024.vn^$all,to=~tiki.vn
 ! shopee
 /^https:\/\/sp\d{2,3}88(?:vn)?\.com\//$doc,domain=com|~shopee.vn
+||shopee-mall.cc^$all
 ||mez.ink/reademcashbackshopee.1.1^$all
 ! sendo
 ||vnsendo.*^$all,to=info|shop|vip|~sendo.vn
@@ -3810,13 +3826,12 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||steamfiller.ru^$all
 ||11steam.com^$all
 ||sp.26skins.com^$all
+||gtm.you1.cn^$all
 ! https://urldna.io/scan/6677498cbecc3349716ec446
 ! https://www.virustotal.com/gui/url/04a4187b81f801e1dcafed01b49229ddae5bd5406c6f170b0b2c4b2b4fdae712
 ||steamommunity.com^$all
 ! https://www.virustotal.com/gui/url/d16f07ca49e9334d080d427294630f22f10d8925de8ae73df2128e0bdbd434a9
 ||steam.communityart-work.com^$all
-! https://www.virustotal.com/gui/url/ed7361425b1d62bd86f9014a52c5dab44fac53c8959f2ebe881399586bf8d4af
-||steam.workshop-art.com^$all
 ! https://www.virustotal.com/gui/url/5f18b92ca5ebc697646cb8d0fdd19ec8d7ed1e76fa8095b35ab65721a9018b6b
 ||steancommunlity.com^$all
 ! garena
@@ -3871,11 +3886,16 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||conohawing.com/*/outlook-$doc
 ! https://www.virustotal.com/gui/url/6842be99947bd0db1671500f4ab7774846e34f7d951b190be9e58b9e84536f39
 ||hergunavantaj.com.tr^$all
+! https://www.virustotal.com/gui/url/121614b7a02a5f9bfe0df6bea30184ef2c28a03df07b6ae41c489de241554344?nocache=1
+||irrigationservices.co^$all
+! https://www.virustotal.com/gui/url/49d7a628c9179a385101a8b2375318dd7659b95ecaa8c35fe8a04383f3414809
+||antivhelp.com^$all
 
 ! telegram
 ||telegramhcn.com^$all
 ||web.telegram.data-bees.cn^$all
 ||telegramkv.com^$all
+||haveplentymusic.com^$all
 
 ! usps
 ! https://infosec.exchange/@urldna/112224043535026915
