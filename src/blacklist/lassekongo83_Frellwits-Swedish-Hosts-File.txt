@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-10 06:22:52 CEST
-# entries:        1076
+# last updated:   2024-07-16 09:53:46 CEST
+# entries:        1080
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -88,6 +88,7 @@
 127.0.0.1 advertiser.adtraction.com
 127.0.0.1 adx.adform.net
 127.0.0.1 ad.360yield.com
+127.0.0.1 aeonmedia.matomo.cloud
 127.0.0.1 af.analytics.elx.cloud
 127.0.0.1 aff.bstatic.com
 127.0.0.1 affiliatemedia.speedybet.com
@@ -291,6 +292,7 @@
 127.0.0.1 cdn.stat-track.com
 127.0.0.1 cdn.vip-hd-movies.xyz
 127.0.0.1 cdn.zx-adnet.com
+127.0.0.1 cdp-eu.customer.io
 127.0.0.1 ce15487c31ed84e82d0694948a8889f7e3b1685d54.nuid.imrworldwide.com
 127.0.0.1 ced.sascdn.com
 127.0.0.1 cintnetworks.com
@@ -707,6 +709,7 @@
 127.0.0.1 sc.lfeeder.com
 127.0.0.1 scdn.cxense.com
 127.0.0.1 schibsted-cdn.relevant-digital.com
+127.0.0.1 sch-map.norstatsurveys.com
 127.0.0.1 script.crazyegg.com
 127.0.0.1 script.extellio.com
 127.0.0.1 script.ioam.de
@@ -840,6 +843,7 @@
 127.0.0.1 tags.expo9.exponential.com
 127.0.0.1 tags.refinery89.com
 127.0.0.1 tags.smilewanted.com
+127.0.0.1 target.digitalaudience.io
 127.0.0.1 tb.de17a.com
 127.0.0.1 tcd.tourn.se
 127.0.0.1 telemetric.dk
