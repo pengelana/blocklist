@@ -1,9 +1,9 @@
-! Checksum: dn09QNuFNERSi4LLVM+Zjw
-! Diff-Path: ../patches/15/15-s-1721306183-3600.patch
+! Checksum: ZhGR8Dnd81E/N0xY2CvPeA
+! Diff-Path: ../patches/15/15-s-1721327934-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.68.14
-! TimeUpdated: 2024-07-18T12:33:01+00:00
+! Version: 2.0.68.15
+! TimeUpdated: 2024-07-18T18:35:27+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-18T12:01:26.666Z
+! Last modified: 2024-07-18T18:01:24.827Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -42878,6 +42878,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ahoy-internal-ads-hv.b-cdn.net^
 ||ad.iwhop.cn^
 ||s-odx.oleads.com^
 ||mediation.unity3d.com^
@@ -43571,6 +43572,7 @@ vkcdnservice.appspot.com^
 ! ||settings.crashlytics.com^
 ! ||sny.monosnap.com^
 ! ||lr-ingest.com^
+! ||api.instabug.com^
 !
 !
 ! ||ensighten.com^$third-party - not a tracker
@@ -43605,7 +43607,6 @@ vkcdnservice.appspot.com^
 ||adtrack.adleadevent.com^
 ||metrics-fe-na1.hubspot.com^
 ||pixel.mintigo.com^
-||api.sardine.ai^
 ||dmp.one^
 ||dmp-ai.ru^
 ||dmp-one.ru^
@@ -47271,6 +47272,7 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||trackid.globoid.globo.com^
 ||stats.habr.com^
 ||analytics.qs-apps.com^
 ||cnt.web-apps-prod.wo-cloud.com^
@@ -47388,7 +47390,6 @@ vkcdnservice.appspot.com^
 ||lp.spac.me^
 ||analytics.verfacto.com^
 ||flask.us.nextdoor.com^
-||ev.indianexpress.com^
 ||aa-metrics.beauty.hotpepper.jp^
 ||aa-metrics.hotpepper.jp^
 ||c615.denverpost.com^
@@ -50153,7 +50154,6 @@ inapps.appsflyersdk.com^
 ||an.batmobi.net^
 ||analytics.any.do^
 ||m.vpadn.com^
-||api.instabug.com^
 ||sts.batmobi.net^
 ||pps-log.op-mobile.opera.com^
 ||tktracker.aotter.net^
@@ -54355,6 +54355,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||baglanbize.net^
 ||cdn.cdnhipter.xyz^
 ||kingads2.org^
 ||ad-service.shop^
