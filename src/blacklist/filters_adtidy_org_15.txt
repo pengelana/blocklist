@@ -1,9 +1,9 @@
-! Checksum: ZhGR8Dnd81E/N0xY2CvPeA
-! Diff-Path: ../patches/15/15-s-1721327934-3600.patch
+! Checksum: S0EtojavxAODAydyamQbjQ
+! Diff-Path: ../patches/15/15-s-1721392746-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.68.15
-! TimeUpdated: 2024-07-18T18:35:27+00:00
+! Version: 2.0.68.17
+! TimeUpdated: 2024-07-19T12:35:03+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-18T18:01:24.827Z
+! Last modified: 2024-07-19T12:01:32.061Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,8 @@
 !
 !
 !
+||omjqukadtolg.com^
+||piggiepepo.xyz^
 ||austere-familiar.com^
 ||syndicatedsearch.goog^
 ||duxlveokumpmd.com^
@@ -1110,6 +1112,7 @@ serve.bussyhunter.com^
 ||kmsofficial.org^
 ||Kmspico-official.org^
 ||getintopc.today^
+/^94\.242\.247\.(2[0-9]|3[0-2]):/
 /^23\.109\.73\.\d{3}/
 /^188\.42\.84\.\d{1,3}/
 /^139\.45\.19[5-7]\.\d{1,3}/
@@ -8337,6 +8340,7 @@ vkcdnservice.appspot.com^
 ||chautcho.com^
 ||chauwout.xyz^
 ||chawedsonrai.top^
+||chbujyjyvshtcr.com^
 ||chdkxgjtwflba.com^
 ||cheap-trip.pro^
 ||cheapcoveringpearl.com^
@@ -10811,6 +10815,7 @@ vkcdnservice.appspot.com^
 ||dfdgfruitie.xyz^
 ||dfearinglestp.info^
 ||dfepsqnbje.com^
+||dffa09cade.com^
 ||dffhhqka.com^
 ||dfgbalon.com^
 ||dfionytxsva.com^
@@ -17372,6 +17377,7 @@ vkcdnservice.appspot.com^
 ||hpaakmsumarzy.com^
 ||hpbmyojwqpewaw.com^
 ||hpcfdhvwjwlt.com^
+||hpeaxbmuh.com^
 ||hpepeepce.com^
 ||hpilhooxcjh.com^
 ||hpk42r7a.de^
@@ -19066,6 +19072,7 @@ vkcdnservice.appspot.com^
 ||jekzyyowqwmwl.top^
 ||jekzyyowqwwrz.top^
 ||jekzyyowqwwwy.top^
+||jelliescroon.click^
 ||jellifygummier.top^
 ||jelllearnedhungry.com^
 ||jellyhelpless.com^
@@ -19751,6 +19758,7 @@ vkcdnservice.appspot.com^
 ||kazanbossterrifying.com^
 ||kazqkjyztvv.com^
 ||kbadguhvqig.xyz^
+||kbadkxocv.com^
 ||kbao7755.de^
 ||kbevcidiiqwa.com^
 ||kbknujjtpnqq.com^
@@ -25620,6 +25628,7 @@ vkcdnservice.appspot.com^
 ||ouveelsa.xyz^
 ||ouvrestance.com^
 ||ouwhejoacie.xyz^
+||ouxourtoo.com^
 ||ouyoqudevfal.com^
 ||ouzavamt.com^
 ||ouzeelre.net^
@@ -28015,6 +28024,7 @@ vkcdnservice.appspot.com^
 ||ptaissud.com^
 ||ptaixout.net^
 ||ptalribs.xyz^
+||ptamselrou.com^
 ||ptanguth.com^
 ||ptapjmp.com^
 ||ptaughar.com^
@@ -41000,6 +41010,7 @@ vkcdnservice.appspot.com^
 ||68646f.xyz^
 ||691f42ad.xyz^
 ||6a6672.xyz^
+||70b927c8.live^
 ||7608d5.xyz^
 ||7ca989e1.xyz^
 ||7e60f1f9.xyz^
@@ -51396,6 +51407,7 @@ inapps.appsflyersdk.com^
 ! Georgian
 ||tbcconnect.ge^
 ! Greek
+||appocalypsis.com^
 ||linkwi.se^
 ! Hebrew
 ||erate.co.il^
@@ -62091,6 +62103,15 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||67.21.92.*.gif
 ||107.167.22.*.gif
+||ofebyk.xyz^
+||mdipsumx.top^
+||jsdelivr.vip^
+||macoms.la^
+||rebojf.xyz^
+||tvpqnh.xyz^
+||bxoaeju.icu^
+||nznkaq5.cn^
+||hahusa.top^
 ||wnootzc.icu^
 ||eiuoom.xyz^
 ||bavotr.xyz^
@@ -68633,6 +68654,7 @@ analytics-*.aasaam.com
 ||actionlog.divar.ir^
 ! # >> E <<
 ! # >> F <<
+||analytics.fam.ir^
 ||sentry.fidibo.net^
 ||vast.filmnet.ir^
 ! # https://github.com/MasterKia/PersianBlocker/issues/107
@@ -68801,6 +68823,8 @@ analytics-*.aasaam.com
 ||tinancefa.org^
 ! # https://github.com/Webamoozcom/warning-list/discussions/184
 ||chancx.io^
+! # https://github.com/Webamoozcom/warning-list/discussions/185
+||falixa.com^
 ! # https://github.com/MasterKia/PersianBlocker/pull/201
 ! # https://webamooz.com/1402/06/25/%D9%84%D8%A7%DA%A9%D8%B3%D9%88%D9%86-laxxson-%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%BE%D8%A7%D9%86%D8%B2%DB%8C-%D8%A7%D8%B3%D8%AA/
 ||laxsson.com^
