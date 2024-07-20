@@ -1,9 +1,9 @@
-! Checksum: S0EtojavxAODAydyamQbjQ
-! Diff-Path: ../patches/15/15-s-1721392746-3600.patch
+! Checksum: kgjZOfpsbc/BvGXpoHpk5A
+! Diff-Path: ../patches/15/15-s-1721435801-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.68.17
-! TimeUpdated: 2024-07-19T12:35:03+00:00
+! Version: 2.0.68.19
+! TimeUpdated: 2024-07-20T00:33:21+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-19T12:01:32.061Z
+! Last modified: 2024-07-20T00:02:52.946Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,10 @@
 !
 !
 !
+||metogthr.com^
+||rdtracer.com^
+||blogostock.com^
+||clumsyshare.com^
 ||omjqukadtolg.com^
 ||piggiepepo.xyz^
 ||austere-familiar.com^
@@ -2270,6 +2274,7 @@ vkcdnservice.appspot.com^
 ||3ead4fd497.com^
 ||3edcc83467.com^
 ||3fa244b7eb.com^
+||3fc0ebfea0.com^
 ||3fwlr7frbb.pro^
 ||3g25ko2.de^
 ||3gbqdci2.de^
@@ -5911,6 +5916,7 @@ vkcdnservice.appspot.com^
 ||bashfuladvancedeliberately.com^
 ||bashnourish.com^
 ||bashwhoopflash.com^
+||basicallyspacecraft.com^
 ||basicflownetowork.co.in^
 ||basictreadcontract.com^
 ||basicwhenpear.com^
@@ -9917,6 +9923,7 @@ vkcdnservice.appspot.com^
 ||cubbingrebbes.com^
 ||cubchillysail.com^
 ||cubeslichees.com^
+||cubeuptownpert.com^
 ||cubgeographygloomily.com^
 ||cubicnought.com^
 ||cuckooretire.com^
@@ -11474,6 +11481,7 @@ vkcdnservice.appspot.com^
 ||dosiswether.com^
 ||dositsil.net^
 ||dosliggooor.com^
+||dossestarairi.shop^
 ||dossmanaventre.top^
 ||dossouwe.net^
 ||dotaillowan.com^
@@ -14878,6 +14886,7 @@ vkcdnservice.appspot.com^
 ||fxroflypm.com^
 ||fxrwmhbbxfcpb.com^
 ||fxwykuxh.com^
+||fyafcyawfevr.com^
 ||fybkhsfntvuyat.com^
 ||fyblppngxdt.com^
 ||fydczmk.com^
@@ -14948,6 +14957,7 @@ vkcdnservice.appspot.com^
 ||gaitoath.com^
 ||gaizoopi.net^
 ||gakairohekoa.com^
+||gakvrqdquo.com^
 ||galaare.com^
 ||galachr.com^
 ||galairo.com^
@@ -16686,6 +16696,7 @@ vkcdnservice.appspot.com^
 ||headlightgranulatedflee.com^
 ||headlightinfinitelyhusband.com^
 ||headline205.fun^
+||headline3452.fun^
 ||headphonedecomposeexcess.com^
 ||headphoneveryoverdose.com^
 ||headquarterinsufficientmaniac.com^
@@ -16932,6 +16943,7 @@ vkcdnservice.appspot.com^
 ||hibitomonach.com^
 ||hibssqnitlsgcm.com^
 ||hiccupcotman.com^
+||hichhereallyw.info^
 ||hickclamour.com^
 ||hickunwilling.com^
 ||hickytarp.space^
@@ -19057,6 +19069,7 @@ vkcdnservice.appspot.com^
 ||jeejeetauz.com^
 ||jeejujou.net^
 ||jeekomih.com^
+||jeelmuyusa.com^
 ||jeephiney.net^
 ||jeerinfluencemedical.com^
 ||jeerouse.xyz^
@@ -20188,6 +20201,7 @@ vkcdnservice.appspot.com^
 ||korrelate.net^
 ||korunabevy.com^
 ||korununkept.digital^
+||kosininia.com^
 ||kostprice.com^
 ||kotikinar2ko8tiki09.com^
 ||kotnvzp.com^
@@ -24610,6 +24624,7 @@ vkcdnservice.appspot.com^
 ||observativus.com^
 ||observedbrainpowerweb.com^
 ||observedlily.com^
+||observer3452.fun^
 ||observer384.fun^
 ||observerdispleasejune.com^
 ||obsesschristening.com^
@@ -25904,6 +25919,7 @@ vkcdnservice.appspot.com^
 ||paipsuto.com^
 ||pairschorus.com^
 ||paiwaupseto.com^
+||paiwena.xyz^
 ||paiwhisep.com^
 ||paiwhoki.com^
 ||pajamasgnat.com^
@@ -26226,6 +26242,7 @@ vkcdnservice.appspot.com^
 ||pc2ads.ru^
 ||pc5ads.com^
 ||pccasia.xyz^
+||pccjtxsao.com^
 ||pcdgninekvch.com^
 ||pcfchubby.top^
 ||pcglvhrln.com^
@@ -28122,6 +28139,7 @@ vkcdnservice.appspot.com^
 ||pu5hk1n2020.com^
 ||pub.network^
 ||pubacca5mc.com^
+||pubadx.one^
 ||pubaka5.com^
 ||pubceremony.com^
 ||pubdisturbance.com^
@@ -30685,6 +30703,7 @@ vkcdnservice.appspot.com^
 ||sandmakingsilver.info^
 ||sandsonair.com^
 ||sandtheircle.com^
+||sandwich3452.fun^
 ||sandwichdeliveringswine.com^
 ||sandysuspicions.com^
 ||sanedfalsely.com^
@@ -30703,6 +30722,7 @@ vkcdnservice.appspot.com^
 ||santoscologne.com^
 ||santosfeltmanager.com^
 ||santosmiddle.com^
+||santtacklingallaso.com^
 ||sapfailedfelon.com^
 ||sapfollower.com^
 ||saplvvogahhc.xyz^
@@ -36873,6 +36893,7 @@ vkcdnservice.appspot.com^
 ||volcanostricken.com^
 ||voldarinis.com^
 ||voleryclat.com^
+||volform.online^
 ||volleyballachiever.site^
 ||volna2babla1dh1.com^
 ||volumedpageboy.com^
@@ -37325,6 +37346,7 @@ vkcdnservice.appspot.com^
 ||wdvlqbo.com^
 ||weakcompromise.com^
 ||wealthextend.com^
+||wealthsgraphis.com^
 ||wealthyamomal.com^
 ||wealthyonsethelpless.com^
 ||weanersporta.com^
@@ -40067,6 +40089,7 @@ vkcdnservice.appspot.com^
 ||assoc-amazon.it^
 ||asterpix.com^
 ||auctionnudge.com^
+||audience.io^
 ||audience2media.com^
 ||audiencerun.com^
 ||autoads.asia^
@@ -40682,6 +40705,7 @@ vkcdnservice.appspot.com^
 ||quantumdex.io^
 ||questus.com^
 ||qwertize.com^
+||r2b2.cz^
 ||r2b2.io^
 ||rapt.com^
 ||reachjunction.com^
@@ -43600,6 +43624,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||scmn0di.com^
+||cdn.defractal.com^
 ||api.publytics.net^
 ||shoelace.com^
 ||pixel.nudgify.com^
@@ -62112,6 +62138,13 @@ inapps.appsflyersdk.com^
 ||bxoaeju.icu^
 ||nznkaq5.cn^
 ||hahusa.top^
+||uvekyvs.icu^
+||crtlisf.top^
+||u4ccj.icu^
+||iecmca.xyz^
+||chaoyumiao.com^
+||rodmfv.xyz^
+||fhnbrx.xyz^
 ||wnootzc.icu^
 ||eiuoom.xyz^
 ||bavotr.xyz^
