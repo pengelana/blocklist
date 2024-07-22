@@ -1,9 +1,9 @@
-! Checksum: qrQW/e2Qopr8tZnZng0B0A
-! Diff-Path: ../patches/15/15-s-1721630196-3600.patch
+! Checksum: 298SlfDnyNcVKVUKcwRIkg
+! Diff-Path: ../patches/15/15-s-1721673397-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.68.28
-! TimeUpdated: 2024-07-22T06:33:21+00:00
+! Version: 2.0.68.30
+! TimeUpdated: 2024-07-22T18:33:21+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-22T06:01:21.709Z
+! Last modified: 2024-07-22T18:01:09.139Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,7 @@
 !
 !
 !
+||maya15.site^
 ||ljr3.site^
 ||lcarlbvwr.com^
 ||thuckautiru.com^
@@ -40999,6 +41000,7 @@ vkcdnservice.appspot.com^
 ||072551.xyz^
 ||076f66b2.live^
 ||07e197.site^
+||08f8f073.xyz^
 ||09bd5a69.xyz^
 ||0ae00c7c.xyz^
 ||0c0b6e3f.xyz^
@@ -50630,7 +50632,6 @@ inapps.appsflyersdk.com^
 ||dig.ultimedia.com^
 ||dl.episerver.net^
 ||doppler-client-events.cbsivideo.com^
-||doppler-config.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||dynamic.ziftsolutions.com^
@@ -51055,6 +51056,7 @@ inapps.appsflyersdk.com^
 ||tracker.marinsoftware.com^
 ||tracker.mrpfd.com^
 ||tracker.myyschool.xyz^
+||tracker.nocodelytics.com^
 ||tracker.novage.com.ua^
 ||tracker.openwebtorrent.com^
 ||tracker.services.vaix.ai^
@@ -62171,6 +62173,9 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||grondrens.com^
+||oyretuk.top^
+||dv4ku.icu^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^

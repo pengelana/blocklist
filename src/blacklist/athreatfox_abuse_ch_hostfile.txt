@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-22 09:18:48 UTC                        #
+# Last updated: 2024-07-22 19:43:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	linternadc24.duckdns.org
+127.0.0.1	desquare27.duckdns.org
+127.0.0.1	cisadhsgov.org
+127.0.0.1	berrebyre.com
+127.0.0.1	filesoftdownload.shop
 127.0.0.1	lihtgyimm.com
 127.0.0.1	c.cnc.gay
 127.0.0.1	xjp.cyberspeed.baby
@@ -7205,62 +7210,4 @@
 127.0.0.1	duorhytm.fun
 127.0.0.1	epsilon-spaceworld.com
 127.0.0.1	api.su57.fun
-127.0.0.1	service-8rv78e5d-1319481525.sh.apigw.tencentcs.com
-127.0.0.1	dig.fuli-oa.cn
-127.0.0.1	www.imoneymy.com
-127.0.0.1	www.1319559.cc
-127.0.0.1	www.2280678.com
-127.0.0.1	shangri3.com
-127.0.0.1	ritestowritemyword.org
-127.0.0.1	cpanel.dnl-l.ooguy.com
-127.0.0.1	mediaim.expeida.net
-127.0.0.1	cpcalendars.dnl-l.ooguy.com
-127.0.0.1	expedia-rest.expeida.net
-127.0.0.1	oms.expeida.net
-127.0.0.1	outlook.deenpel.com
-127.0.0.1	vap.expeida.net
-127.0.0.1	dnl-l.ooguy.com
-127.0.0.1	ec2-15-207-223-179.ap-south-1.compute.amazonaws.com
-127.0.0.1	webmail.dnl-l.ooguy.com
-127.0.0.1	www.expeida.net
-127.0.0.1	www.dnl-l.ooguy.com
-127.0.0.1	redirect-r1.pay.expeida.net
-127.0.0.1	static.pay.expeida.net
-127.0.0.1	hwsrv-1125909.hostwindsdns.com
-127.0.0.1	downhimse.com
-127.0.0.1	www.cdnupdateservice.com
-127.0.0.1	intro.su
-127.0.0.1	shikkiy.fvds.ru
-127.0.0.1	www.gptchatpro.online
-127.0.0.1	www.r4dc3btbyzip0edkbykb1qteulwb.de
-127.0.0.1	kharej.goldelya.tech
-127.0.0.1	cooltk.asia
-127.0.0.1	www.jamesdesign.blog
-127.0.0.1	longkey.02561854.xyz
-127.0.0.1	ha.redethics.xyz
-127.0.0.1	lucarne-films.com
-127.0.0.1	cpcontacts.94-156-66-187.cprapid.com
-127.0.0.1	reksiaeksinov5.fvds.ru
-127.0.0.1	beta.to-kgb.ru
-127.0.0.1	karasergkaravaev5.fvds.ru
-127.0.0.1	www.spacestar.su
-127.0.0.1	matthiasellison.autos
-127.0.0.1	reksiaeksinov2.fvds.ru
-127.0.0.1	www.kasenmeyer.autos
-127.0.0.1	www.jakobtaylor.autos
-127.0.0.1	nickbaseev.fvds.ru
-127.0.0.1	whm.94-156-66-187.cprapid.com
-127.0.0.1	emileewang.autos
-127.0.0.1	jakobtaylor.autos
-127.0.0.1	practical-hawking.159-89-8-28.plesk.page
-127.0.0.1	elofizetesitearea.com
-127.0.0.1	mail.ciscointernship.com
-127.0.0.1	cdn.tgu-future.cn
-127.0.0.1	dnsb.checkinfomation.tk
-127.0.0.1	dnsa.checkinfomation.tk
-127.0.0.1	network-checkin.info
-127.0.0.1	dns.azurewinservice.com
-127.0.0.1	ns2.triumphp.com
-127.0.0.1	ns1.triumphp.com
-127.0.0.1	heiyejiang.tpddns.cn
-# Number of entries: 7257
+# Number of entries: 7204
