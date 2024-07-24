@@ -1,10 +1,8 @@
 ! Title: uBlock₀ filters – Badware risks
 ! Last modified: %timestamp%
 ! Expires: 5 days
-! Description: |
-!   For sites documented to put users at risk of installing 
-!   adware/crapware/malware, having login credentials stolen, etc.
-!   The purpose is to at least ensure a user is warned of the risks ahead.
+! Description: For sites documented to put users at risk of installing adware/crapware/malware, having login credentials stolen, etc.
+! The purpose is to at least ensure a user is warned of the risks ahead.
 ! License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
 ! Homepage: https://github.com/uBlockOrigin/uAssets
 !
@@ -512,7 +510,6 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||updaterlife.com^$all
 ^s=*&ssk=*&svar=*&z=$doc
 /?cid=*&dom=$doc
-^s1=*&click_id=$doc
 ||totalrecaptcha.top^$all
 /?type=*&button=2&clickid=$doc
 ||valrogrowth.com^$all
@@ -595,7 +592,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||programprotacol0.com^$all
 ||lovedatee.net^$all
 /dating_lp?keyword=$doc
-.space/bonus/*.php?c=$doc
+/bonus/*.php?c=$doc,domain=space|top
 ||club-gagnant.online^$all
 ||srengin.com^$all
 /common-player-arrow/index.html?var=*&zoneid=$doc
@@ -722,7 +719,6 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||adultminglenight.click^$all
 ||miallafun.com^$all
 ||derriks.site^$all
-||mikkim.top^$all
 ||butya.top^$all
 ||onenightfindertm.com^$all
 ||datenaughtysingles.click^$all
@@ -734,6 +730,19 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||olosex.pics^$all
 ||painfont.cyou^$all
 ||builder.hufs.ac.kr/goLink.jsp?url=xn-$doc
+||m.jubilantrefreshingvisit.buzz^$all
+! https://github.com/uBlockOrigin/uAssets/issues/24602
+! https://www.virustotal.com/gui/url/ce2b833adda2f862d77398203bbe33ea331097ba2a803d1a763492d2ac0d5a60
+! https://safeweb.norton.com/report/show?url=discordvip.createsocialcard.top
+! https://safeweb.norton.com/report/show?url=discordvip.pages.dev
+||mikkim.top^$all
+||discordvip.createsocialcard.top^$all
+||discordvip.pages.dev^$all
+! https://www.virustotal.com/gui/url/e652bc90d72bcda74485e90218143fc41a630b979f72e1659df916e2eb08c28e
+^s1=*&click_id=$doc
+! https://www.virustotal.com/gui/url/16f860e9177badfbe960f2a9272d652ec0f57898763920b0e039b6292ac3053c
+^mh=*&s2=$doc
+||onenightchicko.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68588
 ! https://github.com/uBlockOrigin/uAssets/issues/8869
@@ -3507,7 +3516,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 /cachingjs/turboturbo.js
 /config?key=6922a2c8-d1e9-43be-b201-749543d28fe1
 /config?key=d35e161b-abb4-4949-b523-003165d250bb
-oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 
 ! https://blog.sucuri.net/2023/08/from-google-dns-to-tech-support-scam-sites-unmasking-the-malware-trail.html
 ||dns.google/resolve?name=*.host-stats.io&type=txt|$xhr,3p
@@ -3639,7 +3647,8 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||com/isignesp.php^$doc,domain=com|~apple.com
 ||help/isignesp.php^$doc,domain=help|~apple.com
 ! https://www.virustotal.com/gui/url/7d488eae40f82027b8bcb5ef799ee8dce42296e56978f65de6fa99dc2172812b
-/^https:\/\/apple\.[a-z]{6}\.com\//$domain=com|~apple.com
+! https://www.virustotal.com/gui/url/b0a958a3a2716efd89982ef4d01f8c5f2f06ad4b3229c9a0c7de72c46c34b2a2
+/^https:\/\/apple\.[a-z0-9]{6}\.com\//$domain=com|~apple.com
 
 ! ourtime
 ||login-ourtime.members-datings.workers.dev^$all,domain=~ourtime.com
@@ -3651,7 +3660,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 /^https:\/\/(?:[a-z]{4,6}\.)?tiktok\d{2,5}\.com\//$doc,domain=com|~tiktok.com
 ! https://www.virustotal.com/gui/url/bd11af06bb1ed081ae7b373bd79e5601c17e0664be6856d922a92f771b24aee0
 /^https:\/\/(?:[a-z]{4,6}\.)?tiktok\d{2,5}\.cc\//$doc,domain=cc|~tiktok.com
-/\/wap\/api\/(?:activity\/)?[a-zA-Z]+![_-a-zA-Z]+\.action\?/$xhr,1p,strict1p,match-case
+/\/wap\/api\/(?:activity\/)?[a-zA-Z]+![-_a-zA-Z]+\.action\?/$xhr,1p,strict1p,match-case
 
 ! made-in-china.com
 ! https://infosec.exchange/@urldna/112553754973872125
@@ -3773,9 +3782,11 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||amazonl3.com^$all
 ||tepoty.com^$all
 ||daroznel.com^$all
-||shop73.online^$all
 ||ecommrce-web-amazon.netlify.app^$all
 ||etisalat-amazonprime.com^$all,to=~etisalat.ae
+||shop73.online^$all
+||syae3289.top^$all
+##html[lang][data-dpr="1"][style] > body.bluetheme.false > div#app.wrapper > div.app-wrapper > div.main-container
 ! https://infosec.exchange/@urldna/112483094476417201
 ||mybluehost.me/wp-admin/amz/$doc
 ! ebay
@@ -3867,6 +3878,8 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||negociebra.com.br^$all,to=~banco.bradesco
 ||lloyd-group.com^$all,to=~lloydsbank.com
 ||itaconsorciodigital.com.br^$all,to=~itau.com.br
+||americanexpressempresas.com^$all,to=~americanexpress.com
+||wizardpayroll.com.ar^$all,to=~hsbc.com
 ||recompensaszurichsantander.com.mx^$all
 ||upsdelivery-nl.com^$all,to=~bancosantander.es
 ||santander.cf.sandbox.motrada.ch^$all,to=~santanderbank.com|~santander.co.uk
@@ -3898,6 +3911,8 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||xyz/akbank/$doc,domain=xyz|~akbank.com
 ! https://www.virustotal.com/gui/url/6e922be515e2e7eeeb976591a4208f47d8505271963e968093f7290bc9114c96
 ||artecafe.eu/html/postde/pst/$all,to=~postbank.de
+! https://www.virustotal.com/gui/url/47030aa07787d8246511284f00cf6a2fba1bea6974f8227f0828794b7b8493f5
+/views/choice/*/start.php^$doc
 
 ! DHL
 ||dhl.*.potabox.com^$doc,domain=~dhl.com
@@ -3920,6 +3935,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ! instagram
 ||instagram-mail.net^$all
 ! facebook
+||mait.inhhome.top^$all
 ! /^https:\/\/[vw]ww-[a-z]?facebook[a-z]?([.-]com)?\.vn\//$doc,domain=vn
 ||notificationbyfacebook.$doc
 ||notificationbyfacebook.firebaseapp.com^$all
@@ -4009,6 +4025,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||st.aircsgo.com^$all
 ||steamfiller.ru^$all
 ||11steam.com^$all
+||st-invite.com^$all
 ||gtm.you1.cn^$all
 ||steamcommunitylog.chez.com^$all
 ||steam.workshop*.com^$doc
@@ -4084,6 +4101,8 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||graettingerlaw.com^$all
 ||hab-sharepoint.weebly.com^$all
 ||iamnew.powerappsportals.com^$all
+||post.nationalrent.ru^$all
+||hyuiko.live^$all
 ||cashum.unam.mx/wp-content/backups-dup-pro/imports/index.htm$all
 ||od.atami.no/one_drive.html$all
 ! https://www.virustotal.com/gui/url/20d6a5b64d26edeb2e5caae3aa19c00ebd83a6d4dac9e41486c823751e875030
@@ -4120,11 +4139,16 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ! https://urldna.io/scan/669b8ab77cf5beafb5dbcf99
 ! https://www.virustotal.com/gui/url/1092dfb23e71f252516b56e8d516e92df4233b5d7e7a5178393f7a1ae02b9ff3
 ||microsofthotmailsi1.wixsite.com^$all
+! https://www.virustotal.com/gui/url/d0a30d63d6975b69762e024ddb89c252a8f2822bddb8b4d171bf3495261dc479
+||supplieradvisor.ciamlogin.com^$all
+! https://www.virustotal.com/gui/url/6586411fdd055f472911a7507ed78ed2eabab30a79d2caf3402525f119dd8e66
+||e-messsage.com^$all
 
 ! telegram
 ||telegramhcn.com^$all
 ||web.telegram.data-bees.cn^$all
 ||haveplentymusic.com^$all
+||sozdor9s.com^$all
 ||newappmssg.ru^$all
 ||telegrambotsolution.pages.dev^$all
 /^https:\/\/www\.telegramk[a-z]\.com\//$domain=com|~telegram.org
@@ -4238,7 +4262,9 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ! https://www.virustotal.com/gui/url/7ef12f181e0c1d09475f2fd51b19b06ff393f4c686abfb89b312cd47447ac7bf
 ||metamask*.webflow.io^$doc
 ! https://www.virustotal.com/gui/url/35ca5ae411511f7c68dd4297ac19551e0dc2d562572c35234539516970135d61
+! https://www.virustotal.com/gui/url/dd9c66a2684e320439e385a424e13d2384752504242d385ed7bd3fa55fd57f97
 ||cbnotifser.top^$all,to=~coinbase.com
+||cbnotif.top^$all,to=~coinbase.com
 ! imtoken
 ||imtoken.org.cn^$all,to=~token.im
 ||tokenap.app^$all,to=~token.im
@@ -4261,6 +4287,7 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ||bigbauer.com^$all,to=~gmx.com
 ||paypal-complete.com^$all
 ||sacredtreespirit.com^$all,to=~ups.com
+||snapchatplus.fr^$all,to=~snapchat.com
 ||beluxrepm.followme.fr/FolloWMe$all,to=~realestate.bnpparibas.com
 ||mybluehost.me/Cope346/$all
 ||tesakom.com/aa/index.html^$all,to=~ebestsec.co.kr
@@ -4280,6 +4307,9 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 ?email=3mail@b.c/|$doc
 ! https://www.virustotal.com/gui/url/dd422322662ef1547afcc735850a4a4ee1ae601cb1502701174730f24f4e9ac0
 /^https:\/\/([a-z]-){10,15}[a-z]\.(?:com|net)\.tr\//$doc,domain=com.tr|net.tr
+
+! https://khonggianmang.vn/uploads/2023_CBT_50_f8da1fd477.pdf
+||khach-hang-the-$doc
 
 ! https://khonggianmang.vn/uploads/2024_CBT_03_4aa7fe1b3c.pdf
 ||lazada.gg^$all
@@ -4418,9 +4448,6 @@ oltacidergisi.com##+js(acs, atob, minimalDrainValue)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/23674
 ||examated.co.in^$doc
-
-! https://github.com/uBlockOrigin/uAssets/issues/23823
-||clientarea-loginauth.com^$all
 
 ! https://www.virustotal.com/gui/file/cbc37be64bbe194d3e06da6048f0db712bf8f323f78222f4265604d609fee325
 ! https://www.virustotal.com/gui/file/d5a0a28b2a8e97c24f12595833a0663e904e750149eb64b8b9a17f9758a5c966
