@@ -1,9 +1,9 @@
-! Checksum: 1PJoCqIP1l+mXDVw72eIgg
-! Diff-Path: ../patches/15/15-s-1721781421-3600.patch
+! Checksum: HdcOBl6qFvOXeR/RpmgfEA
+! Diff-Path: ../patches/15/15-s-1721867802-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.68.35
-! TimeUpdated: 2024-07-24T00:33:41+00:00
+! Version: 2.0.68.39
+! TimeUpdated: 2024-07-25T00:33:27+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-24T00:02:51.949Z
+! Last modified: 2024-07-25T00:03:06.032Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,8 @@
 !
 !
 !
+||prwfwayui.com^
+||pteegostie.com^
 ||frutwafiwah.com^
 ||maya15.site^
 ||ljr3.site^
@@ -2312,6 +2314,7 @@ vkcdnservice.appspot.com^
 ||442fc29954.com^
 ||445d1bd01a.com^
 ||44a9217f10.com^
+||44e29c19ac.com^
 ||44ffd27303.com^
 ||452tapgn.de^
 ||453130fa9e.com^
@@ -9230,6 +9233,7 @@ vkcdnservice.appspot.com^
 ||complementimpassable.com^
 ||complementinstancesvarying.com^
 ||complementparadeforbid.com^
+||complete-afternoon.pro^
 ||completelywrath.com^
 ||complex-relationship.com^
 ||complicatedincite.com^
@@ -10092,6 +10096,7 @@ vkcdnservice.appspot.com^
 ||cyclistforgotten.com^
 ||cycndlhot.xyz^
 ||cydippeespy.com^
+||cyeqeewyr.com^
 ||cyesesprerich.com^
 ||cygnus.com^
 ||cyih0e43aty7.com^
@@ -15839,6 +15844,7 @@ vkcdnservice.appspot.com^
 ||gonews2.com^
 ||gonzalodaemon.top^
 ||gooblesdd.com^
+||good-ads-online.com^
 ||goodadvert.ru^
 ||goodappforyou.com^
 ||goodbusinesspark.com^
@@ -17439,6 +17445,7 @@ vkcdnservice.appspot.com^
 ||hqsimfxiwyb.com^
 ||hqtwyhampwu.xyz^
 ||hqwa.xyz^
+||hqxghzyfvxrdpt.com^
 ||hraawjaaaluqboj.com^
 ||hrahdmon.com^
 ||hrczhdv.com^
@@ -22293,6 +22300,7 @@ vkcdnservice.appspot.com^
 ||mefestivalbout.com^
 ||megaad.nz^
 ||megabookline.com^
+||megacot.com^
 ||megadeliveryn.com^
 ||megae-aqn.com^
 ||megapodacutest.digital^
@@ -22697,6 +22705,7 @@ vkcdnservice.appspot.com^
 ||mkcurches.com^
 ||mkeliihb.com^
 ||mkenativji.com^
+||mkepacotck.com^
 ||mkgiiijigxwwn.com^
 ||mkhoj.com^
 ||mkihakfuzv.com^
@@ -23619,6 +23628,7 @@ vkcdnservice.appspot.com^
 ||ncwabgl.com^
 ||nczxuga.com^
 ||ndandinter.hair^
+||ndaspiratiotyukn.com^
 ||ndccouuyotn.com^
 ||ndcomemuni.com^
 ||nddnvliv.com^
@@ -24510,6 +24520,7 @@ vkcdnservice.appspot.com^
 ||o18.link^
 ||o2c7dks4.de^
 ||o313o.com^
+||o3sxhw5ad.com^
 ||o4nofsh6.de^
 ||o4uxrk33.com^
 ||o626b32etkg6.com^
@@ -28829,6 +28840,7 @@ vkcdnservice.appspot.com^
 ||quxwpwcwmmx.xyz^
 ||qvikar.com^
 ||qvjpjsglmvhcbv.xyz^
+||qvjqbtbt.com^
 ||qvlczhitbsqpl.com^
 ||qvol.tv^
 ||qvtcigr.com^
@@ -30134,6 +30146,7 @@ vkcdnservice.appspot.com^
 ||rocketyield.com^
 ||rockfellertest.com^
 ||rockierfought.top^
+||rockingfolders.com^
 ||rockmostbet.com^
 ||rockpicky.com^
 ||rockyou.net^
@@ -31396,6 +31409,7 @@ vkcdnservice.appspot.com^
 ||shallowtwist.pro^
 ||shalomitll.top^
 ||shalse.com^
+||shameful-leader.com^
 ||shameless-sentence.pro^
 ||shamelesscry.pro^
 ||shamelessgoodwill.com^
@@ -32528,6 +32542,7 @@ vkcdnservice.appspot.com^
 ||spo-play.live^
 ||spoiledpresence.com^
 ||spoilmagicstandard.com^
+||spokesperson254.fun^
 ||spondeetougher.guru^
 ||spongecell.com^
 ||spongemilitarydesigner.com^
@@ -35835,6 +35850,8 @@ vkcdnservice.appspot.com^
 ||unlinedcap.pro^
 ||unlockecstasyapparatus.com^
 ||unlockmaddenhooray.com^
+||unlocky.org^
+||unlocky.xyz^
 ||unloetiosal.com^
 ||unluciddesmids.top^
 ||unluckydead.pro^
@@ -36228,6 +36245,7 @@ vkcdnservice.appspot.com^
 ||uwrzjgtnur.com^
 ||uwzxukualwdkx.com^
 ||uxicgxqq.com^
+||uxjpyfzorpkcg.com^
 ||uxpascal.com^
 ||uxwnqppdma.com^
 ||uxxsiyokw.com^
@@ -37024,6 +37042,7 @@ vkcdnservice.appspot.com^
 ||vs3.com^
 ||vscfbcovhctu.com^
 ||vsgfjfsmcewnuhx.com^
+||vsgyfixkbow.com^
 ||vshzouj.com^
 ||vskfeduxg.xyz^
 ||vsnpfmoxb.xyz^
@@ -41073,6 +41092,7 @@ vkcdnservice.appspot.com^
 ||58e0.site^
 ||5ab2f817.xyz^
 ||5afc476a.xyz^
+||5cc3ac02.xyz^
 ||5ceea3.xyz^
 ||5fd6bc.xyz^
 ||605efe.xyz^
@@ -41312,6 +41332,7 @@ vkcdnservice.appspot.com^
 ||bs-adserver.b-cdn.net^
 ||btr.domywife.com^
 ||c.bannerflow.net^
+||c.bigcomics.win^
 ||c2shb.pubgw.yahoo.com^
 ||campaigns.williamhill.com^
 ||cdn.ad.page^
@@ -43679,6 +43700,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||b3mxnuvcer.com^
 ||insights-mxp.coursecareers.com^
 ||api.sprig.com^
 ||scmn0di.com^
@@ -47366,6 +47388,9 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||collector.plarium.com^
+||g.ign.com^
+||beacon.radiko.jp^
 ||a.visme.co^
 ||events.framer.com^
 ||static.runconverge.com^
@@ -62216,12 +62241,26 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||kwgqaqf.icu^
+||uicdns.xyz^
+||qzsvwo.xyz^
+||pznlpp.xyz^
+||vpdnjl.xyz^
+||jetlwsa.top^
 ||er1h4.icu^
 ||enuksg.xyz^
 ||pplkrh.xyz^
 ||ryqgdrh.icu^
 ||ietlwso.top^
 ||jdfzfd.xyz^
+||doujs01.shop^
+||bewr1.com^
+||heatherssb.com^
+||xs6po.icu^
+||yje912.cn^
+||byretuv.top^
+||68287zubo85737.com^
+||96382zubo66756.com^
 ||yfasjfk.icu^
 ||hetlwsu.top^
 ||1p3yg.icu^
