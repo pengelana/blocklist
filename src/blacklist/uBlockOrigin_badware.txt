@@ -731,6 +731,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||painfont.cyou^$all
 ||builder.hufs.ac.kr/goLink.jsp?url=xn-$doc
 ||m.jubilantrefreshingvisit.buzz^$all
+||lamilagq.com^$all
 ! https://github.com/uBlockOrigin/uAssets/issues/24602
 ! https://www.virustotal.com/gui/url/ce2b833adda2f862d77398203bbe33ea331097ba2a803d1a763492d2ac0d5a60
 ! https://safeweb.norton.com/report/show?url=discordvip.createsocialcard.top
@@ -758,9 +759,9 @@ tech4yougadgets.com##+js(aopr, Notification)
 ! https://urlscan.io/result/fb21aa1b-9c79-4ac4-8e82-386403964206/
 /?u1=*&o1=*&sid=t*~$doc
 ! push notification scam
-/^https:\/\/(?:www\d\.)?[-a-z]{6,}\.(?:com|info|net|org)\/(?=[-_a-zA-Z]{0,42}\d)(?=[-_0-9a-z]{0,42}[A-Z])[-_0-9a-zA-Z]{43}\/\?cid=[-_0-9a-zA-Z]{10,36}(?:&qs\d=\S+)?&(?:s|pub)id=[-_0-9a-z{}]{1,32}(?:&s=0\.\d+)?(?:#\S+)?$/$doc,match-case,domain=com|info|net|org
-/^https:\/\/(?:www\d\.)?[-a-z]{6,}\.(?:com|info|net|org)\/(?=[-_a-zA-Z]{0,42}\d)(?=[-_0-9a-z]{0,42}[A-Z])[-_0-9a-zA-Z]{43}\/\?(?:pub|s)id=[-_0-9a-z{}]{1,32}(?:&qs\d=\S+)?&cid=[-_0-9a-zA-Z]{10,36}(?:&s=0\.\d+)?(?:#\S+)?$/$doc,match-case,domain=com|info|net|org
-/^https:\/\/(?:www\d\.)?[-a-z]{6,}\.(?:com|info|net|org)\/(?=[-_a-zA-Z]{0,42}\d)(?=[-_0-9a-z]{0,42}[A-Z])[-_0-9a-zA-Z]{43}\/\?clickID=[0-9a-f]{32}&sourceID=\d+$/$doc,match-case,domain=com|info|net|org
+/^https:\/\/(?:www\d\.)?[-a-z]{6,}\.(?:club|com|info|net|org)\/(?=[-_a-zA-Z]{0,42}\d)(?=[-_0-9a-z]{0,42}[A-Z])[-_0-9a-zA-Z]{43}\/\?cid=[-_0-9a-zA-Z]{10,36}(?:&qs\d=\S+)?&(?:s|pub)id=[-_0-9a-z{}]{1,32}(?:&s=0\.\d+)?(?:#\S+)?$/$doc,match-case,domain=club|com|info|net|org
+/^https:\/\/(?:www\d\.)?[-a-z]{6,}\.(?:club|com|info|net|org)\/(?=[-_a-zA-Z]{0,42}\d)(?=[-_0-9a-z]{0,42}[A-Z])[-_0-9a-zA-Z]{43}\/\?(?:pub|s)id=[-_0-9a-z{}]{1,32}(?:&qs\d=\S+)?&cid=[-_0-9a-zA-Z]{10,36}(?:&s=0\.\d+)?(?:#\S+)?$/$doc,match-case,domain=club|com|info|net|org
+/^https:\/\/(?:www\d\.)?[-a-z]{6,}\.(?:club|com|info|net|org)\/(?=[-_a-zA-Z]{0,42}\d)(?=[-_0-9a-z]{0,42}[A-Z])[-_0-9a-zA-Z]{43}\/\?clickID=[0-9a-f]{32}&sourceID=\d+$/$doc,match-case,domain=club|com|info|net|org
 
 ! https://github.com/uBlockOrigin/uAssets/issues/8378
 ||ogtrk.net^
@@ -2972,6 +2973,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||event-experiment.com^$doc
 ||final-future.com^$doc
 ||t-uraaka.site^$doc
+||jap.cookingsboss.com^
+||jap.cookinggenuine.com^
 
 ! https://twitter.com/1ZRR4H/status/1623067548781539339
 ||soft-pro.site^$all
@@ -3616,7 +3619,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! https://www.virustotal.com/gui/url/38ad38ba67efdd42656b489e4df678ee065cad109cd1c9dbacf4632d356250d9
 /^https:\/\/vietg[a-z]v[0-9]*\.cc\//$doc,domain=cc
 ||clickhereecraigslist.tripod.com^$all
-||1234854.com^$all,to=~shopify.com
 ||thriveinclusion.com^$all,to=~web.de
 ||talktalk0.godaddysites.com^$all,to=~talktalk.co.uk
 ||unclepigva.com^$all,to=~chase.com
@@ -3647,6 +3649,13 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! https://urldna.io/scan/6691a7694c7663c24c140091
 ! https://www.virustotal.com/gui/url/ac43f39d914e0e7121c999f26b7bac7beceaa932f7478d68c4ce7df6dc78ed07
 ||hand-to-hand.cfolks.pl^$all,to=~ram.co.za
+! https://urldna.io/scan/66a0d0d33b59511de9602564
+! https://www.virustotal.com/gui/url/e9af3245273512c1cff602c7f7155b0f02559d3ea71eb1ef71050987ab097a08
+||mybluehost.me/intesasanpaolo/$doc,domain=~intesasanpaolo.com
+
+! shopify
+||1234854.com^$all,to=~shopify.com
+||suoncopbaonk.com^$all,to=~shopify.com
 
 ! paypal
 ||paypal-complete.com^$all
@@ -3661,6 +3670,9 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 /offer.php?rechargenumber=$doc,domain=~jio.com|~edu|~gov
 ! https://www.virustotal.com/gui/url/4e4606f961466924894ce9d9dc3d41a151ff9dbaee68143b77f3a1db6a7ca972
 /offer.html?rechargenumber=$doc,domain=~jio.com|~edu|~gov
+! https://urldna.io/scan/66a0d0c94f0acec29ff98592
+! https://www.virustotal.com/gui/url/5208705dcb34cb93ae64eb4b4f11d20610a50cf6bf60c0190a67eac6a3a17355
+/\/offer\.(?:html|php)\?(?:mobile|rechargenumber)=\d{10}\b/$doc,match-case,domain=~jio.com|~edu|~gov
 
 ! apple
 ! https://www.virustotal.com/gui/url/52cb5de2af70a3d65f41e0b63911d971ee27634d69160988ed7c8235c55c79e8
@@ -3757,7 +3769,11 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||allegrocolombia.com^$all
 ||allegrocx.com^$all
 ||allegro-online.ru^$all
-##html[lang][style] > body[ontouchstart=""] > div#app[data-v-app=""] > div#app[class] > div.grow
+~edu,~gov##html[lang][style] > body[ontouchstart=""] > div#app[data-v-app=""] > div#app[class] > div.grow
+! https://www.virustotal.com/gui/url/86713b42ead067bb3d7f886acc11fd60a254ce8f744258d2ff2e01c0702b620d
+/^https:\/\/allegro[a-z]{2,}\.shop\//$doc,domain=shop
+||allegroshop.shop^$all
+||allegrocn.shop^$all
 
 ! rackspace
 ||racks.pages.dev^$all,to=~rackspace.com
@@ -3799,6 +3815,8 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||assistancesosh.wixsite.com^$all,to=~orange.fr
 ! https://www.virustotal.com/gui/url/a667c0159708b76fce759d1b9f8230d44c1db8bbff82ea62e170df08f5673d4b
 /or/.espace-.client/(;authentication.htm^$doc,domain=~orange.fr
+! https://www.virustotal.com/gui/url/f7a5efd0b25ad492328edf9bff729a32fafc839554c6b5de2bb0e64307667534
+||tw1.ru/Orange/$doc,domain=~orange.fr
 
 ! amazon
 ||amazon-*.shop^$doc
@@ -3811,9 +3829,10 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||shop73.online^$all
 ||syae3289.top^$all
 ||ww26mb8.top^$all
-##html[lang][data-dpr="1"][style] > body.bluetheme.false > div#app.wrapper
+~amazon.com,~edu,~gov##html##html[lang][data-dpr="1"][style] > body.bluetheme.false > div#app.wrapper
 ! https://infosec.exchange/@urldna/112483094476417201
 ||mybluehost.me/wp-admin/amz/$doc
+
 ! ebay
 ||c.vn-ebayn.vip^$all
 ||vn-ebay.quxlpuj.cn^$all
@@ -3821,6 +3840,7 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||vilbuy.com^$all
 ||ebaydw.com^$all
 ||ebayhelpre.org^$all
+||ebay-european.com^$all
 ||show.naturecircle.shop^$all
 ! https://www.reddit.com/r/Scams/comments/1cux08b/whatsapp_telegram_instagram_work_from_home_posts/
 ||51eabay.com^$all
@@ -3830,6 +3850,9 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||ebaydw.cc^$all
 ! https://www.virustotal.com/gui/url/9f1eac2069c48d297e1f284ede655f9d7b8f4d4b5aec91d934147db7d9ec4e16
 ||pages.dev/errors/validateCaptcha^$doc
+! https://www.virustotal.com/gui/url/8ee2dacea4476d9971ccde03ffc968c6d2401e08c5273b8945dba4ea9c03069d
+||shopvip-alibaba.com^$all
+~alibaba.com,~edu,~gov##html[lang][translate] > body.deeppurple-theme:not([id]) > div#app:not([class]) > div.aiz-main-wrapper:not([id])
 
 ! AT&T
 ||wixsite.com/att-support/$doc
@@ -3906,6 +3929,8 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||itaconsorciodigital.com.br^$all,to=~itau.com.br
 ||americanexpressempresas.com^$all,to=~americanexpress.com
 ||wizardpayroll.com.ar^$all,to=~hsbc.com
+||amigosdelasfinanzas.com^$all,to=~bancocajasocial.com
+||e-cmv.ph^$all,to=~grupobancolombia.com
 ||recompensaszurichsantander.com.mx^$all
 ||upsdelivery-nl.com^$all,to=~bancosantander.es
 ||santander.cf.sandbox.motrada.ch^$all,to=~santanderbank.com|~santander.co.uk
@@ -3950,14 +3975,19 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||app.farmaciadelmonestironline.com/SER/dnkdl/$all,to=~dhl.com
 ! https://infosec.exchange/@urldna/112362770153826421
 ||solutionfun.info^$all
-! https://infosec.exchange/@urldna/112516596219764485
-||zdrhuagh.elementor.cloud/*/index.html$all
 ! https://www.virustotal.com/gui/url/991fe449cae5b7f070cba12bf8b7ab0f9058c8d1a0c5857cee1f5f1ec775d1a8
 ||leatherqueen.shop^$all
 ! https://urldna.io/scan/66983ef62ca5c5af9410c6d6
 ! https://www.virustotal.com/gui/url/e894b4e45cf6086f3c110bb89db761073b96134cfb330d375e0170ea248a8cb4
 ||dhl-express-ppd.infanion.com^$all,to=~dhl.com
+! https://www.virustotal.com/gui/url/c40564d42e6b3d2cb9f3d9b2485c32e3446fb516d05ffd441d3c14be61027e97
+||elementor.cloud/*/ENGHUY645/$doc,domain=~dhl.com
 
+! whatsapp
+||ann.tess1.top^$all
+! https://urldna.io/scan/66a0280430f40d4a2e1cdbfd
+! https://www.virustotal.com/gui/url/dd581161abc02c436e7f1d3096ebc651b98bf4ff3eeea81cff8ba76b6b9ca277
+||play.funfourmob.com^$all
 ! instagram
 ||instagram-mail.net^$all
 ! https://www.virustotal.com/gui/url/8fb4a3808af3e2dc52bb055171b6750d8141871cd7e7a1e8bb3457294ddd5437
@@ -4029,6 +4059,9 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! https://www.virustotal.com/gui/url/3272577275331ff6f7774d392e4e6189b8dc914c16777d24eb691b4830c5ef17
 /\.(?:pages\.dev|surge\.sh)\/help\/contact\/\d{14,19}\b/$doc,match-case,domain=pages.dev|surge.sh|~facebook.com
 ||business-help-temp-$doc
+! https://www.virustotal.com/gui/url/ebc994d35635bdfa408c42209bb66ca8de3180dfe60c1c90386ca5bb2bd0c5cd
+/\.cfd\/contract\/\d{14,19}\b/$doc,match-case,domain=cfd|~facebook.com
+||business-center-$doc
 ||instructions-video.vercel.app/detailed_video.mp4$media
 
 ! shopping sites
@@ -4056,6 +4089,7 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||11steam.com^$all
 ||st-invite.com^$all
 ||gtm.you1.cn^$all
+||steamxiazai.cn^$all
 ||steamcommunitylog.chez.com^$all
 ||steam.workshop*.com^$doc
 /^https:\/\/stea[a-z]{1,4}o[mn][a-z]{4,7}y[a-z]?\.com\//$doc,domain=com|~steamcommunity.com
@@ -4139,6 +4173,7 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||iamnew.powerappsportals.com^$all
 ||post.nationalrent.ru^$all
 ||hyuiko.live^$all
+||gocolonial.local-user.com^$all
 ||cashum.unam.mx/wp-content/backups-dup-pro/imports/index.htm$all
 ||od.atami.no/one_drive.html$all
 ! https://www.virustotal.com/gui/url/20d6a5b64d26edeb2e5caae3aa19c00ebd83a6d4dac9e41486c823751e875030
@@ -4181,6 +4216,8 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||e-messsage.com^$all
 ! https://www.virustotal.com/gui/url/8f1d11e2386cb995b30ec481a6b28acd4903283450f034a426927648956578a2
 ||supp0rt.co.za^$all
+! https://www.virustotal.com/gui/url/80a4ef21bdad71086be4131d0781e1578b59f2d3565ac48cd5d30aa7e2b2e398
+||ariabcon.com^$all
 
 ! telegram
 ||telegramhcn.com^$all
@@ -4350,6 +4387,25 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 /^https:\/\/([a-z]-){10,15}[a-z]\.(?:com|net|org)\.tr\//$doc,domain=com.tr|net.tr|org.tr
 ! https://www.virustotal.com/gui/url/ef4d71bf92ccca6f4079f06f4c519e9d21bc45e240ea32a42561b5684a2305da
 /views/go/start.php^$doc
+! https://www.virustotal.com/gui/url/09b11b4c345be67d2e7659fa2f1d1c07a000bc3cebbbbed17e891865a355d07e
+/^https:\/\/pub-[a-f0-9]{32}\.r2\.dev/be[a0-9]\d{2,3}\.html\b/$doc,match-case,domain=r2.dev
+! https://www.virustotal.com/gui/url/770ffdec12527b6af696bf4a7dde6fcaa484544ef932c438964f013b4a7c673f
+||pub-*.r2.dev/adobe2024.html^$doc
+r2.dev##html[lang] > body:not([class]):not([id]) > div.container-fluid:not([id]) > div.row[style^="background-image"][style*="data:image/jpeg;base64"]
+! https://www.virustotal.com/gui/url/526d0f017cf0af2b63746d39c742afe6d6d827cc1142d49fff26467f57d64c22
+||pub-*.r2.dev/owa.html^$doc
+r2.dev##html[lang] > body.signInBg[oncontextmenu="return false;"][style]:not([id]) > div#mainLogonDiv.mouse
+
+! docusign.com
+! https://www.virustotal.com/gui/url/6e9187f7fd43794da064ee58f10f92f1f2b43dd968fcc3f5b915b680f5f61d07
+||pub-*.r2.dev/alt_type.html^$doc,domain=~docusign.com
+||pub-*.r2.dev/doc_start.html^$doc,domain=~docusign.com
+||pub-*.r2.dev/dse_sign.html^$doc,domain=~docusign.com
+||pub-*.r2.dev/secure_response.html^$doc,domain=~docusign.com
+||pub-*.r2.dev/utility_base.html^$doc,domain=~docusign.com
+||r2.dev/auth_*.html^$doc,domain=~docusign.com
+||r2.dev/response_*.html^$doc,domain=~docusign.com
+r2.dev##html.account-server[lang] > body.site-content[onload="Z()"]:not([id]) > div#root:not([class]) > div.ink-authentication:not([id])
 
 ! https://khonggianmang.vn/uploads/2023_CBT_50_f8da1fd477.pdf
 ||khach-hang-the-$doc
@@ -4433,6 +4489,17 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||hangtietkiem.com^$all,to=~giaohangtietkiem.vn
 ||tcvnhomefic.com^$all,to=~mbbank.com.vn
 ||lapdatinternet.net^$all,to=~sctv.com.vn
+
+! https://khonggianmang.vn/uploads/2024_CBT_29_32b001d150.pdf
+||hethongnhanvien.com^$all,to=~lazada.vn
+||lazadaevent.com^$all,to=~lazada.vn
+||tikifreeship.vip^$all,to=~tiki.vn
+||vntiki.vip^$all,to=~tiki.vn
+||momoshopvip.com^$all,to=~momo.vn
+||baovietcom.vip^$all,to=~baovietbank.vn
+||mcqdvn.com^$all,to=~mbbank.com.vn
+||hethongvaynhanh247.com^$all
+||bethivetranh2024.weebly.com^$all
 
 ! https://www.malwarebytes.com/blog/threat-intelligence/2024/03/new-go-loader-pushes-rhadamanthys
 ! https://safeweb.norton.com/report/show?url=https:%2F%2Farnaudpairoto.com%2F
