@@ -690,7 +690,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||love-places.ru^$all
 /click.php?key=*&price=$doc
 ?click_id=*&tds_cid=$doc
-/lp_*.html?zoneid=$doc
+.com/lp*.html?zoneid=$doc
 /vpn/adult/*/index.html?*p1=$doc
 ||fervidpopsyk.com^$all
 ||dunabear.com^$all
@@ -732,6 +732,8 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||builder.hufs.ac.kr/goLink.jsp?url=xn-$doc
 ||m.jubilantrefreshingvisit.buzz^$all
 ||lamilagq.com^$all
+/1/index.html?p1=$doc
+/fb_video_googleplay/*/index.html?*p1=$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/24602
 ! https://www.virustotal.com/gui/url/ce2b833adda2f862d77398203bbe33ea331097ba2a803d1a763492d2ac0d5a60
 ! https://safeweb.norton.com/report/show?url=discordvip.createsocialcard.top
@@ -3263,7 +3265,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||bestextensionegde.com^$all
 
 ! https://github.com/DandelionSprout/adfilt/discussions/779#discussioncomment-6298369
-.com/api/users?token=*&uuid=&pii=&in=false^$doc
+.com/api/users*uuid=&pii=&in=false^$doc
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/158317
 ||asdmcm.com^$all
@@ -3684,9 +3686,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! https://www.virustotal.com/gui/url/dd2190d5505e9f0b1a79583c85dee20f6214b8bf614bf2a65187b1c9b5bd01df
 ||com/isignesp.php^$doc,domain=com|~apple.com
 ||help/isignesp.php^$doc,domain=help|~apple.com
-! https://www.virustotal.com/gui/url/7d488eae40f82027b8bcb5ef799ee8dce42296e56978f65de6fa99dc2172812b
-! https://www.virustotal.com/gui/url/b0a958a3a2716efd89982ef4d01f8c5f2f06ad4b3229c9a0c7de72c46c34b2a2
-/^https:\/\/apple\.[a-z0-9]{6}\.com\//$domain=com|~apple.com
 
 ! ourtime
 ||login-ourtime.members-datings.workers.dev^$all,domain=~ourtime.com
@@ -3776,7 +3775,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||allegrocns.com^$all
 ||allegro-005.com^$all
 ||allegro-online.ru^$all
-~edu,~gov##html[lang][style] > body[ontouchstart=""] > div#app[data-v-app=""] > div#app[class] > div.grow
 ! https://www.virustotal.com/gui/url/86713b42ead067bb3d7f886acc11fd60a254ce8f744258d2ff2e01c0702b620d
 /^https:\/\/allegro[a-z]{2,}\.shop\//$doc,domain=shop
 ||allegroshop.shop^$all
@@ -3810,7 +3808,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||gdnapqmhbs.1myall.com^$all,to=~dana.id
 ||ambiil-hadiaa4h.cs-resmi.com^$all,to=~dana.id
 ||danadigital2024.cs-zx.top^$all,to=~dana.id
-~edu,~gov##html[lang] > body:not([class]):not([id]) > div.container.hid[style] > div.box-login:not([id]) > form#formNohp[onsubmit="sendNohp(event);"]:not([class])
 
 ! orange.fr
 ||orange53.yolasite.com^$all,to=~orange.fr
@@ -3839,7 +3836,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||shop73.online^$all
 ||syae3289.top^$all
 ||ww26mb8.top^$all
-~amazon.com,~edu,~gov##html##html[lang][data-dpr="1"][style] > body.bluetheme.false > div#app.wrapper
 ! https://infosec.exchange/@urldna/112483094476417201
 ||mybluehost.me/wp-admin/amz/$doc
 
@@ -3865,7 +3861,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||topmarifle.life^$all,to=~alibaba.com
 ! https://www.virustotal.com/gui/url/8ee2dacea4476d9971ccde03ffc968c6d2401e08c5273b8945dba4ea9c03069d
 ||shopvip-alibaba.com^$all,to=~alibaba.com
-~alibaba.com,~edu,~gov##html[lang][translate] > body.deeppurple-theme:not([id]) > div#app:not([class]) > div.aiz-main-wrapper:not([id])
 
 ! AT&T
 ||wixsite.com/att-support/$doc
@@ -4251,7 +4246,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||vkcs.cloud/owa.html^$doc
 ! https://www.virustotal.com/gui/url/38b0cc10ec3ff351fb8688c6386834152abda6e018c63e8be60272b2ffb6c3b1
 ||ocalam.com:8443/impact^$doc
-~edu,~gov##html[lang] > body[style="opacity: 1;"]:not([class]):not([id]) > div.wrapper.xbg-101:not([id]) > div.w3-display-container[style]:not([id])
 
 ! telegram
 ||telegramhcn.com^$all
@@ -4431,10 +4425,8 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 /^https:\/\/pub-[a-f0-9]{32}\.r2\.dev/be[a0-9]\d{2,3}\.html\b/$doc,match-case,domain=r2.dev
 ! https://www.virustotal.com/gui/url/770ffdec12527b6af696bf4a7dde6fcaa484544ef932c438964f013b4a7c673f
 ||pub-*.r2.dev/adobe2024.html^$doc
-r2.dev##html[lang] > body:not([class]):not([id]) > div.container-fluid:not([id]) > div.row[style^="background-image"][style*="data:image/jpeg;base64"]
 ! https://www.virustotal.com/gui/url/526d0f017cf0af2b63746d39c742afe6d6d827cc1142d49fff26467f57d64c22
 ||pub-*.r2.dev/owa.html^$doc
-r2.dev##html[lang] > body.signInBg[oncontextmenu="return false;"][style]:not([id]) > div#mainLogonDiv.mouse
 
 ! docusign.com
 ! https://www.virustotal.com/gui/url/6e9187f7fd43794da064ee58f10f92f1f2b43dd968fcc3f5b915b680f5f61d07
@@ -4443,9 +4435,6 @@ r2.dev##html[lang] > body.signInBg[oncontextmenu="return false;"][style]:not([id
 ||pub-*.r2.dev/dse_sign.html^$doc,domain=~docusign.com
 ||pub-*.r2.dev/secure_response.html^$doc,domain=~docusign.com
 ||pub-*.r2.dev/utility_base.html^$doc,domain=~docusign.com
-||r2.dev/auth_*.html^$doc,domain=~docusign.com
-||r2.dev/response_*.html^$doc,domain=~docusign.com
-r2.dev##html.account-server[lang] > body.site-content[onload="Z()"]:not([id]) > div#root:not([class]) > div.ink-authentication:not([id])
 
 ! https://khonggianmang.vn/uploads/2023_CBT_48_4807790772.pdf
 ||tin-dung-$doc
@@ -4546,14 +4535,12 @@ r2.dev##html.account-server[lang] > body.site-content[onload="Z()"]:not([id]) > 
 ! https://www.virustotal.com/gui/url/163549472907cf1ddbe51b3f4722fd076d7ca8bc820c64a0d033e95c71706b15?nocache=1
 ||ebaymall168.shop^$all
 ||tikifreeship.vip^$all,to=~tiki.vn
-~tiki.vn,~ebay.com,~edu,~gov##html[data-dpr="1"][style] > body[style]:not([class]):not([id]) > div#app:not([class]) > div.main:not([id])
 ! https://www.virustotal.com/gui/url/7f02e45eca07e7e20dc88acf94a0403f02c5096f1ad128fd111c50e19bb63d76
 ! https://www.virustotal.com/gui/url/9877777ec7e5bfbd2db6f7459a33d7c8c4507b777ec108eeb1b2fbdab485fbd6
 ||flikois.com^$all
 ||f997.sbs^$all
 ||371j.xyz^$all
 ||momoshopvip.com^$all,to=~momo.vn
-~amazon.com,~momo.vn,~edu,~gov##html[lang][style] > body:not([id]) > uni-app.uni-app--maxwidth > uni-page[data-page] > uni-page-wrapper > uni-page-body
 
 ! https://www.malwarebytes.com/blog/threat-intelligence/2024/03/new-go-loader-pushes-rhadamanthys
 ! https://safeweb.norton.com/report/show?url=https:%2F%2Farnaudpairoto.com%2F
