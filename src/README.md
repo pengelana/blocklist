@@ -121,8 +121,8 @@
 [ OK ]   4,181 src/blacklist/easylist_adservers_popup.txt
 [ OK ]  66,806 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]     355 src/blacklist/firebog_net_w3kbl.txt
-[ OK ]  31,103 src/blacklist/hagezi_fake.txt
-[ OK ]  79,998 src/blacklist/hagezi_popup.txt
+[ OK ]  31,033 src/blacklist/hagezi_fake.txt
+[ OK ]  80,029 src/blacklist/hagezi_popup.txt
 [ OK ]     409 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]     753 src/blacklist/hpthreatresearch_domains.txt
 [ OK ]     288 src/blacklist/ioclist.domain.raw.txt
@@ -150,16 +150,16 @@
 [ OK ]       2 src/blacklist/t_redirect.txt
 [ OK ]   2,947 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,489,564
-Filter Duplicates   : 1,500,647
-Filter Whitelist    : 1,366,257
-Import Blacklist    : 1,366,658
-Compressed          : 1,219,189
+Total Blacklist     : 2,489,525
+Filter Duplicates   : 1,500,627
+Filter Whitelist    : 1,366,237
+Import Blacklist    : 1,366,642
+Compressed          : 1,219,173
 
    LENGTH     COUNT
-        2   898,420
-        3   272,537
-        4    28,859
+        2   898,422
+        3   272,520
+        4    28,858
         5    11,149
         6     3,348
         7     1,269
@@ -175,7 +175,7 @@ Compressed          : 1,219,189
        17         4
        19         2
 
-Total Blocklist     : 1,219,189
+Total Blocklist     : 1,219,173
 
 ~~~
 
