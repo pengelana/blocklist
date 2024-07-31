@@ -143,21 +143,21 @@
 [ OK ]      10 src/blacklist/t_crowdstrike.txt
 [ OK ]     134 src/blacklist/t_dnstunneling.txt
 [ OK ]      12 src/blacklist/t_fox_threatintel.txt
-[ OK ]   3,235 src/blacklist/t_judol.txt
+[ OK ]   3,303 src/blacklist/t_judol.txt
 [ OK ]       6 src/blacklist/t_malwarebytes.txt
 [ OK ]      71 src/blacklist/t_malwrhunterteam.txt
 [ OK ]       7 src/blacklist/t_popup.txt
 [ OK ]       2 src/blacklist/t_redirect.txt
 [ OK ]   2,962 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,491,622
-Filter Duplicates   : 1,501,953
-Filter Whitelist    : 1,367,563
-Import Blacklist    : 1,367,971
-Compressed          : 1,220,065
+Total Blacklist     : 2,491,690
+Filter Duplicates   : 1,502,021
+Filter Whitelist    : 1,367,631
+Import Blacklist    : 1,368,039
+Compressed          : 1,220,133
 
    LENGTH     COUNT
-        2   898,474
+        2   898,542
         3   273,245
         4    28,883
         5    11,157
@@ -175,7 +175,7 @@ Compressed          : 1,220,065
        17         4
        19         2
 
-Total Blocklist     : 1,220,065
+Total Blocklist     : 1,220,133
 
 ~~~
 
