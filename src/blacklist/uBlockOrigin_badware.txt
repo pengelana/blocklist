@@ -736,6 +736,8 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||lamilagq.com^$all
 /1/index.html?p1=$doc
 /fb_video_googleplay/*/index.html?*p1=$doc
+.sbs/c/*?s1=$doc
+
 ! https://github.com/uBlockOrigin/uAssets/issues/24602
 ! https://www.virustotal.com/gui/url/ce2b833adda2f862d77398203bbe33ea331097ba2a803d1a763492d2ac0d5a60
 ! https://safeweb.norton.com/report/show?url=discordvip.createsocialcard.top
@@ -1423,6 +1425,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||t-pia.me^$all
 ! https://x.com/harugasumi/status/1817602306189464046
 ||toythieves.com^$all
+! https://x.com/harugasumi/status/1818176968350953885
+||rlfrbxj.com^$all
 
 ! https://onijima.jp/?p=54165
 ||pocket-888.com^$all
@@ -2979,8 +2983,11 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||event-experiment.com^$doc
 ||final-future.com^$doc
 ||t-uraaka.site^$doc
-||jap.cookingsboss.com^
-||jap.cookinggenuine.com^
+||jap.cookingsboss.com^$doc
+||jap.cookinggenuine.com^$doc
+||ai-referee.com^$doc
+||present-folio.jp^$doc
+||surprise-folio.jp^$doc
 
 ! https://twitter.com/1ZRR4H/status/1623067548781539339
 ||soft-pro.site^$all
@@ -3026,6 +3033,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||touchtacchi.net^$all
 ||wsws1234.net^$all
 ||wswsnews.net^$all
+||fotkyin.top^$all
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/11s92xa/
 ! https://www.virustotal.com/gui/url/e1d9aadb5c1f979f0c83a54015cf84cda2da0fa9c4b452c6dabe62deeb70add5/detection
@@ -3183,6 +3191,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 /index.html?ph0n=1-$doc
 ||technosoft35.ru^$all
 ||tube-dvm.com^$all
+||cj7tv5fq8p.com^$all
 
 ! https://twitter.com/genegene1234561/status/1647164176438280192
 ||japanonlinebroadcast.live^$all
@@ -4806,3 +4815,6 @@ app##html > body[style]:not([class]):not([id]) > center#yangchen[style]:not([cla
 ||kongtuke.com^$all
 ||egisela.com^$all
 ||uhsee.com^$all
+
+! https://www.trellix.com/blogs/research/onedrive-pastejacking/
+||kostumn1.ilabserver.com^
