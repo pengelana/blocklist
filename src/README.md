@@ -9,7 +9,7 @@
 [ OK ]   7,116 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]   2,516 src/blacklist/StevenBlack_hosts.txt
-[ OK ]   6,970 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]   6,975 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,884 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,157 src/blacklist/blocklistproject_abuse.txt
 [ OK ]  23,761 src/blacklist/blocklistproject_crypto.txt
@@ -117,12 +117,12 @@
 [ OK ]     732 src/blacklist/blocklists-zscaler.txt
 [ OK ]     833 src/blacklist/craiu_list.txt
 [ OK ]      40 src/blacklist/craiu_log4j_blocklist.txt
-[ OK ]   5,118 src/blacklist/durablenapkin_hosts.txt
+[ OK ]   5,114 src/blacklist/durablenapkin_hosts.txt
 [ OK ]   4,183 src/blacklist/easylist_adservers_popup.txt
 [ OK ]  66,934 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]     355 src/blacklist/firebog_net_w3kbl.txt
-[ OK ]  30,730 src/blacklist/hagezi_fake.txt
-[ OK ]  79,933 src/blacklist/hagezi_popup.txt
+[ OK ]  30,633 src/blacklist/hagezi_fake.txt
+[ OK ]  80,070 src/blacklist/hagezi_popup.txt
 [ OK ]     409 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]     753 src/blacklist/hpthreatresearch_domains.txt
 [ OK ]     288 src/blacklist/ioclist.domain.raw.txt
@@ -147,20 +147,20 @@
 [ OK ]      71 src/blacklist/t_malwrhunterteam.txt
 [ OK ]       7 src/blacklist/t_popup.txt
 [ OK ]       2 src/blacklist/t_redirect.txt
-[ OK ]   2,970 src/blacklist/uBlockOrigin_badware.txt
+[ OK ]   2,978 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,444,498
-Filter Duplicates   : 1,453,701
-Filter Whitelist    : 1,326,608
-Import Blacklist    : 1,327,017
-Compressed          : 1,178,875
+Total Blacklist     : 2,444,547
+Filter Duplicates   : 1,453,731
+Filter Whitelist    : 1,326,638
+Import Blacklist    : 1,327,047
+Compressed          : 1,178,905
 
    LENGTH     COUNT
-        2   860,065
-        3   270,678
-        4    28,761
+        2   860,090
+        3   270,685
+        4    28,760
         5    11,123
-        6     3,353
+        6     3,352
         7     1,269
         8     2,275
         9     1,018
@@ -174,7 +174,7 @@ Compressed          : 1,178,875
        17         4
        19         1
 
-Total Blocklist     : 1,178,875
+Total Blocklist     : 1,178,905
 
 ~~~
 
@@ -198,7 +198,6 @@ https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
-https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt

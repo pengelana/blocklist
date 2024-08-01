@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-01 00:36:04 UTC                        #
+# Last updated: 2024-08-01 04:37:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	goclamdep.net
+127.0.0.1	trafikexperten.com
+127.0.0.1	normalverkehr.com
+127.0.0.1	abeparanormal.com
+127.0.0.1	richwoodgrill.com
 127.0.0.1	suburand.com
 127.0.0.1	rebistars.com
 127.0.0.1	myanswerpronto.com
@@ -6977,4 +6982,4 @@
 127.0.0.1	emkd.ru
 127.0.0.1	tzitziklishop3.ddns.net
 127.0.0.1	wiund98272sb01jshbq.con-ip.com
-# Number of entries: 6971
+# Number of entries: 6976
