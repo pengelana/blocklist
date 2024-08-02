@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-28 05:54:26 CEST
-# entries:        1083
+# last updated:   2024-08-01 07:32:49 CEST
+# entries:        1077
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -238,7 +238,6 @@
 127.0.0.1 cdn.appsmav.com
 127.0.0.1 cdn.bannerflow.com
 127.0.0.1 cdn.bannersnack.com
-127.0.0.1 cdn.biddercore.io
 127.0.0.1 cdn.blueconic.net
 127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.brandmetrics.com
@@ -364,6 +363,7 @@
 127.0.0.1 dev.visualwebsiteoptimizer.com
 127.0.0.1 di.insplanet.com
 127.0.0.1 digidip.net
+127.0.0.1 digitalaudience.io
 127.0.0.1 digitalfeedback.euro.confirmit.com
 127.0.0.1 digitaliseringsinitiativet.se
 127.0.0.1 dinapengar.compricer.se
@@ -463,7 +463,6 @@
 127.0.0.1 hbid.ams3.cdn.digitaloceanspaces.com
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 headerlift.com
-127.0.0.1 here.selectofmychoices.com
 127.0.0.1 heroaffiliates.com
 127.0.0.1 highcpmrevenuenetwork.com
 127.0.0.1 hits-i.iubenda.com
@@ -490,7 +489,6 @@
 127.0.0.1 infotorg.d2.sc.omtrdc.net
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 insight.nikkasystems.com
-127.0.0.1 instant.page
 127.0.0.1 interactions.sesamy.com
 127.0.0.1 investerarbrevet.se
 127.0.0.1 inviso.rampanel.com
@@ -642,7 +640,6 @@
 127.0.0.1 plausible.webfokus.no
 127.0.0.1 plus.sharedcount.com
 127.0.0.1 pm.azerioncircle.com
-127.0.0.1 popitunder.com
 127.0.0.1 portalhc.com
 127.0.0.1 pp.lp4.io
 127.0.0.1 prd-collector-platform.ex.co
@@ -737,7 +734,6 @@
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 seenthis.se
-127.0.0.1 selectofmychoices.com
 127.0.0.1 sentry.outbid.io
 127.0.0.1 seo.compado.com
 127.0.0.1 seoab.io
@@ -845,7 +841,6 @@
 127.0.0.1 tags.expo9.exponential.com
 127.0.0.1 tags.refinery89.com
 127.0.0.1 tags.smilewanted.com
-127.0.0.1 target.digitalaudience.io
 127.0.0.1 tb.de17a.com
 127.0.0.1 tcd.tourn.se
 127.0.0.1 telemetric.dk
@@ -1035,7 +1030,6 @@
 127.0.0.1 web-analytics.ica.se
 127.0.0.1 web-sdk.smartlook.com
 127.0.0.1 west.statisticplatform.com
-127.0.0.1 where.selectofmychoices.com
 127.0.0.1 widget.cdn.citygate.se
 127.0.0.1 widget.citygate.se
 127.0.0.1 widgets.ad.style
