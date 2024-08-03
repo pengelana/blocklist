@@ -1,9 +1,9 @@
-! Checksum: TiOq7ac+SxcoFV0KN9XCLw
-! Diff-Path: ../patches/15/15-s-1722559011-3600.patch
+! Checksum: H2ES3GblqULi5lm8PSC9nQ
+! Diff-Path: ../patches/15/15-s-1722645396-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.68.72
-! TimeUpdated: 2024-08-02T00:33:40+00:00
+! Version: 2.0.68.76
+! TimeUpdated: 2024-08-03T00:33:35+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-02T00:02:51.688Z
+! Last modified: 2024-08-03T00:03:00.656Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,7 @@
 !
 !
 !
+||gleempithep.com^
 ||newmownbuttes.com^
 ||awrnkojhomxvqi.com^
 ||uvaugnutseeh.com^
@@ -1429,6 +1430,7 @@ serve.bussyhunter.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||reklama.shinden.eu^
 ||ad.kisstvshow.es^
 ||tapi.apkpure.net^
 ||advertising-cdn.dpgmedia.cloud^
@@ -5420,6 +5422,7 @@ vkcdnservice.appspot.com^
 ||aulsidakr.com^
 ||aulteeby.net^
 ||aultesou.net^
+||aultopurg.xyz^
 ||aultseemedto.xyz^
 ||aumaupoy.net^
 ||aumeryyaruran.live^
@@ -6346,6 +6349,7 @@ vkcdnservice.appspot.com^
 ||beonixom.com^
 ||bepapersurmise.space^
 ||beparaspr.com^
+||bepawrepave.com^
 ||bephungoagno.com^
 ||bepilelaities.com^
 ||bepqevudfoha.com^
@@ -7286,6 +7290,7 @@ vkcdnservice.appspot.com^
 ||braveryinherited.com^
 ||bravetense.com^
 ||bravotrk.com^
+||brawerverism.com^
 ||brawlperennialcalumny.com^
 ||brazenwholly.com^
 ||brbupali.com^
@@ -8439,6 +8444,7 @@ vkcdnservice.appspot.com^
 ||chaubseet.com^
 ||chauckee.net^
 ||chauckoo.xyz^
+||chaudoubeets.net^
 ||chaudrep.net^
 ||chaugroo.net^
 ||chauinubbins.com^
@@ -12034,6 +12040,7 @@ vkcdnservice.appspot.com^
 ||dvfmdgdk.com^
 ||dvigutying.top^
 ||dvjkmskks.xyz^
+||dvkxchzb.com^
 ||dvvemmg.com^
 ||dvypar.com^
 ||dvzkkug.com^
@@ -12104,6 +12111,7 @@ vkcdnservice.appspot.com^
 ||dzuowpapvcu.com^
 ||e-cougar.fr^
 ||e0a79821ec.com^
+||e0ad1f3ca8.com^
 ||e0e5bc8f81.com^
 ||e1eacb6f88.com^
 ||e2078be122.com^
@@ -12793,6 +12801,7 @@ vkcdnservice.appspot.com^
 ||energeticdryeyebrows.com^
 ||energeticrecognisepostcard.com^
 ||energypopulationpractical.com^
+||eneughghaffir.com^
 ||eneverals.biz^
 ||eneverseen.org^
 ||enframetump.com^
@@ -14501,6 +14510,7 @@ vkcdnservice.appspot.com^
 ||foolishyours.com^
 ||foolproofanatomy.com^
 ||foomaque.net^
+||foonerne.com^
 ||fooptoat.com^
 ||footageaccomplishment.com^
 ||footagegift.com^
@@ -17666,6 +17676,7 @@ vkcdnservice.appspot.com^
 ||hugelyimmovable.com^
 ||hugenicholas.com^
 ||hugfromoctopus.com^
+||huggerslycaena.com^
 ||hughjonah.com^
 ||hugodeservedautopsy.com^
 ||hugoinexperiencedsat.com^
@@ -17675,6 +17686,7 @@ vkcdnservice.appspot.com^
 ||hukogpanbs.com^
 ||hulabipptemux.com^
 ||hulledaries.top^
+||hulocvvma.com^
 ||humaffableconsulate.com^
 ||humandiminutionengaged.com^
 ||humanjeep.com^
@@ -24649,6 +24661,7 @@ vkcdnservice.appspot.com^
 ||nutattorneyjack.com^
 ||nutchaungong.com^
 ||nutgxfwechkcuf.com^
+||nutiipwkk.com^
 ||nutletcorvees.com^
 ||nutmegshow.com^
 ||nutrientassumptionclaims.com^
@@ -25669,6 +25682,7 @@ vkcdnservice.appspot.com^
 ||orrisesdepute.com^
 ||orrmmdsdc.com^
 ||orrvucstaxip.com^
+||orrwavakgqr.com^
 ||orthitepetrous.com^
 ||orthronsmatter.com^
 ||ortontotlejohn.com^
@@ -27471,6 +27485,7 @@ vkcdnservice.appspot.com^
 ||polydarth.com^
 ||polygraphpretenceraw.com^
 ||polyh-nce.com^
+||polypedoutkeep.com^
 ||pomegranateheroin.com^
 ||pomeroyhagdown.com^
 ||pompadawe.com^
@@ -34729,6 +34744,7 @@ vkcdnservice.appspot.com^
 ||tinbuadserv.com^
 ||tingeedy.xyz^
 ||tingexcelelernodyden.info^
+||tingisincused.com^
 ||tingleswhisker.top^
 ||tinkermockingmonitor.com^
 ||tinkerwidth.com^
@@ -41477,6 +41493,7 @@ vkcdnservice.appspot.com^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||e1ce13d5.xyz^
 ||e75d10b9.live^
+||e8e2063b.xyz^
 ||ea6c0ac4.xyz^
 ||ec44.site^
 ||f090.site^
@@ -44031,6 +44048,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||yatr.ru^
+||analytics-fe.digital-cloud.medallia.eu^
 ||umami.aigenerations.net^
 ||brilliantcollector.com^
 ||flag.lab.amplitude.com^
@@ -47728,6 +47747,9 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||tracking.aws.judge.me^
+||analytics.rev.iq^
+||error-tracking.reddit.com^
 ||c1-stats.shopifysvc.com^
 ||telemetry.stytch.com^
 ||stat.le.com^
@@ -52221,6 +52243,7 @@ inapps.appsflyersdk.com^
 ||epro.sogou.com^
 ||experiments.sparanoid.net^
 ||g.yccdn.com^
+||gdt.qq.com^
 ||haostat.qihoo.com^
 ||hyrankhit.meldingcloud.com^
 ||imp.ad-plus.cn^
@@ -52616,6 +52639,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||newton1.ru^
 ||sheisnotateacher.com^
 ||kissedthetrain.com^
 ||srvd2204.com^
@@ -66698,7 +66722,6 @@ inapps.appsflyersdk.com^
 ||g.lznews.cn^
 ||g.mnw.cn^
 ||ganjituiguang.ganji.com^
-||gdt.qq.com^
 ||gg.0598yu.com^
 ||gg.blueidea.com^
 ||gg.cs090.com^
