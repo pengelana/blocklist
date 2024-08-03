@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-03 03:17:14 UTC                        #
+# Last updated: 2024-08-03 07:01:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ovh.atproxy.xyz
 127.0.0.1	expertoenexcel.com
 127.0.0.1	instalaymantiene.com
 127.0.0.1	kelownahomerenovations.com
@@ -7110,11 +7111,4 @@
 127.0.0.1	ecs-116-205-190-164.compute.hwclouds-dns.com
 127.0.0.1	ec2-3-22-66-152.us-east-2.compute.amazonaws.com
 127.0.0.1	vbatallafinal23.duckdns.org
-127.0.0.1	www.micros0fti.com
-127.0.0.1	z.botnet.rocks
-127.0.0.1	statisticsong.com
-127.0.0.1	api.statisticsong.com
-127.0.0.1	panal.statisticsong.com
-127.0.0.1	panel.statisticsong.com
-127.0.0.1	kami.magication.us
-# Number of entries: 7111
+# Number of entries: 7105
