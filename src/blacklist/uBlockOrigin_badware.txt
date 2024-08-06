@@ -3677,6 +3677,7 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! shopify
 ||suoncopbaonk.com^$all,to=~shopify.com
 ||xsjt.site^$all,to=~shopify.com
+||shopify-careers.com^$all,to=~shopify.com
 
 ! paypal
 ||paypal-complete.com^$all
@@ -3817,13 +3818,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! my.id
 ||xcxcx.my.id^$doc,to=~dana.id
 ||pemesanan*.glowz.my.id^$doc,to=~dana.id
-||pemesanann-lpg-pertamina-market-deliveryy.glowz.my.id^$all,to=~dana.id
-||penerimaan-hadiah-giveaway-10juta.clau.my.id^$all,to=~dana.id
-! others
-||gdnapqmhbs.1myall.com^$all,to=~dana.id
-||ambiil-hadiaa4h.cs-resmi.com^$all,to=~dana.id
-||danadigital2024.cs-zx.top^$all,to=~dana.id
-||pulihkan-dana.ww-da.cfd^$all,to=~dana.id
 
 ! orange.fr
 ||orange53.yolasite.com^$all,to=~orange.fr
@@ -3851,11 +3845,12 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||tepoty.com^$all
 ||daroznel.com^$all
 ||amazon8898.com^$all
-||ecommrce-web-amazon.netlify.app^$all
-||etisalat-amazonprime.com^$all,to=~etisalat.ae
+||dalabuso.com^$all
 ||shop73.online^$all
 ||syae3289.top^$all
 ||mm39sg6.top^$all
+||ecommrce-web-amazon.netlify.app^$all
+||etisalat-amazonprime.com^$all,to=~etisalat.ae
 ! https://infosec.exchange/@urldna/112483094476417201
 ||mybluehost.me/wp-admin/amz/$doc
 ! https://www.virustotal.com/gui/url/86279ddc548eead6c227e6d493e9cfcf4af0b28ccceae50c2f6420542a8d6fe7
@@ -4159,6 +4154,10 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||thepatrones.blob.core.windows.net^$all
 ||m-isist-emai-nmu-ne-*.vercel.app^$all
 ||vah-cont-in-uou-slyle-com-ay7t6dbmag9vhg8srhj4.vercel.app^$all
+! https://github.com/uBlockOrigin/uAssets/issues/24777
+! https://www.virustotal.com/gui/url/c2d401ec0f20e437009573fca481565d05036489406f6bb9bee37365cf4d28f0
+||pr-ue-ba-de-lsa-bermu-ne-*.vercel.app^$all
+||vercel.app/americaplata.com.html^$doc
 
 ! shopping sites
 /api/user/do_login|$xhr,1p,to=com|info,method=post,header=access-control-allow-headers:/authorization\,content-type\,if-match\,if-modified-since\,if-none-match\,if-unmodified-since\,x-requested-with/i
@@ -4481,6 +4480,12 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! https://www.virustotal.com/gui/url/94fdcf815a75d8182fee65b9f90fcbdd03498c33f6200e0c951a1a5874b2ad1d
 ||wcomhost.com/ch/upc/$all,to=~upc.ch
 
+||etuktukmain.pages.dev^$doc,to=~etuktuk.io
+||appmemekombatclaim.pages.dev^$doc,to=~memekombat.io
+||claimturbo.co^$doc,to=~turbotoken.io
+||laeer3xyz.com^$doc,to=~layer3.xyz
+||cyberblast.info^$doc,to=~cyberblast.io
+||claimable-bankless.com^$all,to=~bankless.com
 ||gz-gmy.com^$all,to=~paxos.com
 ||aevoclaim.live^$doc,to=~aevo.xyz
 ||treezorrwallett.webflow.io^$all,to=~trezor.io

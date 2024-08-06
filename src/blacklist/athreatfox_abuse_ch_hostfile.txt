@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-04 12:30:25 UTC                        #
+# Last updated: 2024-08-05 07:30:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	armzrace.com
+127.0.0.1	atasensors.com
+127.0.0.1	bangnightclub.com
+127.0.0.1	getupdates.net
+127.0.0.1	spencerinfo.net
+127.0.0.1	sigma125789-39601.portmap.host
+127.0.0.1	blackangel.hopto.org
 127.0.0.1	cache.cloudswiftcdn.com
 127.0.0.1	cloud.tnewstraffic.com
 127.0.0.1	secure.gdcstatic.com
@@ -7012,56 +7019,4 @@
 127.0.0.1	c0mmit.top
 127.0.0.1	bot.shop4youv2.de
 127.0.0.1	bot.elite-likes.de
-127.0.0.1	anotherpalece.sytes.net
-127.0.0.1	traincaster.net
-127.0.0.1	bizabiza.mywire.org
-127.0.0.1	login.vitamedicajobccb.com
-127.0.0.1	admiring-pascal.142-11-199-59.plesk.page
-127.0.0.1	drive.deenpel.com
-127.0.0.1	mail.dnl-l.ooguy.com
-127.0.0.1	www.charming-wright.142-11-199-59.plesk.page
-127.0.0.1	www.deenpel.com
-127.0.0.1	fonts.deenpel.com
-127.0.0.1	www.akunet.host
-127.0.0.1	epsilonapi.fr
-127.0.0.1	sw.sono.pw
-127.0.0.1	ec2-175-41-143-87.ap-southeast-1.compute.amazonaws.com
-127.0.0.1	ec2-13-235-248-157.ap-south-1.compute.amazonaws.com
-127.0.0.1	192-46-228-106.ip.linodeusercontent.com
-127.0.0.1	vps-zap1065782-2.zap-srv.com
-127.0.0.1	files.paronibarry.net
-127.0.0.1	erp.topixtechnology.com
-127.0.0.1	reksiaeksinov4.fvds.ru
-127.0.0.1	pegasus.chicecon.com
-127.0.0.1	dev.racun.app
-127.0.0.1	tsaojzhn885.com
-127.0.0.1	ok.chicecon.com
-127.0.0.1	taojszxz.com
-127.0.0.1	tsaojzuv455.com
-127.0.0.1	www.194-233-74-255.cprapid.com
-127.0.0.1	evgenytchurakin2.fvds.ru
-127.0.0.1	www.356142.fun
-127.0.0.1	karasergkaravaev.fvds.ru
-127.0.0.1	nickbaseev6.fvds.ru
-127.0.0.1	194-233-74-255.cprapid.com
-127.0.0.1	www.64-225-100-2.cprapid.com
-127.0.0.1	ec2-18-134-234-207.eu-west-2.compute.amazonaws.com
-127.0.0.1	www.gifted-khayyam.104-168-102-175.plesk.page
-127.0.0.1	www.optimistic-rubin.104-168-102-175.plesk.page
-127.0.0.1	confident-bouman.104-168-102-175.plesk.page
-127.0.0.1	quirky-williamson.104-168-102-175.plesk.page
-127.0.0.1	kind-villani.104-168-102-175.plesk.page
-127.0.0.1	www.modest-colden.104-168-102-175.plesk.page
-127.0.0.1	sync.maksonsab.ru
-127.0.0.1	www.brave-herschel.104-168-102-175.plesk.page
-127.0.0.1	www.optimistic-almeida.104-168-102-175.plesk.page
-127.0.0.1	www.happy-burnell.104-168-102-175.plesk.page
-127.0.0.1	ec2-13-36-225-33.eu-west-3.compute.amazonaws.com
-127.0.0.1	vibrant-fermat.104-168-102-175.plesk.page
-127.0.0.1	fervent-gates.104-168-102-175.plesk.page
-127.0.0.1	www.hardcore-wescoff.104-168-102-175.plesk.page
-127.0.0.1	modest-colden.104-168-102-175.plesk.page
-127.0.0.1	our.openarmscv.org
-127.0.0.1	i.wanna.see.20242525.xyz
-127.0.0.1	telergraml.org
-# Number of entries: 7058
+# Number of entries: 7013

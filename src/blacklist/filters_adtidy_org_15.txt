@@ -1,9 +1,9 @@
-! Checksum: SFCjXDSbmEJv1nk8Eak5Hw
-! Diff-Path: ../patches/15/15-s-1722818215-3600.patch
+! Checksum: 29uJ5DxkGk9Rop5slGSGvg
+! Diff-Path: ../patches/15/15-s-1722904618-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.68.84
-! TimeUpdated: 2024-08-05T00:33:37+00:00
+! Version: 2.0.68.88
+! TimeUpdated: 2024-08-06T00:33:36+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-05T00:03:08.661Z
+! Last modified: 2024-08-06T00:03:06.657Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,7 @@
 !
 !
 !
+||jeoawamjbbzjy.top^
 ||gleempithep.com^
 ||newmownbuttes.com^
 ||awrnkojhomxvqi.com^
@@ -1140,6 +1141,7 @@ serve.bussyhunter.com^
 ||Kmspico-official.org^
 ||getintopc.today^
 /^94\.242\.247\.(2[0-9]|3[0-2]):/
+/^23\.109\.170\.(18[7-9]|19[0-2])$/
 /^23\.109\.73\.\d{3}/
 /^188\.42\.84\.\d{1,3}/
 /^139\.45\.19[5-7]\.\d{1,3}/
@@ -2136,6 +2138,7 @@ vkcdnservice.appspot.com^
 ||258a912d15.com^
 ||259luxu.xyz^
 ||25obpfr.de^
+||2619374464.com^
 ||2639iqjkl.de^
 ||26485.top^
 ||2685da0b4d.com^
@@ -5640,6 +5643,7 @@ vkcdnservice.appspot.com^
 ||axallarded.top^
 ||axductile.com^
 ||axeldivision.com^
+||axepallorstraits.com^
 ||axhpkbvibdn.com^
 ||axill.com^
 ||axillovely.com^
@@ -5872,6 +5876,7 @@ vkcdnservice.appspot.com^
 ||baiweero.com^
 ||baiweluy.com^
 ||baiwhuga.net^
+||bakabok.com^
 ||bakatvackzat.com^
 ||bakeronerousfollowing.com^
 ||bakertangiblebehaved.com^
@@ -10428,6 +10433,7 @@ vkcdnservice.appspot.com^
 ||datatechone.com^
 ||datatechonert.com^
 ||date-5-c.com^
+||date-till-late.us^
 ||date2day.pro^
 ||date4sex.pro^
 ||dateddeed.com^
@@ -10534,6 +10540,7 @@ vkcdnservice.appspot.com^
 ||ddrsemxv.com^
 ||ddtvskish.com^
 ||ddylxccl.xyz^
+||dead-put.com^
 ||deadly-variety.pro^
 ||deadlyrelationship.com^
 ||deadmentionsunday.com^
@@ -13083,6 +13090,7 @@ vkcdnservice.appspot.com^
 ||escarsboughed.top^
 ||escers.com^
 ||escharatheins.com^
+||escortlist.pro^
 ||escthermae.com^
 ||esculicturbans.com^
 ||esculinconsent.top^
@@ -16695,6 +16703,7 @@ vkcdnservice.appspot.com^
 ||happeningflutter.com^
 ||happeningurinepomposity.com^
 ||happy-davinci-53144f.netlify.com^
+||happydate.today^
 ||happymuttere.org^
 ||happypavilion.com^
 ||haptenspopean.com^
@@ -19192,13 +19201,17 @@ vkcdnservice.appspot.com^
 ||jaupozup.xyz^
 ||jaurouth.xyz^
 ||java8.xyz^
+||javabsence11.fun^
 ||javacid.fun^
 ||javascriptcdnlive.com^
 ||javdawn.fun^
 ||javgg.eu^
 ||javgulf.fun^
 ||javjean.fun^
+||javlicense11.fun^
+||javmanager11.fun^
 ||javmust.fun^
+||javpremium11.fun^
 ||javtype.fun^
 ||jawinfallible.com^
 ||jawlookingchapter.com^
@@ -19637,6 +19650,7 @@ vkcdnservice.appspot.com^
 ||jpgtrk.com^
 ||jpilttrvnv.com^
 ||jpmldwvjqd.xyz^
+||jpooavwizlvf.com^
 ||jpsthqhvxynfdx.com^
 ||jpzvrsuwdavpjw.com^
 ||jqafetxoermhue.com^
@@ -19647,6 +19661,7 @@ vkcdnservice.appspot.com^
 ||jqlqmeveax.com^
 ||jqluhrwlfwsgdd.com^
 ||jqlumzbdtet.com^
+||jqmebwvmbrvz.top^
 ||jqmebwvmbzrz.top^
 ||jqmebwvmbzwy.top^
 ||jqmsnhyhrd.com^
@@ -21134,6 +21149,7 @@ vkcdnservice.appspot.com^
 ||lickinggetting.com^
 ||lickingimprovementpropulsion.com^
 ||licmiwot.com^
+||lidburger.com^
 ||liddenlywilli.org^
 ||lidsaich.net^
 ||lieforepawsado.com^
@@ -21917,6 +21933,7 @@ vkcdnservice.appspot.com^
 ||lysim-lre.com^
 ||lysjpqhhzve.com^
 ||lyssapebble.com^
+||lyticaframeofm.com^
 ||lywasnothycanty.info^
 ||lyzenoti.pro^
 ||lzjl.com^
@@ -24167,6 +24184,7 @@ vkcdnservice.appspot.com^
 ||niggedpacaya.com^
 ||niggeusakebvkb.xyz^
 ||nigglerimprove.top^
+||nightbesties.com^
 ||nightclubconceivedmanuscript.com^
 ||nighter.club^
 ||nightfallforestallbookkeeper.com^
@@ -25556,6 +25574,7 @@ vkcdnservice.appspot.com^
 ||oppressiveconnoisseur.com^
 ||oppressiveoversightnight.com^
 ||oppxzerrufhe.com^
+||opreseynatcreativei.com^
 ||oprill.com^
 ||opsaupsa.com^
 ||opshuckleor.com^
@@ -26626,6 +26645,7 @@ vkcdnservice.appspot.com^
 ||peevishchasingstir.com^
 ||peevishchosen.com^
 ||peevishforceless.com^
+||pefeyyuguqsg.com^
 ||pegablackjal.com^
 ||pegasuson.com^
 ||peggyhypoid.com^
@@ -27173,6 +27193,7 @@ vkcdnservice.appspot.com^
 ||pjoqkmks.com^
 ||pjqchcfwtw.com^
 ||pjslwort.com^
+||pjsos.xyz^
 ||pjvartonsbewand.info^
 ||pjvunkjgh.com^
 ||pjwshrlhyjyhqu.xyz^
@@ -29118,6 +29139,7 @@ vkcdnservice.appspot.com^
 ||qwrwawwmblwbb.top^
 ||qwrwawwmblybj.top^
 ||qwtag.com^
+||qwuaqrxfuohb.com^
 ||qwvqbeqwbrabj.top^
 ||qwvvoaykybbo.top^
 ||qwvvoaykyrbj.top^
@@ -36545,6 +36567,7 @@ vkcdnservice.appspot.com^
 ||uvlqgtgqdfl.com^
 ||uvoovoachee.com^
 ||uvrdhasvzal.com^
+||uvrecussing.shop^
 ||uvtuiks.com^
 ||uvwelvnydoy.com^
 ||uvwtmppnbqgzha.com^
@@ -38316,6 +38339,7 @@ vkcdnservice.appspot.com^
 ||wmaoxrk.com^
 ||wmbbsat.com^
 ||wmcdpt.com^
+||wmdlgzwr.com^
 ||wmdymnqzhbo.com^
 ||wmdzefk.com^
 ||wmeqobozarqyj.top^
@@ -38641,6 +38665,7 @@ vkcdnservice.appspot.com^
 ||wumpakuw.net^
 ||wumteecoodsu.com^
 ||wumufama.com^
+||wunishamjch.com^
 ||wunteetoco.com^
 ||wuqconn.com^
 ||wurqaz.com^
@@ -40018,6 +40043,7 @@ vkcdnservice.appspot.com^
 ||cdnjs-mht.com^
 ||cdnweb3.pages.dev^
 ||celestia.guru^
+||certona.net^
 ||chaingptweb3.org^
 ||chainlist.sh^
 ||chainupdate.us^
@@ -40120,6 +40146,7 @@ vkcdnservice.appspot.com^
 ||hfr67jhqrw8.com^
 ||lookup-domain.com^
 ||mgid.com^
+||searchresultsadblocker.com^
 ||tatrck.com^
 ||tbao684tryo.com^
 ||tracking.injoyalot.com^
@@ -41417,6 +41444,7 @@ vkcdnservice.appspot.com^
 ||3a2e.site^
 ||3a55f02d.xyz^
 ||3ffa255f.xyz^
+||4126fe80.xyz^
 ||420db600.xyz^
 ||45496fee.xyz^
 ||466c4d0f.xyz^
@@ -44065,6 +44093,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||kapetracking.com^
 ||tr.dec-connect.decsuite.com^
 ||yatr.ru^
 ||analytics-fe.digital-cloud.medallia.eu^
@@ -44667,7 +44696,6 @@ vkcdnservice.appspot.com^
 ||d.k3r.jp^
 ||retargeting.newsmanapp.com^
 ||tracking-sap.frodx.com^
-||affilbox.cz^
 ||nc0.co^
 ||pixelpop.co^
 ||retargeting.biz^
@@ -45016,7 +45044,6 @@ vkcdnservice.appspot.com^
 ||t.felmat.net^
 ||k-analytix.com^
 ||tracdelight.io^
-||goatcounter.com^
 ||gc.zgo.at^
 ||tracker.idocdn.com^
 ||ttrace.ru^
@@ -45548,7 +45575,6 @@ vkcdnservice.appspot.com^
 ||a-counters.com^
 ||a-pagerank.net^
 ||a013.com^
-||a8.net^
 ||a8ww.net^
 ||aaddzz.com^
 ||aamsitecertifier.com^
@@ -47587,14 +47613,17 @@ vkcdnservice.appspot.com^
 ! To avoid email links breakage, include email tracking lists with a modifier here:
 ! https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/template.txt
 !
-! GoatCounter : goatcounter.com disguised trackers
+! ActionIQ : mr-in.com disguised trackers
+||mr-in.com^
 !
 ! affilbox.cz : cz.affilbox.cz disguised trackers
+||affilbox.cz^
 !
 ! 2cnt.net : pl02.prolitteris.2cnt.net disguised trackers
 ||vgwort.de^
 !
 ! A8.net : a8.net disguised trackers
+||a8.net^
 !
 ! Act-On : actonservice.com and actonsoftware.com disguised trackers
 ||sharpmarketing.eu^
@@ -47648,6 +47677,8 @@ vkcdnservice.appspot.com^
 ||eulerian.belambra.fr^
 ||eulerian.belambra.be^
 !
+! Etracker : customer.etracker.com disguised trackers
+!
 ! Extole : extole.com disguised trackers
 ! not included
 !
@@ -47656,6 +47687,9 @@ vkcdnservice.appspot.com^
 ! GENIEE : genieespv.jp disguised trackers
 !
 ! GMO Internet Group : ad-cloud.jp disguised trackers
+!
+! GoatCounter : goatcounter.com disguised trackers
+||goatcounter.com^
 !
 ! GoDaddy : ads2.bid disguised trackers
 ! included to BaseFilter/sections/cname_adservers.txt
@@ -47722,6 +47756,9 @@ vkcdnservice.appspot.com^
 ! TraceDock : *.eu-central-1.elb.amazonaws.com disguised trackers
 ! not included
 !
+! TrueData : truedata.co disguised trackers
+||e.truedata.co^
+!
 ! Webtrekk : webtrekk.net disguised trackers
 ||webtrekk.com^
 ||webtrekk-asia.net^
@@ -47734,7 +47771,6 @@ vkcdnservice.appspot.com^
 !
 ! Rule for detecting hidden trackers when the main domain cannot be blocked.
 ||d1udjti6mtxz9q.cloudfront.net^
-||e.truedata.co^
 !
 ! NOTE: CNAME disguised tracking networks end ⬆️
 ! !SECTION: CNAME disguised tracking networks
@@ -47765,6 +47801,9 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||ax.amnezia.org^
+||events.betterhelp.com^
+||web-analytics.lastpass.com^
 ||tracking.aws.judge.me^
 ||analytics.rev.iq^
 ||error-tracking.reddit.com^
@@ -50310,7 +50349,6 @@ inapps.appsflyersdk.com^
 ||ec.adadapted.com^
 ||tracking.viewlift.com^
 ||events.prd.api.discomax.com^
-||events.betterhelp.com^
 ||analytics-gateway.delta.dp.lightricks.com^
 ||log.bloodsugars.live^
 ||logservice1.dbankcloud.cn^
@@ -52657,6 +52695,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||socdem-enrich.getshop.tv^
 ||newton1.ru^
 ||sheisnotateacher.com^
 ||kissedthetrain.com^
@@ -62656,10 +62695,21 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||baijs04.shop^
+||doujs04.shop^
+||kwumme.xyz^
+||mfemiac.icu^
+||qedgcxi.cn^
+||w0054.com^
+||xlmdtiyqbkygtfkh.com^
+||uvyuqzx.cn^
 ||letlwsl.top^
 ||twerilxi.top^
 ||eyyngo.xyz^
 ||tzyzlow.cn^
+||abjalrq.cn^
+||ykwykw.xyz^
+||tmoclbf.icu^
 ||script302.top^
 ||vecggfp.icu^
 ||ubeaui.xyz^
