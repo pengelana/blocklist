@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-08-01 07:32:49 CEST
-# entries:        1077
+# last updated:   2024-08-17 05:52:55 CEST
+# entries:        1082
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -139,12 +139,14 @@
 127.0.0.1 annoncer.nichehuset.dk
 127.0.0.1 annons.svenskjakt.se
 127.0.0.1 annons.turist.se
+127.0.0.1 annonsserver.se
 127.0.0.1 api.adfenix.com
 127.0.0.1 api.deep.bi
 127.0.0.1 api.fouanalytics.com
 127.0.0.1 api.getlevelten.com
 127.0.0.1 api.lab.eu.amplitude.com
 127.0.0.1 api.retargetly.com
+127.0.0.1 api.rudderstack.com
 127.0.0.1 api.segment.io
 127.0.0.1 api3847.d41.co
 127.0.0.1 app.converdiant.com
@@ -264,6 +266,7 @@
 127.0.0.1 cdn.reaktion.se
 127.0.0.1 cdn.rollbar.com
 127.0.0.1 cdn.routy.app
+127.0.0.1 cdn.rudderlabs.com
 127.0.0.1 cdn.shareaholic.net
 127.0.0.1 cdn.snigelweb.com
 127.0.0.1 cdn.speedcurve.com
@@ -535,6 +538,7 @@
 127.0.0.1 litix.io
 127.0.0.1 live.demand.supply
 127.0.0.1 load.sumome.com
+127.0.0.1 loadbalancer.visitor-analytics.io
 127.0.0.1 loader.wisepops.com
 127.0.0.1 loadr.exelator.com
 127.0.0.1 log.cookieyes.com
@@ -768,6 +772,7 @@
 127.0.0.1 stat.nyheter24.se
 127.0.0.1 stat.torgen.se
 127.0.0.1 stat03.stat.cliche.se
+127.0.0.1 statcounter.va-endpoint.com
 127.0.0.1 static.addtoany.com
 127.0.0.1 static.chartbeat.com
 127.0.0.1 static.criteo.net
