@@ -739,6 +739,8 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||kissablepopsyv43.com^$all
 /click.php?key=*&type=push&$doc
 .com/dating/*/index.html?lang=$doc
+.info/?key=*&pixel=$doc
+/?z=*&syncedCookie=true&rhd=false$doc,popup
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24602
 ! https://www.virustotal.com/gui/url/ce2b833adda2f862d77398203bbe33ea331097ba2a803d1a763492d2ac0d5a60
@@ -751,7 +753,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ! https://www.virustotal.com/gui/url/16f860e9177badfbe960f2a9272d652ec0f57898763920b0e039b6292ac3053c
 ! https://www.virustotal.com/gui/url/16f860e9177badfbe960f2a9272d652ec0f57898763920b0e039b6292ac3053c
 ! https://github.com/uBlockOrigin/uAssets/issues/24731
-##html[lang] > body.ishome:not([id]) > div.adult:not([id]) + main.main:not([id])
+##html[lang] > body.ishome > div.adult + main.main
 ^mh=*&mmid=$doc,script
 ||onenightchicko.com^$all
 ||nudepopsy71c.com^$all
@@ -763,6 +765,8 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||tinyurl.com/25wegbkm^$doc
 ||tinyurl.com/2clnbozb^$doc
 ||tinyurl.com/27xz35pu^$doc
+! https://www.virustotal.com/gui/url/8cf51404736d06441fdd527108bfb65cf97bd4801698e4a3ff91cfc605baded9
+||c0nt4ct-me.pages.dev^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68588
 ! https://github.com/uBlockOrigin/uAssets/issues/8869
@@ -1437,6 +1441,10 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||rigidconcrete.ca^$all
 ! https://x.com/harugasumi/status/1820496420136419512
 ||sportslevels.com^$all
+! https://x.com/harugasumi/status/1826758890333372471
+||sso.biglobe.jp.net^$all
+! https://x.com/kazunii_ac/status/1826984198768656845
+||lsdfex.shop^$all
 
 ! https://onijima.jp/?p=54165
 ||pocket-888.com^$all
@@ -2911,6 +2919,42 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||present-folio.jp^$doc
 ||surprise-folio.jp^$doc
 ||advisory.stockss.top^$doc
+||gamecygenn.com^$doc
+||cryp-prel.com^$doc
+||medianews77.com^$doc
+||lowsoop.com^$doc
+||5qex5.com^$doc
+||bxn45.com^$doc
+||gnkpy.com^$doc
+||cgcsarz0opg.jp^$doc
+||sakudon293ssp.jp^$doc
+||accord-adoration.com^$doc
+||banquet-barbecue.com^$doc
+||campus-cardigan.com^$doc
+||desirable-desktop.com^$doc
+||efficient-election.com^$doc
+||fantasy-federation.com^$doc
+||only.hearty-community.com^$doc
+||ee9gf8d6.com^$doc
+||mithu02s.com^$doc
+||impoverishedordealscrutinize.com^$doc
+||hfykmfd1.com^$doc
+||urgentrecommendationclimate.com^$doc
+||worlddating365.com^$doc
+||lien-lienam.com^$doc
+||rune-luna-moon.com^$doc
+||blue-could.com^$doc
+||happy-life-everyday.club^$doc
+||lovely-fortune.com^$doc
+||ombrewa.space^$doc
+||will-lucky-will.com^$doc
+||chosentalladvanced.com^$doc
+||methodsbillboardssurface.com^$doc
+||li-ke-lo-ve.com^$doc
+||like-love.net^$doc
+||m-eteor.com^$doc
+||m-eteor.shop^$doc
+||anti-bot1.b-cdn.net^$all
 
 ! https://twitter.com/1ZRR4H/status/1623067548781539339
 ||soft-pro.site^$all
@@ -3344,10 +3388,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://tria.ge/231010-1rdl5sfg68/behavioral1
 ||tiger.qnews.media^$3p
 ||s8bet.com^$doc
-/\.br\/(?:[a-z]{4,8}\/){1,2}\?(?:app|patt|videos?)=\S+\.shtml$/$doc,match-case,to=gov.br
-c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||azure.z97z.com/go.html$doc
-||sites.uft.edu.br/topama/news.php$doc
 ||imagebet.ph^$all
 ||googleeplay.com^$all
 ||mingvip.com^$all
@@ -3359,6 +3400,16 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||lazycaht.pro^$all
 ||bxtongji.cc^$all
 ||04tips.com^$all
+||cdn.jsdelivr.net/gh/cnmseo/LookMother$3p
+||yes2033.lol^
+||urjump.com^$doc
+||m8u9f3.com^$doc
+|http://playing.io/?inviteCode=1000631|$doc
+|http://playing.io/?inviteCode=1000632|$doc
+||ttt777.com^$doc
+||cloudflarebros.com^$all
+||brcknkblue.com^$all
+||sxmbs.com^$all
 
 ! https://www.virustotal.com/gui/ip-address/192.227.206.89/relations
 ||dhotelzao.com^$all
@@ -3587,6 +3638,13 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! https://www.virustotal.com/gui/url/03b24f614a52c8027b4e82187175cafec7914b2f1b36e1f8ecf1a34ef72f5b7d
 ||uwelldeutschland.com^$all,to=~myuwell.com
 
+! serasa.com.br
+||seguro.serasaexperian.site^$all,to=~serasa.com.br
+||seguros-pag.com^$all,to=~serasa.com.br
+
+! webmail
+||mail-cytanet.pages.dev^$all,to=~mail.cytanet.com.cy
+
 ! ups.com
 ! https://www.virustotal.com/gui/url/ef9755fcb211a668986b9afc5187577c92fb8c8bf62057bf9d0b59333827a35a
 ||mybluehost.me/Versan/UPS/$doc,to=~ups.com
@@ -3596,6 +3654,7 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! ee.co.uk
 ||ee-billing-recovery.web.app^$all,to=~ee.co.uk
 ||my-ee-web.web.app^$all,to=~ee.co.uk
+||ee-payment-method-issue.firebaseapp.com^$all,to=~ee.co.uk
 
 ! bpost.be
 ||pakket-bpost-be.web.app^$all,to=~bpost.be
@@ -3634,11 +3693,13 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 /\/offer\.(?:html|php)\?(?:mobile|rechargenumber)=\d{10}\b/$doc,match-case,to=~jio.com|~edu|~gov
 
 ! apple
+||rbchidraulica.com.br/info/verify^$all
 ||dbs.applerewardsstore.com^$all,to=~dbs.com
 ! https://www.virustotal.com/gui/url/52cb5de2af70a3d65f41e0b63911d971ee27634d69160988ed7c8235c55c79e8
 ! https://www.virustotal.com/gui/url/dd2190d5505e9f0b1a79583c85dee20f6214b8bf614bf2a65187b1c9b5bd01df
-||com/isignesp.php^$doc,to=com|~apple.com
-||help/isignesp.php^$doc,to=help|~apple.com
+/isignesp.php^$doc,to=~edu|~gov|~apple.com
+! https://www.virustotal.com/gui/url/c9f138a870349b6c5e050bb4122ddf029ce78f1d701399e483656c0d89d2da70
+/icloud2022-esp.php^$doc,to=~edu|~gov|~apple.com
 
 ! ourtime
 ||login-ourtime.members-datings.workers.dev^$all,to=~ourtime.com
@@ -3693,6 +3754,8 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! labanquepostale
 ||group-postban.firebaseapp.com^$all,to=~labanquepostale.fr
 ||oasisministries.com/fr/postale/$all,to=~labanquepostale.fr
+! https://www.virustotal.com/gui/url/998365385e6077a4903db356ff23917dc302baf8850fe7a5aab7d48b9f14f65d
+||lidarusa.com/*/Bpostale2022/$all,to=~labanquepostale.fr
 
 ! adobe
 ||adobecloud5xpo.yolasite.com^$all,to=~adobe.com
@@ -3799,6 +3862,7 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||amazon8898.com^$all
 ||dalabuso.com^$all
 ||mm39sg6.top^$all
+||dalazeey.com^$all
 ||ecommrce-web-amazon.netlify.app^$all
 ||etisalat-amazonprime.com^$all,to=~etisalat.ae
 ! https://infosec.exchange/@urldna/112483094476417201
@@ -3815,6 +3879,7 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||vn-ebay.quxlpuj.cn^$all
 ||ebayasean.com^$all
 ||vilbuy.com^$all
+||ebay839.cc^$all
 ||epayu.cc^$all
 ||svipeebay.com^$all
 ||ebaymerchant.shop^$all
@@ -3838,6 +3903,8 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||jybelinda.com^$all,to=~alibaba.com
 ! https://www.virustotal.com/gui/url/8ee2dacea4476d9971ccde03ffc968c6d2401e08c5273b8945dba4ea9c03069d
 ||shopvip-alibaba.com^$all,to=~alibaba.com
+! https://www.virustotal.com/gui/url/1649712cd78f28d5660fbf0d0de7d475f8cd51105caac04b3b521ecd850234a1
+||vetsinthecity.me/*/Alibaba/$doc,to=~alibaba.com
 
 ! AT&T
 ||wixsite.com/att-support/$doc
@@ -3931,7 +3998,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||wizardpayroll.com.ar^$all,to=~hsbc.com
 ||spareb1.com^$all,to=~sparebank1.no
 ||amigosdelasfinanzas.com^$all,to=~bancocajasocial.com
-||bdvenlineaconfirmate.pages.dev^$all,to=~bancodevenezuela.com
 ||e-cmv.ph^$all,to=~grupobancolombia.com
 ||anz.brandkit.io^$all,to=~anz.co.nz
 ||baovietin.top^$all,to=~baoviet.com.vn
@@ -3951,8 +4017,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||glitch.me/*/nationwide^$doc,to=~nationwide.co.uk
 ! https://www.virustotal.com/gui/url/90fc0532ce482014c579919d1b23d03b0d77fb7b31f3a313e7f17ed9886718f3
 ||mybluehost.me/ameli/$doc,to=~ameli.fr
-! https://www.virustotal.com/gui/url/1125c38e9f48cabcb0214a0de3c102d760850bf01d4b557ee65c023fa9b40188
-||mybluehost.me/meke/cc/clients/$doc,to=~targobank.de
 ! https://www.virustotal.com/gui/url/c69b4c8bd6c92857d6e1e40f48ef8830c19d1da98e2c1f16ed7867c58d4b2f63
 /28kxhS^$doc,to=online|shop|top|~sberbank.ru
 ! https://www.virustotal.com/gui/url/f8aff688f04724ec969bccbc5c87fab27425e949590f94006b8ad5ffc8280353
@@ -3972,6 +4036,16 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ^novobanco.pt-canais-digital/$doc,to=~novobanco.pt
 ^novobanco.pt-canais-digital-$doc,to=~novobanco.pt
 
+! targobank
+||targobank-kontowechselservice.de^$all,to=~targobank.de
+! https://www.virustotal.com/gui/url/1125c38e9f48cabcb0214a0de3c102d760850bf01d4b557ee65c023fa9b40188
+||mybluehost.me/meke/cc/clients/$doc,to=~targobank.de
+
+! bancodevenezuela.com
+||bdvenlinea*.pages.dev^$doc,to=~bancodevenezuela.com
+||bdvenlineaconfirmate.pages.dev^$all,to=~bancodevenezuela.com
+||bdvenlinea-banvenez-beram.pages.dev^$all,to=~bancodevenezuela.com
+
 ! shinhan
 ||tinchapshinhan.online^$all,to=~shinhan.com.vn
 ||sites.google.com/view/shinhan-fiinance/^$all,to=~shinhan.com.vn
@@ -3986,6 +4060,7 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! santander
 ||recompensaszurichsantander.com.mx^$all
 ||santander.cf.sandbox.motrada.ch^$all,to=~santanderbank.com|~santander.co.uk
+||bancot.site.tb-hosting.com^$all,to=~santander.es
 
 ! DHL
 ||dhl.*.potabox.com^$doc,to=~dhl.com
@@ -3994,6 +4069,7 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||delivery.attempt.failure.ebbs.co.za^$all,to=~dhl.com
 ||deliverytodayrequest.com^$all,to=~dhl.com
 ||ltlweight.trgr.me^$all,to=~dhl.com
+||dhlproductosyservicios.com^$all,to=~dhl.com
 ||sites.google.com/view/expressdhl^$all,to=~dhl.com
 ||xn--d1aqfkf.xn--p1ai/bitrix/.../GlobalSources/$all,to=~dhl.com
 ||app.farmaciadelmonestironline.com/SER/dnkdl/$all,to=~dhl.com
@@ -4025,8 +4101,7 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! https://www.virustotal.com/gui/url/dd581161abc02c436e7f1d3096ebc651b98bf4ff3eeea81cff8ba76b6b9ca277
 ||play.funfourmob.com^$all
 ! instagram
-! https://www.virustotal.com/gui/url/72788efbbce55dd2d81820505ab04c7817f80836af9dbdb7fcd08d1f6c9f0da9
-||bcit.pro/*/Instagram$doc
+||instagramofficialaccount10.blogspot.com^$all
 ! https://www.virustotal.com/gui/url/a342eef995ebb76a397c7b757f86eefd84229c5b64cb845b428e494066d90575
 ||fevertime.com/wasop/$all
 
@@ -4034,6 +4109,7 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||slimhealth.us^$all
 ||mait.inhhome.top^$all
 ||mail.pages.exchange-midasbuy.com^$all
+||easy-way-system.sbs^$all
 ! /^https:\/\/[vw]ww-[a-z]?facebook[a-z]?([.-]com)?\.vn\//$doc,to=vn
 ||notificationbyfacebook.$doc
 ||notificationbyfacebook.firebaseapp.com^$all
@@ -4124,7 +4200,8 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 /\.workers\.dev\/help\/\d{14,19}\b/$doc,to=workers.dev|~facebook.com
 ||royal-glade-286f.kdsj.workers.dev^$doc
 ! https://www.virustotal.com/gui/url/ebc994d35635bdfa408c42209bb66ca8de3180dfe60c1c90386ca5bb2bd0c5cd
-/\.cfd\/contract\/\d{14,19}\b/$doc,match-case,to=cfd|~facebook.com
+! https://www.virustotal.com/gui/url/4ed3b862ff18fb1a61b8ecf76583c1f07aa3bb8625fe9bbc4df3dd44a4a14e45
+/\.(?:boats|cfd)\/contract\/\d{14,19}\b/$doc,match-case,to=boats|cfd|~facebook.com
 ||business-center-$doc
 ! https://www.virustotal.com/gui/url/039f34e1c3a70c75b2e52cbcc413804050db8a49a09784b54cc6e8ef9b20d50b
 ||amarmehandiart.in/metaen/$all
@@ -4139,6 +4216,10 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 /^https:\/\/(?:appeal|contact|page)\.[a-z]{15,}\.com\/appeal_case_id\b/$doc,to=com|~facebook.com
 ! https://www.virustotal.com/gui/url/06a955d5c7ac3eeffb64aa49d1e5ae928ee97870b84862c0be6aeb66e9d26a9b
 ||akuanakmamah.de^$doc,to=~facebook.com
+! https://www.virustotal.com/gui/url/ecc2e9e673bed945c2ae2e143056aac4f53cebbf6c2180d28151294459a78522
+||kraftonmidas.com^$doc,to=~facebook.com
+! https://www.virustotal.com/gui/url/6e13578979cea6a4fe1a10c9e13608da630f3a55e72ed7df3669b15d5ac3546c
+||abc-ckd.com/facebook/$all
 ! https://github.com/uBlockOrigin/uAssets/issues/24719
 ||xyzxyz55.xyz^$all
 ||thepatrones.blob.core.windows.net^$all
@@ -4241,6 +4322,9 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! https://urldna.io/scan/66b8bb055b2622c91165b2b6
 ! https://www.virustotal.com/gui/url/6b3ea23e4c4efa2fcbe9259409281c002a04671b6e205c3c91abb990fad40efc
 ||kraftonevent.com^$all
+! https://urldna.io/scan/66b8bb222f59b21da15613d1
+! https://www.virustotal.com/gui/url/63830f5c8fcc5abe8544ed1a7ecfcd986274c6a9b1cd1d3df8b47c874ec33730
+||pubgxbest.com^$all
 
 ! google
 ||bxzxenzidrmrksu.jiongcao.cn^$all
@@ -4254,29 +4338,26 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||microsoft*.dfautomotive.de^$doc
 ||microsoft.dfautomotive.de^$all
 ||microsoft.account.dfautomotive.de^$all
+||activarhotmail.weebly.com^$all
+||hab-sharepoint.weebly.com^$all
 ||whfdny.org^$all
-||outlook-office.zapier.app^$all
 ||infos4.yolasite.com^$all
-||policija64.wixsite.com^$all
-||outlook20239.wixsite.com^$all
 ||microsoftupdate67.wixsite.com^$all
 ||exchange.add-solution.de^$all
-||activarhotmail.weebly.com^$all
 ||exceklcmicrosftprotection.pages.dev^$all
 ||microsoft-datamaturity.noisehq.nl^$all
 ||graettingerlaw.com^$all
-||hab-sharepoint.weebly.com^$all
 ||post.nationalrent.ru^$all
 ||gocolonial.local-user.com^$all
 ||skype-com.cn^$all
 ||officesoftcn.com^$all
 ||sishui.site^$all
+||athenasbaklava.com^$all
+||e-outlook-online.com^$all
 ||cashum.unam.mx/wp-content/backups-dup-pro/imports/index.htm$all
 ||od.atami.no/one_drive.html$all
 ||thermovitraffic.com.mx/SharepointFileProject/$all
 ||cognitoforms.com/FiRe21/EmployeeTeammateQuarterNominationPeriodForMidyear^$all
-! https://www.virustotal.com/gui/url/20d6a5b64d26edeb2e5caae3aa19c00ebd83a6d4dac9e41486c823751e875030
-||johnhstngs4.wixsite.com^$all
 ! https://infosec.exchange/@urldna/112186648791862292
 ||acir.postofficeweb.com/grupoacir/$all
 ! https://infosec.exchange/@urldna/112377161728125627
@@ -4298,8 +4379,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||sites.google.com/l0gin-microsoftwebonlne.app/$all
 ! https://www.virustotal.com/gui/url/51ddf7de3e21e346563a713d62f1a3221afda66b9681ab2b5989da7d901a3935
 ||monogonzalez.com^$all
-! https://www.virustotal.com/gui/url/8b37f3914c5fdc4a3631e8ea45b8cd1a09f2769b4397fe143d3ab4f103f20c82
-||athenasbaklava.com^$all
 ! https://www.virustotal.com/gui/url/37be040cc57eda84deb5ccc8d246092d6e5dd68e848389c51672aec90c521d63
 ||mail.sorbeadindias.com^$all
 ! https://www.virustotal.com/gui/url/19c07d4e7c627a1f83900c509ce73b828247b3bb932713383e5569e7e2671882
@@ -4355,15 +4434,22 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||microsoft-notifcation.com^$all
 ! https://www.virustotal.com/gui/url/3d1271ed539c049f4a635c733563e00b453b091a64b5bd2cbefa294cde56c684
 ||eunssiatel.tech^$all
+! https://www.virustotal.com/gui/url/07e776f18e73ca2817565bbe2a9c892254b43792ad6ba152e58f0f3bee9c51d0
+/neteasyes/neteasyest/900^$doc
+! https://www.virustotal.com/gui/url/a9a522e1d2bcaa50c4b0183207998f4d9f6df975701014c953a6cd7669289b05
+/^https:\/\/[-a-z]{4,}\.dogfriendlytahoe\.com\//$doc,to=dogfriendlytahoe.com
+! https://www.virustotal.com/gui/url/793b7648f090ad3eef707328a1f63aaad418559889461b34300675cfa82462c3
+||email.hvviinc.com/owa/$all
+! https://www.virustotal.com/gui/url/c9edd9d3e4002957c668e0d19002e4175227d7bbbc84059592fc4ab8cbf1a2f0
+||docusine.com^$all
 
 ! telegram
 ||telegramhcn.com^$all
-||web.telegram.data-bees.cn^$all
 ||newappmssg.ru^$all
 ||brawllstars.ru^$all
-||webz.dev^$all
 ||telegremapp.me^$all
 ||telegerasm.work^$all
+||telegeram.work^$all
 ||webtelegram.eu.org^$all
 ||telegrambotsolution.pages.dev^$all
 /^https:\/\/www\.telegramk[a-z]\.com\//$doc,to=com|~telegram.org
@@ -4378,8 +4464,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||telegram-zhongwen.com^$all
 ! https://www.virustotal.com/gui/url/dfc0c0423f0e994148d39d8458893a35bb024fdeeabfd7a82dd0d4e50ce68ace
 ||rr.nu^$doc
-! https://www.virustotal.com/gui/url/e85da5d54f4a36f43637c19a228ded51657f858575d9ea1761fc28a8e1e0be29
-||joinxtelegram.com^$all
 ! https://www.virustotal.com/gui/url/ef9755fcb211a668986b9afc5187577c92fb8c8bf62057bf9d0b59333827a35a
 /^https:\/\/ht[a-z]\d{2}\.vip\//$doc,to=vip
 
@@ -4393,8 +4477,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 /^https:\/\/ur[cex][a-z]{2,4}\.com\/(?:address\.html|information|verify)\b/$doc,to=com|~usps.com
 .top/pg?do=$doc,to=top
 ||wrc-gh.org/redelivery$doc,to=~usps.com
-! https://www.virustotal.com/gui/url/42539b15d452c49ed504ad45697d8aa74ef2ca4165b4562801c794a74abe3cff
-||uszq.iafedoec.top^$all,to=~usps.com
 ! https://infosec.exchange/@urldna/112560597065106850
 ||mybluehost.me/2us/verification/$doc,to=~usps.com
 ! https://urldna.io/scan/6683cfb811bd32bf9fb75225
@@ -4437,7 +4519,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 
 ! swisspass
 ||swiss-passapp.web.app^$all,to=~swisspass.ch
-||pbrd.com.br^$all,to=~swisspass.ch
 ||mybluehost.me/CFF/$doc,to=~swisspass.ch
 ||mybluehost.me/--/SBBCFF$doc,to=~swisspass.ch
 ||mybluehost.me/SBB.CH/$doc,to=~swisspass.ch
@@ -4457,6 +4538,9 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||acconsult.info/*/CHFINAL/$doc,to=~swisspass.ch
 ! https://infosec.exchange/@urldna/112441688955721080
 ||sviluppo.host/sbb-chf-id/$doc,to=~swisspass.ch
+! https://www.virustotal.com/gui/url/6f294b5e73e405ef5a20b9048c6ae8c86925cde499e303dcb7b107f78c9655d9
+||teamswisspassid.sviluppo.host^$all,to=~swisspass.ch
+||sviluppo.host/CHFINAL/$doc,to=~swisspass.ch
 ! https://www.virustotal.com/gui/url/e225d606addeced5162fc2f28cb5a6829d9e3dde8986d246c682ba79a5f6e0b0
 ||sviluppo.host/*/CHFINAL/$doc,to=~swisspass.ch
 ! https://infosec.exchange/@urldna/112439801316174846
@@ -4465,10 +4549,8 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||altitudesim.ca/*/CHFINAL/$doc,to=~swisspass.ch
 ! https://www.virustotal.com/gui/url/536c73948a6fb646afe3bbd0a06889b9e4bb377eec397600321961e3d366805c
 ||codeanyapp.com/Swissp/$doc,to=~swisspass.ch
-! https://www.virustotal.com/gui/url/9e57ca2f454838345d36f0d7e1a5b1f9cddaf0a1d898d27d53ed64a7fcb1d8ce
-||orr.swq.mybluehost.me^$doc,to=~swisspass.ch
-! https://www.virustotal.com/gui/url/a2d5a343a14439ce2cab0c3a9aa1136b9bc94a9b35785bcab2dcaf542cb94aaf
-||xrphealthcare.com^$doc
+! https://www.virustotal.com/gui/url/88a463b79f93e14c7bfd831ab894e1cd94f75c8bc44b6917854cdf6d71abb2b1
+||romacsystems.com/*/CHFINAL/$doc,to=~swisspass.ch
 
 ! swisscom
 ||secureserver.net/myswisscom$doc,to=~swisscom.ch
@@ -4498,6 +4580,9 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! https://www.virustotal.com/gui/url/94fdcf815a75d8182fee65b9f90fcbdd03498c33f6200e0c951a1a5874b2ad1d
 ||wcomhost.com/ch/upc/$all,to=~upc.ch
 
+||bnbc-onay-sayfasi-global.smtp-host.de^$all,to=~binance.com
+||xei.claims^$doc,to=~xei.ai
+||kucoin0101.com^$all,to=~kucoin.com
 ||whitelists-layerai.pro^$doc,to=~layerai.org
 ||pepesunchained.net^$doc,to=~pepeunchained.com
 ||airdrope.live^$doc,to=~ton.org
@@ -4539,7 +4624,6 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ||rarepepewtf.pages.dev^$doc,to=~rarepepes.com
 ||miles-plume-network.pages.dev^$all,to=~plumenetwork.xyz
 ||equi-dsw.pages.dev^$doc,to=~equilibria.fi
-||trump-coin1.pages.dev^$doc,to=~magamemecoin.com
 ||agentlayer-xyz.pages.dev^$doc,to=~agentlayer.xyz
 ||web3mainnetdapp.pages.dev^$all
 ||web3connectfix.pages.dev^$all
@@ -4560,6 +4644,17 @@ c0c9d.cmi.rj.gov.br,cambe.pr.gov.br##^responseheader(location)
 ! https://www.virustotal.com/gui/url/6bebec722c703a448f14d1650315b534ee785959080537cebada1d6120883763
 ! https://www.virustotal.com/gui/url/4e1f0d563a121e484113dcf1582323732ce110451f33e939985911c248f19c31
 ||alienxchain*.pages.dev^$doc,to=~alienxchain.io
+! https://www.virustotal.com/gui/url/745c24c2aa94c7f7f499e025206ae5f6b4a924745cdfe5a236f1b2294d205988
+||bfq.h100.top^$all,to=~bybit.com
+/index/index/*Trade/tradelist^$doc
+
+! berachain.com
+||beraprotocol.com^$doc,to=~berachain.com
+||beraprotocol.app^$doc,to=~berachain.com
+
+! magamemecoin.com
+||trump-coin1.pages.dev^$doc,to=~magamemecoin.com
+||coin-trump.pages.dev^$doc,to=~magamemecoin.com
 
 ! pinksale.finance
 ||pinksales-pools.pages.dev^$doc,to=~pinksale.finance
@@ -4614,7 +4709,6 @@ app##html > body[style]:not([class]):not([id]) > center#yangchen[style]:not([cla
 ||mmitalianbeef.square.site^$all,to=~mmitalianbeef.com
 ||bigbauer.com^$all,to=~gmx.com
 ||lkmw88.com^$all,to=~mercadolibre.com
-||seguro.serasaexperian.site^$all,to=~serasa.com.br
 ||vangphutai.com^$all,to=~vangphutai.vn
 ||snapscrttm.serv00.net^$all,to=~snapchat.com
 ||aliexpressr.top^$all,to=~aliexpress.com
@@ -4624,6 +4718,8 @@ app##html > body[style]:not([class]):not([id]) > center#yangchen[style]:not([cla
 ||internal-checker.com^$all,to=~id.me
 ||web1.emanar.cl^$all,to=~yahoo.co.jp
 ||auth-llbc.elementfx.com^$all,to=~leboncoin.fr
+||dc.tensgpt.com^$all,to=~discord.com
+||correosprepago.bnext.es^$all,to=~prepago.correos.es
 ||beluxrepm.followme.fr/FolloWMe$all,to=~realestate.bnpparibas.com
 ||mybluehost.me/Cope346/$all
 ||tesakom.com/aa/index.html^$all,to=~ebestsec.co.kr
@@ -4660,6 +4756,8 @@ app##html > body[style]:not([class]):not([id]) > center#yangchen[style]:not([cla
 ||hypnotes.net/*/aupost/$all,to=~auspost.com.au
 ! https://www.virustotal.com/gui/url/484243c62c486e1c6b6544028fa5b1e30c1643fea446e5d89e6912d132e04b22
 ||web-interface.eu^$doc,to=~kvk.nl
+! https://www.virustotal.com/gui/url/ec321ee03c2a6081a48bdfb72bd8e3995f8fd79e2a253a5cb8f79026d4c1d940
+||mybluehost.me/servizi/assistenza/$doc,to=~mooney.it
 
 ! docusign.com
 ||signature-rho.vercel.app^$all,to=~docusign.com
@@ -4673,6 +4771,7 @@ app##html > body[style]:not([class]):not([id]) > center#yangchen[style]:not([cla
 ||pub-*.r2.dev/alt_type.html^$doc,to=~docusign.com
 ||pub-*.r2.dev/auth_gen.html^$doc,to=~docusign.com
 ||pub-*.r2.dev/auth_response.html^$doc,to=~docusign.com
+||pub-*.r2.dev/auth_start.html^$doc,to=~docusign.com
 ||pub-*.r2.dev/DocuSign.html^$doc,to=~docusign.com
 ||pub-*.r2.dev/doc_start.html^$doc,to=~docusign.com
 ||pub-*.r2.dev/dse_sign.html^$doc,to=~docusign.com
@@ -4839,6 +4938,24 @@ app##html > body[style]:not([class]):not([id]) > center#yangchen[style]:not([cla
 ||snggov.com^$all,to=~gov.vn
 ||vn-eid.com^$all,to=~dichvucong.gov.vn
 
+! https://social.immibis.com/notice/AkYdomVW9oFnorxFNw
+||pelastorl.com^$all
+||usecurter.com^$all
+||vb09cl.com^$all
+||iscidine.com^$all
+
+! https://social.immibis.com/notice/AknDmYT7hMGsGNVl5M
+||ny4yze.com^$all
+||tickovent.com^$all
+||aphenunci.com^$all
+
+! https://social.immibis.com/notice/AkopNrn6iDJgMoTPH6
+##html[lang] > body.startnew > div#sections > section#section_uname
+||wwbudmh.ru^$all
+||sichogyp.su^$all
+||orownsdow.com^$all
+||identente.com^$all
+
 ! https://social.immibis.com/notice/Akt1pxOHSkHXvMrTTk
 ||incorcg.com^$all
 ||datumdellago.com^$all
@@ -4850,7 +4967,7 @@ app##html > body[style]:not([class]):not([id]) > center#yangchen[style]:not([cla
 ||r2.dev/INV-CHKCOPY-Remittance-Overpayment%20Refund$doc
 
 ! https://social.immibis.com/notice/AkvRQJ3fGcfeihZGk4
-##html[lang] > body:not([style]) > div.captchaBody:not([id]):not([style]) > div[id]:not([class]):not([style])
+##html[lang] > body:not([style]) > div.captchaBody
 ||cam/secured/host/*.php|$xhr,3p,domain=r2.dev
 ||belezaesaudeinnovations.com^$all
 ||implarededeensino.com.br^$all
@@ -4861,8 +4978,9 @@ app##html > body[style]:not([class]):not([id]) > center#yangchen[style]:not([cla
 ||r2.dev/Outlook%20Secured%20Document$doc
 
 ! https://social.immibis.com/notice/AkwoyOsqbfJIjlh7GC
-/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{8,10}\.com\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,match-case,to=com
-/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{8,10}\.su\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,match-case,to=su
+/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{6,10}\.com\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=com|~google.com|~microsoft.com
+/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{6,10}\.ru\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=ru
+/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{6,10}\.su\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=su
 ! microsoft
 ||chervindi.com^$all
 ||grahurgum.com^$all
@@ -5160,3 +5278,6 @@ app##html > body[style]:not([class]):not([id]) > center#yangchen[style]:not([cla
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24952
 ||chromeweb-authenticators.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/24983
+||60q565qe5.top^$all
