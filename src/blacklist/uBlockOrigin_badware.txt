@@ -3615,6 +3615,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 
 ! webmail
 ||mail-cytanet.pages.dev^$all,to=~mail.cytanet.com.cy
+! https://www.virustotal.com/gui/url/f64297f841335828ce7b9e64d4aa3c5e2d0c5773127305ad546f23faa8ed128d
+||powersolutions4u.com/*/WEBMAIL1.html^$doc
 
 ! ups.com
 ! https://www.virustotal.com/gui/url/ef9755fcb211a668986b9afc5187577c92fb8c8bf62057bf9d0b59333827a35a
@@ -3834,6 +3836,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||etisalat-amazonprime.com^$all,to=~etisalat.ae
 ! https://infosec.exchange/@urldna/112483094476417201
 ||mybluehost.me/wp-admin/amz/$doc
+! https://www.virustotal.com/gui/url/b495f4257b9f677ea7ec4bfb43469c70a38323aafe741885e43c2b1ca584ba6f
+||mytemp.website/amazon-prime-video-com-br/$doc
 ! https://www.virustotal.com/gui/url/86279ddc548eead6c227e6d493e9cfcf4af0b28ccceae50c2f6420542a8d6fe7
 ||adswip.com^$all
 ! https://www.virustotal.com/gui/url/82fb19edb0616c29416b6c92f11d365c490ca600b06af0304a56b76db12c083b
@@ -3921,6 +3925,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! gov.uk
 ||liveflo.qxlva.io^$all,to=~gov.uk
 ||student-finance-auth.firebaseapp.com^$all,to=~gov.uk
+||casadosvidrosmt.com.br/wp-admin/csii/$all,to=~gov.uk
 ! https://www.virustotal.com/gui/url/ebc39394f30c18e781a2c98f035fa14897aba199d104977f4978e0af200df544
 ||smartaromas.com/income-individual_service_tax-gg-check-hm/$all,to=~gov.uk
 
@@ -3978,6 +3983,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||baovietin.top^$all,to=~baoviet.com.vn
 ||pncexc.com^$all,to=~pnc.com
 ||moonlightproshop.com^$all,to=~volksbank.at
+||bbvaar.zeabur.app^$all,to=~bbva.com
 /^https:\/\/tpbank\.[-a-z0-9]{5,}\.[a-z]{3}(?:\.vn)?\//$doc,to=~edu|~gov|~gov.vn|~tpb.vn
 ! https://infosec.exchange/@urldna/112496070441371886
 ||mybluehost.me/service/*/nkl-log.php$doc,to=~nickel.eu
@@ -4068,6 +4074,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://urldna.io/scan/66b8baab2f59b21da15613c5
 ! https://www.virustotal.com/gui/url/bc113a7de909bb111ce2d933762fd686c2a0ac924aec049b4e320cee6dca583e
 ||elementor.cloud/*/ESDHL/$doc,to=~dhl.com
+! https://www.virustotal.com/gui/url/5567fc340ae53898f130dbf49f2ffa8981fe27a5e3e392ad6e4cec11f1b70e77
+/tracking/fV5EjH/*.php^$doc,to=~dhl.com
 
 ! whatsapp
 ||ann.tess1.top^$all
@@ -4550,6 +4558,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||mybluehost.me/sssssssssssssss/$doc,to=~swisscom.ch
 ! https://www.virustotal.com/gui/url/30b8b4ed87742d205e71d3d8d045cc07108bd46aa060e4bd0cbd788719e06dec
 ||mybluehost.me/comssss/$doc,to=~swisscom.ch
+! https://www.virustotal.com/gui/url/dc9f208e3448b0d1db82cfcaf5b4ea6fbf5c1e6da5d95cc7e3fe84fe34bd5909
+||mybluehost.me/*/swisscom/$doc,to=~swisscom.ch
 ! https://www.virustotal.com/gui/url/aaaf519966c47df9632c128df1d10e6d85ba70f07a5dc2843b2c091dfbe25a73
 ||codeanyapp.com/swiss-login/$doc
 
@@ -4565,39 +4575,27 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||bnbc-onay-sayfasi-global.smtp-host.de^$all,to=~binance.com
 ||xei.claims^$doc,to=~xei.ai
 ||kucoin0101.com^$all,to=~kucoin.com
-||whitelists-layerai.pro^$doc,to=~layerai.org
 ||pepesunchained.net^$doc,to=~pepeunchained.com
 ||airdrope.live^$doc,to=~ton.org
-||airdrop-grvt.com^$doc,to=~grvt.io
 ||scroll-dapprader.com^$doc,to=~dappradar.com
-||memegames.tech^$doc,to=~memegamestoken.com
 ||routerprotocol-migrate.com^$doc,to=~routerprotocol.com
-||opensea-eu.io^$all,to=~opensea.io
-||paxfulme.com^$doc,to=~paxful.com
 ||cookie-communtiy.com^$doc,to=~cookie.community
 ||gaos.bio^$doc,to=~gao.bio
 ||baseeddbrettt.com^$doc,to=~basedbrett.com
 ||whitelist-memefi.com^$doc,to=~memefi.club
-||trekki.info^$doc,to=~trekki.io
-||arrisdapp.com^$doc,to=~arris.club
 ||bnbfour.net^$doc,to=~bnbfour.meme
 ||laeer3xyz.com^$doc,to=~layer3.xyz
 ||cyberblast.info^$doc,to=~cyberblast.io
 ||gz-gmy.com^$all,to=~paxos.com
-||aevoclaim.live^$doc,to=~aevo.xyz
 ||tokenpocket-com.cc^$all,to=~tokenpocket.pro
-||exodusrt.azurewebsites.net^$all,to=~exodus.com
 ||ledgerwallive.com^$all,to=~ledger.com
 ||mantanetworkcn.com^$all,to=~manta.network
 ||interface-git-parallel-cypress-uniswap.vercel.app^$doc,to=~uniswap.org
-||interlock-airdrop.xyz^$doc,to=~interlock.network
 ||mode-claim.xyz^$doc,to=~mode.network
 ||claim-bool.com^$doc,to=~bool.network
 ||tpro-airdrop.pages.dev^$doc,to=~tpro.network
 ||claim-wienerdog.com^$doc,to=~wienerdog.ai
 ||claimable-bankless.com^$all,to=~bankless.com
-||claimturbo.co^$doc,to=~turbotoken.io
-||etuktukmain.pages.dev^$doc,to=~etuktuk.io
 ||appmemekombatclaim.pages.dev^$doc,to=~memekombat.io
 ||testmyaa.pages.dev^$doc,to=~earndrop.io
 ||claimspaace.pages.dev^$doc,to=~lingocoin.io
@@ -4739,6 +4737,10 @@ app##html > body[style]:not([class]):not([id]) > center#yangchen[style]:not([cla
 ||web-interface.eu^$doc,to=~kvk.nl
 ! https://www.virustotal.com/gui/url/ec321ee03c2a6081a48bdfb72bd8e3995f8fd79e2a253a5cb8f79026d4c1d940
 ||mybluehost.me/servizi/assistenza/$doc,to=~mooney.it
+! https://www.virustotal.com/gui/url/95d15ded75c863d83ec7a52e0039975f826a95a41e4c9e5f5716e3526c61fb26
+||mybluehost.me/wise/number-account-$doc,to=~wise.com
+! https://www.virustotal.com/gui/url/034cc004f078ee24b7f4377283d50d128f547de4339a51c8e29a8f8e36272b13
+||smrturl.co/o/*/53458494^$doc
 
 ! docusign.com
 ||signature-rho.vercel.app^$all,to=~docusign.com
@@ -5288,3 +5290,15 @@ app##html > body[style]:not([class]):not([id]) > center#yangchen[style]:not([cla
 ! Phishing
 ! https://github.com/uBlockOrigin/uAssets/pull/25052
 ||zcxoin.work^$all
+
+! fake Chrome
+! https://github.com/uBlockOrigin/uAssets/pull/25057
+||chrome-web.com^$all
+
+! https://bbs.kafan.cn/thread-2272310-1-1.html
+! https://github.com/uBlockOrigin/uAssets/pull/25058
+||iqpoll.cn^$document
+
+! https://bbs.kafan.cn/thread-2272726-1-1.html
+! https://github.com/uBlockOrigin/uAssets/pull/25062
+||zhandouxian.com^$all
