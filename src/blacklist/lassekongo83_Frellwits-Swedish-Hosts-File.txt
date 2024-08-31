@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-08-17 05:52:55 CEST
-# entries:        1082
+# last updated:   2024-08-31 06:27:09 CEST
+# entries:        1083
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -816,6 +816,7 @@
 127.0.0.1 strossle.com
 127.0.0.1 st-n.ads1-adnow.com
 127.0.0.1 survey.interquest.com
+127.0.0.1 svanalytics.containers.piwik.pro
 127.0.0.1 svt.d3.sc.omtrdc.net
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.richaudience.com

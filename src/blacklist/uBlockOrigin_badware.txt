@@ -738,6 +738,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 .com/dating/*/index.html?lang=$doc
 .info/?key=*&pixel=$doc
 /?z=*&syncedCookie=true&rhd=false$doc,popup
+||snapbabes9.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24602
 ! https://www.virustotal.com/gui/url/ce2b833adda2f862d77398203bbe33ea331097ba2a803d1a763492d2ac0d5a60
@@ -806,6 +807,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||soft-portal.me^$doc
 ||app.mediafire.com/jjtzeom4qvvxb$doc
 ||app.mediafire.com/36culjifmas7b$doc
+||app.mediafire.com/dqajf1x14ccfd$doc
 ||mediafire.com/folder/10ejpiwio2gfh/$doc
 ||mediafire.com/folder/47ccu44v3b5sq/$doc
 ||mediafire.com/folder/n2cwlepl4zeov/$doc
@@ -815,6 +817,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||mediafire.com/folder/ofa1qju50ffaz/$doc
 ||mediafire.com/folder/mk5hnt3yz8xh8/$doc
 ||mediafire.com/folder/hy8zlvfg5fwb1/$doc
+||mediafire.com/file/6tl0g3hwyz6vefb/$doc
 ||www.youtube.com/@pengwincheat/$doc
 ||sites.google.com/view/amamsoft|$doc
 ||sites.google.com/view/hubgames|$doc
@@ -837,6 +840,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||rgcatalyst.biz^$all
 ||arcanecheat.com^$doc
 ||apocalypsecheats.fun^$all
+||projectglbl.lol^$doc
 ! https://gameggss.store/AqjBH
 ||gameggss.store^$all
 ! https://cloud-folder.org/KRvjWueEcl/
@@ -3624,6 +3628,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||mail-cytanet.pages.dev^$all,to=~mail.cytanet.com.cy
 ! https://www.virustotal.com/gui/url/f64297f841335828ce7b9e64d4aa3c5e2d0c5773127305ad546f23faa8ed128d
 ||powersolutions4u.com/*/WEBMAIL1.html^$doc
+! https://www.virustotal.com/gui/url/dd060d260d7781f9610f40bdff4991144ed5b52be3a14dfcda6783987efc4b79
+||phoenixvilla.rw/wp-about/*.html^$doc
 
 ! ups.com
 ! https://www.virustotal.com/gui/url/ef9755fcb211a668986b9afc5187577c92fb8c8bf62057bf9d0b59333827a35a
@@ -3632,10 +3638,11 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||preprod.exclusifparis.com/modules/deleteordersfree/$all,to=~ups.com
 
 ! ee.co.uk
-/^https:\/\/ee(?:-[a-z]{7,}){1,2}\.web\.app\//$doc,to=web.app|~ee.co.uk
+/^https:\/\/ee(?:-[a-z]{5,}){1,2}\.web\.app\//$doc,to=web.app|~ee.co.uk
 ||my-ee-*.web.app^$doc,to=~ee.co.uk
 ||ee-network.web.app^$all,to=~ee.co.uk
 ||ee-billing-recovery.web.app^$all,to=~ee.co.uk
+||ee-payment-issue.web.app^$all,to=~ee.co.uk
 ||my-ee-web.web.app^$all,to=~ee.co.uk
 ||my-ee-details.web.app^$all,to=~ee.co.uk
 ||my-info-ee.web.app^$all,to=~ee.co.uk
@@ -3873,6 +3880,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||svipeebay.com^$all
 ||ebaymerchant.shop^$all
 ||ebayonstores.com^$all
+||shop-line.vip^$all
 ||show.naturecircle.shop^$all
 /^https:\/\/(?:seller\.)?ebay-[a-z]{8,15}\.com\//$doc,to=com
 ||ebay-european.com^$all
@@ -3904,6 +3912,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||loginaccount6.wixsite.com^$all
 ||ruthah9.wixsite.com^$all
 ||iirrrrrrii.wixsite.com^$all
+||attstsv.weebly.com^$all
 ||ewueuweudsjdjsdjjd.weeblysite.com^$all
 ||maiil-myatt.weeblysite.com^$all
 ||rtm-att.directly.com^$all
@@ -3952,6 +3961,12 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://www.virustotal.com/gui/url/43dc3482b86f463550c0a163836c4c622e4ec801184ba76f49aca03cf7fb5128
 ||mybluehost.me/*/impo/$doc,to=~impots.gouv.fr
 ||isz.bqv.mybluehost.me^$doc,to=~impots.gouv.fr
+! https://urldna.io/scan/66a17973cf69aaa3408529d8
+! https://www.virustotal.com/gui/url/59f573968e59b6b2f4f09ca26a81608992b83aaef9e7200b29529e10d7641d24
+||mybluehost.me/wp-content/12/*.php^$doc,to=~amendes.gouv.fr
+! https://www.virustotal.com/gui/url/7418298915cf7e1e60f2fdb5aa9f57ee419434420a10e8e39c92e1bf84429e74
+||mybluehost.me/*/amendes.org/$doc,to=~amendes.gouv.fr
+||amz.boy.mybluehost.me^$doc,to=~amendes.gouv.fr
 ! https://www.virustotal.com/gui/url/64d74ef6d37b2f855960f77fd99ee0ca35c86ea86f6f0a29818c6f2c9a98df21
 ||wcomhost.com/amendes-gouv/$doc,to=~amendes.gouv.fr
 ! https://urldna.io/scan/6690fec498efb38aa8b5fff8
@@ -3964,9 +3979,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://www.virustotal.com/gui/url/5dd0e94a8ea4348bc9dddc26ae0bb40f2710bb2b885d6ac2876303549ed6a211
 ||fi/a/Amendes/*.php^$doc,to=fi|~amendes.gouv.fr
 ||fi/part/Amendes/*.php^$doc,to=fi|~amendes.gouv.fr
-! https://urldna.io/scan/66a17973cf69aaa3408529d8
-! https://www.virustotal.com/gui/url/59f573968e59b6b2f4f09ca26a81608992b83aaef9e7200b29529e10d7641d24
-||mybluehost.me/wp-content/12/*.php^$doc,to=~amendes.gouv.fr
 ! https://urldna.io/scan/66a41c9241da912d9de2fd1b
 ! https://www.virustotal.com/gui/url/a635704554faa14de0fa04eb1300f1b5c952c5b365a879c425102282f9df5139
 ||odeal.fi/fr/AMA/*.php^$doc,to=~amendes.gouv.fr
@@ -4575,6 +4587,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://www.virustotal.com/gui/url/925d7839914de2aaffbf139dfb1dff9d8fee9c41b6360aaf01044dcfb491ce50
 ||suissscomee-correo*.codeanyapp.com^$doc,to=~swisspass.ch
 ||codeanyapp.com/Sus/*/sign.php^$doc,to=~swisspass.ch
+! https://www.virustotal.com/gui/url/09ca05326d77f387fef2bd7bd8339221643d939ebcc2c4946ec727536ea849da
+||manage-administrere-swisspass-*.codeanyapp.com^$doc,to=~swisspass.ch
 ! https://www.virustotal.com/gui/url/88a463b79f93e14c7bfd831ab894e1cd94f75c8bc44b6917854cdf6d71abb2b1
 ||romacsystems.com/*/CHFINAL/$doc,to=~swisspass.ch
 
@@ -4614,7 +4628,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||trziostart.com^$all,to=~trezor.io
 ||novastakingwallet.com^$doc,to=~novawallet.io
 ||airdrop-carv.com^$doc,to=~carv.io
-||bnbc-onay-sayfasi-global.smtp-host.de^$all,to=~binance.com
 ||xei.claims^$doc,to=~xei.ai
 ||kucoin0101.com^$all,to=~kucoin.com
 ||airdrope.live^$doc,to=~ton.org
@@ -4671,6 +4684,10 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||bfq.h100.top^$all,to=~bybit.com
 /index/index/*Trade/tradelist^$doc
 
+! binance
+||bnbc-onay-sayfasi-global.smtp-host.de^$all,to=~binance.com
+||dendreonlawsuit.com^$all,to=~binance.com
+
 ! ledger.com
 ||ledgerwallive.com^$all,to=~ledger.com
 ! https://www.virustotal.com/gui/url/baaec2820a40db4dace37d5955dcb9f9db10ea16337b06b8a4a814bb67c27b13
@@ -4704,6 +4721,7 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 
 ! pancakeswap
 ||pancake.saaedal.com^$all,to=~pancakeswap.finance
+||pancak-e-swap.com^$all,to=~pancakeswap.finance
 /^https:\/\/pancake(?:dro|swa)pclick\d+\.vercel\.app\//$doc,to=vercel.app|~pancakeswap.finance
 ||pancakeswap-*.vercel.app^$doc,to=~pancakeswap.finance
 ||pancake-swap*.vercel.app^$doc,to=~pancakeswap.finance
@@ -4798,9 +4816,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||pub-*.r2.dev/utility_base.html^$doc,to=~docusign.com
 ||pub-*.r2.dev/docuss_3456787654324567897865433456789.html^$doc,to=~docusign.com
 
-! https://khonggianmang.vn/uploads/2023_CBT_40_153c85c0c3.pdf
-||chanlemomo.vet^$all,to=~momo.vn
-
 ! https://khonggianmang.vn/uploads/2023_CBT_46_3d412a8a49.pdf
 ||vieclamlazada.vn^$all,to=~lazada.vn
 
@@ -4834,13 +4849,12 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||hdsaison-$doc,to=cc|vip|~hdsaison.com.vn
 ||dichvucong.$doc,to=~gov.vn
 ||tikimall.$doc,to=tikimall.*|~tiki.vn
+||shopeesmarket.com^$all,to=~shopee.vn
 ||taikhoanvps.com.vn^$all,to=~vps.com.vn
 ||motaikhoanchungkhoanvps.com^$all,to=~vps.com.vn
 ||zla963.top^$all,to=~tiki.vn
 ||zla653.top^$all,to=~tiki.vn
 ||tah0a.com^$all,to=~tiki.vn
-! https://www.virustotal.com/gui/url/ec441402cb46c89cffe59f9e3dd856b406dbf7b2e4ff043c6a4bdbd47a94d1f6
-||shopeesmarket.com^$all,to=~shopee.vn
 
 ! https://khonggianmang.vn/uploads/2024_CBT_15_e8dc0f11bc.pdf
 ! https://www.virustotal.com/gui/url/afcc9dee2cd3022d8cdfab4de96b74a19f82a82c17348cdfb57add76aad130a2
@@ -4864,19 +4878,14 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ! https://khonggianmang.vn/uploads/2024_CBT_25_32ceacddc3.pdf
 ||vib-*.com^$doc,to=com|~vib.com.vn
 ||vib-*.shop^$doc,to=shop|~vib.com.vn
-||vssidgov.com^$all
 ||binhchoncuocthivetranhsinhvien2024.weebly.com^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_26_3710292cc3.pdf
 ||vn156475p.com^$all
-! https://www.virustotal.com/gui/url/123740a27716c295d40eeacd7842a176603d2aa9e6ad9a5030cc95361e5c191b
 ||seleeashopee.com^$all,to=~shopee.vn
 
 ! https://khonggianmang.vn/uploads/2024_CBT_28_97c3eaa00a.pdf
-||icchanoi.net^$all,to=~icchanoi.vn
-||centralmarketing.online^$all,to=~worldbank.org
 ||nze98582s.com^$all,to=~shopee.vn
-||tdke00.com^$all,to=~tiki.vn
 
 ! https://khonggianmang.vn/uploads/20240701_BCT_06_2024_V4_48f8dba76d.PDF
 ||uudai-tructuyen-$doc
@@ -4884,8 +4893,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ! https://khonggianmang.vn/uploads/2024_CBT_27_5b8aa10967.pdf
 ||uudaikhachhang-$doc
 ||nang-hang-$doc
-||tikijaj2.com^$all,to=~tiki.vn
-||tikt88.com^$all,to=~tiki.vn
 ||businesseventskp.top^$all,to=~tiki.vn
 ||mojgov.weebly.com^$all,to=~moj.gov.vn
 ||chinhphu.cc^$all,to=~chinhphu.vn
@@ -4896,18 +4903,14 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ! https://khonggianmang.vn/uploads/2024_CBT_29_32b001d150.pdf
 ||hethongnhanvien.com^$all,to=~lazada.vn
 ||lazadaevent.com^$all,to=~lazada.vn
-||vntiki.vip^$all,to=~tiki.vn
 ||baovietcom.vip^$all,to=~baovietbank.vn
 ||mcqdvn.com^$all,to=~mbbank.com.vn
 ||hethongvaynhanh247.com^$all
 ||bethivetranh2024.weebly.com^$all
-! https://www.virustotal.com/gui/url/163549472907cf1ddbe51b3f4722fd076d7ca8bc820c64a0d033e95c71706b15?nocache=1
 ||ebaymall168.shop^$all
 ||tikifreeship.vip^$all,to=~tiki.vn
 ! https://www.virustotal.com/gui/url/7f02e45eca07e7e20dc88acf94a0403f02c5096f1ad128fd111c50e19bb63d76
-! https://www.virustotal.com/gui/url/9877777ec7e5bfbd2db6f7459a33d7c8c4507b777ec108eeb1b2fbdab485fbd6
 ||flikois.com^$all
-||f997.sbs^$all
 ||371j.xyz^$all
 ||momoshopvip.com^$all,to=~momo.vn
 
@@ -4919,7 +4922,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||mmbonline01.com^$all,to=~mbbank.com.vn
 ||govn.cc^$all,to=~gov.vn
 ||thongtincutru.org^$all,to=~gov.vn
-! https://www.virustotal.com/gui/url/2863631424d98516042ca1263138157c9fdef3f5fbefde276343570baf109a6e
 ||baoviet.vip^$all,to=~baovietbank.vn
 ||baoviet*.vip^$doc,to=vip|~baovietbank.vn
 
@@ -4935,11 +4937,8 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||cham-soc-the-$doc
 ||dautuphattrienvnfic.com^$all,to=~homecredit.vn
 ||baovietvay.top^$all,to=~baovietbank.vn
-||hotro0nline28.com^$all,to=~mbbank.com.vn
 ||taichinheximbak.com^$all,to=~eximbank.com.vn
 ||tikinew.club^$all,to=~tiki.vn
-||tikijaj3.com^$all,to=~tiki.vn
-||tikicareers.vip^$all,to=~tiki.vn
 ||pddgov.cc^$all,to=~gov.vn
 ||vssid.*.cc^$doc,to=~baohiemxahoi.gov.vn
 ||kbthuhoivontreo.com^$all,to=~vst.mof.gov.vn
@@ -4961,6 +4960,10 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||nzx65821s.com^$all,to=~shopee.vn
 ||congtygiaohangtietkiemvn.com^$all,to=~giaohangtietkiem.vn
 ||giaohangtietkiemvn.com^$all,to=~giaohangtietkiem.vn
+
+! https://social.immibis.com/notice/AkFwNfc6y2el0qQ4eG
+||oh6c.com^$all
+||gataterso.com^$all
 
 ! https://social.immibis.com/notice/AkI3VG5OqmGc9UbWl6
 ||xigh.ru^$all
@@ -5024,15 +5027,13 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||r2.dev/Outlook%20Secured%20Document$doc
 
 ! https://social.immibis.com/notice/AkwoyOsqbfJIjlh7GC
-/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{6,10}\.com\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=com|~google.com|~microsoft.com
+/^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{4,10}\.com\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=com|~google.com|~microsoft.com
 /^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{4,10}\.ru\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=ru
 /^https:\/\/[a-z0-9]{3,}\.[a-z0-9]{4,10}\.su\/[a-zA-Z0-9]{50,}\?[a-zA-Z0-9]{60,}$/$doc,to=su
 ! microsoft
 ||chervindi.com^$all
 ||grahurgum.com^$all
 ||liverun0.com^$all
-||wexluftor.com^$all
-||donostain.com^$all
 ||ephemeral9.com^$all
 ! google
 ||arciansi.su^$all
@@ -5071,8 +5072,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||kunalicon.com^$all
 ||inzerille.com^$all
 ||recovernj.com^$all
-||pputy.com^$all
-||file-zilla-projectt.org^$all
 
 ! https://baochinhphu.vn/canh-bao-mot-so-website-gia-mao-lua-dao-nguoi-dung-internet-can-tranh-102240219171043932.htm
 ||vuabem.com^$all
@@ -5334,6 +5333,7 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24952
 ||chromeweb-authenticators.com^$all
+||chromeweb-authenticatr.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24983
 ||60q565qe5.top^$all
@@ -5381,3 +5381,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 
 ! https://github.com/uBlockOrigin/uAssets/issues/25044#issuecomment-2309068054 - malware spam
 ||app.mediafire.com/9mrkd33xulszl^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/25113
+||sunpass-etoll-id.kupu.desa.id^$all
