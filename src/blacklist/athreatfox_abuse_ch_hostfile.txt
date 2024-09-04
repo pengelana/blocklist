@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-03 21:20:11 UTC                        #
+# Last updated: 2024-09-04 05:52:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	api.gupdate.net
+127.0.0.1	githubapp.net
 127.0.0.1	br.libjs.xyz
 127.0.0.1	safegrandapp.monster
 127.0.0.1	getabilityapp.monster
@@ -7564,4 +7566,4 @@
 127.0.0.1	dns.recentbeelive.com
 127.0.0.1	ns1.netiapp.org
 127.0.0.1	ns2.netiapp.org
-# Number of entries: 7558
+# Number of entries: 7560
