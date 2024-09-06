@@ -12,8 +12,6 @@
 [ OK ]   7,626 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,892 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,156 src/blacklist/blocklistproject_abuse.txt
-[ OK ]  23,761 src/blacklist/blocklistproject_crypto.txt
-[ OK ]  26,031 src/blacklist/blocklistproject_drugs.txt
 [ OK ] 435,221 src/blacklist/blocklistproject_malware.txt
 [ OK ] 190,222 src/blacklist/blocklistproject_phishing.txt
 [ OK ]   1,904 src/blacklist/blocklistproject_ransomware.txt
@@ -121,8 +119,8 @@
 [ OK ]   4,090 src/blacklist/easylist_adservers_popup.txt
 [ OK ]  65,085 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]     355 src/blacklist/firebog_net_w3kbl.txt
-[ OK ]  13,232 src/blacklist/hagezi_fake.txt
-[ OK ]  79,319 src/blacklist/hagezi_popup.txt
+[ OK ]  13,219 src/blacklist/hagezi_fake.txt
+[ OK ]  79,571 src/blacklist/hagezi_popup.txt
 [ OK ]     409 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]     753 src/blacklist/hpthreatresearch_domains.txt
 [ OK ]      78 src/blacklist/ioclist.domain.raw.txt
@@ -150,19 +148,19 @@
 [ OK ]       2 src/blacklist/t_redirect.txt
 [ OK ]   3,032 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,507,551
-Filter Duplicates   : 1,504,119
-Filter Whitelist    : 1,369,723
-Import Blacklist    : 1,370,140
-Compressed          : 1,219,638
+Total Blacklist     : 2,457,998
+Filter Duplicates   : 1,471,101
+Filter Whitelist    : 1,336,806
+Import Blacklist    : 1,337,225
+Compressed          : 1,198,039
 
    LENGTH     COUNT
-        2   893,237
-        3   278,077
-        4    28,802
-        5    11,314
-        6     3,349
-        7     1,260
+        2   874,738
+        3   275,310
+        4    28,545
+        5    11,251
+        6     3,338
+        7     1,258
         8     2,252
         9     1,006
        10       236
@@ -175,7 +173,7 @@ Compressed          : 1,219,638
        17         4
        19         2
 
-Total Blocklist     : 1,219,638
+Total Blocklist     : 1,198,039
 
 ~~~
 
