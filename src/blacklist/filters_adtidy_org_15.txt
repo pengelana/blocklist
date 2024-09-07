@@ -1,9 +1,9 @@
-! Checksum: DdrBb8TrGjS6IXsDEM2NbA
-! Diff-Path: ../patches/15/15-s-1725582989-3600.patch
+! Checksum: Z46F+rbZUN3kwm8o829mwQ
+! Diff-Path: ../patches/15/15-s-1725690981-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.70.11
-! TimeUpdated: 2024-09-06T00:33:11+00:00
+! Version: 2.0.70.16
+! TimeUpdated: 2024-09-07T06:33:14+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-06T00:02:57.489Z
+! Last modified: 2024-09-07T06:01:09.629Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -5904,6 +5904,7 @@ vkcdnservice.appspot.com^
 ||beyanmaan.com^
 ||beylicbesmile.com^
 ||bezuka.xyz^
+||bezwtpxx.com^
 ||bf-ad.net^
 ||bfast.com^
 ||bfbkqmoxrh.com^
@@ -6804,6 +6805,7 @@ vkcdnservice.appspot.com^
 ||brutebaalite.top^
 ||bruteknack.com^
 ||brutestayer.top^
+||brutishlylifevoicing.com^
 ||brvkzwjrjznaw.top^
 ||brvrrlnmnpvsqln.com^
 ||brvuyvzdo.com^
@@ -7220,6 +7222,7 @@ vkcdnservice.appspot.com^
 ||can-get-some.net^
 ||canadianbedevil.com^
 ||canarystarkcoincidence.com^
+||cancriberths.com^
 ||candiedguilty.com^
 ||candiedtouch.com^
 ||candleannihilationretrieval.com^
@@ -7543,6 +7546,7 @@ vkcdnservice.appspot.com^
 ||ceeleeca.com^
 ||ceemoptu.xyz^
 ||ceeqgwt.com^
+||ceethipt.com^
 ||ceezepegleze.xyz^
 ||cefuthodob.com^
 ||cegadazwdsp.com^
@@ -8871,6 +8875,7 @@ vkcdnservice.appspot.com^
 ||corruptclients.com^
 ||corruptsolitaryaudibly.com^
 ||corveseiren.com^
+||cosedluteo.com^
 ||cosesgabbles.top^
 ||cosiequiapo.com^
 ||cosignpresentlyarrangement.com^
@@ -10059,6 +10064,7 @@ vkcdnservice.appspot.com^
 ||dexpredict.com^
 ||deybshwg.com^
 ||deyubo.uno^
+||dezaleyarmless.com^
 ||dfchevbeuydwq.com^
 ||dfciiiafweiag.com^
 ||dfd55780d6.com^
@@ -10205,6 +10211,7 @@ vkcdnservice.appspot.com^
 ||dimlmhowvkrag.xyz^
 ||dimlyconfidential.com^
 ||dimmestlasts.top^
+||dimnaamebous.com^
 ||dimnatriazin.com^
 ||dimnessinvokecorridor.com^
 ||dimnessslick.com^
@@ -11732,6 +11739,7 @@ vkcdnservice.appspot.com^
 ||encoilinwove.com^
 ||encounterboastful.com^
 ||encounterfidelityarable.com^
+||encounterponder.com^
 ||encouragedrealityirresponsible.com^
 ||encouragedunrulyriddle.com^
 ||encouragingpistolassemble.com^
@@ -12819,6 +12827,7 @@ vkcdnservice.appspot.com^
 ||ferict.com^
 ||fermolo.info^
 ||feroffer.com^
+||ferrmidline.com^
 ||ferrycontinually.com^
 ||fertilecalfawelessaweless.com^
 ||fertilestared.com^
@@ -13781,6 +13790,7 @@ vkcdnservice.appspot.com^
 ||fundatingquest.fun^
 ||fundingexceptingarraignment.com^
 ||funestjacket.shop^
+||fungiaoutfame.com^
 ||fungus.online^
 ||funiooboqifnku.com^
 ||funjoobpolicester.info^
@@ -17765,6 +17775,7 @@ vkcdnservice.appspot.com^
 ||jatchough.com^
 ||jatdticl.com^
 ||jatfugios.com^
+||jatobaviruela.com^
 ||jatomayfair.life^
 ||jatosbathkol.com^
 ||jatsekse.net^
@@ -22411,6 +22422,7 @@ vkcdnservice.appspot.com^
 ||ngegas.files.im^
 ||ngeoziadiyc4hi2e.com^
 ||ngfruitiesmatc.info^
+||ngfycrwwd.com^
 ||ngineet.cfd^
 ||ngjeaizqad.com^
 ||ngjgnidajyls.xyz^
@@ -24843,6 +24855,7 @@ vkcdnservice.appspot.com^
 ||pejzeexukxo.com^
 ||pekcbuz.com^
 ||pekroace.net^
+||pekseerdune.xyz^
 ||pelamydlours.com^
 ||pelargiunmelt.top^
 ||peliastitters.com^
@@ -26454,6 +26467,7 @@ vkcdnservice.appspot.com^
 ||pta.wcm.pl^
 ||ptaicoamt.com^
 ||ptaicoul.xyz^
+||ptailadsol.net^
 ||ptaimpeerte.com^
 ||ptaissud.com^
 ||ptaixout.net^
@@ -27520,6 +27534,7 @@ vkcdnservice.appspot.com^
 ||rcerrohatfad.com^
 ||rcesigojtwh.com^
 ||rcf3occ8.de^
+||rchmupnlifo.xyz^
 ||rcpadatlgn.com^
 ||rcvlink.com^
 ||rcvlinks.com^
@@ -27707,6 +27722,7 @@ vkcdnservice.appspot.com^
 ||redbillecphory.com^
 ||reddenjerusalem.com^
 ||reddenlightly.com^
+||reddockbedman.com^
 ||redetaailsh.info^
 ||redheadpublicityjug.com^
 ||redi.teengirl-pics.com^
@@ -29278,6 +29294,7 @@ vkcdnservice.appspot.com^
 ||scoreheadingbabysitting.com^
 ||scornfulabsorbploy.com^
 ||scornphiladelphiacarla.com^
+||scotergushing.com^
 ||scotianosed290noelind.com^
 ||scotizeoperae.com^
 ||scotsmaut.top^
@@ -30055,6 +30072,7 @@ vkcdnservice.appspot.com^
 ||siresouthernpastime.com^
 ||sireundermineoperative.com^
 ||sirmianow.top^
+||siruperunlinks.com^
 ||sisewepod.com^
 ||sismoycheii.cc^
 ||sistercashmerebless.com^
@@ -35181,6 +35199,7 @@ vkcdnservice.appspot.com^
 ||wagtelly.com^
 ||wahile.com^
 ||wahoha.com^
+||waigepsap.net^
 ||waigriwa.xyz^
 ||wailedfrosty.com^
 ||waioowcadhw.xyz^
@@ -35464,6 +35483,7 @@ vkcdnservice.appspot.com^
 ||weekendchinholds.com^
 ||weeklideals.com^
 ||weemofee.com^
+||weensnandow.com^
 ||weephuwe.xyz^
 ||weepingheartache.com^
 ||weepingpretext.com^
@@ -38878,6 +38898,7 @@ vkcdnservice.appspot.com^
 ||splut.com^
 ||spolecznosci.net^
 ||sponsoredtweets.com^
+||spotible.com^
 ||spotx.tv^
 ||springify.io^
 ||sprintrade.com^
@@ -39048,6 +39069,7 @@ vkcdnservice.appspot.com^
 ||02777e.site^
 ||03180d2d.live^
 ||0395d1.xyz^
+||04424170.xyz^
 ||05751c.site^
 ||072551.xyz^
 ||076f66b2.live^
@@ -39152,6 +39174,7 @@ vkcdnservice.appspot.com^
 ||8eef59a5.live^
 ||91301246.xyz^
 ||9354ee72.xyz^
+||94597672.xyz^
 ||97496b9d.xyz^
 ||977878.xyz^
 ||97b448.xyz^
@@ -45430,6 +45453,8 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||log.bloodppressure.info^
+||log.pdfreaders.net^
 ||track2.tprg.ru^
 ||metrics.camsoda.com^
 ||to.torrentfreak.com^
@@ -53161,6 +53186,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||ads.nicovideo.jp^
 ||adserv2.suumo.jp^
 ||ad.woman.mynavi.jp^
 ||shop.vapelog.jp^
@@ -55086,8 +55112,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Sep 2024 14:03 UTC+7
-! OriginalVersion: 2409051403
+! Last modified: 06 Sep 2024 10:32 UTC+7
+! OriginalVersion: 2409061032
 ! Blocked: 920 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -55947,9 +55973,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Sep 2024 14:03 UTC+7
-! OriginalVersion: 2409051403
-! Blocked: 4,575 rules
+! Last modified: 06 Sep 2024 10:33 UTC+7
+! OriginalVersion: 2409061033
+! Blocked: 4,576 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -60389,6 +60415,7 @@ inapps.appsflyersdk.com^
 ||yl0sj9.cyou^
 ||ymx33.com^
 ||ynefefyopqvu.com^
+||yonmewon.com^
 ||youtuber-cash.buzz^
 ||yunduofei.xyz^
 ||zSmhlV.zgbv.tech^
@@ -60419,11 +60446,23 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||azenco.xyz^
+||g11edashb1.fun^
+||lzzqfj.xyz^
+||fppcrl.xyz^
+||dxwksqa.icu^
+||yuqmok.xyz^
+||212ehae.fun^
+||brutvncv.top^
 ||geddsashb3.fun^
 ||grewash1b.fun^
 ||kzcayec.icu^
 ||tqbrnd.xyz^
 ||udeias.xyz^
+||fq03.shop^
+||jy05.shop^
+||lrutvncl.top^
+||gesvfvfhhb6.fun^
 ||wxmmji.xyz^
 ||orutvnck.top^
 ||gedxssashb8.fun^
