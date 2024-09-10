@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-09-05 07:38:34 CEST
-# entries:        1079
+# last updated:   2024-09-08 07:45:51 CEST
+# entries:        1081
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -355,6 +355,7 @@
 127.0.0.1 darwin.affiliatewindow.com
 127.0.0.1 data.adnuntius.com
 127.0.0.1 data.gblcdn.com
+127.0.0.1 dc.schibsted.io
 127.0.0.1 deals.innocode.no
 127.0.0.1 delivered-by-madington.com
 127.0.0.1 delivery.adnuntius.com
@@ -721,6 +722,7 @@
 127.0.0.1 scripts.opti-digital.com
 127.0.0.1 script.e-space.se
 127.0.0.1 sdk.pulse.schibsted.com
+127.0.0.1 sdkconfig.pulse.schibsted.io
 127.0.0.1 se.ads.justpremium.com
 127.0.0.1 se1.siteimprove.com
 127.0.0.1 se5.pliing.com
