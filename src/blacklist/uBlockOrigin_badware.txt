@@ -3447,6 +3447,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://github.com/uBlockOrigin/uAssets/issues/24734
 ||btc24.info^$doc
 ||youtube.com/@tesla24official^$doc
+! https://www.reddit.com/r/Scams/comments/1fjggp3/deepfake_of_elon_musk_promoting_a_scam_qr_code/
+||usmusk.net^$doc
 
 ! Phishing - See https://bbs.kafan.cn/thread-2264505-1-1.html
 ! https://github.com/uBlockOrigin/uAssets/pull/21759
@@ -3460,9 +3462,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/22268
 ||skinboxs.com^$all
-
-! https://github.com/RPiList/specials/issues/1492
-||okun.shop^$doc
 
 ! https://github.com/uBlockOrigin/uAssets/discussions/23094
 ! https://blog.sucuri.net/2024/02/web3-crypto-malware-angel-drainer.html
@@ -5539,3 +5538,8 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||feather-wallet.org^$doc,to=~featherwallet.org
 ||sparrowwallet.net^$doc,to=~sparrowwallet.com
 ||electrum.is^$doc,to=~electrum.org
+
+! https://unit42.paloaltonetworks.com/rare-phishing-page-delivery-header-refresh/
+||tracker.club-os.com^
+||onelink.me/*&af_web_dp=$doc
+||guide-orientation.tn/go_page.php?$doc

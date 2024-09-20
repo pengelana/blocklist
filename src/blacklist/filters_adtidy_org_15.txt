@@ -1,9 +1,9 @@
-! Checksum: OlqsUf3J6665usudK3kT4A
-! Diff-Path: ../patches/15/15-s-1726641394-3600.patch
+! Checksum: DkJLnlRt1nQfMPmrQ8sxxQ
+! Diff-Path: ../patches/15/15-s-1726792604-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.70.60
-! TimeUpdated: 2024-09-18T06:33:24+00:00
+! Version: 2.0.70.67
+! TimeUpdated: 2024-09-20T00:33:23+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-18T06:01:27.779Z
+! Last modified: 2024-09-20T00:03:09.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,8 @@
 !
 !
 !
+||bxxibvjt.com^
+||nooglaug.net^
 ||iv.hautboyhellen.com^
 ||cfusion-internet.com^
 ||s0-greate.net^
@@ -1988,6 +1990,7 @@ vkcdnservice.appspot.com^
 ||5b3fbababb.com^
 ||5btekl14.de^
 ||5c01ad4cb7.com^
+||5c4ccd56c9.com^
 ||5ca59a669a.com^
 ||5caa478343.com^
 ||5cbbdb4434.com^
@@ -4264,6 +4267,7 @@ vkcdnservice.appspot.com^
 ||appnow.sbs^
 ||appoineditardwide.com^
 ||appointedchildorchestra.com^
+||appointeeivyspongy.com^
 ||appollo-plus.com^
 ||appraisalaffable.com^
 ||apprefaculty.pro^
@@ -9097,6 +9101,7 @@ vkcdnservice.appspot.com^
 ||ctengine.io^
 ||cteozuek9.com^
 ||cteripre.com^
+||cthbkxcvksx.com^
 ||cthisismoych.com^
 ||cthkgodgy.com^
 ||ctiarbwaxam.com^
@@ -9577,6 +9582,7 @@ vkcdnservice.appspot.com^
 ||debutpanelquizmaster.com^
 ||decademical.com^
 ||decadenceestate.com^
+||decatyldecane.com^
 ||decaytreacherous.com^
 ||decbusi.com^
 ||deceittoured.com^
@@ -11511,6 +11517,7 @@ vkcdnservice.appspot.com^
 ||embogsoarers.com^
 ||embolipokies.com^
 ||embolysaros.click^
+||embowerdatto.com^
 ||embracetrace.com^
 ||embrailcamino.top^
 ||embtrk.com^
@@ -13981,6 +13988,7 @@ vkcdnservice.appspot.com^
 ||germmasonportfolio.com^
 ||geruksom.net^
 ||gesanbarrat.com^
+||gestatebuxomly.com^
 ||get-gx.net^
 ||get-here-click.xyz^
 ||get-me-wow.
@@ -16184,6 +16192,7 @@ vkcdnservice.appspot.com^
 ||hvdmwhnawvhbejv.com^
 ||hvikgqco.com^
 ||hvkwmvpxvjo.xyz
+||hvmmtuxtgaw.com^
 ||hvmsmoiejaqb.com^
 ||hvooyieoei.com^
 ||hvpguevleand.com^
@@ -17824,6 +17833,7 @@ vkcdnservice.appspot.com^
 ||jnlldyq.com^
 ||jnnjthg.com^
 ||jnovoksjreeyrpm.xyz^
+||jnpwkazdss.com^
 ||jnqkvgkm.com^
 ||jnrgcwf.com^
 ||jnrtavp2x66u.com^
@@ -18916,6 +18926,7 @@ vkcdnservice.appspot.com^
 ||laitushous.com^
 ||laivue.com^
 ||laizuwhy.com^
+||lajjmqeshj.com^
 ||lajouly.com^
 ||lakequincy.com^
 ||lakmus.xyz^
@@ -21348,6 +21359,7 @@ vkcdnservice.appspot.com^
 ||mphkwlt.com^
 ||mpk01.com^
 ||mplayeranyd.info^
+||mpljrzsdufq.com^
 ||mploymehnthejuias.info^
 ||mpnrs.com^
 ||mpougdusr.com^
@@ -24772,6 +24784,7 @@ vkcdnservice.appspot.com^
 ||phumpauk.com^
 ||phupours.com^
 ||phursefter.net^
+||phuthobsee.com^
 ||phuzeeksub.com^
 ||phvhnxebmrzf.com^
 ||phxnkysa.com^
@@ -26039,6 +26052,7 @@ vkcdnservice.appspot.com^
 ||ptanguth.com^
 ||ptapjmp.com^
 ||ptatexiwhe.com^
+||ptatzrucj.com^
 ||ptaujoot.net^
 ||ptaumoadsovu.com^
 ||ptaunsoova.com^
@@ -26801,6 +26815,7 @@ vkcdnservice.appspot.com^
 ||quxtpanaxd.com^
 ||quxuejhcaz.com^
 ||quxwpwcwmmx.xyz^
+||quzwteqzaabm.com^
 ||qvgkwcarqmhw.com^
 ||qvikar.com^
 ||qvjqbtbt.com^
@@ -27037,6 +27052,7 @@ vkcdnservice.appspot.com^
 ||raugovicoma.com^
 ||raujouca.com^
 ||raunooligais.net^
+||raupasee.xyz^
 ||raupsica.net^
 ||rausfml.com^
 ||rausougo.net^
@@ -30533,6 +30549,7 @@ vkcdnservice.appspot.com^
 ||statsforads.com^
 ||statsmobi.com^
 ||staubsuthil.com^
+||staukaul.com^
 ||staumersleep.com^
 ||staunchchivied.top^
 ||staunchgenetwitch.com^
@@ -31086,6 +31103,7 @@ vkcdnservice.appspot.com^
 ||surgicaljunctiontriumph.com^
 ||surgicallonely.com^
 ||surhaihaydn.com^
+||suriquesyre.com^
 ||surlydancerbalanced.com^
 ||surmitmegbote.top^
 ||surmountpeel.com^
@@ -33394,6 +33412,7 @@ vkcdnservice.appspot.com^
 ||unmeltsavaged.click^
 ||unmightboxen.com^
 ||unmisdreavusom.com^
+||unmownpirated.shop^
 ||unnaturalstring.com^
 ||unnecessarydispleasedleak.com^
 ||unnish.com^
@@ -34103,6 +34122,7 @@ vkcdnservice.appspot.com^
 ||viapizza.online^
 ||viatechonline.com^
 ||viatepigan.com^
+||vibanioa.com^
 ||vibetrogue.click^
 ||vibrantvale.com^
 ||vibrateapologiesshout.com^
@@ -35737,6 +35757,7 @@ vkcdnservice.appspot.com^
 ||wwaeljajwvlrw.top^
 ||wwaeljajwvywm.top^
 ||wwahuxzipoc.com^
+||wwaowwonthco.com^
 ||wwarvlorkeww.top^
 ||wwarvlorobzw.top^
 ||wwbeqrhjwnijdk.com^
@@ -38580,6 +38601,7 @@ vkcdnservice.appspot.com^
 ||6a6672.xyz^
 ||70b927c8.live^
 ||72075223.xyz^
+||72356275.xyz^
 ||72560514.xyz^
 ||72716408.xyz^
 ||74142961.xyz^
@@ -38593,6 +38615,7 @@ vkcdnservice.appspot.com^
 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site^
 ||7fc8.site^
 ||814272c4.xyz^
+||83761158.xyz^
 ||83887336.xyz^
 ||84631949.xyz^
 ||88129513.xyz^
@@ -38726,7 +38749,10 @@ vkcdnservice.appspot.com^
 ||10945-5.s.cdn15.com^
 ||1116283932.rsc.cdn77.org^
 ||1136707664.rsc.cdn77.org^
+||1157433411.rsc.cdn77.org^
+||1167965905.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
+||1205088249.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
 ||1228540867.rsc.cdn77.org^
 ||1363394706.rsc.cdn77.org^
@@ -38743,6 +38769,7 @@ vkcdnservice.appspot.com^
 ||1693418686.rsc.cdn77.org^
 ||1710712823.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1860610788.rsc.cdn77.org^
 ||1866741353.rsc.cdn77.org^
 ||1918837748.rsc.cdn77.org^
 ||1wnurc.com^
@@ -40458,6 +40485,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads-router-noneu.truecaller.com^
 ||umphek.com^
 ||ahoy-internal-ads-hv.b-cdn.net^
 ||ad.iwhop.cn^
@@ -41125,6 +41153,7 @@ vkcdnservice.appspot.com^
 !
 ! The list of bug-tracker services(Sentry, etc.)
 ! Add as commented rules. Will be used in additional list and/or strict DNS
+! ||cdn.pubnub.com^
 ! ||data.debugbear.com^
 ! ||js.cdn.applicationinsights.io^
 ! ||eastus-*.applicationinsights.azure.com^
@@ -41237,7 +41266,6 @@ vkcdnservice.appspot.com^
 ||dmp-one.ru^
 ||dmp-1.ru^
 ||tjk-njk.com^
-||cdn.pubnub.com^
 ||ziwelatum.com^
 ||houston.advgo.net^
 ||merchant-center-analytics.goog^
@@ -44901,6 +44929,9 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||analitik.pendik.bel.tr^
+||analytics-api.sconto.cz^
+||log-ana.h3z.jp^
 ||ivstat.indavideo.hu^
 ||stat.indidata.com^
 ||plausible.paimon.moe^
@@ -52699,6 +52730,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||mm.wxc.cc^
 ||xn--mts60is5y5uk.com^
 ||dfqzah.xyz^
 ||lafacw.xyz^
@@ -54547,8 +54579,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Sep 2024 16:05 UTC+7
-! OriginalVersion: 2409171605
+! Last modified: 19 Sep 2024 10:16 UTC+7
+! OriginalVersion: 2409191016
 ! Blocked: 922 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -55409,8 +55441,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 17 Sep 2024 16:07 UTC+7
-! OriginalVersion: 2409171607
+! Last modified: 18 Sep 2024 23:21 UTC+7
+! OriginalVersion: 2409182321
 ! Blocked: 4,596 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -59902,6 +59934,30 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||pmzlnt.xyz^
+||imusye.xyz^
+||bgbg00.fun^
+||fwsfwef2.fun^
+||vvadz.cc^
+||wpsbaq.xyz^
+||blinxmi.icu^
+||dasda64.fun^
+||iffobi.xyz^
+||jauql.top^
+||okiterk.top^
+||786yfvedhcbxjk.top^
+||ukitert.top^
+||csdcfvgf4.fun^
+||megydyk.icu^
+||szapaqi.cn^
+||zjsnhl.xyz^
+||dscds111.fun^
+||qrwcss.xyz^
+||tkiteri.top^
+||cdunwi.xyz^
+||sfesdef6.fun^
+||pcxnrd.xyz^
+||wlkukrv.icu^
 ||jy08.shop^
 ||fq06.shop^
 ||qkitery.top^
