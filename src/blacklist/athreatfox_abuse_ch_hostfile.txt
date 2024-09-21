@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-21 00:01:36 UTC                        #
+# Last updated: 2024-09-21 08:00:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wwwcloud.pythr.net
+127.0.0.1	peaqe.dev
+127.0.0.1	wwwwwwpublicsecure.pythr.net
+127.0.0.1	sirnon1956ge.ddns.net
+127.0.0.1	internet-sullivan.gl.at.ply.gg
+127.0.0.1	lagenceengineering.com
 127.0.0.1	evail.pw
 127.0.0.1	www.porkaloxov.com
 127.0.0.1	www.reports.ethergases.app
@@ -8501,15 +8507,4 @@
 127.0.0.1	jenb128hiuedfhajduihfa.com
 127.0.0.1	alltorq-net.oncallservices.ca
 127.0.0.1	service-cedqvyh7-1322145958.sh.tencentapigw.com
-127.0.0.1	gtldgtld.store
-127.0.0.1	softupdate.xyz
-127.0.0.1	tfirstdaily.store
-127.0.0.1	cdn-dev.helpkaspersky.top
-127.0.0.1	data-dev.helpkaspersky.top
-127.0.0.1	happy.gitweb.cloudns.nz
-127.0.0.1	support.helpkaspersky.top
-127.0.0.1	update.microsoft-setting.com
-127.0.0.1	update.windows.server-microsoft.com
-127.0.0.1	www.security-microsoft.net
-127.0.0.1	update.centos-yum.com
-# Number of entries: 8506
+# Number of entries: 8501

@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-09-11 07:34:40 CEST
-# entries:        1083
+# last updated:   2024-09-21 07:57:10 CEST
+# entries:        1085
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -192,6 +192,7 @@
 127.0.0.1 bilpolicydi.bytelab.dk
 127.0.0.1 biowebb-data.s3.amazonaws.com
 127.0.0.1 bitstarz.com
+127.0.0.1 bongeo.bonad.io
 127.0.0.1 boost-cdn.manatee.dk
 127.0.0.1 boot.pbstck.com
 127.0.0.1 borsvarlden-banners.azurewebsites.net
@@ -724,6 +725,7 @@
 127.0.0.1 scripts.opti-digital.com
 127.0.0.1 script.e-space.se
 127.0.0.1 sdk.pulse.schibsted.com
+127.0.0.1 sdkconfig.pulse.m10s.io
 127.0.0.1 sdkconfig.pulse.schibsted.io
 127.0.0.1 se.ads.justpremium.com
 127.0.0.1 se1.siteimprove.com
