@@ -139,7 +139,7 @@
 [ OK ] 411,618 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]  51,095 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]      10 src/blacklist/t_crowdstrike.txt
-[ OK ]     151 src/blacklist/t_dnstunneling.txt
+[ OK ]     152 src/blacklist/t_dnstunneling.txt
 [ OK ]      12 src/blacklist/t_fox_threatintel.txt
 [ OK ]   3,415 src/blacklist/t_judol.txt
 [ OK ]       6 src/blacklist/t_malwarebytes.txt
@@ -148,15 +148,15 @@
 [ OK ]       2 src/blacklist/t_redirect.txt
 [ OK ]   3,075 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,439,101
-Filter Duplicates   : 1,507,844
-Filter Whitelist    : 1,373,567
-Import Blacklist    : 1,373,989
-Compressed          : 1,232,361
+Total Blacklist     : 2,439,102
+Filter Duplicates   : 1,507,845
+Filter Whitelist    : 1,373,568
+Import Blacklist    : 1,373,990
+Compressed          : 1,232,362
 
    LENGTH     COUNT
         2   893,824
-        3   289,081
+        3   289,082
         4    29,637
         5    11,447
         6     3,495
@@ -173,7 +173,7 @@ Compressed          : 1,232,361
        17         4
        19         2
 
-Total Blocklist     : 1,232,361
+Total Blocklist     : 1,232,362
 
 ~~~
 
