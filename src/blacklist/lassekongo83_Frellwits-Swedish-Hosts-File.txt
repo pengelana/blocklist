@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-09-26 07:46:26 CEST
-# entries:        1085
+# last updated:   2024-09-29 13:10:01 CEST
+# entries:        1086
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -770,6 +770,7 @@
 127.0.0.1 ssl.webserviceaward.com
 127.0.0.1 ssp.api.tappx.com
 127.0.0.1 ssp-nj.webtradehub.com
+127.0.0.1 stat.devote.se
 127.0.0.1 stat.modette.se
 127.0.0.1 stat.nyheter24.se
 127.0.0.1 stat.torgen.se
