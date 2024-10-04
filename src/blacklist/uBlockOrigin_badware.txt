@@ -5583,3 +5583,84 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ! https://github.com/uBlockOrigin/uAssets/issues/25470
 ||the-north-face.gr^$all
 ||thenorthfacegreece.com^$all
+
+! https://sansec.io/research/cosmicsting-fallout
+! https://sansec.io/research/cosmicsting
+! https://sansec.io/research/cosmicsting-cnext-persistent-backdoor
+||forimg.net^$all
+||hobidoch.store^$all
+||heqipop.space^$all
+crimsonav.com,ngsingleissues.nationalgeographic.com##+js(acs, atob, new Function(atob()
+||cdnstatics.net^$all
+! Group Bobry
+/^https:\/\/[a-z]{7,}\.[a-z]{3,}\/get\/\?s=[a-zA-Z0-9]+=*$/$script,3p,match-case,to=~edu|~gov,header=speculation-rules:"/cdn-cgi/speculation"
+/^https:\/\/[a-z]{7,}\.[a-z]{3,}\/img\/$/$script,3p,match-case,to=~edu|~gov,header=speculation-rules:"/cdn-cgi/speculation"
+||quantunnquest.com^$all
+||analytisgroup.com^$all
+||analytisweb.com^$all
+||bytesbazar.com^$all
+||chartismart.com^$all
+||codecarawan.com^$all
+||creativeslim.com^$all
+||creatls.com^$all
+||cssmagic.shop^$all
+||datifyny.com^$all
+||dealhunt.website^$all
+||desiqnia.shop^$all
+||desynlabtech.com^$all
+||getstylify.com^$all
+||graphiqsw.com^$all
+||happyllfe.online^$all
+||horlzonhub.com^$all
+||javaninja.shop^$all
+||marketiqhub.com^$all
+||marketrom.shop^$all
+||marketsoilmart.com^$all
+||metricsy.shop^$all
+||novastraem.com^$all
+||radlantroots.com^$all
+||sellifypro.com^$all
+||sellwisehub.com^$all
+||statify.online^$all
+||statlstic.shop^$all
+||statspots.com^$all
+||techtnee.com^$all
+||trendgurupro.com^$all
+||trendor.website^$all
+||trendori.shop^$all
+||vizualis.online^$all
+!#if cap_html_filtering
+energiasolare100.it,lundracing.com,red17.co.uk,workplace-products.co.uk##^div[onmousemove*=".innerHTML"][onmousemove*="String.fromCharCode"]
+!#else
+energiasolare100.it,lundracing.com,red17.co.uk,workplace-products.co.uk##+js(trusted-replace-argument, String.prototype.includes, 0, undefined, condition, /^checkout$/)
+!#endif
+! Group Surki
+/^wss:\/\/[^\/]+\.[a-z]{2,}\/(?:common|ws)\?source=http[^&]+$/$websocket,3p,match-case,to=~edu|~gov
+||accept.bar^$all
+||amocha.xyz^$all
+||cdn-webstats.com^$all
+||inspectdlet.net^$all
+||clearnetfab.net^$all
+||cloudflare-stat.net^$all
+||fallodick87-78.sbs^$all
+||iconstaff.top^$all
+||jquerypackageus.com^$all
+||jqueryuslibs.com^$all
+||jstatic201.com^$all
+||lererikal.org^$all
+||mamatmavali.ru^$all
+||nothingillegal.bond^$all
+||paie-locli.com^$all
+||sellerstat.site^$all
+||shoponlinemelike.shop^$all
+||statsseo.com^$all
+||statstoday.org^$all
+||vincaolet.xyz^$all
+||webexcelsior.org^$all
+adrissa.com.co,americansoda.co.uk,casteloforte.com.br,centerfabril.com.br,forqueen.cz,joinusonline.net,jollibee.com.vn,kitapsan.com.tr,mebelinovdom.com,ojworld.it,qualityrental.com,szaszmotorshop.hu,tvojstyl.sk,up-shop.org,yairalon.com.br##+js(acs, WebSocket, event.data)
+
+! https://github.com/uBlockOrigin/uAssets/issues/25506
+||whyareyouherewho.ru^
+
+! https://github.com/uBlockOrigin/uAssets/issues/25507
+||last-blink.com^
