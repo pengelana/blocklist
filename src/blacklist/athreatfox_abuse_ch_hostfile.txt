@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-04 22:25:55 UTC                        #
+# Last updated: 2024-10-05 00:02:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	imap.surfmail.cloud
 127.0.0.1	sost2024ene.duckdns.org
 127.0.0.1	ekcdn.top
 127.0.0.1	obobobo.com
@@ -9053,4 +9054,4 @@
 127.0.0.1	newnano-shel.duckdns.org
 127.0.0.1	kingjoker420.ddnsking.com
 127.0.0.1	njpantalla.4cloud.click
-# Number of entries: 9047
+# Number of entries: 9048
