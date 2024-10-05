@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-05 00:02:56 UTC                        #
+# Last updated: 2024-10-05 04:02:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	smtracking.ridvansakaa.swp23.com
+127.0.0.1	idc-91-120-212-116.hkt.cc
 127.0.0.1	imap.surfmail.cloud
 127.0.0.1	sost2024ene.duckdns.org
 127.0.0.1	ekcdn.top
@@ -9054,4 +9056,4 @@
 127.0.0.1	newnano-shel.duckdns.org
 127.0.0.1	kingjoker420.ddnsking.com
 127.0.0.1	njpantalla.4cloud.click
-# Number of entries: 9048
+# Number of entries: 9050
