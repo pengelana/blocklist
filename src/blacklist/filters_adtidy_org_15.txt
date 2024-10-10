@@ -1,9 +1,9 @@
-! Checksum: PyIpt+ZqmSkFlPJ8xe/mig
-! Diff-Path: ../patches/15/15-s-1728520573-3600.patch
+! Checksum: 2KvmpP11NjDn3no/qpcLBg
+! Diff-Path: ../patches/15/15-s-1728542186-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.71.47
-! TimeUpdated: 2024-10-10T00:32:56+00:00
+! Version: 2.0.71.48
+! TimeUpdated: 2024-10-10T06:32:57+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-10T00:03:10.034Z
+! Last modified: 2024-10-10T06:01:18.148Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4784,6 +4784,7 @@ vkcdnservice.appspot.com^
 ||asylumclogunaccustomed.com^
 ||atableofcup.com^
 ||atacticserena.top^
+||ataiyalstrays.com^
 ||atala-apw.com^
 ||atamansdockize.com^
 ||atampharosom.com^
@@ -5284,6 +5285,7 @@ vkcdnservice.appspot.com^
 ||azwkjjkmbqvye.top^
 ||azxdkucizr.com^
 ||azxhlzxmrqc.com^
+||azygotesonless.com^
 ||azyyyeyeqeazj.top^
 ||b-5-shield.com^
 ||b-m.xyz^
@@ -5403,6 +5405,7 @@ vkcdnservice.appspot.com^
 ||bailoaso.xyz^
 ||bailonushe.com^
 ||bainushe.com^
+||baipahanoop.net^
 ||bairnsvibrion.top^
 ||baiseesh.net^
 ||baithoph.net^
@@ -6835,6 +6838,7 @@ vkcdnservice.appspot.com^
 ||bropu2.com^
 ||broredir1s.site^
 ||brothersparklingresolve.com^
+||brottpyric.com^
 ||broughtalienshear.com^
 ||broughtenragesince.com^
 ||broughtincompatiblewasp.com^
@@ -10250,6 +10254,7 @@ vkcdnservice.appspot.com^
 ||dilruwha.net^
 ||dilutegulpedshirt.com^
 ||dilutemylodon.top^
+||diluterocciput.click^
 ||dilutesnoopzap.com^
 ||dilutionavailstoker.com^
 ||dimedoncywydd.com^
@@ -11804,6 +11809,7 @@ vkcdnservice.appspot.com^
 ||endingmedication.com^
 ||endingrude.com^
 ||endjigsur.com^
+||endlessgoes.com^
 ||endlesslyalwaysbeset.com^
 ||endlessvow.com^
 ||endorsecontinuefabric.com^
@@ -14802,6 +14808,7 @@ vkcdnservice.appspot.com^
 ||gorillatraffic.xyz^
 ||gorillatrk.com^
 ||gorillatrking.com^
+||goschenelect.com^
 ||goshbiopsy.com^
 ||gositego.live^
 ||gosoftwarenow.com^
@@ -15335,6 +15342,7 @@ vkcdnservice.appspot.com^
 ||habovethecity.info^
 ||habutaeirisate.com^
 ||habutaeunroost.com^
+||hackeestrict.click^
 ||hadajvqpha.com^
 ||hadfrizzprofitable.com^
 ||hadmiredinde.info^
@@ -20372,6 +20380,7 @@ vkcdnservice.appspot.com^
 ||mabdkggqleseuhj.com^
 ||mabelasateens.com^
 ||mabolmvcuo.com^
+||mabolocorrive.com^
 ||mabtcaraqdho.com^
 ||mabyerwaxand.click^
 ||macacosmarline.top^
@@ -20606,6 +20615,7 @@ vkcdnservice.appspot.com^
 ||mareswimming.com^
 ||margaritaimmense.com^
 ||margaritapowerclang.com^
+||marginshache.com^
 ||mariadock.com^
 ||marial.pro^
 ||marianneflog.com^
@@ -23195,6 +23205,7 @@ vkcdnservice.appspot.com^
 ||ocflkcgwjem.com^
 ||ocheebou.xyz^
 ||ochoawhou.com^
+||ochoovoajaw.xyz^
 ||ocjdmjxm.com^
 ||ocjmbhy.com^
 ||ockerfisher.top^
@@ -26475,6 +26486,7 @@ vkcdnservice.appspot.com^
 ||ptoaltie.com^
 ||ptoangir.com^
 ||ptoapouk.com^
+||ptoavibsaron.net^
 ||ptobsagn.com^
 ||ptochair.xyz^
 ||ptoftaupsift.com^
@@ -28101,6 +28113,7 @@ vkcdnservice.appspot.com^
 ||rethinkwrinkle.com^
 ||reticencecarefully.com^
 ||retillbicycle.top^
+||retingexylogen.com^
 ||retintsmillion.com^
 ||retinueabash.com^
 ||retinuegigoh.com^
@@ -34898,6 +34911,7 @@ vkcdnservice.appspot.com^
 ||vodjnqarncm.com^
 ||vodlpsf.com^
 ||vodobyve.pro^
+||voguesmaison.com^
 ||vohqpgsdn.xyz^
 ||voicebeddingtaint.com^
 ||voicedstart.com^
@@ -39130,6 +39144,7 @@ vkcdnservice.appspot.com^
 ||605efe.xyz^
 ||634369.xyz^
 ||6471e7f7.xyz^
+||65035033.xyz^
 ||656f1ba3.xyz^
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
 ||68646f.xyz^
@@ -60567,6 +60582,8 @@ inapps.appsflyersdk.com^
 ||gbqgwes.icu^
 ||miwpkk.xyz^
 ||npdbxf.xyz^
+||iggbky.xyz^
+||333bbb777bbb.com^
 ||wuiqiq.xyz^
 ||jingjs.top^
 ||0pdsa.icu^
