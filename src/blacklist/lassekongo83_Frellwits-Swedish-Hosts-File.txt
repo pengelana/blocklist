@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-10-09 05:49:09 CEST
-# entries:        1089
+# last updated:   2024-10-29 18:19:04 CET
+# entries:        1088
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -126,6 +126,7 @@
 127.0.0.1 analytics.residencemagazine.se
 127.0.0.1 analytics.sitewit.com
 127.0.0.1 analytics.sjf.se
+127.0.0.1 analytics.sleeknote.com
 127.0.0.1 analytics.smhi.se
 127.0.0.1 analytics.svenskdam.se
 127.0.0.1 analytics.svt.se
@@ -755,8 +756,6 @@
 127.0.0.1 se-ads-microservice.ads.allermedia.io
 127.0.0.1 sgtm.inet.se
 127.0.0.1 sibautomation.com
-127.0.0.1 sleeknote.com
-127.0.0.1 sleeknotecustomerscripts.sleeknote.com
 127.0.0.1 smtvn.112.2o7.net
 127.0.0.1 snap.licdn.com
 127.0.0.1 source.advisible.com

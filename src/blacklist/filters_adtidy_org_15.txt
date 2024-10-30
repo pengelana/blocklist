@@ -1,9 +1,9 @@
-! Checksum: uz+HgOtDU4TF19rccxwNug
-! Diff-Path: ../patches/15/15-s-1730162166-3600.patch
+! Checksum: YDnCtT/1fQoo4Fu/xMeVXA
+! Diff-Path: ../patches/15/15-s-1730248581-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.72.10
-! TimeUpdated: 2024-10-29T00:32:50+00:00
+! Version: 2.0.72.14
+! TimeUpdated: 2024-10-30T00:33:03+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-10-29T00:03:13.658Z
+! Last modified: 2024-10-30T00:03:22.881Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30,6 +30,8 @@
 !
 !
 !
+||v785.online^
+||dareka4te.shop^
 ||rpjkwhkxh.com^
 ||shauduptel.net^
 ||ccryxqgqf.com^
@@ -8900,6 +8902,7 @@ vkcdnservice.appspot.com^
 ||detectedadvancevisiting.com^
 ||detectedpectoral.com^
 ||detectiveestrange.com^
+||detectivegrilled.com^
 ||detectivesbaseballovertake.com^
 ||detectivesexception.com^
 ||detectivespreferably.com^
@@ -12982,6 +12985,7 @@ vkcdnservice.appspot.com^
 ||goufldsbktds.com^
 ||gouheethsurvey.space^
 ||gounevou.net^
+||gounodogaptofok.net^
 ||gourgoldpieceso.com^
 ||gousouse.com^
 ||goutee.top^
@@ -16338,6 +16342,7 @@ vkcdnservice.appspot.com^
 ||kq272lw4c.com^
 ||kqbjdvighp.com^
 ||kqduogttdmryguw.com^
+||kqhgjmap.com^
 ||kqhi97lf.de^
 ||kqiivrxlal.xyz^
 ||kqjpipl.com^
@@ -19474,6 +19479,7 @@ vkcdnservice.appspot.com^
 ||novadune.com^
 ||novel-inevitable.com^
 ||novelcompliance.com^
+||novelslopeoppressive.com^
 ||novelty.media^
 ||noveltyensue.com^
 ||novemberadventures.com^
@@ -19629,6 +19635,7 @@ vkcdnservice.appspot.com^
 ||nv3tosjqd.com^
 ||nvane.com^
 ||nvjgmugfqmffbgk.xyz^
+||nvlcnvyqvpjppi.xyz^
 ||nvtvssczb.com^
 ||nvuwqcfdux.xyz^
 ||nvzaezebhow.com^
@@ -20187,6 +20194,7 @@ vkcdnservice.appspot.com^
 ||onmanectrictor.com^
 ||onmantineer.com^
 ||onmarshtompor.com^
+||onoamoutsaitsy.net^
 ||onpluslean.com^
 ||onpsrrejx.com^
 ||onraltstor.com^
@@ -21288,6 +21296,7 @@ vkcdnservice.appspot.com^
 ||petrifacius.com^
 ||petrolgraphcredibility.com^
 ||petsavoury.com^
+||pettyachras.shop^
 ||pexkmaebfy.xyz^
 ||pexuvais.net^
 ||pezoomsekre.com^
@@ -26409,6 +26418,7 @@ vkcdnservice.appspot.com^
 ||statsforads.com^
 ||statsmobi.com^
 ||staubsuthil.com^
+||staugloobads.net^
 ||staukaul.com^
 ||staumersleep.com^
 ||staunchgenetwitch.com^
@@ -29919,6 +29929,7 @@ vkcdnservice.appspot.com^
 ||vuftouks.com^
 ||vufzuld.com^
 ||vugnubier.com^
+||vugpakba.com^
 ||vuhnvtrfj.com^
 ||vuiluaz.xyz^
 ||vujriahqyleveh.com^
@@ -29939,6 +29950,7 @@ vkcdnservice.appspot.com^
 ||vvehvch.com^
 ||vvpojbsibm.xyz^
 ||vvprcztaw.com^
+||vvvvdbrrt.com^
 ||vwagkipi.com^
 ||vwchbsoukeq.xyz^
 ||vwdtyjygxap.com^
@@ -36087,6 +36099,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||prodregistryv2.org^
+||ads.mythad.com^
 ||ga2.getresponse.com^
 ||events.split.io^
 ||analytics.wikitide.net^
@@ -39849,6 +39863,8 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||data-ingestion.flowgpt.com^
+||tianji.flowgpt.com^
 ||analytics-ingestion-production.tubitv.com^
 ||retail-client-events-service.internal.salsify.com^
 ||servo-report.keepstreams.*^
@@ -43137,6 +43153,7 @@ inapps.appsflyersdk.com^
 ||analytics.rogersmedia.com^
 ||analytics.salesanalytics.io^
 ||analytics.shorthand.com^
+||analytics.sleeknote.com^
 ||analytics.snidigital.com^
 ||analytics.strangeloopnetworks.com^
 ||analytics.supplyframe.com^
@@ -43819,7 +43836,6 @@ inapps.appsflyersdk.com^
 ||wds.weqs.me^
 ||web-tracker.smsbump.com^
 ||web1.51.la^
-||webcare.byside.com^
 ||webservices.websitepros.com^
 ||webstats.thaindian.com^
 ||webtracker.apicasystem.com^
@@ -48654,8 +48670,8 @@ inapps.appsflyersdk.com^
 ! # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 ! # ----
 ! # title:          Frellwit's Swedish Hosts File
-! # last updated:   2024-10-09 05:49:09 CEST
-! # entries:        1089
+! # last updated:   2024-10-29 18:19:04 CET
+! # entries:        1088
 ! # format:         hosts (hosts -- in hosts file format)
 ! # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -49003,7 +49019,6 @@ inapps.appsflyersdk.com^
 ||servedby.lintigroup.se^
 ||se-ads-microservice.ads.allermedia.io^
 ||sgtm.inet.se^
-||sleeknote.com^
 ||source.advisible.com^
 ||spel.expressen.se^
 ||sprinklecontent.com^
@@ -55018,10 +55033,15 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||whrwlxg.icu^
+||bdawrsi.icu^
 ||mzpecui.icu^
 ||chmueyv.icu^
 ||kemmars.com^
 ||sv5nm.icu^
+||treferty33.fun^
+||coublif.top^
+||cadcc.icu^
 ||1gmzo.icu^
 ||crnmyrk.icu^
 ||hdxyj.icu^
