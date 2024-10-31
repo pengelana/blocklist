@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-31 04:55:45 UTC                        #
+# Last updated: 2024-10-31 08:02:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	doladowanie.app-tools.info
+127.0.0.1	sost.duckdns.org
+127.0.0.1	parapetos1.duckdns.org
 127.0.0.1	smldatacenter.com
 127.0.0.1	redcap.work
 127.0.0.1	utku.vps.webdock.cloud
@@ -10087,19 +10090,4 @@
 127.0.0.1	oss.icbcbc.com.cn
 127.0.0.1	vpn.icbcbc.com.cn
 127.0.0.1	mailtest.icbcbc.com.cn
-127.0.0.1	finance.kumbaraan.biz.id
-127.0.0.1	breakingnews.kumbaraan.biz.id
-127.0.0.1	ns2.crnbchina.buzz
-127.0.0.1	ns1.crnbchina.buzz
-127.0.0.1	arilyfarlico.ru
-127.0.0.1	www.arilyfarlico.ru
-127.0.0.1	herioscheats.xyz
-127.0.0.1	xkoic3y.dekma-gay.ru
-127.0.0.1	bot.secure-network-rebirthltd.ru
-127.0.0.1	security.secure-core-rebirthltd.su
-127.0.0.1	vps.rebirth-network.su
-127.0.0.1	security.rebirth-network.su
-127.0.0.1	sex.secure-cyber-security-rebirthltd.su
-127.0.0.1	xysk5eeyj0j5n.xyz
-127.0.0.1	vps.rebirth-network.su
-# Number of entries: 10096
+# Number of entries: 10084
