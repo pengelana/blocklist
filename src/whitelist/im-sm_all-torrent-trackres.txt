@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Nov  1 02:00:07 UTC 2024
+# Last Update - Sat Nov  2 02:00:07 UTC 2024
 # --------------------------------------------
-# Total domains: 931
+# Total domains: 950
 # --------------------------------------------
-# Total size: 17K
+# Total size: 18K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -13,7 +13,9 @@
 # --------------------------------------------
 00.alarmasqueretaro.com
 00.xxtor.com
+0123456789nonexistent.com
 0205.uptm.ch
+0d.kebhana.mx
 1.tracker.eu.org
 107.182.30.76.16clouds.com
 107.189.10.20.sslip.io
@@ -120,6 +122,7 @@ bt.ktrackers.com
 bt.oiyo.tk
 bt.okmp3.ru
 bt.plc.mx
+bt.poletracker.org
 bt.ptlsp.com
 bt.pusacg.org
 bt.rer.lol
@@ -127,6 +130,7 @@ bt.xcty.eu.org
 bt.zlofenix.org
 bt1.archive.org
 bt1.letpo.com
+bt1.xxxxbt.cc
 bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
@@ -231,6 +235,7 @@ h4.trakx.nibba.trade
 h85-235-17-132.cust.a3fiber.se
 hcbt.pp.ua
 hdreactor.org
+highteahop.top
 home.kray.pw
 home.yxgz.club
 home.yxgz.vip
@@ -358,6 +363,7 @@ open.stealth.si
 open.touki.ru
 open.tracker.cl
 open.tracker.ink
+open.trackerlist.xyz
 open.u-p.pw
 open.va.wiki
 open.xxtor.com
@@ -437,12 +443,15 @@ saltwood.top
 sanincode.com
 sd-161673.dedibox.fr
 secure.pow7.com
+seeders-paradise.org
 seedpeer.net
 serpb.vpsburti.com
+servandroidkino.ru
 shadowshq.eddie4.nl
 shadowshq.yi.org
 shahidrazi.online
 share.camoe.cn
+share.hkg-fansub.info
 shizzle.hammetjus.nl
 shnflac.net
 shogiroom.com
@@ -470,6 +479,7 @@ sx.xxtor.com
 t.133335.xyz
 t.acg.rip
 t.btcland.xyz
+t.jaekr.sh
 t.nyaatracker.com
 t.overflow.biz
 t.peer-exchange.download
@@ -543,6 +553,7 @@ tr.doogh.club
 tr.fuckbitcoin.xyz
 tr.highstar.shop
 tr.kxmp.cf
+tr.nyacat.pw
 tr.qfruiti.com
 tr.qfruiti.in
 tr.ready4.icu
@@ -625,6 +636,7 @@ tracker.dev-null.rocks
 tracker.dix.tf
 tracker.dler.com
 tracker.dler.org
+tracker.dmcomic.org
 tracker.dmhy.pw
 tracker.dnlab.net
 tracker.draatman.uk
@@ -707,6 +719,7 @@ tracker.lelux.fi
 tracker.letpo.com
 tracker.lilithraws.cf
 tracker.lilithraws.org
+tracker.lintk.me
 tracker.loadbt.com
 tracker.logirl.moe
 tracker.loli.co.nz
@@ -724,6 +737,7 @@ tracker.moeblog.cn
 tracker.moeking.eu.org
 tracker.moeking.me
 tracker.monitorit4.me
+tracker.moxing.party
 tracker.msm8916.com
 tracker.mywaifu.best
 tracker.nanoha.org
@@ -814,6 +828,7 @@ tracker.tvunderground.org.ru
 tracker.uraniumhexafluori.de
 tracker.uw0.xyz
 tracker.v6speed.org
+tracker.vanitycore.co
 tracker.vds.nz
 tracker.vectahosting.eu
 tracker.vraphim.com
@@ -821,6 +836,7 @@ tracker.vrpnet.org
 tracker.vulnix.sh
 tracker.waaa.moe
 tracker.wellknownclub.net
+tracker.xiaoduola.xyz
 tracker.xor.st
 tracker.yangxiaoguozi.cn
 tracker.yarr.pt
@@ -858,6 +874,7 @@ tracker4.itzmx.com
 tracker4.leechshield.link
 tracker6.dler.org
 tracker6.lelux.fi
+tracker810.xyz
 trackerb.jonaslsa.com
 trackers.mlsub.net
 trackers.ptlsp.com
@@ -910,6 +927,7 @@ worldboxingvideoarchive.com
 www.2600.com
 www.all4nothin.net
 www.chouchou.club
+www.genesis-sp.org
 www.loushao.net
 www.midea123.z-media.com.cn
 www.nartlof.com.br
@@ -917,6 +935,7 @@ www.nekos96.xyz
 www.peckservers.com
 www.skynetcenter.me
 www.torrent.eu.org
+www.torrentsnipe.info
 www.wareztorrent.com
 www.zhaohu.love
 x.hz.is
