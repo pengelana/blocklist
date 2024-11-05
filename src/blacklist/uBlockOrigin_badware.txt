@@ -2889,9 +2889,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||orga29.com^$doc
 ||the-latest-version.com^$doc
 
-! https://twitter.com/1ZRR4H/status/1623067548781539339
-||soft-pro.site^$all
-
 ! https://github.com/AdguardTeam/AdguardFilters/issues/142492
 ||apkmirror.co^$all
 ||webogram.org^$all
@@ -3526,6 +3523,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||download-wetransfer-*.vercel.app^$doc,to=~wetransfer.com
 ! https://www.virustotal.com/gui/url/9b40e92a4a7347a20f1d85bfe0e7e42622d08878d521db092c66ef9554eac83b
 ||specific-sample-orderline.vercel.app^$all,to=~wetransfer.com
+! https://www.virustotal.com/gui/url/1adb59400d7153cc8cc5cf42cf25d03fb21f00c04b1bcb888acc526a10640f84
+||purring-wood-magnolia.glitch.me^$all,to=~wetransfer.com
 
 ! leboncoin.fr
 ||auth-llbc.elementfx.com^$all,to=~leboncoin.fr
@@ -3565,6 +3564,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||moonworks.in/jpcpanel/$all
 ! https://www.virustotal.com/gui/url/fe60b5ca89346121b165aaaaf2b0305dee777a8aa90c87e3eb656c914ae04e59
 ||bequettehomes.com/ahost/$all
+! https://www.virustotal.com/gui/url/61cc08602b6328ce07535da1068dfc0f3ddd667c0e77849eadcd8ae33edad516
+/^https://[a-z]{40,}\.pages\.dev\//$doc,to=pages.dev
 
 ! ups.com
 ! https://www.virustotal.com/gui/url/ef9755fcb211a668986b9afc5187577c92fb8c8bf62057bf9d0b59333827a35a
@@ -3807,6 +3808,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||dailycontestportal.com/*/orange-reward-survey-1/$doc,to=~orange.fr
 ! https://www.virustotal.com/gui/url/e27f395b3fd90a6d906437db31bec3b6efb76be4d4bce9856923f78f793da795
 ||disponible.temp.swtest.ru/*/login.php^$all,to=~orange.fr
+! https://www.virustotal.com/gui/url/798cb44c90d1ecc992f9ec37fafa451cddbdbd1a030284aff63c923a9394809e
+||app.vision6.com/em/message/email/$all,to=~orange.fr
 
 ! tiktok shop
 ||tiktikshopvn.com^$doc
@@ -3923,7 +3926,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||telegra.ph/BT-Business-Communications-$all,to=~bt.com
 
 ! gov phishing site
-||thanhtrapcrt.online^$all,to=~thanhtra.gov.vn
 ! https://www.virustotal.com/gui/url/19c07d4e7c627a1f83900c509ce73b828247b3bb932713383e5569e7e2671882
 ! https://www.virustotal.com/gui/url/3184ee7bcf4b3d443307b36cf33e2c1e078747f6618534fc944442ae1b323e4c
 ||pttgov*.top^$doc,to=top|~ptt.gov.tr
@@ -3933,6 +3935,10 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||seeproc.com.br^$all,to=~my.gov.au
 ||homeinboxlogin.com^$all,to=~my.gov.au
 ||notice-ausreport.com^$all,to=~my.gov.au
+! gov.vn
+||thanhtrapcrt.online^$all,to=~thanhtra.gov.vn
+||jetkingncsc.online^$all,to=~ncsc.gov.vn
+
 ! gov.uk
 ||liveflo.qxlva.io^$all,to=~gov.uk
 ||student-finance-auth.firebaseapp.com^$all,to=~gov.uk
@@ -4426,6 +4432,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||microsoft.account.dfautomotive.de^$all
 ||activarhotmail.weebly.com^$all
 ||hab-sharepoint.weebly.com^$all
+||servicewebformoes.weebly.com^$all
 ||whfdny.org^$all
 ||infos4.yolasite.com^$all
 ||microsoftupdate67.wixsite.com^$all
@@ -4946,6 +4953,9 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||lcldetecthumainweb*.firebaseapp.com^$all,to=~lcl.fr
 ! https://www.virustotal.com/gui/url/a7e6e811db0ed0c4cc297be4ca177ed3a54c568dde8835fbd24b4f4af51c1888
 ||becayg.com^$all
+! https://www.virustotal.com/gui/url/a187aca9b762ddf1572d5049d20892e25b274b3809e0db93b001826d60b3d8dc
+||electroaccess.freewebhostmost.com^$all,to=~poste.it
+||freewebhostmost.com/consegna-pacchi/avviso/$doc,to=~poste.it
 
 ! docusign.com
 ||signature-rho.vercel.app^$all,to=~docusign.com
@@ -5158,6 +5168,16 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||thongtincancuoc.com^$all,to=~chinhphu.vn
 ||vietcp.com^$all,to=~dichvucong.gov.vn
 ||ccbcavn.cc^$all,to=~gov.vn
+
+! https://khonggianmang.vn/uploads/2024_CBT_43_c3bec6c039.pdf
+/^https:\/\/amazon[a-z]\d\.com\//$doc,to=com
+||amazoul.site^$all
+||amazonl0.com^$all
+||amazoni2.com^$all
+||dienlanhdienmayxanhvn.com^$all,to=~dienmayxanh.com
+||sendo1.com^$all,to=~sendo.vn
+||evnnpcs.com^$all,to=~evn.com.vn
+||korshoptiktok.com^$all,to=~tiktok.com
 
 ! https://social.immibis.com/notice/AjwiBkDIwtyORTzsAq
 ||msk.su^$all
@@ -5841,7 +5861,6 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 
 ! https://freesoftwarecreative.com/pages/?f4107d2
 ! https://d1myn4ixnn41tz.cloudfront.net/public/external/v2/htmlxf.4151823.2951e.0.js
-! https://dojy0dg181308.cloudfront.net/f999531.js
 ! https://d390icj1ta4x0p.cloudfront.net/public/ct?cpguid=&pr=0&it=4151823&w=1920&h=1080&key=2951e&m=0&r=
 ||freesoftwarecreative.com^$doc
 ||cloudtrks.com^$all
@@ -5856,7 +5875,9 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ||du002iv2rxh4h.cloudfront.net^
 ||d1i1d9hx0883rq.cloudfront.net^
 ||d3srxd2wvksmqd.cloudfront.net^
+! https://dojy0dg181308.cloudfront.net/f999531.js
 ||dojy0dg181308.cloudfront.net^
+||d9cshxmf0qazr.cloudfront.net^
 
 ! https://www.malwarebytes.com/blog/scams/2024/11/crooks-bank-on-microsofts-search-engine-to-phish-customers
 ||ixx-kexxx.com^$all,to=~ibx.key.com
