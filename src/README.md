@@ -116,7 +116,7 @@
 [ OK ]      40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]   2,867 src/blacklist/durablenapkin_hosts.txt
 [ OK ]   3,874 src/blacklist/easylist_adservers_popup.txt
-[ OK ]  56,413 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]  56,493 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]     355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]  12,443 src/blacklist/hagezi_fake.txt
 [ OK ]  82,734 src/blacklist/hagezi_popup.txt
@@ -131,7 +131,7 @@
 [ OK ]      35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]  45,487 src/blacklist/oisd_small.txt
 [ OK ]      91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ] 246,112 src/blacklist/phishing_army_blocklist.txt
+[ OK ] 246,138 src/blacklist/phishing_army_blocklist.txt
 [ OK ]     176 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]  11,763 src/blacklist/someonewhocares_hosts.txt
 [ OK ]  18,151 src/blacklist/stamparm_blackbook.txt
@@ -147,19 +147,19 @@
 [ OK ]       2 src/blacklist/t_redirect.txt
 [ OK ]   3,115 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,496,373
-Filter Duplicates   : 1,562,459
-Filter Whitelist    : 1,428,366
-Import Blacklist    : 1,428,825
-Compressed          : 1,279,044
+Total Blacklist     : 2,496,479
+Filter Duplicates   : 1,562,556
+Filter Whitelist    : 1,428,465
+Import Blacklist    : 1,428,924
+Compressed          : 1,279,118
 
    LENGTH     COUNT
-        2   925,363
-        3   303,197
+        2   925,420
+        3   303,213
         4    30,623
         5    11,488
         6     3,440
-        7     1,296
+        7     1,297
         8     2,264
         9     1,021
        10       245
@@ -172,7 +172,7 @@ Compressed          : 1,279,044
        17         4
        19         2
 
-Total Blocklist     : 1,279,044
+Total Blocklist     : 1,279,118
 
 ~~~
 
