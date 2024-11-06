@@ -3689,6 +3689,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||abnbclaim.com^$all,to=~airbnb.com
 ||air.bnb-id*.com^$all,to=~airbnb.com
 ||navi-airbnb.vercel.app^$all,to=~airbnb.com
+||property-rental-seven.vercel.app^$all,to=~airbnb.com
 ! https://www.virustotal.com/gui/url/8cdc4c3ca9313a9cdd27dc03d855105f37aebe9abac62265ea45993121cf7b31
 ! https://www.virustotal.com/gui/url/235683db58069cf98a6e1aa5719dd5cb941d669225f828b875f21d54dd3ad1c6
 ! https://www.virustotal.com/gui/url/ca2d5df746dc848767d695b04a59af02042fd44ac1829daa4df2da6acdf9834e
@@ -3713,6 +3714,9 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||pub-*.r2.dev/adobe2024.html^$doc,to=~adobe.com
 ! https://www.virustotal.com/gui/url/d894e00a04a1372908b00bd1e710a5297e9a1436f6ec198baca25e9a5789f08e
 ||adobepd*.glitch.me^$doc,to=~adobe.com
+! https://www.virustotal.com/gui/url/6294a9f79f81d7d9ebdcaa85273789747ee60201d9731b89a608346631408b5b
+||doc*-order*adobe.glitch.me^$doc,to=glitch.me
+||glitch.me/adobe-auto*.html^$doc
 ! https://www.virustotal.com/gui/url/e6663516cf34ff162f6c4a5d049c365ee56ab737978fd325a29088850eaa8b0e
 ||facture-free.com/Adobeverapdf/$all
 
@@ -3878,6 +3882,10 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||shopvip-alibaba.com^$all,to=~alibaba.com
 ! https://www.virustotal.com/gui/url/1649712cd78f28d5660fbf0d0de7d475f8cd51105caac04b3b521ecd850234a1
 ||vetsinthecity.me/*/Alibaba/$doc,to=~alibaba.com
+
+! aliexpress
+! https://www.virustotal.com/gui/url/8348d50aefd96888490c11d2a155b0bae9299a51163b55463b2fd2bf709ef2f2
+||airpsite.club^$all,to=~aliexpress.com
 
 ! AT&T
 ||wixsite.com/att-support/$doc
@@ -4120,6 +4128,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||amxprd.com^$doc,to=~americanexpress.com
 
 ! santander
+||santanderstaging.interviewtoolkit.io^$all
 ||recompensaszurichsantander.com.mx^$all
 ||santander.cf.sandbox.motrada.ch^$all,to=~santanderbank.com|~santander.co.uk
 ||bancot.site.tb-hosting.com^$all,to=~santander.es
@@ -4174,6 +4183,9 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||fevertime.com/wasop/$all
 ! https://www.virustotal.com/gui/url/02a47f7abf79b9432d611eb4601015f554c548efad6cf7e9ebd64dd3d5cf8e88
 ||wathzapp.com^$all
+! https://www.virustotal.com/gui/url/a4c7013f5435188514d6f397a43489fa24f2fb6d1c2ed224b7974b847f8a8a00
+||wa-groupbebe.pages.dev^$all
+||tg.sv/panggahokeee^$all
 
 ! instagram
 ||instogromv.com^$all
@@ -4290,6 +4302,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||meta.com-case*.com/help/contact/$doc
 ! https://www.virustotal.com/gui/url/a7fd00beea3a206574a55ebcc91d1c0c73330e31c5a38d602d6f82e14d646bff
 ||helps-center-page-number-$doc
+! https://www.virustotal.com/gui/url/01fb838ce05d365f6131c81a3e5edb135488ea2d3d91b8ac8e206d2a73d61d61
+||business-manager-report.com^$all
 ! https://www.virustotal.com/gui/url/b0de32c1d69e1c616a08c16fd9df3e6bc63116beaffab23e979588eec9269845
 ||support-16.ubpages.com^$all
 ! https://www.virustotal.com/gui/url/e7726560de588d46e7eff751632d42ab49f745af0fcb8d6e2ddd3418f84861de
@@ -4316,6 +4330,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||vercel.app/americaplata.com.html^$doc
 ! https://www.virustotal.com/gui/url/94c89d8875b2ca47a7e312a65c7c2522400759d697ed5678c753f74c5bac1645
 ||atplink.com/responseandresolutioncenter$all
+! https://www.virustotal.com/gui/url/4356eb329ad8473f5db57778ae7b23f588d9de5c1851f7876193aba38ab7703a
+/^https:\/\/h5\.[a-z0-9]{4}\.com\//$doc,to=com
 
 ! shopping sites
 /api/user/do_login|$xhr,1p,to=com|info,method=post,header=access-control-allow-headers:/authorization\,content-type\,if-match\,if-modified-since\,if-none-match\,if-unmodified-since\,x-requested-with/i
@@ -4403,6 +4419,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 
 ! mobilelegends
 ||mobilelegendsmycode.com^$all
+||exchange-mlbb.go-midfer.com^$all
 
 ! pubg
 ||pubg-arena.top^$all
@@ -4555,6 +4572,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||user.fm/files/v2-*/Refundnotice.html^$doc
 ! https://www.virustotal.com/gui/url/18f2bace516b40699daddedeecc81c41183f522004ee606ee432323987ba6494
 ||alnobala.ae/owasetup/$all
+! https://www.virustotal.com/gui/url/6e69610c952076b5cf68160d8acba75dae81ad780929e950eb099399f6e6ccea
+||authsignonstaff*.softr.app^$all
 
 ! telegram
 ||telegramhcn.com^$all
@@ -4814,9 +4833,12 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://www.virustotal.com/gui/url/4e1f0d563a121e484113dcf1582323732ce110451f33e939985911c248f19c31
 ||alienxchain*.pages.dev^$doc,to=~alienxchain.io
 ! https://www.virustotal.com/gui/url/745c24c2aa94c7f7f499e025206ae5f6b4a924745cdfe5a236f1b2294d205988
-/index/index/*Trade/tradelist^$doc
 ! https://www.virustotal.com/gui/url/6d933508beb9ccdb687fbbda485debca1b600b8fa3144bf4c5aabd8192b6f94e
+! https://www.virustotal.com/gui/url/ed82c68f48ab8a115fef0919482e5a7757fe01cd40efd82e409cc5c8acea696d
+/\.(?:cc|com|top|vip)\/index\/index\/lang\/[a-z]{2}-[a-z]{2}\b/$doc,to=cc|com|top|vip
+/index/index/*Trade/tradelist^$doc
 ||bitvavo*.vip^$doc,to=~bitvavo.com
+||bitvavo*.cc^$doc,to=~bitvavo.com
 
 ! trustwallet.com
 ||trustservices4.godaddysites.com^$all,to=~trustwallet.com
@@ -5892,3 +5914,46 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ||xv-bloging-info.com^$all,to=~ibx.key.com
 ||xxx-new-videos.com^$all,to=~ibx.key.com
 ||xxx-ii-news.$all,to=~ibx.key.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/25933
+||udemy-creators.com^$all,to=~udemy.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/25927
+! https://www.humansecurity.com/learn/blog/satori-threat-intelligence-alert-phish-n-ships-fakes-online-shops-to-steal-money-and-credit-card-information
+! stage 1
+||ntischoolpune.org/*.php?$doc
+.php?iid=*&cid=$doc,to=~gov|~edu
+.php?cid=*&pnum=$doc,to=~gov|~edu
+! stage 2
+||jb*img.top^$all
+/\.[a-z]{3,}\/a\.aspx\?cid=/$doc,to=~com|~net|~org|~gov|~edu
+! stage 3
+/\.[a-z]{3,}\/products\.aspx\?cname=.+&cid=/$doc,to=~com|~net|~org|~gov|~edu
+/^https:\/\/online\.[a-z]{7,}\.top\//$doc,to=top
+||fhkjgkh.top^$all
+||justdakota.top^$all
+
+! https://timesofindia.indiatimes.com/technology/tech-news/bsnl-warn-users-about-this-fake-tower-installation-website/articleshow/113094732.cms
+||bsnl5gtower.com^$doc,to=~bsnl.co.in
+||bsnltowersite.in^$doc,to=~bsnl.co.in
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/191813
+||dareka4te.shop^$all
+! Fake WordPress plugins loading ads/malware
+! https://www.godaddy.com/resources/news/threat-actors-push-clickfix-fake-browser-updates-using-stolen-credentials
+! https://github.com/AdguardTeam/AdguardFilters/issues/191813
+/wp-content/plugins/admin-bar-customizer/abc-script.js
+/wp-content/plugins/advanced-user-manager/aum-script.js
+/wp-content/plugins/advanced-widget-manage/awm-script.js
+/wp-content/plugins/content-blocker/cb-script.js
+/wp-content/plugins/custom-css-injector/cci-script.js
+/wp-content/plugins/custom-footer-generator/cfg-script.js
+/wp-content/plugins/custom-login-styler/cls-script.js
+/wp-content/plugins/dynamic-sidebar-manager/dsm-script.js
+/wp-content/plugins/easy-themes-manager/script.js
+/wp-content/plugins/form-builder-pro/fbp-script.js
+/wp-content/plugins/quick-cache-cleaner/qcc-script.js
+/wp-content/plugins/responsive-menu-builder/rmb-script.js
+/wp-content/plugins/seo-optimizer-pro/sop-script.js
+/wp-content/plugins/simple-post-enhancer/spe-script.js
+/wp-content/plugins/social-media-integrator/smi-script.js

@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 04 Nov 2024 at 01:39:23 GMT
+# Last updated: Wed, 06 Nov 2024 at 08:23:08 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1587,6 +1587,7 @@ ff02::3		ip6-allhosts
 # sites with known trojans, phishing, or other malware
 127.0.0.1 0.nextyourcontent.com
 127.0.0.1 05tz2e9.com
+127.0.0.1 1-bmo-client-login.com
 127.0.0.1 1-directshipmtdhlsexpress-order.help
 127.0.0.1 1001paixnidia.fr
 127.0.0.1 105915624.com
