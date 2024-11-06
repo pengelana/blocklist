@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Nov  5 14:00:07 UTC 2024
+# Last Update - Wed Nov  6 02:00:07 UTC 2024
 # --------------------------------------------
-# Total domains: 951
+# Total domains: 952
 # --------------------------------------------
 # Total size: 18K
 # --------------------------------------------
@@ -522,6 +522,7 @@ tk1.trackerservers.com
 tk1v6.trackerservers.com
 tk2.trackerservers.com
 tk2v6.trackerservers.com
+tk4.leechshield.link
 tor.rev.pm
 torrent-team.net
 torrent-tracker.hama3.net
