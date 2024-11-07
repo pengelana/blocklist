@@ -1,9 +1,9 @@
-! Checksum: tqatoGs9PFg2F4v8YwGcag
-! Diff-Path: ../patches/15/15-s-1730983007-3600.patch
+! Checksum: CguTHT2MXSvr/LozVdDcrg
+! Diff-Path: ../patches/15/15-s-1731004619-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.72.48
-! TimeUpdated: 2024-11-07T12:33:24+00:00
+! Version: 2.0.72.49
+! TimeUpdated: 2024-11-07T18:33:44+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-07T12:01:20.635Z
+! Last modified: 2024-11-07T18:01:21.492Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30,6 +30,7 @@
 !
 !
 !
+||qkyojtlabrhy.com^
 ||neat-period.com^
 ||punctual-window.com^
 ||gtyjpiobza.com^
@@ -37029,6 +37030,7 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||api.amplitudeexperiment.com^
 ||analytics.ahrefs.
 ||montelena.gmarket.co.kr^
 ||stats.hitwebcloud.de^
@@ -44312,6 +44314,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||kops1.site^
 ||kingbaba.org^
 ||yelads2.life^
 ||dizimax2.com^
@@ -52258,6 +52261,7 @@ inapps.appsflyersdk.com^
 ||ipyhf.icu^
 ||cruhut.com^
 ||scoldak.com^
+||dkasffredf.xyz^
 ||stragmik.com^
 ||yxrmbjw.icu^
 ||gnyuhzd.icu^
