@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-07 11:15:12 UTC                        #
+# Last updated: 2024-11-07 12:04:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	skt.bsktem.online
 127.0.0.1	sergei-esenin.com
 127.0.0.1	wriggleregisterycos.pw
 127.0.0.1	zoolboues.pw
@@ -10334,4 +10335,4 @@
 127.0.0.1	proya.cyou
 127.0.0.1	www.testtttt.com
 127.0.0.1	tstarks.xyz
-# Number of entries: 10328
+# Number of entries: 10329
