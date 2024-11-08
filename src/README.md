@@ -126,7 +126,7 @@
 [ OK ]     753 src/blacklist/hpthreatresearch_domains.txt
 [ OK ]     154 src/blacklist/ioclist.domain.raw.txt
 [ OK ]      14 src/blacklist/ioclist.hostname.raw.txt
-[ OK ] 151,868 src/blacklist/jarelllama_domains.txt
+[ OK ] 151,870 src/blacklist/jarelllama_domains.txt
 [ OK ]   1,089 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
 [ OK ]     302 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]   2,295 src/blacklist/matomo_org_spammers.txt
@@ -142,22 +142,22 @@
 [ OK ]      10 src/blacklist/t_crowdstrike.txt
 [ OK ]     164 src/blacklist/t_dnstunneling.txt
 [ OK ]      12 src/blacklist/t_fox_threatintel.txt
-[ OK ]   3,637 src/blacklist/t_judol.txt
+[ OK ]   3,641 src/blacklist/t_judol.txt
 [ OK ]       6 src/blacklist/t_malwarebytes.txt
 [ OK ]      71 src/blacklist/t_malwrhunterteam.txt
 [ OK ]       7 src/blacklist/t_popup.txt
 [ OK ]       2 src/blacklist/t_redirect.txt
 [ OK ]   3,127 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 9,642,881
-Filter Duplicates   : 8,662,412
-Filter Whitelist    : 8,528,242
-Import Blacklist    : 8,528,684
-Compressed          : 8,375,758
+Total Blacklist     : 9,642,887
+Filter Duplicates   : 8,662,417
+Filter Whitelist    : 8,528,247
+Import Blacklist    : 8,528,689
+Compressed          : 8,375,763
 
    LENGTH     COUNT
-        2 7,840,913
-        3   484,397
+        2 7,840,917
+        3   484,398
         4    30,618
         5    11,489
         6     3,434
@@ -174,7 +174,7 @@ Compressed          : 8,375,758
        17         3
        19         2
 
-Total Blocklist     : 8,375,758
+Total Blocklist     : 8,375,763
 
 ~~~
 
