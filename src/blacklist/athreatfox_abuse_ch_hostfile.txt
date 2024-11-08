@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-08 08:01:47 UTC                        #
+# Last updated: 2024-11-08 12:46:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	storeroot.duckdns.org
+127.0.0.1	azure-dbupdate.cloud
+127.0.0.1	roamingslivedb.com
+127.0.0.1	azureboot.com
+127.0.0.1	azureliveapps.com
+127.0.0.1	sremc.duckdns.org
+127.0.0.1	cleanrecentapp.monster
+127.0.0.1	fastgalaxyapps.monster
+127.0.0.1	getgalaxyapps.monster
+127.0.0.1	speedrecentapp.monster
+127.0.0.1	vipgalaxyapps.monster
+127.0.0.1	webgalaxyapps.monster
+127.0.0.1	storeappweb.com
+127.0.0.1	pulsera.tibiaguildtools.com
+127.0.0.1	www.mt2gm.org
+127.0.0.1	www.gstpainel.fun
+127.0.0.1	vmi2121811.contaboserver.net
+127.0.0.1	gstpainel.fun
+127.0.0.1	kbulot.com.br
 127.0.0.1	mail.944893debb9760702.temporary.link
 127.0.0.1	www.944893debb9760702.temporary.link
 127.0.0.1	lastofdr51.mywire.org
@@ -10314,8 +10333,4 @@
 127.0.0.1	superkart.duckdns.org
 127.0.0.1	getintothe.duckdns.org
 127.0.0.1	safetheworld.duckdns.org
-127.0.0.1	listwisconsin.com
-127.0.0.1	service-b0kt7bkd-1307485220.cd.tencentapigw.com
-127.0.0.1	teachabletutorials.com
-127.0.0.1	cn1.cdngw.com
-# Number of entries: 10312
+# Number of entries: 10327

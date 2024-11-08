@@ -3,7 +3,7 @@
 ~~~
 [ OK ]  25,799 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]     698 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
-[ OK ]  83,077 src/blacklist/KADhosts.txt
+[ OK ]  83,199 src/blacklist/KADhosts.txt
 [ OK ]       8 src/blacklist/LanikSJ_popads-domains.txt
 [ OK ]     318 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ] 3,466,545 src/blacklist/NRD_nrd-30day_part1.txt
@@ -11,7 +11,7 @@
 [ OK ]   7,116 src/blacklist/Spam404_adblock-list.txt
 [ OK ]   8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]   2,548 src/blacklist/StevenBlack_hosts.txt
-[ OK ]  10,311 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]  10,326 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   1,898 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ] 435,156 src/blacklist/blocklistproject_abuse.txt
 [ OK ] 435,221 src/blacklist/blocklistproject_malware.txt
@@ -117,28 +117,32 @@
 [ OK ]     833 src/blacklist/craiu_list.txt
 [ OK ]      40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]   3,073 src/blacklist/durablenapkin_hosts.txt
-[ OK ]   3,882 src/blacklist/easylist_adservers_popup.txt
-[ OK ]  57,050 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]   3,883 src/blacklist/easylist_adservers_popup.txt
+[ OK ]  57,056 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]     355 src/blacklist/firebog_net_w3kbl.txt
-[ OK ]  12,633 src/blacklist/hagezi_fake.txt
-[ OK ]  82,911 src/blacklist/hagezi_popup.txt
+[ OK ]  12,625 src/blacklist/hagezi_fake.txt
+[ OK ]  83,437 src/blacklist/hagezi_popup.txt
 [ OK ]     409 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]     753 src/blacklist/hpthreatresearch_domains.txt
+[ OK ]  60,918 src/blacklist/infinitytec_ads-and-trackers.txt
+[ OK ]  22,280 src/blacklist/infinitytec_clickbait.txt
+[ OK ] 115,073 src/blacklist/infinitytec_medicalpseudoscience.txt
+[ OK ]  30,899 src/blacklist/infinitytec_scams-and-phishing.txt
 [ OK ]     154 src/blacklist/ioclist.domain.raw.txt
 [ OK ]      14 src/blacklist/ioclist.hostname.raw.txt
 [ OK ] 151,870 src/blacklist/jarelllama_domains.txt
 [ OK ]   1,089 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
-[ OK ]     302 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
+[ OK ]     399 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]   2,295 src/blacklist/matomo_org_spammers.txt
 [ OK ]      35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]  46,011 src/blacklist/oisd_small.txt
+[ OK ]  46,007 src/blacklist/oisd_small.txt
 [ OK ]      91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ] 247,890 src/blacklist/phishing_army_blocklist.txt
+[ OK ] 247,996 src/blacklist/phishing_army_blocklist.txt
 [ OK ]     176 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]  11,765 src/blacklist/someonewhocares_hosts.txt
 [ OK ]  18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ] 448,719 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]  52,091 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]  52,096 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]      10 src/blacklist/t_crowdstrike.txt
 [ OK ]     164 src/blacklist/t_dnstunneling.txt
 [ OK ]      12 src/blacklist/t_fox_threatintel.txt
@@ -149,17 +153,17 @@
 [ OK ]       2 src/blacklist/t_redirect.txt
 [ OK ]   3,130 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 9,438,061
-Filter Duplicates   : 8,456,560
-Filter Whitelist    : 8,322,393
-Import Blacklist    : 8,322,835
-Compressed          : 8,169,881
+Total Blacklist     : 9,668,097
+Filter Duplicates   : 8,648,546
+Filter Whitelist    : 8,514,355
+Import Blacklist    : 8,514,797
+Compressed          : 8,206,624
 
    LENGTH     COUNT
-        2 7,690,319
-        3   429,036
-        4    30,670
-        5    11,490
+        2 7,703,464
+        3   452,431
+        4    30,863
+        5    11,500
         6     3,439
         7     1,296
         8     2,262
@@ -174,7 +178,7 @@ Compressed          : 8,169,881
        17         3
        19         2
 
-Total Blocklist     : 8,169,881
+Total Blocklist     : 8,206,624
 
 ~~~
 
