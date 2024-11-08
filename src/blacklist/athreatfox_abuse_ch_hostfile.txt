@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-08 07:07:40 UTC                        #
+# Last updated: 2024-11-08 08:01:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail.944893debb9760702.temporary.link
+127.0.0.1	www.944893debb9760702.temporary.link
 127.0.0.1	lastofdr51.mywire.org
 127.0.0.1	nightmare15.strangled.net
 127.0.0.1	darkenssnight.ydns.eu
@@ -10316,6 +10318,4 @@
 127.0.0.1	service-b0kt7bkd-1307485220.cd.tencentapigw.com
 127.0.0.1	teachabletutorials.com
 127.0.0.1	cn1.cdngw.com
-127.0.0.1	waytowealth.org
-127.0.0.1	seadrill.top
 # Number of entries: 10312
