@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-08 12:46:51 UTC                        #
+# Last updated: 2024-11-08 16:43:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	councilofwizards.com
 127.0.0.1	storeroot.duckdns.org
 127.0.0.1	azure-dbupdate.cloud
 127.0.0.1	roamingslivedb.com
@@ -10325,12 +10326,4 @@
 127.0.0.1	53473cm.easyswap.space
 127.0.0.1	beamazyn.com
 127.0.0.1	service-izlolzm0-1318382624.gz.tencentapigw.com.cn
-127.0.0.1	debtavailable.com
-127.0.0.1	cnc.nperm.net
-127.0.0.1	poor-indians-tax-me.icu
-127.0.0.1	scan.nperm.net
-127.0.0.1	voicelesson.org
-127.0.0.1	superkart.duckdns.org
-127.0.0.1	getintothe.duckdns.org
-127.0.0.1	safetheworld.duckdns.org
-# Number of entries: 10327
+# Number of entries: 10320

@@ -740,6 +740,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||tinder-love.xyz^$all
 ||sweet-hot-lady.top^$all
 ||ntfck.com^$all
+||malenirt.site^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24602
 ! https://www.virustotal.com/gui/url/ce2b833adda2f862d77398203bbe33ea331097ba2a803d1a763492d2ac0d5a60
@@ -5906,7 +5907,7 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ||mslive.pro^$all,to=~microstrategy.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/25913
-||gov.*gr.$all,to=~gov.gr|buzz|sbs
+/^https:\/\/gov\.[^.]*gr\.[a-z]{2,6}/$doc,to=~gov|~edu|~gov.gr
 
 ! https://freesoftwarecreative.com/pages/?f4107d2
 ! https://d1myn4ixnn41tz.cloudfront.net/public/external/v2/htmlxf.4151823.2951e.0.js
