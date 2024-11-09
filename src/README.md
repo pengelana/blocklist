@@ -154,14 +154,14 @@
 [ OK ]     3,135 src/blacklist/uBlockOrigin_badware.txt
 
 Total Blacklist     : 9,651,530
-Filter Duplicates   : 8,630,712
-Filter Whitelist    : 8,496,520
+Filter Duplicates   : 8,630,711
+Filter Whitelist    : 8,496,519
 Import Blacklist    : 8,496,974
-Compressed          : 8,187,998
+Compressed          : 8,188,002
 
    LENGTH     COUNT
-        2 7,683,749
-        3   453,490
+        2 7,683,754
+        3   453,489
         4    30,890
         5    11,500
         6     3,444
@@ -178,7 +178,7 @@ Compressed          : 8,187,998
        17         3
        19         2
 
-Total Blocklist     : 8,187,998
+Total Blocklist     : 8,188,002
 
 ~~~
 
