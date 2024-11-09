@@ -53,7 +53,7 @@
 [NOK ]         0 src/blacklist/blocklists-elastic.txt
 [ OK ]        69 src/blacklist/blocklists-esentire.txt
 [ OK ]       856 src/blacklist/blocklists-eset.txt
-[ OK ]     2,064 src/blacklist/blocklists-fortinet.txt
+[ OK ]     2,193 src/blacklist/blocklists-fortinet.txt
 [ OK ]       230 src/blacklist/blocklists-genians.txt
 [ OK ]       492 src/blacklist/blocklists-googlecloud.txt
 [ OK ]       479 src/blacklist/blocklists-group-ib.txt
@@ -137,7 +137,7 @@
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]    46,020 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]   248,487 src/blacklist/phishing_army_blocklist.txt
+[ OK ]   247,802 src/blacklist/phishing_army_blocklist.txt
 [ OK ]       176 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
 [ OK ]   109,249 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
@@ -155,17 +155,17 @@
 [ OK ]         2 src/blacklist/t_redirect.txt
 [ OK ]     3,137 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 9,892,507
-Filter Duplicates   : 8,764,862
-Filter Whitelist    : 8,630,621
-Import Blacklist    : 8,631,076
-Compressed          : 8,314,073
+Total Blacklist     : 9,891,951
+Filter Duplicates   : 8,764,898
+Filter Whitelist    : 8,630,657
+Import Blacklist    : 8,631,113
+Compressed          : 8,314,105
 
    LENGTH     COUNT
-        2 7,736,280
-        3   517,130
-        4    39,771
-        5    12,166
+        2 7,736,302
+        3   517,138
+        4    39,770
+        5    12,169
         6     3,621
         7     1,405
         8     2,304
@@ -180,7 +180,7 @@ Compressed          : 8,314,073
        17         4
        19         4
 
-Total Blocklist     : 8,314,073
+Total Blocklist     : 8,314,105
 
 ~~~
 
