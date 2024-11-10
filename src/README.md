@@ -6,8 +6,8 @@
 [ OK ]    83,346 src/blacklist/KADhosts.txt
 [ OK ]         8 src/blacklist/LanikSJ_popads-domains.txt
 [ OK ]       318 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
-[ OK ] 3,456,683 src/blacklist/NRD_nrd-30day_part1.txt
-[ OK ] 3,456,688 src/blacklist/NRD_nrd-30day_part2.txt
+[ OK ] 3,429,599 src/blacklist/NRD_nrd-30day_part1.txt
+[ OK ] 3,429,604 src/blacklist/NRD_nrd-30day_part2.txt
 [ OK ]     7,116 src/blacklist/Spam404_adblock-list.txt
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,548 src/blacklist/StevenBlack_hosts.txt
@@ -135,7 +135,7 @@
 [ OK ]       376 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]     2,295 src/blacklist/matomo_org_spammers.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    46,032 src/blacklist/oisd_small.txt
+[ OK ]    46,026 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   248,605 src/blacklist/phishing_army_blocklist.txt
 [ OK ]       175 src/blacklist/quidsup_notrack-malware.txt
@@ -155,19 +155,19 @@
 [ OK ]         2 src/blacklist/t_redirect.txt
 [ OK ]     3,137 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 9,895,823
-Filter Duplicates   : 8,766,404
-Filter Whitelist    : 8,632,163
-Import Blacklist    : 8,632,620
-Compressed          : 8,315,400
+Total Blacklist     : 9,841,649
+Filter Duplicates   : 8,712,955
+Filter Whitelist    : 8,578,309
+Import Blacklist    : 8,578,767
+Compressed          : 8,265,000
 
    LENGTH     COUNT
-        2 7,737,405
-        3   517,316
-        4    39,782
-        5    12,169
+        2 7,684,100
+        3   520,199
+        4    39,802
+        5    12,170
         6     3,622
-        7     1,405
+        7     1,406
         8     2,305
         9     1,031
        10       251
@@ -180,7 +180,7 @@ Compressed          : 8,315,400
        17         4
        19         4
 
-Total Blocklist     : 8,315,400
+Total Blocklist     : 8,265,000
 
 ~~~
 
