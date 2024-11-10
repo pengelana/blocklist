@@ -11,7 +11,7 @@
 [ OK ]     7,116 src/blacklist/Spam404_adblock-list.txt
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,548 src/blacklist/StevenBlack_hosts.txt
-[ OK ]    10,538 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    10,547 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,898 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]   435,156 src/blacklist/blocklistproject_abuse.txt
 [ OK ]   435,221 src/blacklist/blocklistproject_malware.txt
@@ -116,9 +116,9 @@
 [ OK ]     1,364 src/blacklist/blocklists-zscaler.txt
 [ OK ]       833 src/blacklist/craiu_list.txt
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
-[ OK ]     3,073 src/blacklist/durablenapkin_hosts.txt
+[ OK ]     2,855 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,888 src/blacklist/easylist_adservers_popup.txt
-[ OK ]    57,114 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]    57,116 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]    12,614 src/blacklist/hagezi_fake.txt
 [ OK ]    83,574 src/blacklist/hagezi_popup.txt
@@ -135,12 +135,12 @@
 [ OK ]       376 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]     2,295 src/blacklist/matomo_org_spammers.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    46,026 src/blacklist/oisd_small.txt
+[ OK ]    46,022 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]   248,605 src/blacklist/phishing_army_blocklist.txt
+[ OK ]   248,465 src/blacklist/phishing_army_blocklist.txt
 [ OK ]       175 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   109,141 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   109,198 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,767 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ]   449,809 src/blacklist/stamparm_maltrail-malware-domains.txt
@@ -155,21 +155,21 @@
 [ OK ]         2 src/blacklist/t_redirect.txt
 [ OK ]     3,137 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 9,841,649
-Filter Duplicates   : 8,712,955
-Filter Whitelist    : 8,578,309
-Import Blacklist    : 8,578,767
-Compressed          : 8,265,000
+Total Blacklist     : 9,841,355
+Filter Duplicates   : 8,712,795
+Filter Whitelist    : 8,578,149
+Import Blacklist    : 8,578,608
+Compressed          : 8,264,990
 
    LENGTH     COUNT
-        2 7,684,100
-        3   520,199
-        4    39,802
+        2 7,684,089
+        3   520,192
+        4    39,805
         5    12,170
         6     3,622
-        7     1,406
+        7     1,410
         8     2,305
-        9     1,031
+        9     1,032
        10       251
        11        43
        12        22
@@ -180,7 +180,7 @@ Compressed          : 8,265,000
        17         4
        19         4
 
-Total Blocklist     : 8,265,000
+Total Blocklist     : 8,264,990
 
 ~~~
 
