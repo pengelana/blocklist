@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-11 11:44:28 UTC                        #
+# Last updated: 2024-11-11 15:19:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ten10stats.top
 127.0.0.1	neinja9sb.top
 127.0.0.1	sixja6sb.top
 127.0.0.1	thirp13ht.top
@@ -10566,8 +10567,4 @@
 127.0.0.1	action-winds.cfd
 127.0.0.1	microstar.cfd
 127.0.0.1	1c-marketing.top
-127.0.0.1	wraimey.com
-127.0.0.1	d1v4b6pbk0kwvw.cloudfront.net
-127.0.0.1	d2ewlfde9nvzf.cloudfront.net
-127.0.0.1	nt-stealers.com
-# Number of entries: 10564
+# Number of entries: 10561
