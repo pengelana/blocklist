@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-11 15:19:01 UTC                        #
+# Last updated: 2024-11-11 20:02:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vmi2189079.contaboserver.net
 127.0.0.1	ten10stats.top
 127.0.0.1	neinja9sb.top
 127.0.0.1	sixja6sb.top
@@ -10563,8 +10564,4 @@
 127.0.0.1	tradein-myus.com
 127.0.0.1	trade-inmyus.com
 127.0.0.1	study-window.gl.at.ply.gg
-127.0.0.1	service-1bsjckga-1252578700.gz.tencentapigw.com.cn
-127.0.0.1	action-winds.cfd
-127.0.0.1	microstar.cfd
-127.0.0.1	1c-marketing.top
-# Number of entries: 10561
+# Number of entries: 10558
