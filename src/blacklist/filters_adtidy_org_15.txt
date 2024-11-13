@@ -1,9 +1,9 @@
-! Checksum: biTz4w9LOkD5FzbvxJO82g
-! Diff-Path: ../patches/15/15-s-1731436658-3600.patch
+! Checksum: YBSAtJYv6U+svT1MyTIwCw
+! Diff-Path: ../patches/15/15-s-1731479820-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.72.69
-! TimeUpdated: 2024-11-12T18:34:00+00:00
+! Version: 2.0.72.71
+! TimeUpdated: 2024-11-13T06:33:44+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-12T18:01:22.284Z
+! Last modified: 2024-11-13T06:01:20.885Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -52695,6 +52695,12 @@ inapps.appsflyersdk.com^
 ||cnzz.trafficmanager.net^
 ||stunkrins.com^
 ||rjwpwod.icu^
+||gheqien.com^
+||mjbidlg.icu^
+||locpikbb.icu^
+||chupl.icu^
+||cweisif.top^
+||y0mwy.icu^
 ||ccobksxz.icu^
 ||utbyvyl.icu^
 ||dchdmhf.cn^
