@@ -32,7 +32,7 @@
 [ OK ]        66 src/blacklist/blocklists-certagid.txt
 [NOK ]         0 src/blacklist/blocklists-certfa.txt
 [ OK ]     2,917 src/blacklist/blocklists-certua.txt
-[ OK ]     1,239 src/blacklist/blocklists-checkpoint.txt
+[ OK ]     1,331 src/blacklist/blocklists-checkpoint.txt
 [ OK ]       132 src/blacklist/blocklists-citizenlabs.txt
 [ OK ]       109 src/blacklist/blocklists-cleafy.txt
 [ OK ]       260 src/blacklist/blocklists-clearsky.txt
@@ -155,15 +155,15 @@
 [ OK ]         2 src/blacklist/t_redirect.txt
 [ OK ]     2,962 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 9,371,068
-Filter Duplicates   : 8,242,310
-Filter Whitelist    : 8,107,674
-Import Blacklist    : 8,108,142
-Compressed          : 7,794,371
+Total Blacklist     : 9,371,160
+Filter Duplicates   : 8,242,340
+Filter Whitelist    : 8,107,704
+Import Blacklist    : 8,108,173
+Compressed          : 7,794,395
 
    LENGTH     COUNT
-        2 7,221,971
-        3   511,542
+        2 7,222,000
+        3   511,537
         4    39,915
         5    12,187
         6     3,632
@@ -180,7 +180,7 @@ Compressed          : 7,794,371
        17         4
        19         4
 
-Total Blocklist     : 7,794,371
+Total Blocklist     : 7,794,395
 
 ~~~
 
