@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-13 17:59:17 UTC                        #
+# Last updated: 2024-11-14 06:45:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	filemanage.micrsofts-file.com
+127.0.0.1	83aky1z.localto.net
 127.0.0.1	bestmarsgood.com
 127.0.0.1	cerwintifed.com
 127.0.0.1	burjog.com
@@ -10558,10 +10560,4 @@
 127.0.0.1	gov.vsj888.shop
 127.0.0.1	www.jumpsrever.top
 127.0.0.1	senpaiontop.nl
-127.0.0.1	zkfileshost.com
-127.0.0.1	wasabiwallet.is
-127.0.0.1	strutitinca.ro
-127.0.0.1	o.tpc.ngrok.io
-127.0.0.1	capty.nut.cc
-127.0.0.1	vacation-nails.gl.at.ply.gg
-# Number of entries: 10558
+# Number of entries: 10554
