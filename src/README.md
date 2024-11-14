@@ -12,7 +12,7 @@
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,548 src/blacklist/StevenBlack_hosts.txt
 [ OK ]    10,557 src/blacklist/athreatfox_abuse_ch_hostfile.txt
-[ OK ]     1,901 src/blacklist/bigdargon_hosts-VN.txt
+[ OK ]     1,902 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]   435,156 src/blacklist/blocklistproject_abuse.txt
 [ OK ]   435,221 src/blacklist/blocklistproject_malware.txt
 [ OK ]   190,222 src/blacklist/blocklistproject_phishing.txt
@@ -120,8 +120,8 @@
 [ OK ]     3,896 src/blacklist/easylist_adservers_popup.txt
 [ OK ]    57,477 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
-[ OK ]    12,236 src/blacklist/hagezi_fake.txt
-[ OK ]    82,521 src/blacklist/hagezi_popup.txt
+[ OK ]    12,251 src/blacklist/hagezi_fake.txt
+[ OK ]    82,560 src/blacklist/hagezi_popup.txt
 [ OK ]       409 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]       753 src/blacklist/hpthreatresearch_domains.txt
 [ OK ]    60,918 src/blacklist/infinitytec_ads-and-trackers.txt
@@ -135,12 +135,12 @@
 [ OK ]       384 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]     2,295 src/blacklist/matomo_org_spammers.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    46,140 src/blacklist/oisd_small.txt
+[ OK ]    46,132 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   250,341 src/blacklist/phishing_army_blocklist.txt
 [ OK ]       175 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   112,037 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   111,996 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,768 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ]   450,323 src/blacklist/stamparm_maltrail-malware-domains.txt
@@ -155,16 +155,16 @@
 [ OK ]         2 src/blacklist/t_redirect.txt
 [ OK ]     2,962 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 9,752,572
-Filter Duplicates   : 8,622,500
-Filter Whitelist    : 8,487,857
-Import Blacklist    : 8,488,321
-Compressed          : 8,174,254
+Total Blacklist     : 9,752,578
+Filter Duplicates   : 8,622,559
+Filter Whitelist    : 8,487,916
+Import Blacklist    : 8,488,381
+Compressed          : 8,174,312
 
    LENGTH     COUNT
-        2 7,592,881
+        2 7,592,938
         3   520,534
-        4    39,897
+        4    39,898
         5    12,187
         6     3,631
         7     1,420
@@ -180,7 +180,7 @@ Compressed          : 8,174,254
        17         4
        19         4
 
-Total Blocklist     : 8,174,254
+Total Blocklist     : 8,174,312
 
 ~~~
 
