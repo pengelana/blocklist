@@ -1,9 +1,9 @@
-! Checksum: nEnX6N7yylkw/gUSr8XI7A
-! Diff-Path: ../patches/15/15-s-1731652627-3600.patch
+! Checksum: g+jcb/q+kxhLWSGC4/aQ6g
+! Diff-Path: ../patches/15/15-s-1731674418-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.72.79
-! TimeUpdated: 2024-11-15T06:33:46+00:00
+! Version: 2.0.72.80
+! TimeUpdated: 2024-11-15T12:36:27+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-15T06:01:27.611Z
+! Last modified: 2024-11-15T12:01:34.251Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -37501,6 +37501,7 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||agi-static.indiatimes.com^
 ||fail.adr.ec^
 ||t.adii.se^
 ||stats.bunkr.ru^
@@ -40120,6 +40121,12 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+-rtb.gravite.net^
+||sdk-04.moengage.com^
+||mon*-misc-lf.fqnovel.com^
+||vcs.zijieapi.com^
+||monsetting.toutiao.com^
+-applog*.fqnovel.com^
 ||atsod.launch.liveramp.com^
 ||ads-image.production-public.tubi.io^
 ||user-signals.production-public.tubi.io^
