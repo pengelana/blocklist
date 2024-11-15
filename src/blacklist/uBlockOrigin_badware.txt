@@ -3173,11 +3173,13 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||foundations-x2024.cloud^$doc
 ||foundations-x2024.sbs^$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/25832
-||trump-drop.org^$doc
+||trump-drop.org^$all
 ||youtube.com/@tesla.Iive.officiaI.24^$doc
 ! https://gizmodo.com/elon-musk-fans-are-losing-so-much-money-to-crypto-scams-2000515413
 ||elondonald.com^$all
 ||musktrump.io^$all
+! https://github.com/uBlockOrigin/uAssets/issues/26056
+||stage3-last.$doc
 
 ||arbitragebot.team^$all
 ||arbitrageinstruction.media^$all
@@ -5834,3 +5836,7 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://www.reddit.com/r/Scams/comments/1gppxs5/package_is_detained_scam/
 ! https://www.reddit.com/r/Scams/comments/1gpo2x6/is_this_a_scam_seems_kinda_sketchy/
 ||usps.com-*.live^$doc,to=live|~usps.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/26052
+||orcaslicer.info^$doc
+
