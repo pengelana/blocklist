@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-14 20:09:06 UTC                        #
+# Last updated: 2024-11-15 04:42:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	igosoccer.cn
 127.0.0.1	yimuzds.com
 127.0.0.1	3900f936b3eb2b231e774ebb2524865c.de
 127.0.0.1	c5e4c433df86c2bfa55c4e6eb4f83b0d.net
@@ -10582,4 +10583,4 @@
 127.0.0.1	cnc.zaloweb.ink
 127.0.0.1	venomm.ddns.net
 127.0.0.1	okilometros.duckdns.org
-# Number of entries: 10576
+# Number of entries: 10577
