@@ -120,11 +120,10 @@
 [ OK ]     3,897 src/blacklist/easylist_adservers_popup.txt
 [ OK ]    57,529 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
-[ OK ]    12,250 src/blacklist/hagezi_fake.txt
+[ OK ]    12,255 src/blacklist/hagezi_fake.txt
 [ OK ]    82,585 src/blacklist/hagezi_popup.txt
 [ OK ]       409 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]       753 src/blacklist/hpthreatresearch_domains.txt
-[ OK ]    60,918 src/blacklist/infinitytec_ads-and-trackers.txt
 [ OK ]    22,280 src/blacklist/infinitytec_clickbait.txt
 [ OK ]   115,073 src/blacklist/infinitytec_medicalpseudoscience.txt
 [ OK ]    30,899 src/blacklist/infinitytec_scams-and-phishing.txt
@@ -140,7 +139,7 @@
 [ OK ]   251,189 src/blacklist/phishing_army_blocklist.txt
 [ OK ]       175 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   112,700 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   112,676 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,768 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ]   454,163 src/blacklist/stamparm_maltrail-malware-domains.txt
@@ -155,17 +154,17 @@
 [ OK ]         2 src/blacklist/t_redirect.txt
 [ OK ]     2,965 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 9,502,296
-Filter Duplicates   : 8,369,660
-Filter Whitelist    : 8,235,024
-Import Blacklist    : 8,235,495
-Compressed          : 7,921,244
+Total Blacklist     : 9,441,359
+Filter Duplicates   : 8,310,330
+Filter Whitelist    : 8,175,708
+Import Blacklist    : 8,176,178
+Compressed          : 7,894,238
 
    LENGTH     COUNT
-        2 7,345,675
-        3   514,547
-        4    40,065
-        5    12,196
+        2 7,345,625
+        3   487,710
+        4    39,953
+        5    12,189
         6     3,636
         7     1,421
         8     2,307
@@ -180,7 +179,7 @@ Compressed          : 7,921,244
        17         4
        19         4
 
-Total Blocklist     : 7,921,244
+Total Blocklist     : 7,894,238
 
 ~~~
 
