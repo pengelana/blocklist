@@ -11,7 +11,7 @@
 [ OK ]     7,116 src/blacklist/Spam404_adblock-list.txt
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,548 src/blacklist/StevenBlack_hosts.txt
-[ OK ]    10,544 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    10,529 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,902 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]   435,156 src/blacklist/blocklistproject_abuse.txt
 [ OK ]   435,221 src/blacklist/blocklistproject_malware.txt
@@ -134,36 +134,36 @@
 [ OK ]       399 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]     2,295 src/blacklist/matomo_org_spammers.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    45,842 src/blacklist/oisd_small.txt
+[ OK ]    45,830 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   251,067 src/blacklist/phishing_army_blocklist.txt
 [ OK ]       175 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   112,882 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   112,834 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,768 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ]   454,163 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]    52,252 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]    52,253 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]        10 src/blacklist/t_crowdstrike.txt
 [ OK ]       175 src/blacklist/t_dnstunneling.txt
 [ OK ]        12 src/blacklist/t_fox_threatintel.txt
 [ OK ]     3,644 src/blacklist/t_judol.txt
 [ OK ]         6 src/blacklist/t_malwarebytes.txt
-[ OK ]        71 src/blacklist/t_malwrhunterteam.txt
+[ OK ]        74 src/blacklist/t_malwrhunterteam.txt
 [ OK ]         7 src/blacklist/t_popup.txt
 [ OK ]         2 src/blacklist/t_redirect.txt
 [ OK ]     2,965 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 9,703,232
-Filter Duplicates   : 8,571,693
-Filter Whitelist    : 8,437,072
-Import Blacklist    : 8,437,543
-Compressed          : 8,155,552
+Total Blacklist     : 9,703,161
+Filter Duplicates   : 8,571,672
+Filter Whitelist    : 8,437,051
+Import Blacklist    : 8,437,522
+Compressed          : 8,155,540
 
    LENGTH     COUNT
-        2 7,539,143
+        2 7,539,132
         3   555,492
-        4    39,966
+        4    39,965
         5    12,190
         6     3,636
         7     1,421
@@ -179,7 +179,7 @@ Compressed          : 8,155,552
        17         4
        19         4
 
-Total Blocklist     : 8,155,552
+Total Blocklist     : 8,155,540
 
 ~~~
 
