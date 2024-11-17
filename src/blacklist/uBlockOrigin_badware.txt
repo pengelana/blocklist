@@ -884,6 +884,8 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||msgsafe.net^$all
 ||best4fuck.com^$all
 ||bamboairways.com.vn^$all,to=~bambooairways.com
+! https://github.com/uBlockOrigin/uAssets/issues/26047
+||purplexity.ai^$doc,to=~perplexity.ai
 
 ! https://www.huorong.cn/info/1531309921141.html
 ||kuaizip.com^$all
@@ -5562,9 +5564,6 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||belliniepecuniaimmobilisrl.*^$doc,to=belliniepecuniaimmobilisrl.*
 ||immobiliarebelliniepecunia.*^$doc,to=immobiliarebelliniepecunia.*
 
-! malware spam
-||bit.ly/47P0Nvo$all
-
 ! https://github.com/uBlockOrigin/uAssets/issues/25470
 ||the-north-face.gr^$all
 ||thenorthfacegreece.com^$all
@@ -5862,3 +5861,6 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://github.com/uBlockOrigin/uAssets/issues/26058
 ||ftuapps.io^$doc
 ||ftuapps.dev^$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/26072
+||geekupdates.notion.site/Ultra-Security$doc
