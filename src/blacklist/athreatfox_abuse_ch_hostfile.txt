@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-16 14:49:53 UTC                        #
+# Last updated: 2024-11-17 14:44:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	leatherbook.org
 127.0.0.1	crickout.com
 127.0.0.1	thicktoys.sbs
 127.0.0.1	fleez-inc.sbs
@@ -10542,5 +10543,4 @@
 127.0.0.1	service-6y22lbhj-1318289497.bj.tencentapigw.com.cn
 127.0.0.1	iopqwe.azureedge.net
 127.0.0.1	www.weather.pm
-127.0.0.1	service-pw5pdob2-1301751349.gz.tencentapigw.com.cn
 # Number of entries: 10537
