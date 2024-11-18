@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-17 14:44:37 UTC                        #
+# Last updated: 2024-11-18 06:35:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	else-directors.gl.at.ply.gg
+127.0.0.1	aiddoscnc.aisysmddos.com
+127.0.0.1	paper-cancelled.gl.at.ply.gg
 127.0.0.1	leatherbook.org
 127.0.0.1	crickout.com
 127.0.0.1	thicktoys.sbs
@@ -10543,4 +10546,4 @@
 127.0.0.1	service-6y22lbhj-1318289497.bj.tencentapigw.com.cn
 127.0.0.1	iopqwe.azureedge.net
 127.0.0.1	www.weather.pm
-# Number of entries: 10537
+# Number of entries: 10540
