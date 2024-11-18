@@ -1,9 +1,9 @@
-! Checksum: MSE1ZALQuhYx0bTsfmm42w
-! Diff-Path: ../patches/15/15-s-1731911833-3600.patch
+! Checksum: xRRUNcIwII1aWFCKedhm9Q
+! Diff-Path: ../patches/15/15-s-1731955066-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.72.91
-! TimeUpdated: 2024-11-18T06:33:36+00:00
+! Version: 2.0.72.94
+! TimeUpdated: 2024-11-18T18:34:29+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-18T06:01:25.087Z
+! Last modified: 2024-11-18T18:01:20.825Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4568,6 +4568,7 @@ vkcdnservice.appspot.com^
 ||avgads.space^
 ||avgive3431.fun^
 ||avhduwvirosl.com^
+||avhjzemp.com^
 ||avhtaapxml.com^
 ||aviatedrasure.top^
 ||aviationbe.com^
@@ -5212,6 +5213,7 @@ vkcdnservice.appspot.com^
 ||besidesparties.com^
 ||beskittyan.com^
 ||besmeargleor.com^
+||best-girls-around.com^
 ||best-offer-for-you.com^
 ||best-prize.life^
 ||best-protection4.me^
@@ -12193,6 +12195,7 @@ vkcdnservice.appspot.com^
 ||gomain.pro^
 ||gomain2.pro^
 ||gomnlt.com^
+||gomucreu.com^
 ||gonairoomsoo.xyz^
 ||goneawaytogy.info^
 ||gonoushauw.net^
@@ -12278,6 +12281,7 @@ vkcdnservice.appspot.com^
 ||gqfuf.com^
 ||gqjdweqs.com^
 ||gqjeqaqrxexmd.com^
+||gquwuefddojikxo.xyz^
 ||gr3hjjj.pics^
 ||graboverhead.com^
 ||gracefullisten.pro^
@@ -14902,6 +14906,7 @@ vkcdnservice.appspot.com^
 ||jxvilsjyrh.com^
 ||jxxnnhdgbfo.xyz^
 ||jxybgyu.com^
+||jybaekajjmqrz.top^
 ||jycrjkuspyv.fun^
 ||jyfirjqojg.xyz^
 ||jygcv.sbs^
@@ -17285,6 +17290,7 @@ vkcdnservice.appspot.com^
 ||moonrocketaffiliates.com^
 ||moonvids.online^
 ||moonvids.space^
+||mooptoasinudy.net^
 ||mooroore.xyz^
 ||mootermedia.com^
 ||mooxar.com^
@@ -19254,6 +19260,7 @@ vkcdnservice.appspot.com^
 ||outhulem.net^
 ||outkisslahuli.com^
 ||outlayomnipresentdream.com^
+||outlayreliancevine.com^
 ||outlineappearbar.com^
 ||outloginequity.com^
 ||outlookabsorb.com^
@@ -24541,6 +24548,7 @@ vkcdnservice.appspot.com^
 ||sptrkr.com^
 ||spuezain.com^
 ||spuncomplaintsapartment.com^
+||spunorientation.com^
 ||spuppeh.com^
 ||spurproteinopaque.com^
 ||spurryalgoid.top^
@@ -24719,6 +24727,7 @@ vkcdnservice.appspot.com^
 ||steeplederivedinattentive.com^
 ||steeplesaturday.com^
 ||steepto.com^
+||steepuleltou.xyz^
 ||steeringsunshine.com^
 ||steesamax.com^
 ||steessay.com^
@@ -33777,6 +33786,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||cts.vresp.com^
 ||logs.chatboost-cv.algoage.co.jp^
 ||p7cloud.net^
 ||kobel.services^
@@ -35729,7 +35739,6 @@ vkcdnservice.appspot.com^
 ||crwdcntrl.net^
 ||csdata1.com^
 ||cuntador.com^
-||curalate.com^
 ||customerconversio.com^
 ||cya1t.net^
 ||cya2.net^
@@ -40172,6 +40181,9 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||log.heartratepros.com^
+||hw-sh-pcdn-*.biliapi.net^
+||ali-bj-pcdn-*.biliapi.net^
 ||tatrack.thinkyeah.com^
 -rtb.gravite.net^
 ||sdk-04.moengage.com^
@@ -41031,7 +41043,6 @@ inapps.appsflyersdk.com^
 ||ct.itbusinessedge.com^
 ||ct.thegear-box.com^
 ||cts.businesswire.com^
-||cts.vresp.com^
 ||curated.fieldtest.cc^
 ||customfingerprints.bablosoft.com^
 ||d.shareaholic.com^
@@ -42597,6 +42608,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||hfnuqljjnt.com^
 ||broredir*s.site^
 ||hhbehcahhajfffciaaef.world^
 ||suprion.ru^
@@ -45933,7 +45945,6 @@ inapps.appsflyersdk.com^
 ||marketing-profis.net^
 ||maxi-ad.de^
 ||maxiad.de^
-||media-guides.de^
 ||mega-ad.de^
 ||megawerbung.de^
 ||mename.de^
@@ -46391,8 +46402,8 @@ inapps.appsflyersdk.com^
 ! # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 ! # ----
 ! # title:          Frellwit's Swedish Hosts File
-! # last updated:   2024-11-01 06:19:15 CET
-! # entries:        1089
+! # last updated:   2024-11-18 07:18:38 CET
+! # entries:        1090
 ! # format:         hosts (hosts -- in hosts file format)
 ! # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -46740,6 +46751,7 @@ inapps.appsflyersdk.com^
 ||servedby.lintigroup.se^
 ||se-ads-microservice.ads.allermedia.io^
 ||sgtm.inet.se^
+||smetrics.avanza.se^
 ||source.advisible.com^
 ||spel.expressen.se^
 ||sprinklecontent.com^
@@ -52803,11 +52815,14 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||yrccils0spqnkc3.xyz^
+||z9uvpwarkk1mnpf.xyz^
 ||wsgnihbh.icu^
 ||iflucav.icu^
 ||ao1118kas.top^
 ||mhwy6.icu^
 ||uweisit.top^
+||oweisik.top^
 ||mlgowell.org^
 ||ge189.com^
 ||usgowell.com^
@@ -59030,6 +59045,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1784
+@@||action.metaffiliation.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1773
 ! Blocked by CNAME s1search.co
 @@||www.dogpile.com^|
