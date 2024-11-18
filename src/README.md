@@ -115,12 +115,12 @@
 [ OK ]     1,364 src/blacklist/blocklists-zscaler.txt
 [ OK ]       833 src/blacklist/craiu_list.txt
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
-[ OK ]     2,560 src/blacklist/durablenapkin_hosts.txt
+[ OK ]     2,555 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,897 src/blacklist/easylist_adservers_popup.txt
-[ OK ]    57,583 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]    57,585 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
-[ OK ]    12,346 src/blacklist/hagezi_fake.txt
-[ OK ]    82,627 src/blacklist/hagezi_popup.txt
+[ OK ]    12,351 src/blacklist/hagezi_fake.txt
+[ OK ]    82,703 src/blacklist/hagezi_popup.txt
 [ OK ]       409 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]       753 src/blacklist/hpthreatresearch_domains.txt
 [ OK ]    22,280 src/blacklist/infinitytec_clickbait.txt
@@ -128,22 +128,22 @@
 [ OK ]    30,899 src/blacklist/infinitytec_scams-and-phishing.txt
 [ OK ]       154 src/blacklist/ioclist.domain.raw.txt
 [ OK ]        14 src/blacklist/ioclist.hostname.raw.txt
-[ OK ]   160,584 src/blacklist/jarelllama_domains.txt
-[ OK ]     1,089 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
-[ OK ]       384 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
+[ OK ]   161,421 src/blacklist/jarelllama_domains.txt
+[ OK ]     1,090 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
+[ OK ]       390 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]     2,295 src/blacklist/matomo_org_spammers.txt
 [ OK ]       896 src/blacklist/mitchellkrogza_phishing-domains-ACTIVE.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    45,520 src/blacklist/oisd_small.txt
+[ OK ]    45,448 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]   250,792 src/blacklist/phishing_army_blocklist.txt
+[ OK ]   250,700 src/blacklist/phishing_army_blocklist.txt
 [ OK ]       175 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   112,525 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   112,758 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,768 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
-[ OK ]   454,239 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]    52,281 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]   454,347 src/blacklist/stamparm_maltrail-malware-domains.txt
+[ OK ]    52,291 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]        10 src/blacklist/t_crowdstrike.txt
 [ OK ]       177 src/blacklist/t_dnstunneling.txt
 [ OK ]        12 src/blacklist/t_fox_threatintel.txt
@@ -152,24 +152,24 @@
 [ OK ]        76 src/blacklist/t_malwrhunterteam.txt
 [ OK ]         7 src/blacklist/t_popup.txt
 [ OK ]         2 src/blacklist/t_redirect.txt
-[ OK ]     2,967 src/blacklist/uBlockOrigin_badware.txt
+[ OK ]     2,969 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,943,330
-Filter Duplicates   : 1,859,950
-Filter Whitelist    : 1,725,395
-Import Blacklist    : 1,725,878
-Compressed          : 1,447,864
+Total Blacklist     : 2,944,441
+Filter Duplicates   : 1,861,058
+Filter Whitelist    : 1,726,503
+Import Blacklist    : 1,726,986
+Compressed          : 1,448,847
 
    LENGTH     COUNT
-        2 1,012,794
-        3   374,007
-        4    40,088
-        5    12,203
-        6     3,645
+        2 1,013,259
+        3   374,515
+        4    40,095
+        5    12,204
+        6     3,644
         7     1,421
         8     2,307
         9     1,031
-       10       252
+       10       255
        11        43
        12        22
        13        14
@@ -179,7 +179,7 @@ Compressed          : 1,447,864
        17         5
        19         4
 
-Total Blocklist     : 1,447,864
+Total Blocklist     : 1,448,847
 
 ~~~
 
