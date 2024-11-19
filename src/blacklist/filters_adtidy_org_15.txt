@@ -1,9 +1,9 @@
-! Checksum: fDPjX7MWjHXwMVWLZP2DzA
-! Diff-Path: ../patches/15/15-s-1731998280-3600.patch
+! Checksum: RKNSGrn/9gqynh78ETrDDA
+! Diff-Path: ../patches/15/15-s-1732020322-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.72.96
-! TimeUpdated: 2024-11-19T06:34:24+00:00
+! Version: 2.0.72.97
+! TimeUpdated: 2024-11-19T12:41:18+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-19T06:01:21.480Z
+! Last modified: 2024-11-19T12:01:25.617Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30,6 +30,7 @@
 !
 !
 !
+||datazap.online^
 ||monu.delivery^
 ||championshipcoma.com^
 ||late-anxiety.com^
@@ -30483,6 +30484,7 @@ vkcdnservice.appspot.com^
 ||germaniavid.com^
 ||girls.xyz^
 ||goadserver.com^
+||goclicknext.com^
 ||gourmetads.com^
 ||gplinks.in^
 ||graciamediaweb.com^
@@ -37563,6 +37565,7 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||stats.amur.life^
 ||pixel.smartnews.com^
 ||pixel.dev.smartnews.com^
 ||t.rentio.jp^
@@ -52827,6 +52830,7 @@ inapps.appsflyersdk.com^
 ||thacreks.com^
 ||snnmgdt.icu^
 ||4t6u.icu^
+||scihuns.com^
 ||yrccils0spqnkc3.xyz^
 ||z9uvpwarkk1mnpf.xyz^
 ||wsgnihbh.icu^
