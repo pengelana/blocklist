@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 18 Nov 2024, 18:25 UTC+01:00
-# Version: 2024.11.18.5
+# Last modified: Mon, 18 Nov 2024, 21:23 UTC+01:00
+# Version: 2024.11.18.6
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -3147,6 +3147,7 @@
 0.0.0.0 00lx.03265926.xyz
 0.0.0.0 0lx.5846232.xyz
 0.0.0.0 0lx.6836457.xyz
+0.0.0.0 00lx.6846232.xyz
 0.0.0.0 0lx.8423363.xyz
 0.0.0.0 00lx.15450210.xyz
 0.0.0.0 00lx.16592154.xyz
@@ -3323,6 +3324,7 @@
 0.0.0.0 4-bvn5.sbs
 0.0.0.0 4-pl.es
 0.0.0.0 4-r6mx.lat
+0.0.0.0 4a5440d7bf.aliegro.click
 0.0.0.0 4a66884dbc.nxcli.io
 0.0.0.0 4avdmf2rw.top
 0.0.0.0 4bd52ac063.nfxsh.fun
@@ -3405,6 +3407,7 @@
 0.0.0.0 6e8bbhv7l.top
 0.0.0.0 6e-nee.cfd
 0.0.0.0 6ec118e307.aregr.pl
+0.0.0.0 6f7317b289.allegro40.fun
 0.0.0.0 6fd2c.cc
 0.0.0.0 6fe76f3da2.aiiegros40.pl
 0.0.0.0 6jvvq3si5.top
@@ -3485,6 +3488,7 @@
 0.0.0.0 9c71802255.smtvw.pl
 0.0.0.0 9cdc9ff946.intshvw.fun
 0.0.0.0 9d6ihdz43.top
+0.0.0.0 9d9993630b.aliegro.click
 0.0.0.0 9db0d33d.pay.zamkowaskoczow.pl
 0.0.0.0 9dl7s3kps.top
 0.0.0.0 9ea74030cb.tvuwa.pl
@@ -3710,6 +3714,7 @@
 0.0.0.0 401klick.com
 0.0.0.0 401mopie.xyz
 0.0.0.0 420artzone.com
+0.0.0.0 435ab59c4.choyoga.com
 0.0.0.0 443b9e9e5bc2531bc4c635d620368b4a.mrjsa.pl
 0.0.0.0 456bbshop.com
 0.0.0.0 462f42b20a.smtvw.pl
@@ -3726,6 +3731,7 @@
 0.0.0.0 715kreationz.com
 0.0.0.0 726t.cfd
 0.0.0.0 777skyexchange.com
+0.0.0.0 783a8dad5d.aliegro.click
 0.0.0.0 0789ea12ff6080c4d56621c01b7e50c1.irpwa.pl
 0.0.0.0 789goal.online
 0.0.0.0 797bet-unlim.com
@@ -3811,6 +3817,7 @@
 0.0.0.0 92260b84125c16671f6783c3a6254f7e.liamartem.pl
 0.0.0.0 93109.cfd
 0.0.0.0 94748.pl
+0.0.0.0 98735.pl
 0.0.0.0 125194-coinbase.com
 0.0.0.0 128594-gemini.com
 0.0.0.0 159057a2a8bc6f972e441eaff6637aaf.voiseper.pl
@@ -3895,6 +3902,7 @@
 0.0.0.0 a7stgi.skin
 0.0.0.0 a7uabl1ss.xyz
 0.0.0.0 a8dhee.sbs
+0.0.0.0 a8qcnm.hair
 0.0.0.0 a8qjci.skin
 0.0.0.0 a8tuhn.lol
 0.0.0.0 a9cdlq.lol
@@ -4892,6 +4900,7 @@
 0.0.0.0 allegrolokalnie.id89109421.buzz
 0.0.0.0 allegrolokalnie.id94712894.buzz
 0.0.0.0 allegrolokalnie.id767128914.shop
+0.0.0.0 allegrolokalnie.id786140981.buzz
 0.0.0.0 allegrolokalnie.id7681236592.shop
 0.0.0.0 allegrolokalnie.id81278948712.shop
 0.0.0.0 allegrolokalnie.id-2874.pl
@@ -5337,8 +5346,11 @@
 0.0.0.0 ams3.gadgetfaro.com
 0.0.0.0 ams4.finetravelz.com
 0.0.0.0 ams4.fitnessmungo.com
+0.0.0.0 ams4.gadgetbott.com
+0.0.0.0 ams4.gadgetchroma.com
 0.0.0.0 ams4.gadgetlinq.com
 0.0.0.0 ams4.gadgetsystemz.com
+0.0.0.0 ams4.gadgettaskk.com
 0.0.0.0 ams4.steptripz.com
 0.0.0.0 ams4.trendflaky.com
 0.0.0.0 ams.fitnessmyna.com
@@ -6378,6 +6390,7 @@
 0.0.0.0 bafkreifncch354d5ingktuxyvvoxqkq6unaw4wa3han7qrlh3aqo3lsbz4.ipfs.flk-ipfs.xyz
 0.0.0.0 bafkreig3t2whzy5gfvuvotnh5dvgeg3pw5ucfmlqbysd5clxc7aylzr6ea.ipfs.flk-ipfs.xyz
 0.0.0.0 bafkreiglazdwbgo6aqvll3a4br4yaj66teisqqaobgoziquwaxkln2qo4u.ipfs.flk-ipfs.xyz
+0.0.0.0 bafybeiaqbr3diczbdiqwcg24gc2qkwwsfrpn5wrvc3pmzjmhvjw75z7tae.ipfs.flk-ipfs.xyz
 0.0.0.0 bafybeibjfaazlungprctrtapxt4epjqtvxl2heomxql6a65ohdthhpotr4.ipfs.w3s.link
 0.0.0.0 bafybeic4ugfvbfsvxsgwnt2uqowt5tasnkj4zoaxzc2mkvnjdmgsx3u27i.ipfs.flk-ipfs.xyz
 0.0.0.0 bafybeidh4qovztyu24bllyjg3zvp2sibzishutlkbxarpbd46zxfhlw5z4.ipfs.flk-ipfs.xyz
@@ -8126,6 +8139,7 @@
 0.0.0.0 byeolcorp.com
 0.0.0.0 byformar.cfd
 0.0.0.0 byhimou.com
+0.0.0.0 bykar.homes
 0.0.0.0 bykome.com
 0.0.0.0 bykotr.com
 0.0.0.0 bykugya.com
@@ -9334,6 +9348,7 @@
 0.0.0.0 cmonemgmt.com
 0.0.0.0 cmpttron.xyz
 0.0.0.0 cmq.tesxappes.top
+0.0.0.0 cmrao.majestic.dev
 0.0.0.0 cmunitize.com
 0.0.0.0 cmwx.com
 0.0.0.0 cn1ugk.lat
@@ -11166,6 +11181,7 @@
 0.0.0.0 discountsaredrastic.com
 0.0.0.0 discountvapeusa.com
 0.0.0.0 discreetlysubtle.com
+0.0.0.0 disgarrisons.com
 0.0.0.0 dishanfarmsindia.com
 0.0.0.0 dishdelish.xyz
 0.0.0.0 dishdivine.xyz
@@ -12104,6 +12120,7 @@
 0.0.0.0 e6atmi.one
 0.0.0.0 e6fkyl.lat
 0.0.0.0 e7-6dt.pages.dev
+0.0.0.0 e7caf3e584.aliegro.click
 0.0.0.0 e7nude.lol
 0.0.0.0 e8cglh.cyou
 0.0.0.0 e8ee132d5b.mertv.pl
@@ -12521,6 +12538,7 @@
 0.0.0.0 elmenc7ave.xyz
 0.0.0.0 elmessence.xyz
 0.0.0.0 elmulu.com
+0.0.0.0 elodic.shop
 0.0.0.0 elogearts.com
 0.0.0.0 elonreevemusk.com
 0.0.0.0 elopeeurekaspring.com
@@ -14199,6 +14217,7 @@
 0.0.0.0 fortinder.com
 0.0.0.0 fortissio.com
 0.0.0.0 fortnite77.com
+0.0.0.0 fortnitemax.com
 0.0.0.0 fortrade.com
 0.0.0.0 fortstake.com
 0.0.0.0 fortuna189.com
@@ -15788,6 +15807,7 @@
 0.0.0.0 gulbaagpublicschool.com
 0.0.0.0 gulfoptions.net
 0.0.0.0 gulijeopoe.pro
+0.0.0.0 gulojyi1.pro
 0.0.0.0 gulymao.pics
 0.0.0.0 gummauadditi.fun
 0.0.0.0 gumroade.com
@@ -17610,6 +17630,7 @@
 0.0.0.0 indminweek.com
 0.0.0.0 indokantorfurniture.com
 0.0.0.0 indolebavw.cfd
+0.0.0.0 indolimx.com
 0.0.0.0 indonesiareport.com
 0.0.0.0 indoorsha.com
 0.0.0.0 indosoftbdg.com
@@ -17918,6 +17939,7 @@
 0.0.0.0 inpost-poland.top
 0.0.0.0 inpost-ps.buzz
 0.0.0.0 inpost-ps.net
+0.0.0.0 inpost-qwd.top
 0.0.0.0 inpost-qwr.top
 0.0.0.0 inpost-serve.buzz
 0.0.0.0 inpost-serve.cfd
@@ -21281,6 +21303,7 @@
 0.0.0.0 london07.com
 0.0.0.0 london99.online
 0.0.0.0 london-ltd.com
+0.0.0.0 london-uk-ltd.com
 0.0.0.0 londoncrypto.com
 0.0.0.0 londonsreal.com
 0.0.0.0 londonukairportcars.com
@@ -23956,6 +23979,7 @@
 0.0.0.0 neftlix-pl.cfolks.pl
 0.0.0.0 neftlixsys-pl293829.cfolks.pl
 0.0.0.0 neftlx-pl-renew.cfolks.pl
+0.0.0.0 neftxinc-pl2083.cfolks.pl
 0.0.0.0 negociosexigentes.com
 0.0.0.0 negroninirvana.life
 0.0.0.0 negufoi.info
@@ -25694,6 +25718,7 @@
 0.0.0.0 olx-pl.yabiloper.shop
 0.0.0.0 olx-pl.yahodit.shop
 0.0.0.0 olx-pl.yaibjlok.lol
+0.0.0.0 olx-pl.yalejern.pics
 0.0.0.0 olx-pl.yanemgdy.pics
 0.0.0.0 olx-pl.yanepodef.shop
 0.0.0.0 olx-pl.yansevir.shop
@@ -29355,6 +29380,7 @@
 0.0.0.0 qg2jpi.hair
 0.0.0.0 qg-e7k.lat
 0.0.0.0 qg.rvartions.ru
+0.0.0.0 qgil.skin
 0.0.0.0 qgsbaby.com
 0.0.0.0 qh1bjf.sbs
 0.0.0.0 qh.mras.skin
@@ -29609,6 +29635,7 @@
 0.0.0.0 r-tbmk.cfd
 0.0.0.0 r-vs5v.lat
 0.0.0.0 r.qwantumm.top
+0.0.0.0 ra8ibn.skin
 0.0.0.0 ra8nbowrhapsody.xyz
 0.0.0.0 ra.aofw.top
 0.0.0.0 raantrambutan.xyz
@@ -31042,7 +31069,6 @@
 0.0.0.0 samajewels.com
 0.0.0.0 samakamu.site
 0.0.0.0 samanthahairbeauty.com
-0.0.0.0 samarafranca.com
 0.0.0.0 sambadresult.com
 0.0.0.0 samchevalier.com
 0.0.0.0 samconus.com
@@ -36622,6 +36648,7 @@
 0.0.0.0 vedamau7.store
 0.0.0.0 vedantawiki.org
 0.0.0.0 vedhakrishna.com
+0.0.0.0 vedrobix.tilda.ws
 0.0.0.0 vedrobudd.tilda.ws
 0.0.0.0 veebist.com
 0.0.0.0 vefader.com
@@ -36663,7 +36690,6 @@
 0.0.0.0 vengefulaspiration.com
 0.0.0.0 venomia.com
 0.0.0.0 venosa.treasurendtrovedeals.com
-0.0.0.0 ventanillaunica.armeniaamable.gov.co
 0.0.0.0 ventas4d.com
 0.0.0.0 ventorydora.com
 0.0.0.0 ventsbusinessnews.com
@@ -36953,6 +36979,7 @@
 0.0.0.0 vintedfr.pro
 0.0.0.0 vintedit.defen.info
 0.0.0.0 vintednl.defen.info
+0.0.0.0 vintedpay.pro
 0.0.0.0 vintedpro572.wixsite.com
 0.0.0.0 vintedse.defen.info
 0.0.0.0 vintedsell.org
@@ -37836,6 +37863,7 @@
 0.0.0.0 whytedevelopers.com
 0.0.0.0 whywelovepropane.com
 0.0.0.0 whyyoulovepropane.com
+0.0.0.0 wi4cvb.icu
 0.0.0.0 wi.ytgs.lat
 0.0.0.0 wiado.akrisenergy.com
 0.0.0.0 wiado.emhtenergy.com
@@ -38488,6 +38516,7 @@
 0.0.0.0 www.00lx.03265926.xyz
 0.0.0.0 www.0lx.5846232.xyz
 0.0.0.0 www.0lx.6836457.xyz
+0.0.0.0 www.00lx.6846232.xyz
 0.0.0.0 www.0lx.8423363.xyz
 0.0.0.0 www.00lx.15450210.xyz
 0.0.0.0 www.00lx.16592154.xyz
@@ -38664,6 +38693,7 @@
 0.0.0.0 www.4-bvn5.sbs
 0.0.0.0 www.4-pl.es
 0.0.0.0 www.4-r6mx.lat
+0.0.0.0 www.4a5440d7bf.aliegro.click
 0.0.0.0 www.4a66884dbc.nxcli.io
 0.0.0.0 www.4avdmf2rw.top
 0.0.0.0 www.4bd52ac063.nfxsh.fun
@@ -38746,6 +38776,7 @@
 0.0.0.0 www.6e8bbhv7l.top
 0.0.0.0 www.6e-nee.cfd
 0.0.0.0 www.6ec118e307.aregr.pl
+0.0.0.0 www.6f7317b289.allegro40.fun
 0.0.0.0 www.6fd2c.cc
 0.0.0.0 www.6fe76f3da2.aiiegros40.pl
 0.0.0.0 www.6jvvq3si5.top
@@ -38826,6 +38857,7 @@
 0.0.0.0 www.9c71802255.smtvw.pl
 0.0.0.0 www.9cdc9ff946.intshvw.fun
 0.0.0.0 www.9d6ihdz43.top
+0.0.0.0 www.9d9993630b.aliegro.click
 0.0.0.0 www.9db0d33d.pay.zamkowaskoczow.pl
 0.0.0.0 www.9dl7s3kps.top
 0.0.0.0 www.9ea74030cb.tvuwa.pl
@@ -39051,6 +39083,7 @@
 0.0.0.0 www.401klick.com
 0.0.0.0 www.401mopie.xyz
 0.0.0.0 www.420artzone.com
+0.0.0.0 www.435ab59c4.choyoga.com
 0.0.0.0 www.443b9e9e5bc2531bc4c635d620368b4a.mrjsa.pl
 0.0.0.0 www.456bbshop.com
 0.0.0.0 www.462f42b20a.smtvw.pl
@@ -39067,6 +39100,7 @@
 0.0.0.0 www.715kreationz.com
 0.0.0.0 www.726t.cfd
 0.0.0.0 www.777skyexchange.com
+0.0.0.0 www.783a8dad5d.aliegro.click
 0.0.0.0 www.0789ea12ff6080c4d56621c01b7e50c1.irpwa.pl
 0.0.0.0 www.789goal.online
 0.0.0.0 www.797bet-unlim.com
@@ -39152,6 +39186,7 @@
 0.0.0.0 www.92260b84125c16671f6783c3a6254f7e.liamartem.pl
 0.0.0.0 www.93109.cfd
 0.0.0.0 www.94748.pl
+0.0.0.0 www.98735.pl
 0.0.0.0 www.125194-coinbase.com
 0.0.0.0 www.128594-gemini.com
 0.0.0.0 www.159057a2a8bc6f972e441eaff6637aaf.voiseper.pl
@@ -39236,6 +39271,7 @@
 0.0.0.0 www.a7stgi.skin
 0.0.0.0 www.a7uabl1ss.xyz
 0.0.0.0 www.a8dhee.sbs
+0.0.0.0 www.a8qcnm.hair
 0.0.0.0 www.a8qjci.skin
 0.0.0.0 www.a8tuhn.lol
 0.0.0.0 www.a9cdlq.lol
@@ -40233,6 +40269,7 @@
 0.0.0.0 www.allegrolokalnie.id89109421.buzz
 0.0.0.0 www.allegrolokalnie.id94712894.buzz
 0.0.0.0 www.allegrolokalnie.id767128914.shop
+0.0.0.0 www.allegrolokalnie.id786140981.buzz
 0.0.0.0 www.allegrolokalnie.id7681236592.shop
 0.0.0.0 www.allegrolokalnie.id81278948712.shop
 0.0.0.0 www.allegrolokalnie.id-2874.pl
@@ -40678,8 +40715,11 @@
 0.0.0.0 www.ams3.gadgetfaro.com
 0.0.0.0 www.ams4.finetravelz.com
 0.0.0.0 www.ams4.fitnessmungo.com
+0.0.0.0 www.ams4.gadgetbott.com
+0.0.0.0 www.ams4.gadgetchroma.com
 0.0.0.0 www.ams4.gadgetlinq.com
 0.0.0.0 www.ams4.gadgetsystemz.com
+0.0.0.0 www.ams4.gadgettaskk.com
 0.0.0.0 www.ams4.steptripz.com
 0.0.0.0 www.ams4.trendflaky.com
 0.0.0.0 www.ams.fitnessmyna.com
@@ -41719,6 +41759,7 @@
 0.0.0.0 www.bafkreifncch354d5ingktuxyvvoxqkq6unaw4wa3han7qrlh3aqo3lsbz4.ipfs.flk-ipfs.xyz
 0.0.0.0 www.bafkreig3t2whzy5gfvuvotnh5dvgeg3pw5ucfmlqbysd5clxc7aylzr6ea.ipfs.flk-ipfs.xyz
 0.0.0.0 www.bafkreiglazdwbgo6aqvll3a4br4yaj66teisqqaobgoziquwaxkln2qo4u.ipfs.flk-ipfs.xyz
+0.0.0.0 www.bafybeiaqbr3diczbdiqwcg24gc2qkwwsfrpn5wrvc3pmzjmhvjw75z7tae.ipfs.flk-ipfs.xyz
 0.0.0.0 www.bafybeibjfaazlungprctrtapxt4epjqtvxl2heomxql6a65ohdthhpotr4.ipfs.w3s.link
 0.0.0.0 www.bafybeic4ugfvbfsvxsgwnt2uqowt5tasnkj4zoaxzc2mkvnjdmgsx3u27i.ipfs.flk-ipfs.xyz
 0.0.0.0 www.bafybeidh4qovztyu24bllyjg3zvp2sibzishutlkbxarpbd46zxfhlw5z4.ipfs.flk-ipfs.xyz
@@ -43467,6 +43508,7 @@
 0.0.0.0 www.byeolcorp.com
 0.0.0.0 www.byformar.cfd
 0.0.0.0 www.byhimou.com
+0.0.0.0 www.bykar.homes
 0.0.0.0 www.bykome.com
 0.0.0.0 www.bykotr.com
 0.0.0.0 www.bykugya.com
@@ -44675,6 +44717,7 @@
 0.0.0.0 www.cmonemgmt.com
 0.0.0.0 www.cmpttron.xyz
 0.0.0.0 www.cmq.tesxappes.top
+0.0.0.0 www.cmrao.majestic.dev
 0.0.0.0 www.cmunitize.com
 0.0.0.0 www.cmwx.com
 0.0.0.0 www.cn1ugk.lat
@@ -46507,6 +46550,7 @@
 0.0.0.0 www.discountsaredrastic.com
 0.0.0.0 www.discountvapeusa.com
 0.0.0.0 www.discreetlysubtle.com
+0.0.0.0 www.disgarrisons.com
 0.0.0.0 www.dishanfarmsindia.com
 0.0.0.0 www.dishdelish.xyz
 0.0.0.0 www.dishdivine.xyz
@@ -47445,6 +47489,7 @@
 0.0.0.0 www.e6atmi.one
 0.0.0.0 www.e6fkyl.lat
 0.0.0.0 www.e7-6dt.pages.dev
+0.0.0.0 www.e7caf3e584.aliegro.click
 0.0.0.0 www.e7nude.lol
 0.0.0.0 www.e8cglh.cyou
 0.0.0.0 www.e8ee132d5b.mertv.pl
@@ -47862,6 +47907,7 @@
 0.0.0.0 www.elmenc7ave.xyz
 0.0.0.0 www.elmessence.xyz
 0.0.0.0 www.elmulu.com
+0.0.0.0 www.elodic.shop
 0.0.0.0 www.elogearts.com
 0.0.0.0 www.elonreevemusk.com
 0.0.0.0 www.elopeeurekaspring.com
@@ -49540,6 +49586,7 @@
 0.0.0.0 www.fortinder.com
 0.0.0.0 www.fortissio.com
 0.0.0.0 www.fortnite77.com
+0.0.0.0 www.fortnitemax.com
 0.0.0.0 www.fortrade.com
 0.0.0.0 www.fortstake.com
 0.0.0.0 www.fortuna189.com
@@ -51129,6 +51176,7 @@
 0.0.0.0 www.gulbaagpublicschool.com
 0.0.0.0 www.gulfoptions.net
 0.0.0.0 www.gulijeopoe.pro
+0.0.0.0 www.gulojyi1.pro
 0.0.0.0 www.gulymao.pics
 0.0.0.0 www.gummauadditi.fun
 0.0.0.0 www.gumroade.com
@@ -52951,6 +52999,7 @@
 0.0.0.0 www.indminweek.com
 0.0.0.0 www.indokantorfurniture.com
 0.0.0.0 www.indolebavw.cfd
+0.0.0.0 www.indolimx.com
 0.0.0.0 www.indonesiareport.com
 0.0.0.0 www.indoorsha.com
 0.0.0.0 www.indosoftbdg.com
@@ -53259,6 +53308,7 @@
 0.0.0.0 www.inpost-poland.top
 0.0.0.0 www.inpost-ps.buzz
 0.0.0.0 www.inpost-ps.net
+0.0.0.0 www.inpost-qwd.top
 0.0.0.0 www.inpost-qwr.top
 0.0.0.0 www.inpost-serve.buzz
 0.0.0.0 www.inpost-serve.cfd
@@ -56622,6 +56672,7 @@
 0.0.0.0 www.london07.com
 0.0.0.0 www.london99.online
 0.0.0.0 www.london-ltd.com
+0.0.0.0 www.london-uk-ltd.com
 0.0.0.0 www.londoncrypto.com
 0.0.0.0 www.londonsreal.com
 0.0.0.0 www.londonukairportcars.com
@@ -59297,6 +59348,7 @@
 0.0.0.0 www.neftlix-pl.cfolks.pl
 0.0.0.0 www.neftlixsys-pl293829.cfolks.pl
 0.0.0.0 www.neftlx-pl-renew.cfolks.pl
+0.0.0.0 www.neftxinc-pl2083.cfolks.pl
 0.0.0.0 www.negociosexigentes.com
 0.0.0.0 www.negroninirvana.life
 0.0.0.0 www.negufoi.info
@@ -61035,6 +61087,7 @@
 0.0.0.0 www.olx-pl.yabiloper.shop
 0.0.0.0 www.olx-pl.yahodit.shop
 0.0.0.0 www.olx-pl.yaibjlok.lol
+0.0.0.0 www.olx-pl.yalejern.pics
 0.0.0.0 www.olx-pl.yanemgdy.pics
 0.0.0.0 www.olx-pl.yanepodef.shop
 0.0.0.0 www.olx-pl.yansevir.shop
@@ -64652,6 +64705,7 @@
 0.0.0.0 www.qg2jpi.hair
 0.0.0.0 www.qg-e7k.lat
 0.0.0.0 www.qg.rvartions.ru
+0.0.0.0 www.qgil.skin
 0.0.0.0 www.qgsbaby.com
 0.0.0.0 www.qh1bjf.sbs
 0.0.0.0 www.qh.mras.skin
@@ -64906,6 +64960,7 @@
 0.0.0.0 www.r-tbmk.cfd
 0.0.0.0 www.r-vs5v.lat
 0.0.0.0 www.r.qwantumm.top
+0.0.0.0 www.ra8ibn.skin
 0.0.0.0 www.ra8nbowrhapsody.xyz
 0.0.0.0 www.ra.aofw.top
 0.0.0.0 www.raantrambutan.xyz
@@ -66339,7 +66394,6 @@
 0.0.0.0 www.samajewels.com
 0.0.0.0 www.samakamu.site
 0.0.0.0 www.samanthahairbeauty.com
-0.0.0.0 www.samarafranca.com
 0.0.0.0 www.sambadresult.com
 0.0.0.0 www.samchevalier.com
 0.0.0.0 www.samconus.com
@@ -71919,6 +71973,7 @@
 0.0.0.0 www.vedamau7.store
 0.0.0.0 www.vedantawiki.org
 0.0.0.0 www.vedhakrishna.com
+0.0.0.0 www.vedrobix.tilda.ws
 0.0.0.0 www.vedrobudd.tilda.ws
 0.0.0.0 www.veebist.com
 0.0.0.0 www.vefader.com
@@ -71960,7 +72015,6 @@
 0.0.0.0 www.vengefulaspiration.com
 0.0.0.0 www.venomia.com
 0.0.0.0 www.venosa.treasurendtrovedeals.com
-0.0.0.0 www.ventanillaunica.armeniaamable.gov.co
 0.0.0.0 www.ventas4d.com
 0.0.0.0 www.ventorydora.com
 0.0.0.0 www.ventsbusinessnews.com
@@ -72250,6 +72304,7 @@
 0.0.0.0 www.vintedfr.pro
 0.0.0.0 www.vintedit.defen.info
 0.0.0.0 www.vintednl.defen.info
+0.0.0.0 www.vintedpay.pro
 0.0.0.0 www.vintedpro572.wixsite.com
 0.0.0.0 www.vintedse.defen.info
 0.0.0.0 www.vintedsell.org
@@ -73133,6 +73188,7 @@
 0.0.0.0 www.whytedevelopers.com
 0.0.0.0 www.whywelovepropane.com
 0.0.0.0 www.whyyoulovepropane.com
+0.0.0.0 www.wi4cvb.icu
 0.0.0.0 www.wi.ytgs.lat
 0.0.0.0 www.wiado.akrisenergy.com
 0.0.0.0 www.wiado.emhtenergy.com

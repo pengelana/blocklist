@@ -1,9 +1,9 @@
-! Checksum: xRRUNcIwII1aWFCKedhm9Q
-! Diff-Path: ../patches/15/15-s-1731955066-3600.patch
+! Checksum: cbhAAZS1c27x6kNJlJ/QpA
+! Diff-Path: ../patches/15/15-s-1731976674-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.72.94
-! TimeUpdated: 2024-11-18T18:34:29+00:00
+! Version: 2.0.72.95
+! TimeUpdated: 2024-11-19T00:34:35+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-18T18:01:20.825Z
+! Last modified: 2024-11-19T00:03:34.477Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -8011,6 +8011,7 @@ vkcdnservice.appspot.com^
 ||cupoabie.net^
 ||cupswiss.com^
 ||cupulaeveinal.top^
+||curatekrait.com^
 ||curledbuffet.com^
 ||curlsl.info^
 ||curlsomewherespider.com^
@@ -10347,6 +10348,7 @@ vkcdnservice.appspot.com^
 ||exemplarsensor.com^
 ||exemplarychemistry.com^
 ||exertionbesiege.com^
+||exgjhawccb.com^
 ||exhaleveteranbasketball.com^
 ||exhaustfirstlytearing.com^
 ||exhauststreak.com^
@@ -13559,6 +13561,7 @@ vkcdnservice.appspot.com^
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 ||hzr0dm28m17c.com^
 ||hzychcvdmjo.com^
+||i-svzgrtibs.rocks^
 ||i4nstr1gm.com^
 ||i4rsrcj6.top^
 ||i65wsmrj5.com^
@@ -14087,6 +14090,7 @@ vkcdnservice.appspot.com^
 ||insistballisticclone.com^
 ||insistent-worker.com^
 ||insistinestimable.com^
+||insistpeerbeef.com^
 ||insitepromotion.com^
 ||insnative.com^
 ||insomniacultural.com^
@@ -20095,6 +20099,7 @@ vkcdnservice.appspot.com^
 ||picsti.com^
 ||pictela.net^
 ||pictorialtraverse.com^
+||pictunoctette.com^
 ||pieceresponsepamphlet.com^
 ||piecreatefragment.com^
 ||pienbitore.com^
@@ -28780,6 +28785,7 @@ vkcdnservice.appspot.com^
 ||wpadmngr.com^
 ||wparcunnv.xyz^
 ||wpcjyxwdsu.xyz^
+||wpfly-sbpkrd.icu^
 ||wpiajkniqnty.com^
 ||wpncdn.com^
 ||wpnetwork.eu^
@@ -28839,6 +28845,7 @@ vkcdnservice.appspot.com^
 ||wtg-ads.com^
 ||wthbjrj.com^
 ||wtmhwnv.com^
+||wtyankriwnza.com^
 ||wuchaurteed.com^
 ||wuci1.xyz^
 ||wuckaity.com^
@@ -52815,6 +52822,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||gritoils.com^
+||thacreks.com^
+||snnmgdt.icu^
 ||yrccils0spqnkc3.xyz^
 ||z9uvpwarkk1mnpf.xyz^
 ||wsgnihbh.icu^
