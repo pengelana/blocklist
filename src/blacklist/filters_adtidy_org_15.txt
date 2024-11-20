@@ -1,9 +1,9 @@
-! Checksum: X0LHWOSOX47TV9TWQImKdg
-! Diff-Path: ../patches/15/15-s-1732084658-3600.patch
+! Checksum: N2TzLdz8C8o3KMamYLUmVg
+! Diff-Path: ../patches/15/15-s-1732106299-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.73.0
-! TimeUpdated: 2024-11-20T06:34:22+00:00
+! Version: 2.0.73.2
+! TimeUpdated: 2024-11-20T12:34:42+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-20T06:01:33.049Z
+! Last modified: 2024-11-20T12:01:40.863Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -40617,7 +40617,6 @@ inapps.appsflyersdk.com^
 ||sensors.snappea.com^
 ||analytics.snaptube.app^
 ||px.ucweb.com^
-||collector1.sooplive.co.kr^
 ||adtima-static.zadn.vn^
 ||ztevents.zaloapp.com^
 ||tunion-api.m.taobao.com^
@@ -48291,8 +48290,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 20 Nov 2024 11:35 UTC+7
-! OriginalVersion: 2411201135
+! Last modified: 20 Nov 2024 16:26 UTC+7
+! OriginalVersion: 2411201626
 ! Blocked: 4,692 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/

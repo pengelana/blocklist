@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-20 10:08:48 UTC                        #
+# Last updated: 2024-11-20 12:53:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	badmiles.ddns.net
 127.0.0.1	reateberam.com
 127.0.0.1	xboxapicenter.com
 127.0.0.1	azurestorage.world
@@ -10649,8 +10650,4 @@
 127.0.0.1	fashionstune.com
 127.0.0.1	0.tpc.eu.ngrok.io
 127.0.0.1	service-dq87eeqy-1259321672.gz.tencentapigw.com.cn
-127.0.0.1	klgbb.com
-127.0.0.1	anphealthcenter.com
-127.0.0.1	bqrg123.com
-127.0.0.1	manxzas12.duckdns.org
-# Number of entries: 10647
+# Number of entries: 10644
