@@ -753,9 +753,9 @@ tech4yougadgets.com##+js(aopr, Notification)
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,to=biz
 ! fake dating/prize/video sites
 ! https://github.com/AdguardTeam/AdguardFilters/issues/183117
-/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\.?[a-z]{0,7}\/(?:[0-9a-z]{6,10}\/)?\/?(?:article\d{4}\.doc)?\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]{7}(?:&t=\d+)?&o=[0-9a-z]{7}/$doc,frame,match-case
+/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{3,}\.[a-z]{2,11}\.?[a-z]{0,7}\/(?:[0-9a-z]{6,10}\/)?\/?(?:article\d{4}\.doc)?\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]{7}(?:&t=\d+)?&o=[0-9a-z]{7}/$doc,frame,match-case
 ! https://github.com/uBlockOrigin/uAssets/commit/df17084b4815e87d420e8adf19bf4959e828e6e5#commitcomment-66510549
-/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\.?[a-z]{0,7}\/(?:[0-9a-z]{6,10}\/)?\/?(?:article\d{4}\.doc)?\?(?:cid=[0-9a-z]+&)?o=[0-9a-z]{7}(?:&t=\d+)?&u=[0-9a-z]{7}/$doc,frame,match-case
+/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{3,}\.[a-z]{2,11}\.?[a-z]{0,7}\/(?:[0-9a-z]{6,10}\/)?\/?(?:article\d{4}\.doc)?\?(?:cid=[0-9a-z]+&)?o=[0-9a-z]{7}(?:&t=\d+)?&u=[0-9a-z]{7}/$doc,frame,match-case
 .live/web/?sid=t*~$doc
 ! https://urlscan.io/result/fb21aa1b-9c79-4ac4-8e82-386403964206/
 /?u1=*&o1=*&sid=t*~$doc
@@ -3155,7 +3155,10 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||muskevent.info^$doc
 ||teslamaked.com^$all
 ||cryptomusk.io^$all
+||xaitoken.live^$all
 ||youtube.com/@Tesla.debate_live2024^$doc
+||youtube.com/watch?v=mTHTXSm88_M^$doc
+||youtube.com/watch?v=szaNiLd8lJw^$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/24296
 ! https://www.virustotal.com/gui/url/95c95990e40d0859a1766b2da6047f64d2faecee65d74669243d443c7c185ebf
 ! https://www.urlvoid.com/scan/teslafond.io/
@@ -3169,8 +3172,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||usmusk.net^$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/25492
 ||foundations-x2024.*^$doc,to=foundations-x2024.*
-||foundations-x2024.cloud^$doc
-||foundations-x2024.sbs^$doc
+||foundations-x2024.cloud^$all
+||foundations-x2024.sbs^$all
 ! https://github.com/uBlockOrigin/uAssets/issues/25832
 ||trump-drop.org^$all
 ||youtube.com/@tesla.Iive.officiaI.24^$doc
@@ -3180,6 +3183,9 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://github.com/uBlockOrigin/uAssets/issues/26056
 ||stage3-last.$doc,to=~edu|~gov
 ||stage2024.$doc,to=~edu|~gov
+! https://github.com/uBlockOrigin/uAssets/issues/25726#issuecomment-2483460915
+||xaipresales.org^$all
+||xai19k.com^$all
 
 ||arbitragebot.team^$all
 ||arbitrageinstruction.media^$all
@@ -5928,3 +5934,27 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://forum.trezor.io/t/phishing-email-received-claiming-trezor-firmware-update-required/13929
 ||uobretailcreditmanagement.$doc
 ||blockfiupdates.$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/26102
+||uploadfox.net^$inline-script
+uploadfox.net###ad-gs-05
+
+! https://github.com/uBlockOrigin/uBlock-issues/discussions/3461
+||allinoursite.com^$doc
+||doorsstormsy.shop^$doc
+||emailservicesnetau.com^$doc
+||euromaillinnk.com^$doc
+||findthorman.shop^$doc
+||glaters.com^$doc
+||keydoordasher.shop^$doc
+||makitfornows.com^$doc
+||mybach.xyz^$doc
+||threeneptuneboot.com^$doc
+/unsub/unsub^$doc
+/unsub_sent.php|$doc,method=post
+##html > body.hold-transition.theme-primary.bg-img[style^="background-image"][style*="wallpaperaccess.com"][style*="background-repeat"][style*="background-size"]
+##html > body > div.container > form#unsubscribe-form[onsubmit="submitUnsubscribeForm(event)"]
+
+! Pretending to be a government service
+||detranrapido.co^$all
+||pagamentocnh.com^$all
