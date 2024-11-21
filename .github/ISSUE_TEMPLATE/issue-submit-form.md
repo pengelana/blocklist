@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 <h2 align="center">Issue Submit Form</h2>
+
 <div align="center">
   Provide the following info properly, which will help us to resolve your issue quickly.
 </div>
@@ -47,7 +48,20 @@ sub.example.com
 -->
 <hr>
 
+### Detail:
+Write us a lil bit more about your issue or query. You can attach any screen shot or log of the issue or advert, this will help to highlight it.
+
+<!------------------ Type after this tag ------------------->
+- Your Issue Detail: 
+
+
+
+
+<!------------------ Type before this tag ------------------>
+<!-- Just a desciption of the issue when you visit the site/use app/software. Or steps on reproducing this -->
+<hr>
+
+
 <div align="center">
-  <h2>Thank you</h2>
   <sub><a href="https://doh.tiar.app" target="_blank">Tiarap ⚡️</a></sub>
 </div>
