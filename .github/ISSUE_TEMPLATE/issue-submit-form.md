@@ -16,6 +16,7 @@ assignees: ''
 <!-- Select The Issue Category(s) -->
 
 ### Issue(s):
+
 Type `x` in between `[ ]` and make sure there isn't any space between brackets. Example; for Your Selected Issue(s), type like this - `[x]` 
 You can select more than one category of issues if you need to!
 
@@ -27,12 +28,16 @@ You can select more than one category of issues if you need to!
 - [ ] Other Issue
 
 <!-- Type the **[x]** carefully -->
+
 <hr>
 
 ### Domain(s):
+
 If you are submitting this issue for whitelist/blacklist issue, send us the domain(s) for whitelisting/blacklisting here. Kindly use the **Code Tag** to prevent tracking.
 <!------------------ Type after this tag ------------------->
+
 - Domain(s):
+
 <!-- Type the domain(s) between ```  tags -->
 ```
 
@@ -46,10 +51,10 @@ example.com
 sub.example.com
 ```
 -->
+
 <hr>
 
 ### Detail:
-Write us a lil bit more about your issue or query. You can attach any screen shot or log of the issue or advert, this will help to highlight it.
 
 <!------------------ Type after this tag ------------------->
 - Your Issue Detail: 
