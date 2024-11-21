@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-20 15:41:13 UTC                        #
+# Last updated: 2024-11-20 20:21:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.aviationchartersolutions.com
+127.0.0.1	aviationchartersolutions.com
 127.0.0.1	nyciot.com
 127.0.0.1	segurofinalizar.shop
 127.0.0.1	badmiles.ddns.net
@@ -10650,4 +10652,4 @@
 127.0.0.1	airwide-land.com
 127.0.0.1	summerwaterhall.com
 127.0.0.1	fashionstune.com
-# Number of entries: 10644
+# Number of entries: 10646
