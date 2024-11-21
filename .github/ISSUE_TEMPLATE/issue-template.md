@@ -1,5 +1,5 @@
 ---
-name: Issue Submit Form
+name: Issue Template
 about: Issue Submit Form
 title: ''
 labels: ''
