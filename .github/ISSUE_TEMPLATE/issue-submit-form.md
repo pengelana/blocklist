@@ -48,6 +48,6 @@ sub.example.com
 <hr>
 
 <div align="center">
-  <h1>Thank you</h1>
+  <h2>Thank you</h2>
   <sub><a href="https://doh.tiar.app" target="_blank">Tiarap ⚡️</a></sub>
 </div>
