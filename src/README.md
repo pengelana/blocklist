@@ -134,18 +134,18 @@
 [ OK ]     2,295 src/blacklist/matomo_org_spammers.txt
 [ OK ]       896 src/blacklist/mitchellkrogza_phishing-domains-ACTIVE.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    45,901 src/blacklist/oisd_small.txt
+[ OK ]    45,893 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   252,989 src/blacklist/phishing_army_blocklist.txt
 [ OK ]       175 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   114,823 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   114,822 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,768 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ]   457,564 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    52,481 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]        10 src/blacklist/t_crowdstrike.txt
-[ OK ]       180 src/blacklist/t_dnstunneling.txt
+[ OK ]       181 src/blacklist/t_dnstunneling.txt
 [ OK ]        12 src/blacklist/t_fox_threatintel.txt
 [ OK ]     3,644 src/blacklist/t_judol.txt
 [ OK ]         6 src/blacklist/t_malwarebytes.txt
@@ -154,16 +154,16 @@
 [ OK ]         2 src/blacklist/t_redirect.txt
 [ OK ]     3,004 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,961,093
-Filter Duplicates   : 1,872,452
-Filter Whitelist    : 1,737,893
-Import Blacklist    : 1,738,389
-Compressed          : 1,459,578
+Total Blacklist     : 2,961,085
+Filter Duplicates   : 1,872,451
+Filter Whitelist    : 1,737,892
+Import Blacklist    : 1,738,388
+Compressed          : 1,459,577
 
    LENGTH     COUNT
         2 1,022,008
         3   376,385
-        4    40,194
+        4    40,193
         5    12,197
         6     3,661
         7     1,423
@@ -179,7 +179,7 @@ Compressed          : 1,459,578
        17         5
        19         4
 
-Total Blocklist     : 1,459,578
+Total Blocklist     : 1,459,577
 
 ~~~
 
