@@ -7,12 +7,6 @@ assignees: ''
 
 ---
 
-<h2 align="center">Issue Submit Form</h2>
-
-<div align="center">
-  Provide the following info properly, which will help us to resolve your issue quickly.
-</div>
-
 <!-- Select The Issue Category(s) -->
 
 ### Issue(s):
