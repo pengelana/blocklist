@@ -33,33 +33,24 @@ You can select more than one category of issues if you need to!
 
 ### Domain(s):
 
-If you are submitting this issue for whitelist/blacklist issue, send us the domain(s) for whitelisting/blacklisting here. Kindly use the **Code Tag** to prevent tracking.
+If you are submitting this issue for whitelist/blacklist issue, send us the domain(s) for whitelisting/blacklisting here. 
 <!------------------ Type after this tag ------------------->
 
 - Domain(s):
 
 <!-- Type the domain(s) between ```  tags -->
+
 ```
 
 ```
-<!------------------ Type before this tag ------------------>
-
-<!-- Example; for **Whitelisting/Blacklisting/Log** type at the beginning and ending of the list.
-
-```
-example.com
-sub.example.com
-```
--->
 
 <hr>
 
 ### Detail:
 
 <!------------------ Type after this tag ------------------->
-- Your Issue Detail: 
 
-
+- Your Issue Detail:
 
 
 <!------------------ Type before this tag ------------------>
