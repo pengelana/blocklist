@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-22 20:03:01 UTC                        #
+# Last updated: 2024-11-23 05:50:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sll.casacam.net
+127.0.0.1	just-in-timelog.com
+127.0.0.1	raw.igxhost.ru
+127.0.0.1	disco-la-cola.de
 127.0.0.1	ascii.seilodown.ru
 127.0.0.1	ai.seilodown.ru
 127.0.0.1	new.seilodown.ru
@@ -11019,5 +11023,4 @@
 127.0.0.1	hydeoutent.com
 127.0.0.1	spygate.myftp.biz
 127.0.0.1	www.bitdefenders.shop
-127.0.0.1	womendonotdothat.com
-# Number of entries: 11014
+# Number of entries: 11017
