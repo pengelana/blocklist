@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-24 07:19:09 UTC                        #
+# Last updated: 2024-11-24 09:06:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hospital-selling.gl.at.ply.gg
 127.0.0.1	rm.anonbaba.net
 127.0.0.1	anonbaba.net
 127.0.0.1	vlha.shop
@@ -11137,6 +11138,4 @@
 127.0.0.1	ec-web.staticec.com
 127.0.0.1	www.notepadplugin.top
 127.0.0.1	jqueryupdate1.confidantsoftware.com
-127.0.0.1	api.ziekte.news
-127.0.0.1	service-hvcrn7y8-1257783886.gz.tencentapigw.com.cn
-# Number of entries: 11133
+# Number of entries: 11132
