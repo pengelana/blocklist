@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-24 12:25:18 UTC                        #
+# Last updated: 2024-11-24 15:34:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sweethomejp.duckdns.org
+127.0.0.1	masakiku.thddns.net
+127.0.0.1	testhub.thddns.net
+127.0.0.1	okplus.thddns.net
+127.0.0.1	oslink.thddns.net
 127.0.0.1	vuau3v3z.top
 127.0.0.1	bi99ebz.top
 127.0.0.1	dsivhbuz383hbv.top
@@ -11139,8 +11144,4 @@
 127.0.0.1	vpn340948845.softether.net
 127.0.0.1	every-unnecessary.gl.at.ply.gg
 127.0.0.1	manymen7.ydns.eu
-127.0.0.1	sck.img.yunphui.com
-127.0.0.1	ec-web.staticec.com
-127.0.0.1	www.notepadplugin.top
-127.0.0.1	jqueryupdate1.confidantsoftware.com
-# Number of entries: 11137
+# Number of entries: 11138
