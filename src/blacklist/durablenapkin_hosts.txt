@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 2551
+# Domains: 2555
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -205,6 +205,7 @@
 0.0.0.0 avito.pay.com-id129041.info
 0.0.0.0 www.avito.pay.com-id129041.info
 0.0.0.0 store.avito.pay.com-id129041.info
+0.0.0.0 avito.sberbank.com-id123251.info
 0.0.0.0 avito.sberbank.www.booklng.com-id334112.com
 0.0.0.0 www.avito.sberbank.www.booklng.com-id334112.com
 0.0.0.0 store.avito.sberbank.www.booklng.com-id334112.com
@@ -424,6 +425,7 @@
 0.0.0.0 store.cheat-on.com
 0.0.0.0 check-update-today.me
 0.0.0.0 www.check-update-today.me
+0.0.0.0 store.check-update-today.me
 0.0.0.0 chesssorrydescend.com
 0.0.0.0 www.chesssorrydescend.com
 0.0.0.0 store.chesssorrydescend.com
@@ -484,6 +486,7 @@
 0.0.0.0 store.com-id129041.info
 0.0.0.0 com-id334112.com
 0.0.0.0 www.com-id334112.com
+0.0.0.0 store.com-id334112.com
 0.0.0.0 compoundexotics.com
 0.0.0.0 www.compoundexotics.com
 0.0.0.0 containably.com
@@ -562,9 +565,6 @@
 0.0.0.0 www.dautee.com
 0.0.0.0 dbkdsale.com
 0.0.0.0 www.dbkdsale.com
-0.0.0.0 dbmobile-phototan.de
-0.0.0.0 www.dbmobile-phototan.de
-0.0.0.0 store.dbmobile-phototan.de
 0.0.0.0 ddcad3.reviewgiftfb.com
 0.0.0.0 www.ddcad3.reviewgiftfb.com
 0.0.0.0 store.ddcad3.reviewgiftfb.com
@@ -827,8 +827,6 @@
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 www.folkrbvi.pages.dev
 0.0.0.0 store.folkrbvi.pages.dev
-0.0.0.0 foryourdears.com
-0.0.0.0 www.foryourdears.com
 0.0.0.0 free.nf
 0.0.0.0 www.free.nf
 0.0.0.0 store.free.nf
@@ -842,7 +840,7 @@
 0.0.0.0 www.freedom-ca-5g.com
 0.0.0.0 store.freedom-ca-5g.com
 0.0.0.0 freedom.service-update3.com
-0.0.0.0 www.freedomgift50.com
+0.0.0.0 store.freedomgift50.com
 0.0.0.0 frest.info
 0.0.0.0 www.frest.info
 0.0.0.0 store.frest.info
@@ -962,7 +960,6 @@
 0.0.0.0 haowei.me
 0.0.0.0 www.haowei.me
 0.0.0.0 haruko.store
-0.0.0.0 www.haruko.store
 0.0.0.0 store.haruko.store
 0.0.0.0 headsets4business.co.uk
 0.0.0.0 www.headsets4business.co.uk
@@ -1013,6 +1010,7 @@
 0.0.0.0 i-visaindia.com
 0.0.0.0 www.i-visaindia.com
 0.0.0.0 iaqorwr.com
+0.0.0.0 iceao.shop
 0.0.0.0 icelandclothing.myshopify.com
 0.0.0.0 www.icelandclothing.myshopify.com
 0.0.0.0 store.icelandclothing.myshopify.com
@@ -1495,7 +1493,7 @@
 0.0.0.0 navi40.com
 0.0.0.0 www.navi40.com
 0.0.0.0 store.navi40.com
-0.0.0.0 www.navi42.ru
+0.0.0.0 store.navi42.ru
 0.0.0.0 navi45.ru
 0.0.0.0 www.navi45.ru
 0.0.0.0 navi5.com
@@ -1525,9 +1523,15 @@
 0.0.0.0 navi72.ru
 0.0.0.0 www.navi72.ru
 0.0.0.0 store.navi72.ru
+0.0.0.0 www.navi73.ru
+0.0.0.0 www.navi75.ru
+0.0.0.0 store.navi75.ru
+0.0.0.0 www.navi76.ru
 0.0.0.0 navi77.com
 0.0.0.0 www.navi77.com
 0.0.0.0 store.navi77.com
+0.0.0.0 navi77.ru
+0.0.0.0 www.navi77.ru
 0.0.0.0 navi78.ru
 0.0.0.0 www.navi78.ru
 0.0.0.0 store.navi78.ru
@@ -2222,6 +2226,9 @@
 0.0.0.0 store.tesla-online.net
 0.0.0.0 teslafond.io
 0.0.0.0 teslamaked.com
+0.0.0.0 the-north-face.gr
+0.0.0.0 www.the-north-face.gr
+0.0.0.0 store.the-north-face.gr
 0.0.0.0 theeaglebrand.company.site
 0.0.0.0 www.theeaglebrand.company.site
 0.0.0.0 store.theeaglebrand.company.site
@@ -2546,9 +2553,6 @@
 0.0.0.0 store.zaz4o.securesolidlink.com
 0.0.0.0 zedbubble.com
 0.0.0.0 www.zedbubble.com
-0.0.0.0 zerowasteinitiative.com
-0.0.0.0 www.zerowasteinitiative.com
-0.0.0.0 store.zerowasteinitiative.com
 0.0.0.0 zillify.cfd
 0.0.0.0 www.zillify.cfd
 0.0.0.0 zolrqw.palatlaldate.com
