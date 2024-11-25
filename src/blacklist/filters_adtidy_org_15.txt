@@ -1,9 +1,9 @@
-! Checksum: 8EKRiwGVBvGKgz4XkNMrxQ
-! Diff-Path: ../patches/15/15-s-1732495061-3600.patch
+! Checksum: NoUINp/CYIpvjiOpbGEDHA
+! Diff-Path: ../patches/15/15-s-1732538395-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.73.21
-! TimeUpdated: 2024-11-25T00:34:10+00:00
+! Version: 2.0.73.23
+! TimeUpdated: 2024-11-25T12:35:59+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-25T00:03:20.880Z
+! Last modified: 2024-11-25T12:01:45.436Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -52986,6 +52986,10 @@ inapps.appsflyersdk.com^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||uldaens.com^
+||qidzwhfp.icu^
+||aizhantj.com^
+||g41i.icu^
+||tweizai.top^
 ||lipheak.com^
 ||xcwdcynb.icu^
 ||wweizae.top^
@@ -58869,6 +58873,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 !
+||aedi.ai^
 ||mobon.net^
 ||nhnace.com^
 ||middlepoint.co.kr^
