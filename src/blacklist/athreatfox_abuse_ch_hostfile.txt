@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-24 15:34:53 UTC                        #
+# Last updated: 2024-11-25 05:54:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	b2een.xyz
+127.0.0.1	testprodad.duckdns.org
+127.0.0.1	sokopar55.store
 127.0.0.1	sweethomejp.duckdns.org
 127.0.0.1	masakiku.thddns.net
 127.0.0.1	testhub.thddns.net
@@ -11142,4 +11145,4 @@
 127.0.0.1	smlivin.com
 127.0.0.1	tiktokshoppro.shop
 127.0.0.1	vpn340948845.softether.net
-# Number of entries: 11136
+# Number of entries: 11139
