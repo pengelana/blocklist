@@ -9,7 +9,7 @@
 [ OK ]    25,799 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       698 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]   277,846 src/blacklist/GoodbyeAds.txt
-[ OK ]    82,336 src/blacklist/KADhosts.txt
+[ OK ]    82,350 src/blacklist/KADhosts.txt
 [ OK ]         8 src/blacklist/LanikSJ_popads-domains.txt
 [ OK ]       318 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]     8,167 src/blacklist/NRD_phishing-30day.txt
@@ -46,7 +46,7 @@
 [NOK ]        15 src/blacklist/blocklists-crowdstrike.txt
 [NOK ]        18 src/blacklist/blocklists-csirt.txt
 [NOK ]         0 src/blacklist/blocklists-cyberint.txt
-[ OK ]       905 src/blacklist/blocklists-cyble.txt
+[ OK ]       914 src/blacklist/blocklists-cyble.txt
 [ OK ]       135 src/blacklist/blocklists-cyfirma.txt
 [NOK ]         0 src/blacklist/blocklists-d3lab.txt
 [ OK ]       116 src/blacklist/blocklists-deepinstinct.txt
@@ -118,7 +118,7 @@
 [NOK ]         0 src/blacklist/blocklists-withsecure.txt
 [ OK ]        82 src/blacklist/blocklists-yarix.txt
 [ OK ]       202 src/blacklist/blocklists-yoroi.txt
-[ OK ]     1,712 src/blacklist/blocklists-zscaler.txt
+[ OK ]     1,715 src/blacklist/blocklists-zscaler.txt
 [ OK ]       833 src/blacklist/craiu_list.txt
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]     2,493 src/blacklist/durablenapkin_hosts.txt
@@ -145,7 +145,7 @@
 [ OK ]   252,963 src/blacklist/phishing_army_blocklist.txt
 [ OK ]       172 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   114,776 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   114,974 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,769 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ]   460,279 src/blacklist/stamparm_maltrail-malware-domains.txt
@@ -161,16 +161,16 @@
 [ OK ]         2 src/blacklist/t_redirect.txt
 [ OK ]     3,010 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 3,429,143
-Filter Duplicates   : 2,115,600
-Filter Whitelist    : 1,980,359
-Import Blacklist    : 1,980,864
-Compressed          : 1,623,735
+Total Blacklist     : 3,429,367
+Filter Duplicates   : 2,115,832
+Filter Whitelist    : 1,980,591
+Import Blacklist    : 1,981,097
+Compressed          : 1,623,962
 
    LENGTH     COUNT
-        2 1,024,505
-        3   468,407
-        4   103,858
+        2 1,024,709
+        3   468,428
+        4   103,860
         5    17,363
         6     4,357
         7     1,528
@@ -186,7 +186,7 @@ Compressed          : 1,623,735
        17         5
        19         4
 
-Total Blocklist     : 1,623,735
+Total Blocklist     : 1,623,962
 
 ~~~
 
