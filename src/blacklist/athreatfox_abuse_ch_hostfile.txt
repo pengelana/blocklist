@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-25 18:32:03 UTC                        #
+# Last updated: 2024-11-26 06:32:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	electrum-sol.org
+127.0.0.1	www.electrum-sol.org
+127.0.0.1	electrum-doge.org
+127.0.0.1	www.electrum-sol.org
+127.0.0.1	crypto-way.pro
+127.0.0.1	naturealmikaly.sytes.net
+127.0.0.1	pozza.cyou
+127.0.0.1	nastictac.com
 127.0.0.1	notificacionpdf.duckdns.org
 127.0.0.1	oooptesg.duckdns.org
 127.0.0.1	ai-agiqt.com
@@ -11141,7 +11149,4 @@
 127.0.0.1	729231cm.n9shteam1.top
 127.0.0.1	86t7b9br9.ddns.net
 127.0.0.1	njratnew.duckdns.org
-127.0.0.1	ec2-65-2-129-159.ap-south-1.compute.amazonaws.com
-127.0.0.1	botuser0.duckdns.org
-127.0.0.1	botusesr472.duckdns.org
-# Number of entries: 11138
+# Number of entries: 11143
