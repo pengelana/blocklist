@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-27 07:23:01 UTC                        #
+# Last updated: 2024-11-27 12:42:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hydroquebec-client.info
 127.0.0.1	weeatsome.com
 127.0.0.1	z-v2-071924.kailib.com
 127.0.0.1	vidar.cc
@@ -11120,15 +11121,4 @@
 127.0.0.1	mofamail.shop
 127.0.0.1	apcorp.homes
 127.0.0.1	10xshares.com
-127.0.0.1	bookmycooks.com
-127.0.0.1	main.cloudfronts.net
-127.0.0.1	dash.cloudflare.ovh
-127.0.0.1	control-road.gl.at.ply.gg
-127.0.0.1	www.dnacharting.com
-127.0.0.1	dzjs.ceshi.ink
-127.0.0.1	arcade.shinjiku.xyz
-127.0.0.1	service-hjsbgio3-1324325235.cd.tencentapigw.com
-127.0.0.1	shellmanaggggger.com
-127.0.0.1	unio.bumbleshrimp.com
-127.0.0.1	jnmanymen.ydns.eu
-# Number of entries: 11125
+# Number of entries: 11115
