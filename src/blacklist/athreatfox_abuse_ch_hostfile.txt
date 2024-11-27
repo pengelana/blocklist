@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-26 14:21:16 UTC                        #
+# Last updated: 2024-11-27 07:23:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	weeatsome.com
+127.0.0.1	z-v2-071924.kailib.com
+127.0.0.1	vidar.cc
+127.0.0.1	frogmen-smell.sbs
 127.0.0.1	bsfchile.com
 127.0.0.1	mytlcjobs.com
 127.0.0.1	freeaccessclinic.com
@@ -11127,4 +11131,4 @@
 127.0.0.1	shellmanaggggger.com
 127.0.0.1	unio.bumbleshrimp.com
 127.0.0.1	jnmanymen.ydns.eu
-# Number of entries: 11121
+# Number of entries: 11125
