@@ -1,9 +1,9 @@
-! Checksum: sIgMbWtqXIygRpmhBslbGw
-! Diff-Path: ../patches/15/15-s-1732797773-3600.patch
+! Checksum: pRlOIUd5Pdzp/deISuti4Q
+! Diff-Path: ../patches/15/15-s-1732819042-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.73.36
-! TimeUpdated: 2024-11-28T12:39:00+00:00
+! Version: 2.0.73.37
+! TimeUpdated: 2024-11-28T18:34:07+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-28T12:25:13.059Z
+! Last modified: 2024-11-28T18:01:22.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12568,6 +12568,7 @@ vkcdnservice.appspot.com^
 ||hentaionline.net^
 ||heoidln.com^
 ||heparlorne.org^
+||hephungoomsapoo.net^
 ||hepk-gmwitvk.world^
 ||hepsaign.com^
 ||heptix.net^
@@ -14302,6 +14303,7 @@ vkcdnservice.appspot.com^
 ||joudotee.com^
 ||jouj-equar.one^
 ||joukaglie.com^
+||joupheewuci.net^
 ||jouteetu.net^
 ||jouwaikekaivep.net^
 ||jouwhoanepoob.xyz^
@@ -14544,6 +14546,7 @@ vkcdnservice.appspot.com^
 ||keegooch.com^
 ||keemuhoagou.com^
 ||keen-slip.com^
+||keenmagwife.live^
 ||keenmosquitosadly.com^
 ||keephoamoaph.com^
 ||keepinfit.net^
@@ -14605,6 +14608,7 @@ vkcdnservice.appspot.com^
 ||kgfjrb711.com^
 ||kgfrstw.com^
 ||kgiulbvj.com^
+||kgvvvgxtvi.rocks^
 ||kgyhxdh.com^
 ||kh-bkcvqxc.online^
 ||khangalenten.click^
@@ -15068,6 +15072,7 @@ vkcdnservice.appspot.com^
 ||ldedallover.info^
 ||ldimnveryldgitwe.xyz^
 ||ldjcteyoq.com^
+||ldjudcpc-qxm.icu^
 ||ldmeukeuktyoue.com^
 ||ldrendreaming.info^
 ||ldthinkhimun.com^
@@ -20104,6 +20109,7 @@ vkcdnservice.appspot.com^
 ||privilegedvitaminimpassable.com^
 ||privilegeinjurefidelity.com^
 ||privilegest.com^
+||prizefrenzy.top^
 ||prizegrantedrevision.com^
 ||prizel.com^
 ||prksism.com^
@@ -30382,6 +30388,7 @@ vkcdnservice.appspot.com^
 ||datacluster.club^
 ||dtrk.slimcdn.com^
 ||dunhilltraveldeals.com^
+||ebayrtm.com^
 ||eclipse-adblocker.pro^
 ||epnt.ebay.com^
 ||escape.insites.eu^
@@ -39150,6 +39157,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||log-va-us-looki.capcutapi.com^
+||analytics.hardlightgames.com^
 ||plankton-gtm.a.autoscout24.com^
 ||pangle-b.io^
 ||receiver.habby.mobi^
@@ -51833,6 +51842,8 @@ inapps.appsflyersdk.com^
 ||y7ts.icu^
 ||yuanzunxs1.com^
 ||z9k7.icu^
+||hdamcsu.top^
+||qovith.com^
 ||khastreol.com^
 ||gokrafxr.icu^
 ||9xxy.icu^
