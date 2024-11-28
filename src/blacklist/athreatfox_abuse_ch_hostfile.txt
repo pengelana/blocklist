@@ -1,11 +1,74 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-27 21:06:54 UTC                        #
+# Last updated: 2024-11-28 06:01:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	electrum-trx.com
+127.0.0.1	electrum-trx.org
+127.0.0.1	electrum-xtz.org
+127.0.0.1	electrum-xtz.com
+127.0.0.1	eth-electrum.com
+127.0.0.1	electrum-usdt.org
+127.0.0.1	electrum-abc.org
+127.0.0.1	electrum-abc.com
+127.0.0.1	electrum-verge.org
+127.0.0.1	electrum-bsv.com
+127.0.0.1	electrum-waves.com
+127.0.0.1	electrum-zeta.com
+127.0.0.1	electrum-atom.com
+127.0.0.1	electrum-neo.org
+127.0.0.1	electrum-bnb.com
+127.0.0.1	electrum-verge.com
+127.0.0.1	electrum-near.org
+127.0.0.1	get-electrum.org
+127.0.0.1	electrum-dgb.com
+127.0.0.1	electrum-ethereum.com
+127.0.0.1	electrum-xec.org
+127.0.0.1	electrum-xec.com
+127.0.0.1	electrum-xlm.org
+127.0.0.1	xrp-electrum.com
+127.0.0.1	xrp-electrum.org
+127.0.0.1	electrum-ltc.com
+127.0.0.1	electrum-xvg.com
+127.0.0.1	info-electrum.org
+127.0.0.1	electrum-ce.com
+127.0.0.1	electrum-apt.org
+127.0.0.1	electrum-ce.org
+127.0.0.1	btc-electrum.com
+127.0.0.1	electrum-bsv.org
+127.0.0.1	electrum-usdc.org
+127.0.0.1	electrum-lcc.org
+127.0.0.1	usdt-electrum.org
+127.0.0.1	electrum-en.org
+127.0.0.1	electrum-support.net
+127.0.0.1	electrum-eth.net
+127.0.0.1	electrum-doge.net
+127.0.0.1	electrum-dash.net
+127.0.0.1	wins.coemprsasltda.pro
+127.0.0.1	elitexrebirth.elite-api.su
+127.0.0.1	electrum-zeta.org
+127.0.0.1	electrum-iota.com
+127.0.0.1	electrum-xtz.org
+127.0.0.1	electrum-atom.org
+127.0.0.1	electrum-iota.org
+127.0.0.1	electrum-iota.com
+127.0.0.1	electrum-atom.org
+127.0.0.1	electrum-bnb.org
+127.0.0.1	electrum-ronin.org
+127.0.0.1	electrum-trx.org
+127.0.0.1	electrum-waves.org
+127.0.0.1	electrum-neo.com
+127.0.0.1	electrum-ada.org
+127.0.0.1	librari-night.sbs
+127.0.0.1	befall-sm0ker.sbs
+127.0.0.1	owner-vacat10n.sbs
+127.0.0.1	tripeggyun.fun
+127.0.0.1	librari-night.sbs
+127.0.0.1	befall-sm0ker.sbs
+127.0.0.1	owner-vacat10n.sbs
 127.0.0.1	renajazinw.duckdns.org
 127.0.0.1	controle-pagina.duckdns.org
 127.0.0.1	kunbrhtjrtj1.duckdns.org
@@ -11300,13 +11363,4 @@
 127.0.0.1	tor-exit1.identitynetwork.top
 127.0.0.1	identitynetwork.top
 127.0.0.1	proxies.identitynetwork.top
-127.0.0.1	lolibes.nut.cc
-127.0.0.1	fiseriy.nut.cc
-127.0.0.1	x555hd.ddns.net
-127.0.0.1	unikorea.go.ci
-127.0.0.1	kakaoaccouts.store
-127.0.0.1	mofamail.homes
-127.0.0.1	mofamail.shop
-127.0.0.1	apcorp.homes
-127.0.0.1	10xshares.com
-# Number of entries: 11303
+# Number of entries: 11357
