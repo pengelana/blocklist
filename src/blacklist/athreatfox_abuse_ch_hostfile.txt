@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-28 06:01:17 UTC                        #
+# Last updated: 2024-11-28 09:11:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	main.solinvictus.pw
+127.0.0.1	studio.lacrenshawcrossing.com
 127.0.0.1	electrum-trx.com
 127.0.0.1	electrum-trx.org
 127.0.0.1	electrum-xtz.org
@@ -11351,16 +11353,4 @@
 127.0.0.1	w.sanfor.club
 127.0.0.1	super.shoppro.fun
 127.0.0.1	erxst.info
-127.0.0.1	service-b8dmmmy2-1318428097.gz.tencentapigw.com.cn
-127.0.0.1	coinbasenftapp.com
-127.0.0.1	test.fynndows.de
-127.0.0.1	myra.re
-127.0.0.1	cnc.bobungbu.com
-127.0.0.1	readmemag.com
-127.0.0.1	backup.identitynetwork.top
-127.0.0.1	backupnet.identitynetwork.top
-127.0.0.1	srv.identitynetwork.top
-127.0.0.1	tor-exit1.identitynetwork.top
-127.0.0.1	identitynetwork.top
-127.0.0.1	proxies.identitynetwork.top
-# Number of entries: 11357
+# Number of entries: 11347
