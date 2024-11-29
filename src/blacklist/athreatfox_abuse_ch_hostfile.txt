@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-28 18:24:58 UTC                        #
+# Last updated: 2024-11-29 08:42:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hearforpower.org
+127.0.0.1	blessedwirrow.org
+127.0.0.1	smthwentwrong.com
+127.0.0.1	fushishandm.info
+127.0.0.1	mirailogin.xyz
+127.0.0.1	kotov.lol
 127.0.0.1	canstlr.xyz
 127.0.0.1	canstealer.com
 127.0.0.1	lumhiddenforest.shop
@@ -11362,8 +11368,4 @@
 127.0.0.1	responsiveuikit.com
 127.0.0.1	burdurpastane.com
 127.0.0.1	scada.paradizeconstruction.com
-127.0.0.1	jupyterlab.site
-127.0.0.1	ciston.nut.cc
-127.0.0.1	blockworks.one
-127.0.0.1	tokenworks.io
-# Number of entries: 11360
+# Number of entries: 11362
