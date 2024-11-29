@@ -1,9 +1,9 @@
-! Checksum: pRlOIUd5Pdzp/deISuti4Q
-! Diff-Path: ../patches/15/15-s-1732819042-3600.patch
+! Checksum: pxxvenwufjG/TMibLGosvg
+! Diff-Path: ../patches/15/15-s-1732833443-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.73.37
-! TimeUpdated: 2024-11-28T18:34:07+00:00
+! Version: 2.0.73.38
+! TimeUpdated: 2024-11-28T22:33:59+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-28T18:01:22.967Z
+! Last modified: 2024-11-28T22:26:11.511Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6137,6 +6137,7 @@ vkcdnservice.appspot.com^
 ||caistireew.net^
 ||caitoasece.com^
 ||caiwauchegee.net^
+||caizaipt.net^
 ||caizutoh.xyz^
 ||cakangautchus.net^
 ||calamitydisc.com^
@@ -6231,6 +6232,7 @@ vkcdnservice.appspot.com^
 ||caraganaarborescenspendula.com^
 ||caravancomplimentenabled.com^
 ||caravanfried.com^
+||caravanremarried.com^
 ||caravelvirent.com^
 ||carbonads.com^
 ||carcflma.de^
@@ -7793,6 +7795,7 @@ vkcdnservice.appspot.com^
 ||culmedpasses.cam^
 ||cultergoy.com^
 ||culturalcollectvending.com^
+||cumbersomeduty.pro^
 ||cumbersomesteedominous.com^
 ||cunealfume.shop^
 ||cupboardbangingcaptain.com^
@@ -12003,6 +12006,7 @@ vkcdnservice.appspot.com^
 ||greecewizards.com^
 ||greedcocoatouchy.com^
 ||greedrum.net^
+||greedyfire.com^
 ||greeftougivy.com^
 ||greekmankind.com^
 ||greekroo.xyz^
@@ -13068,6 +13072,7 @@ vkcdnservice.appspot.com^
 ||humremjobvipfun.com^
 ||humro.site^
 ||humsoolt.net^
+||hunchbackconebelfry.com^
 ||hunchbackrussiancalculated.com^
 ||hunchmotherhooddefine.com^
 ||hunchnorthstarts.com^
@@ -15774,6 +15779,7 @@ vkcdnservice.appspot.com^
 ||lxkzcss.xyz^
 ||lxlpoydodf.com^
 ||lxnkuie.com^
+||lxqjy-obtr.love^
 ||lxstat.com^
 ||lycopuscris.com^
 ||lycoty.com^
@@ -17795,6 +17801,7 @@ vkcdnservice.appspot.com^
 ||nzfhloo.com^
 ||nzme-ads.co.nz^
 ||nzuebfy.com^
+||o-jmzsoafs.global^
 ||o-mvlwdxr.icu^
 ||o-oo.ooo^
 ||o18.click^
@@ -18015,6 +18022,7 @@ vkcdnservice.appspot.com^
 ||ofnkswddtp.xyz^
 ||ofphanpytor.com^
 ||ofqopmnpia.com^
+||ofredirect.com^
 ||ofseedotom.com^
 ||ofslakotha.com^
 ||ofsnoveran.com^
@@ -24147,6 +24155,7 @@ vkcdnservice.appspot.com^
 ||studiedabbey.com^
 ||studious-beer.com^
 ||studiouspassword.com^
+||stuffedbeforehand.com^
 ||stuffedprofessional.com^
 ||stuffinglimefuzzy.com^
 ||stuffintolerableillicit.com^
@@ -45496,7 +45505,6 @@ inapps.appsflyersdk.com^
 ||api.adfenix.com^
 ||api.getlevelten.com^
 ||api.lab.eu.amplitude.com^
-||api.rudderstack.com^
 ||app.converdiant.com^
 ||app.truconversion.com^
 ||apps.shareaholic.com^
