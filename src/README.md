@@ -122,10 +122,10 @@
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
 [ OK ]       192 src/blacklist/dnstunneling_t.txt
-[ OK ]        39 src/blacklist/dood_t.txt
+[ OK ]        41 src/blacklist/dood_t.txt
 [ OK ]     2,504 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,890 src/blacklist/easylist_adservers_popup.txt
-[ OK ]    56,796 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]    56,858 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
 [ OK ]    12,220 src/blacklist/hagezi_fake.txt
@@ -140,7 +140,7 @@
 [ OK ]   171,122 src/blacklist/jarelllama_domains.txt
 [ OK ]     3,644 src/blacklist/judol_t.txt
 [ OK ]     1,094 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
-[ OK ]       338 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
+[ OK ]       349 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]         6 src/blacklist/malwarebytes_t.txt
 [ OK ]        89 src/blacklist/malwarhunterteam_t.txt
 [ OK ]     2,296 src/blacklist/matomo_org_spammers.txt
@@ -148,7 +148,7 @@
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]    45,643 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]   255,199 src/blacklist/phishing_army_blocklist.txt
+[ OK ]   255,119 src/blacklist/phishing_army_blocklist.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       172 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]         2 src/blacklist/redirect_t.txt
@@ -157,18 +157,18 @@
 [ OK ]    11,769 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ]   460,788 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]    52,583 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]    52,591 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,021 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 3,158,785
-Filter Duplicates   : 2,064,828
-Filter Whitelist    : 1,930,173
-Import Blacklist    : 1,930,682
-Compressed          : 1,606,107
+Total Blacklist     : 3,158,788
+Filter Duplicates   : 2,064,808
+Filter Whitelist    : 1,930,153
+Import Blacklist    : 1,930,662
+Compressed          : 1,606,099
 
    LENGTH     COUNT
-        2 1,027,848
-        3   453,190
+        2 1,027,856
+        3   453,174
         4    98,064
         5    17,529
         6     4,195
@@ -185,7 +185,7 @@ Compressed          : 1,606,107
        17         5
        19         4
 
-Total Blocklist     : 1,606,107
+Total Blocklist     : 1,606,099
 
 ~~~
 
