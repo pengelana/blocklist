@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-11-26 05:31:41 CET
-# entries:        1094
+# last updated:   2024-11-30 05:51:46 CET
+# entries:        1099
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -954,6 +954,7 @@
 127.0.0.1 tracking.falukuriren.se
 127.0.0.1 tracking.fasab6f.se
 127.0.0.1 tracking.fastighetsnytt.se
+127.0.0.1 tracking.folkracepuls.se
 127.0.0.1 tracking.gd.se
 127.0.0.1 tracking.hd.se
 127.0.0.1 tracking.ht.se
@@ -962,6 +963,7 @@
 127.0.0.1 tracking.jp.se
 127.0.0.1 tracking.kalmarposten.se
 127.0.0.1 tracking.klt.nu
+127.0.0.1 tracking.kpwebben.se
 127.0.0.1 tracking.kristianstadsbladet.se
 127.0.0.1 tracking.ljusdalsposten.se
 127.0.0.1 tracking.ljusnan.se
@@ -971,11 +973,14 @@
 127.0.0.1 tracking.meraosterlen.se
 127.0.0.1 tracking.missaffiliate.com
 127.0.0.1 tracking.moratidning.se
+127.0.0.1 tracking.morgonexpressen.se
 127.0.0.1 tracking.na.se
 127.0.0.1 tracking.norrteljetidning.se
 127.0.0.1 tracking.nsk.se
 127.0.0.1 tracking.nvp.se
 127.0.0.1 tracking.nyaludvikatidning.se
+127.0.0.1 tracking.nyhetstjansterna.dagensmedicin.se
+127.0.0.1 tracking.nyhetstjansterna.di.se
 127.0.0.1 tracking.nynashamnsposten.se
 127.0.0.1 tracking.olandsbladet.se
 127.0.0.1 tracking.omniture.nt.se
