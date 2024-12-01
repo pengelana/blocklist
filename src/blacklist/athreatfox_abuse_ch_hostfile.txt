@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-01 08:31:36 UTC                        #
+# Last updated: 2024-12-01 13:39:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	botnet.arismstress.us
+127.0.0.1	arismstress.us
+127.0.0.1	arismstress.us
+127.0.0.1	botnet.arismstress.us
 127.0.0.1	aback-sliders.cyou
 127.0.0.1	abate-seekyer.cyou
 127.0.0.1	abusive-fight.cyou
@@ -11543,4 +11547,4 @@
 127.0.0.1	lamayokohama.shop
 127.0.0.1	drinkresources.rest
 127.0.0.1	haul.duckdns.org
-# Number of entries: 11537
+# Number of entries: 11541
