@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-01 13:39:00 UTC                        #
+# Last updated: 2024-12-02 08:09:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	trc20.kcgrocks.com
+127.0.0.1	melkie.cyou
+127.0.0.1	cloud.sentinelonebit.com
 127.0.0.1	botnet.arismstress.us
 127.0.0.1	arismstress.us
 127.0.0.1	arismstress.us
@@ -11544,7 +11547,4 @@
 127.0.0.1	static.nvidiadrives.com
 127.0.0.1	namex-na.com
 127.0.0.1	www.040.red
-127.0.0.1	lamayokohama.shop
-127.0.0.1	drinkresources.rest
-127.0.0.1	haul.duckdns.org
 # Number of entries: 11541

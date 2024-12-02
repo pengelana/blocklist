@@ -3202,6 +3202,8 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||officialxai.com^$all
 ! https://www.reddit.com/r/CryptoScams/comments/1h3yph4/xai_presale_scam/
 ||xaicrypto.org^$all
+! https://www.reddit.com/r/CryptoScams/comments/1h4mvx9/xai_scams_dont_trust_jesse_eckel_youtube_and/
+||youtube.com/@jesseeckel5^$doc
 
 ||arbitragebot.team^$all
 ||arbitrageinstruction.media^$all
@@ -4077,8 +4079,6 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ! https://www.virustotal.com/gui/url/746e7d7310e64b2ecc19a2d26bc053c2a9c54903a53363f05d090a9e490b0652
 ||programajourney.com^$all,to=~bbva.pt
 
-! targobank
-||targobank-kontowechselservice.de^$all,to=~targobank.de
 ! https://www.virustotal.com/gui/url/1125c38e9f48cabcb0214a0de3c102d760850bf01d4b557ee65c023fa9b40188
 ||mybluehost.me/meke/cc/clients/$doc,to=~targobank.de
 
@@ -6154,3 +6154,11 @@ uploadfox.net###ad-gs-05
 ||soreloutletblackfriday.com^$all,to=~sorel.com
 ||jcrewblackfriday.com^$all,to=~jcrew.com
 ||hottest-bag.com^$all,to=~louisvuitton.com
+
+! https://blog.eclecticiq.com/inside-intelligence-center-financially-motivated-chinese-threat-actor-silkspecter-targeting-black-friday-shoppers
+||dopeblackfriday.shop^$all
+||llbeanblackfridays.shop^$all,to=~llbean.com
+||makitablackfriday.shop^$all,to=~makitatools.com
+||eu-blochdance.shop^$all,to=~blochworld.com
+||ikea-euonline.com^$all,to=~ikea.com
+||gardena-eu.com^$all,to=~gardena.com
