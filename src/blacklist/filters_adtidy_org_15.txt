@@ -1,9 +1,9 @@
-! Checksum: 8rwKSRKCz6xtIUzY3RTHBw
-! Diff-Path: ../patches/15/15-s-1733207911-3600.patch
+! Checksum: LpcuFV+JSg48nB8+JiueaQ
+! Diff-Path: ../patches/15/15-s-1733222261-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.73.56
-! TimeUpdated: 2024-12-03T06:35:14+00:00
+! Version: 2.0.73.57
+! TimeUpdated: 2024-12-03T10:34:12+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-03T06:01:22.218Z
+! Last modified: 2024-12-03T09:53:47.274Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -45221,7 +45221,6 @@ inapps.appsflyersdk.com^
 ||codes.wai.it^
 ||conative.de^
 ||connects.ch^
-||cpdsrv.de^
 ||crmpilot.it^
 ||cuiron.de^
 ||cussixia.de^
@@ -46721,8 +46720,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Dec 2024 15:05 UTC+7
-! OriginalVersion: 2412021505
+! Last modified: 03 Dec 2024 14:04 UTC+7
+! OriginalVersion: 2412031404
 ! Blocked: 932 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -47593,8 +47592,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 02 Dec 2024 15:06 UTC+7
-! OriginalVersion: 2412021506
+! Last modified: 03 Dec 2024 14:04 UTC+7
+! OriginalVersion: 2412031404
 ! Blocked: 4,694 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/

@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-03 06:59:27 UTC                        #
+# Last updated: 2024-12-03 11:14:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cities-constraints.gl.at.ply.gg
 127.0.0.1	rechnungsportal.sbs
 127.0.0.1	ggstor.shop
 127.0.0.1	dvlref.online
@@ -11552,7 +11553,4 @@
 127.0.0.1	theonelartist.com
 127.0.0.1	load.memoryloader.com
 127.0.0.1	memoryloader.com
-127.0.0.1	baqebei1.online
-127.0.0.1	d1x9q8w2e4.xyz
-127.0.0.1	cdnforfiles.xyz
-# Number of entries: 11549
+# Number of entries: 11547
