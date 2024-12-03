@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-02 18:18:51 UTC                        #
+# Last updated: 2024-12-03 06:59:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rechnungsportal.sbs
+127.0.0.1	ggstor.shop
+127.0.0.1	dvlref.online
+127.0.0.1	haxorbaba.duckdns.org
+127.0.0.1	lemon.geoiplookup.live
+127.0.0.1	loans-hamburg.gl.at.ply.gg
+127.0.0.1	cnet-contracting.gl.at.ply.gg
 127.0.0.1	ecs-123-60-164-87.compute.hwclouds-dns.com
 127.0.0.1	ancientlum.com
 127.0.0.1	stickintial.cyou
@@ -262,10 +269,6 @@
 127.0.0.1	beta.my-odin.com
 127.0.0.1	my-odin.com
 127.0.0.1	my-odin.top
-127.0.0.1	hearforpower.org
-127.0.0.1	blessedwirrow.org
-127.0.0.1	smthwentwrong.com
-127.0.0.1	fushishandm.info
 127.0.0.1	mirailogin.xyz
 127.0.0.1	kotov.lol
 127.0.0.1	canstlr.xyz
@@ -289,7 +292,6 @@
 127.0.0.1	01.symsym.info
 127.0.0.1	4i9o.l.time4vps.cloud
 127.0.0.1	lustcdn.ru
-127.0.0.1	main.solinvictus.pw
 127.0.0.1	studio.lacrenshawcrossing.com
 127.0.0.1	electrum-trx.com
 127.0.0.1	electrum-trx.org
@@ -539,17 +541,11 @@
 127.0.0.1	viking-liife.com
 127.0.0.1	studioclic53.com
 127.0.0.1	moneroapi.info
-127.0.0.1	dncoding.com
-127.0.0.1	pweobmxdlboi.com
 127.0.0.1	premiosdosul.com
-127.0.0.1	hydroquebec-client.info
 127.0.0.1	weeatsome.com
 127.0.0.1	z-v2-071924.kailib.com
 127.0.0.1	vidar.cc
 127.0.0.1	frogmen-smell.sbs
-127.0.0.1	bsfchile.com
-127.0.0.1	mytlcjobs.com
-127.0.0.1	freeaccessclinic.com
 127.0.0.1	www.syofi.com
 127.0.0.1	blaekindustry.com
 127.0.0.1	electrum-sol.org
@@ -11559,9 +11555,4 @@
 127.0.0.1	baqebei1.online
 127.0.0.1	d1x9q8w2e4.xyz
 127.0.0.1	cdnforfiles.xyz
-127.0.0.1	lldl.xyz
-127.0.0.1	llcl.xyz
-127.0.0.1	llal.xyz
-127.0.0.1	pendarcc.ir
-127.0.0.1	b35977a00ebd8086.safe1.lat
-# Number of entries: 11558
+# Number of entries: 11549
