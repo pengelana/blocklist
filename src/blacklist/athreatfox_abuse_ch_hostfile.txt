@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-03 19:13:56 UTC                        #
+# Last updated: 2024-12-04 10:00:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	blackshelter.org
+127.0.0.1	fileoutput.pro
+127.0.0.1	flagsair.com
+127.0.0.1	nfcgov.com
+127.0.0.1	kresk.lol
+127.0.0.1	rt.mod0.ch
+127.0.0.1	sleepy-khorana.193-239-86-216.plesk.page
+127.0.0.1	browser.crsdorg.in
+127.0.0.1	xn--noo-k5y.com
 127.0.0.1	www.yijie.ltd
 127.0.0.1	touduanyiyuan.bugmakerx.cn
 127.0.0.1	pescador.twoko.io
@@ -11921,11 +11930,4 @@
 127.0.0.1	simonandschuster.shop
 127.0.0.1	ulysse-cazabonne.cam
 127.0.0.1	service-nshpe3hn-1303962289.sh.tencentapigw.com
-127.0.0.1	bc.hipool.shop
-127.0.0.1	service-47u9brah-1326578525.cd.tencentapigw.com
-127.0.0.1	languangjob.com
-127.0.0.1	voip.analytics-edges.com
-127.0.0.1	wear626.com
-127.0.0.1	win32.duckdns.org
-127.0.0.1	so-taxi.gl.at.ply.gg
-# Number of entries: 11922
+# Number of entries: 11924
