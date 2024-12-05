@@ -1,9 +1,9 @@
-! Checksum: /Zct6xfrwzCyTPvqCT28Ig
-! Diff-Path: ../patches/15/15-s-1733359105-3600.patch
+! Checksum: csgrXGuTdSW6mlPBys/LfQ
+! Diff-Path: ../patches/15/15-s-1733380680-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.73.64
-! TimeUpdated: 2024-12-05T00:34:57+00:00
+! Version: 2.0.73.65
+! TimeUpdated: 2024-12-05T06:34:41+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-05T00:03:34.318Z
+! Last modified: 2024-12-05T06:01:28.540Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -46760,8 +46760,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 Dec 2024 23:09 UTC+7
-! OriginalVersion: 2412042309
+! Last modified: 05 Dec 2024 10:19 UTC+7
+! OriginalVersion: 2412051019
 ! Blocked: 932 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -47632,8 +47632,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 04 Dec 2024 23:09 UTC+7
-! OriginalVersion: 2412042309
+! Last modified: 05 Dec 2024 10:20 UTC+7
+! OriginalVersion: 2412051020
 ! Blocked: 4,694 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -52211,6 +52211,9 @@ inapps.appsflyersdk.com^
 ||cnzz.trafficmanager.net^
 ||eatnontf.icu^
 ||khesuts.com^
+||mdamcsx.top^
+||m6d.icu^
+||4i1.icu^
 ||vokzqgjp.icu^
 ||sokars.com^
 ||grerzieds.com^
