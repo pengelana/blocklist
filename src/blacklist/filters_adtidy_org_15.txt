@@ -1,9 +1,9 @@
-! Checksum: x1qfc9/X+vdLFfj8ZEPRdQ
-! Diff-Path: ../patches/15/15-s-1733467105-3600.patch
+! Checksum: lvp1ZeceyozlQePbMexZ6A
+! Diff-Path: ../patches/15/15-s-1733488751-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.73.69
-! TimeUpdated: 2024-12-06T06:34:59+00:00
+! Version: 2.0.73.70
+! TimeUpdated: 2024-12-06T12:35:36+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-06T06:01:27.456Z
+! Last modified: 2024-12-06T12:01:32.926Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -37854,7 +37854,6 @@ vkcdnservice.appspot.com^
 ||stats.rustica.fr^
 ||analytics.e1.ru^
 ||ipcc.vnpt.com.vn^
-||stats.ucheba.ru^
 ||inspector-collector.m.naver.com^
 ||cdn.stat-track.com^
 ||t.zhipin.com^
@@ -44908,6 +44907,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ouiokaq.top^
 ||ig65.vip^
 ||ig66.vip^
 ||ig67.vip^
@@ -52244,6 +52244,7 @@ inapps.appsflyersdk.com^
 ||hjimtyu.top^
 ||u6u.icu^
 ||ii3.icu^
+||inzut.com^
 ||eatnontf.icu^
 ||khesuts.com^
 ||mdamcsx.top^
