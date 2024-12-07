@@ -15,7 +15,7 @@
 [ OK ]     7,116 src/blacklist/Spam404_adblock-list.txt
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,550 src/blacklist/StevenBlack_hosts.txt
-[ OK ]    10,571 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    10,625 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,905 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]   435,156 src/blacklist/blocklistproject_abuse.txt
 [ OK ]   435,221 src/blacklist/blocklistproject_malware.txt
@@ -122,10 +122,10 @@
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
 [ OK ]       200 src/blacklist/dnstunneling_t.txt
-[ OK ]        94 src/blacklist/dood_t.txt
+[ OK ]        95 src/blacklist/dood_t.txt
 [ OK ]     2,429 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,883 src/blacklist/easylist_adservers_popup.txt
-[ OK ]    57,201 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]    57,231 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
 [ OK ]    12,540 src/blacklist/hagezi_fake.txt
@@ -148,30 +148,30 @@
 [ OK ]     2,296 src/blacklist/matomo_org_spammers.txt
 [ OK ]       899 src/blacklist/mitchellkrogza_phishing-domains-ACTIVE.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    45,665 src/blacklist/oisd_small.txt
+[ OK ]    45,704 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]   257,522 src/blacklist/phishing_army_blocklist.txt
+[ OK ]   257,416 src/blacklist/phishing_army_blocklist.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       172 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]         2 src/blacklist/redirect_t.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   113,608 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   113,568 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,771 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ]   462,959 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    52,681 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,040 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 3,155,443
-Filter Duplicates   : 2,070,631
-Filter Whitelist    : 1,935,976
-Import Blacklist    : 1,936,485
-Compressed          : 1,610,148
+Total Blacklist     : 3,155,421
+Filter Duplicates   : 2,070,638
+Filter Whitelist    : 1,935,985
+Import Blacklist    : 1,936,494
+Compressed          : 1,610,157
 
    LENGTH     COUNT
-        2 1,037,899
-        3   450,179
-        4    95,170
+        2 1,037,929
+        3   450,163
+        4    95,165
         5    17,431
         6     4,208
         7     1,552
@@ -187,7 +187,7 @@ Compressed          : 1,610,148
        17         5
        19         4
 
-Total Blocklist     : 1,610,148
+Total Blocklist     : 1,610,157
 
 ~~~
 
