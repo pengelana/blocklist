@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-07 18:11:09 UTC                        #
+# Last updated: 2024-12-08 01:00:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gomotest.premiumprotectiondis.org
 127.0.0.1	3bbd4ea96c4dc054b112806fc29bf4b1.online
 127.0.0.1	4646serhse844sererher65.com
 127.0.0.1	serg564466sh546se66.com
@@ -10632,4 +10633,4 @@
 127.0.0.1	rest2.rdntocdns.com
 127.0.0.1	v7yen47u2e.xyz
 127.0.0.1	service-o1dc3wx3-1311799005.bj.tencentapigw.com.cn
-# Number of entries: 10626
+# Number of entries: 10627
