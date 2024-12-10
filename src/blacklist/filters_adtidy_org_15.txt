@@ -1,9 +1,9 @@
-! Checksum: ENQmI9pXQWrkerB5VMD/KQ
-! Diff-Path: ../patches/15/15-s-1733834587-3600.patch
+! Checksum: Nu+YpuA672bwhQK80xSvpQ
+! Diff-Path: ../patches/15/15-s-1733856041-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.73.87
-! TimeUpdated: 2024-12-10T12:38:47+00:00
+! Version: 2.0.73.88
+! TimeUpdated: 2024-12-10T18:36:59+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-10T12:01:32.766Z
+! Last modified: 2024-12-10T18:01:27.915Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -37077,6 +37077,9 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||event.newsbreak.com^
+||pixel-static.spotify.com^
+||pixel-config.reddit.com^
 ||tracker.curama.jp^
 ||beacons.digital.disneyadvertising.com^
 ||telegraph.prd.api.discomax.com^
@@ -39704,6 +39707,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+-ulogl*.kwai-pro.com^
+||ulog*.kwaipros.com^
 ||snowplow-collector.
 ||logs-ingress.svc.vinted.com^
 ||analytics.baliusuperapp.xyz^
@@ -52390,6 +52395,8 @@ inapps.appsflyersdk.com^
 ||wt6.icu^
 ||tjimtyi.top^
 ||riemutmh.com^
+||xu6.icu^
+||ujimtyt.top^
 ||attelaoe.com^
 ||dsoxgdjv.icu^
 ||3ts.icu^
