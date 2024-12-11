@@ -1,9 +1,9 @@
-! Checksum: DGtLyd+XH/DJorKCLNmjHA
-! Diff-Path: ../patches/15/15-s-1733899058-3600.patch
+! Checksum: pHpQQfbhrKvHbexHZ63csA
+! Diff-Path: ../patches/15/15-s-1733920805-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.73.90
-! TimeUpdated: 2024-12-11T06:34:21+00:00
+! Version: 2.0.73.91
+! TimeUpdated: 2024-12-11T12:36:24+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-11T06:01:28.077Z
+! Last modified: 2024-12-11T12:01:33.348Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -33315,6 +33315,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||gw-dv.vip^
 ||trk.svr-algorix.com^
 ||tpi-app.herokuapp.com^
 ||api.rvere.com^
@@ -37089,6 +37090,9 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||f793.inc.com^
+||mytop.live.vkvideo.ru^
+||f703.twincities.com^
 ||event.newsbreak.com^
 ||pixel-static.spotify.com^
 ||pixel-config.reddit.com^
@@ -42179,6 +42183,9 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||dosawes.com^
+||lusupodum.com^
+||clairpixum.com^
 ||octo25.me^
 ||bmmwa.info^
 ||iwrcoct.info^
@@ -47837,9 +47844,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Dec 2024 16:02 UTC+7
-! OriginalVersion: 2412101602
-! Blocked: 4.675 rules
+! Last modified: 11 Dec 2024 15:59 UTC+7
+! OriginalVersion: 2412111559
+! Blocked: 4.688 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -48303,7 +48310,19 @@ inapps.appsflyersdk.com^
 ||congthongtinvidientu.com^
 ||congtykiman.org^
 ||congtytaichinhlotte.com^
+||continue.dasboard154-account.com^
+||continue.dasboard174-account.com^
 ||continue.dasboard184-account.com^
+||continue.dasboard563-account.com^
+||continue.dasboard593-account.com^
+||continue.dasboard597-account.com^
+||continue.dasboard914-account.com^
+||continue.dasboard934-account.com^
+||continue.dasboard935-account.com^
+||continue.dasboard945-account.com^
+||continue.dasboard965-account.com^
+||continue.dasboard966-account.com^
+||continue.dasboard974-account.com^
 ||coonnfirrmm-bankingg247njf.weebly.com^
 ||coronappzz.com^
 ||cpa-tc.com^
@@ -50070,6 +50089,7 @@ inapps.appsflyersdk.com^
 ||pkkti888.com^
 ||platinum-ruttientindung247.com^
 ||play.appgoogle.cc^
+||playgooglevn.vip^
 ||playtogethernapthe.com^
 ||playtogetherquabaotri.online^
 ||playtogethershop.com^
@@ -52400,6 +52420,7 @@ inapps.appsflyersdk.com^
 ||x4d.icu^
 ||ojimtyk.top^
 ||tteferty33.fun^
+||suzalsln.com^
 ||wyvpkmbj.icu^
 ||thunnqyo.com^
 ||wjimtye.top^
