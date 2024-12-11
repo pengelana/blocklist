@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-11 06:22:25 UTC                        #
+# Last updated: 2024-12-11 06:37:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	key-keys.com
+127.0.0.1	key-license1.com
+127.0.0.1	key-pack.com
 127.0.0.1	wildbuns.com
 127.0.0.1	jfbsht.easypanel.host
 127.0.0.1	www.cool-mirzakhani.193-239-86-216.plesk.page
@@ -10722,4 +10725,4 @@
 127.0.0.1	dr-networks.com
 127.0.0.1	organic-satire-gw.aws-euc1.cloud-ara.tyk.io
 127.0.0.1	v2.events.data.microsoftsubmit.com
-# Number of entries: 10716
+# Number of entries: 10719
