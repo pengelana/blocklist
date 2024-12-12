@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-12 01:00:05 UTC                        #
+# Last updated: 2024-12-12 06:21:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	connect.microsoftonlne.fr
+127.0.0.1	www.jovial-galois.193-239-86-216.plesk.page
+127.0.0.1	account.secure-d.center
+127.0.0.1	ec2-13-40-115-95.eu-west-2.compute.amazonaws.com
+127.0.0.1	ec2-34-216-3-35.us-west-2.compute.amazonaws.com
+127.0.0.1	ec2-13-127-114-160.ap-south-1.compute.amazonaws.com
+127.0.0.1	grahm.xyz
 127.0.0.1	owa.rootkit-ninja.com
 127.0.0.1	todayput.shop
 127.0.0.1	sixkx6pt.top
@@ -10886,5 +10893,4 @@
 127.0.0.1	ad-es.xyz
 127.0.0.1	ab-cc.xyz
 127.0.0.1	a-bcd.xyz
-127.0.0.1	born-administrative.gl.at.ply.gg
-# Number of entries: 10881
+# Number of entries: 10887

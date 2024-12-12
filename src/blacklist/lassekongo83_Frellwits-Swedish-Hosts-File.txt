@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-12-08 05:51:37 CET
-# entries:        1101
+# last updated:   2024-12-12 05:38:27 CET
+# entries:        1103
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -500,6 +500,7 @@
 127.0.0.1 impse.tradedoubler.com
 127.0.0.1 imstore.bet365affiliates.com
 127.0.0.1 infotorg.d2.sc.omtrdc.net
+127.0.0.1 ingest.analytics.nation.dev
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 insight.nikkasystems.com
 127.0.0.1 insights.algolia.io
@@ -801,6 +802,7 @@
 127.0.0.1 statistik.blogg1.se
 127.0.0.1 statistik.svenskaakademien.se
 127.0.0.1 stats.agrar.nu
+127.0.0.1 stats.allabolag.se
 127.0.0.1 stats.blogg.se
 127.0.0.1 stats.bluebillywig.com
 127.0.0.1 stats.datawrapper.de
