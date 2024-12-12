@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-12 12:03:03 UTC                        #
+# Last updated: 2024-12-12 15:27:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vitalwerks.istmein.de
+127.0.0.1	onnetmais.org
+127.0.0.1	djnito.com
+127.0.0.1	prajapatisamaj.info
 127.0.0.1	kac0t.springpoitn.xyz
 127.0.0.1	fdy0p.springpoitn.xyz
 127.0.0.1	digitech99.com
@@ -10892,6 +10896,4 @@
 127.0.0.1	cstrike.webroot.top
 127.0.0.1	service-opql05nu-1253504731.gz.tencentapigw.com.cn
 127.0.0.1	service-i4ipkrwm-1317712796.gz.tencentapigw.com.cn
-127.0.0.1	www.qtvnews.com
-127.0.0.1	api.sftech.one
-# Number of entries: 10888
+# Number of entries: 10890
