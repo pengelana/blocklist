@@ -1,9 +1,9 @@
-! Checksum: 9GVl95PoBoBcstJgdkd1Jg
-! Diff-Path: ../patches/15/15-s-1733963848-3600.patch
+! Checksum: OKQy4gf/bt4VAu9z9K7ihA
+! Diff-Path: ../patches/15/15-s-1734007290-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.73.93
-! TimeUpdated: 2024-12-12T00:34:09+00:00
+! Version: 2.0.73.95
+! TimeUpdated: 2024-12-12T12:37:40+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-12T00:03:21.752Z
+! Last modified: 2024-12-12T12:01:42.124Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -40685,7 +40685,6 @@ inapps.appsflyersdk.com^
 ||events.missena.io^
 ||events.realgravity.com^
 ||events.shareably.net^
-||events.split.io^
 ||events.storifyme.com^
 ||events.yourcx.io^
 ||eventsproxy.gargantuan.futureplc.com^
@@ -46008,8 +46007,8 @@ inapps.appsflyersdk.com^
 ! # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 ! # ----
 ! # title:          Frellwit's Swedish Hosts File
-! # last updated:   2024-12-08 05:51:37 CET
-! # entries:        1101
+! # last updated:   2024-12-12 05:38:27 CET
+! # entries:        1103
 ! # format:         hosts (hosts -- in hosts file format)
 ! # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -46235,6 +46234,7 @@ inapps.appsflyersdk.com^
 ||images-ads.aland.com^
 ||img.ascontentcloud.com^
 ||img06.en25.com^
+||ingest.analytics.nation.dev^
 ||insight.nikkasystems.com^
 ||interactions.sesamy.com^
 ||investerarbrevet.se^
@@ -46382,6 +46382,7 @@ inapps.appsflyersdk.com^
 ||statistik.blogg1.se^
 ||statistik.svenskaakademien.se^
 ||stats.agrar.nu^
+||stats.allabolag.se^
 ||stats.docu.info^
 ||stats.ehandel.se^
 ||stats.helsingborg.se^
@@ -52435,6 +52436,9 @@ inapps.appsflyersdk.com^
 ||cnzz.trafficmanager.net^
 ||neldatsy.com^
 ||yqlzccxn.icu^
+||bjimtyv.top^
+||d0m.icu^
+||xoceonsl.com^
 ||altolsqy.com^
 ||fkjdiefz.icu^
 ||x4d.icu^
