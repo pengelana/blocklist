@@ -1,9 +1,9 @@
-! Checksum: iB7Sb4SRiIJb0GF/H+Jyxw
-! Diff-Path: ../patches/15/15-s-1734158285-3600.patch
+! Checksum: iU/5vvDeqlxmpUvSfARKPQ
+! Diff-Path: ../patches/15/15-s-1734183504-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.74.3
-! TimeUpdated: 2024-12-14T06:34:39+00:00
+! Version: 2.0.74.4
+! TimeUpdated: 2024-12-14T13:34:49+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-14T06:01:22.522Z
+! Last modified: 2024-12-14T12:01:29.209Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -28655,6 +28655,7 @@ vkcdnservice.appspot.com^
 ||xuiqxlhqyo.com^
 ||xukpqemfs.com^
 ||xukpresesmr.info^
+||xupalace.org^
 ||xuqza.com^
 ||xvbwvle.com^
 ||xvfyubhqjp.xyz^
@@ -47114,8 +47115,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Dec 2024 16:17 UTC+7
-! OriginalVersion: 2412131617
+! Last modified: 14 Dec 2024 17:22 UTC+7
+! OriginalVersion: 2412141722
 ! Blocked: 934 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -47988,9 +47989,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 13 Dec 2024 16:17 UTC+7
-! OriginalVersion: 2412131617
-! Blocked: 4.688 rules
+! Last modified: 14 Dec 2024 17:23 UTC+7
+! OriginalVersion: 2412141723
+! Blocked: 4.689 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -52404,6 +52405,7 @@ inapps.appsflyersdk.com^
 ||vxvw11.com^
 ||vxvw22.com^
 ||vxvw55.com^
+||vyrqhmdy.unbrws.de^
 ||walmartshoping.com^
 ||walmartva.icu^
 ||warrenmoneytrader.com^
@@ -52564,6 +52566,7 @@ inapps.appsflyersdk.com^
 ||truxedku.com^
 ||qm2.icu^
 ||itimiyo.top^
+||vegaingi.com^
 ||owsrgljb.icu^
 ||ziqniduy.com^
 ||dddstew6cw8.fun^
