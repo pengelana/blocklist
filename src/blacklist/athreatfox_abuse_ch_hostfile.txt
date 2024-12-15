@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-15 08:01:22 UTC                        #
+# Last updated: 2024-12-15 15:12:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	matelitcleaning.com
+127.0.0.1	dirklend.com
+127.0.0.1	botnet.baidunc.online
+127.0.0.1	baidunc.online
 127.0.0.1	namerbutty.online
 127.0.0.1	www.potatopetal.com
 127.0.0.1	wolf.support-it.services
@@ -10993,4 +10997,4 @@
 127.0.0.1	checkupgpt.net
 127.0.0.1	sydnc.net
 127.0.0.1	www.glamourstorepa.com.br
-# Number of entries: 10987
+# Number of entries: 10991
