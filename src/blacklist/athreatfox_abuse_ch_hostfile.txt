@@ -1,11 +1,67 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-17 18:22:54 UTC                        #
+# Last updated: 2024-12-18 13:23:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	aoracleclient.s3.ap-east-1.amazonaws.com
+127.0.0.1	autilities.s3.ap-east-1.amazonaws.com
+127.0.0.1	cryptngc.s3.ap-east-1.amazonaws.com
+127.0.0.1	eapprovp.s3.ap-east-1.amazonaws.com
+127.0.0.1	iassvcs.s3.ap-east-1.amazonaws.com
+127.0.0.1	lineapp1.s3.ap-east-1.amazonaws.com
+127.0.0.1	lnteropnew.s3.ap-east-1.amazonaws.com
+127.0.0.1	roviders.s3.ap-east-1.amazonaws.com
+127.0.0.1	softpuby.s3.ap-east-1.amazonaws.com
+127.0.0.1	sscheduler.s3.ap-east-1.amazonaws.com
+127.0.0.1	uiamanager.s3.ap-east-1.amazonaws.com
+127.0.0.1	vmsynthstor.s3.ap-east-1.amazonaws.com
+127.0.0.1	a34.aadww3.cc
+127.0.0.1	a34.qqdcc4.cc
+127.0.0.1	a37.aadww3.cc
+127.0.0.1	a37.qqdcc4.cc
+127.0.0.1	a4.nbdsnb2.top
+127.0.0.1	a4.yydsnb1.top
+127.0.0.1	a40.aadww3.cc
+127.0.0.1	a40.qqdcc4.cc
+127.0.0.1	a5.aadww3.cc
+127.0.0.1	a5.qqdcc4.cc
+127.0.0.1	a16.nbdsnb2.top
+127.0.0.1	a16.yydsnb1.top
+127.0.0.1	a16eea1.oss-cn-hongkong.aliyuncs.com
+127.0.0.1	a17.aadww3.cc
+127.0.0.1	a17rrr1.oss-cn-hongkong.aliyuncs.com
+127.0.0.1	a18.nbdsnb2.top
+127.0.0.1	a18.yydsnb1.top
+127.0.0.1	a18qqq1.oss-cn-hongkong.aliyuncs.com
+127.0.0.1	a19ccc1.oss-cn-hongkong.aliyuncs.com
+127.0.0.1	a23uuu1.oss-cn-hongkong.aliyuncs.com
+127.0.0.1	a26bbb1.oss-cn-hongkong.aliyuncs.com
+127.0.0.1	a3.nbdsnb2.top
+127.0.0.1	a3.yydsnb1.top
+127.0.0.1	a31.aadww3.cc
+127.0.0.1	a31.qqdcc4.cc
+127.0.0.1	26.cmananan.com
+127.0.0.1	a11.nbdsnb2.top
+127.0.0.1	a11.yydsnb1.top
+127.0.0.1	a11xxx1.oss-cn-hongkong.aliyuncs.com
+127.0.0.1	a12xxx1.oss-cn-hongkong.aliyuncs.com
+127.0.0.1	a15.nbdsnb2.top
+127.0.0.1	a15.yydsnb1.top
+127.0.0.1	a15aaa1.oss-cn-hongkong.aliyuncs.com
+127.0.0.1	muuxxu.com
+127.0.0.1	cronoze.com
+127.0.0.1	dogirafer.com
+127.0.0.1	science-attract.gl.at.ply.gg
+127.0.0.1	pentest-setup.eastus.cloudapp.azure.com
+127.0.0.1	ssl.gstatlc.org
+127.0.0.1	gstatlc.org
+127.0.0.1	gstatis.co
+127.0.0.1	my-vidar.ru
+127.0.0.1	jsdelivr.at
+127.0.0.1	jqueri.at
 127.0.0.1	tweljs12sr.top
 127.0.0.1	twelkm12pn.top
 127.0.0.1	twentykx20pt.top
@@ -11081,48 +11137,4 @@
 127.0.0.1	fastsecurityup.com
 127.0.0.1	kwqislxk.xyz
 127.0.0.1	service-rfgb6jer-1257331363.sh.tencentapigw.com
-127.0.0.1	www.xincyun.com
-127.0.0.1	magnitogorsk.nl
-127.0.0.1	flynotion.com
-127.0.0.1	evokvm.eu.org
-127.0.0.1	updatel2.com
-127.0.0.1	poocoin.online
-127.0.0.1	theemir.xyz
-127.0.0.1	bugday.site
-127.0.0.1	plagmat.store
-127.0.0.1	callias.xyz
-127.0.0.1	anexchange.xyz
-127.0.0.1	goalcempiz.com
-127.0.0.1	grizmotras.com
-127.0.0.1	grunzalom.fun
-127.0.0.1	jertacco.com
-127.0.0.1	jarinamaers.shop
-127.0.0.1	kokcheez.website
-127.0.0.1	mastralakkot.live
-127.0.0.1	miistoria.com
-127.0.0.1	minndarespo.icu
-127.0.0.1	niceburlat.me
-127.0.0.1	pewwhranet.com
-127.0.0.1	plwskoret.top
-127.0.0.1	popfealt.one
-127.0.0.1	postolwepok.tech
-127.0.0.1	scifimond.com
-127.0.0.1	startmast.shop
-127.0.0.1	titnovacrion.top
-127.0.0.1	ganowernis.com
-127.0.0.1	ginzbargatey.tech
-127.0.0.1	fasestarkalim.com
-127.0.0.1	fluraresto.me
-127.0.0.1	frotneels.shop
-127.0.0.1	ganstaeraop.shop
-127.0.0.1	drifajizo.fun
-127.0.0.1	aytobusesre.com
-127.0.0.1	drendormedia.com
-127.0.0.1	aplihartom.com
-127.0.0.1	skinnyjeanso.com
-127.0.0.1	trasenanoyr.best
-127.0.0.1	wikistarhmania.com
-127.0.0.1	wrankaget.site
-127.0.0.1	zumkoshapsret.com
-127.0.0.1	upstatesunflowerfestival.com
-# Number of entries: 11119
+# Number of entries: 11131
