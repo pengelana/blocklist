@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-18 13:23:48 UTC                        #
+# Last updated: 2024-12-18 15:21:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	proliforetka.com
+127.0.0.1	tiemtrasua.com
+127.0.0.1	buylevlen.xyz
 127.0.0.1	aoracleclient.s3.ap-east-1.amazonaws.com
 127.0.0.1	autilities.s3.ap-east-1.amazonaws.com
 127.0.0.1	cryptngc.s3.ap-east-1.amazonaws.com
@@ -11136,5 +11139,4 @@
 127.0.0.1	teleshow.space
 127.0.0.1	fastsecurityup.com
 127.0.0.1	kwqislxk.xyz
-127.0.0.1	service-rfgb6jer-1257331363.sh.tencentapigw.com
-# Number of entries: 11131
+# Number of entries: 11133
