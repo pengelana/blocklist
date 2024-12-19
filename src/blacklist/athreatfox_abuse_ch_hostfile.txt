@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-19 09:33:18 UTC                        #
+# Last updated: 2024-12-19 12:08:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gwcomics.com
+127.0.0.1	esondent.com
 127.0.0.1	covery-mover.biz
 127.0.0.1	dare-curbys.biz
 127.0.0.1	dwell-exclaim.biz
@@ -11165,5 +11167,4 @@
 127.0.0.1	x8f7a89.pics
 127.0.0.1	jsincloud.com
 127.0.0.1	lifestylechoices.us
-127.0.0.1	jswebcache.com
-# Number of entries: 11160
+# Number of entries: 11161
