@@ -1,9 +1,9 @@
-! Checksum: p8ys4g26l0NZacdzK0Daag
-! Diff-Path: ../patches/15/15-s-1734611890-3600.patch
+! Checksum: BhrCisb/FcigW9qq+pRjDQ
+! Diff-Path: ../patches/15/15-s-1734633502-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.74.23
-! TimeUpdated: 2024-12-19T12:34:30+00:00
+! Version: 2.0.74.25
+! TimeUpdated: 2024-12-19T18:34:41+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-19T12:01:33.333Z
+! Last modified: 2024-12-19T18:01:28.991Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2045,6 +2045,7 @@ vkcdnservice.appspot.com^
 ||4wnet.com^
 ||4wnetwork.com^
 ||50368ce0a6.com^
+||50f0ac5daf.com^
 ||5165c0c080.com^
 ||52dvzo62i.com^
 ||536fbeeea4.com^
@@ -2254,6 +2255,7 @@ vkcdnservice.appspot.com^
 ||91cd3khn.de^
 ||91df02fe64.com^
 ||921b6384ac.com^
+||92e6136b5d.com^
 ||92e703f830.com^
 ||92f77b89a1b2df1b539ff2772282e19b.com^
 ||937e30a10b.com^
@@ -3164,6 +3166,7 @@ vkcdnservice.appspot.com^
 ||aerobiabassing.com^
 ||aerodynomach.com^
 ||aeroplaneversion.com^
+||aeroseoutfire.top^
 ||aesary.com^
 ||aetgjds.com^
 ||afahivar.com^
@@ -4104,6 +4107,7 @@ vkcdnservice.appspot.com^
 ||armamentsummary.com^
 ||armarilltor.com^
 ||armedtidying.com^
+||armillakanthan.com^
 ||arminius.io^
 ||arminuntor.com^
 ||armisticeexpress.com^
@@ -4718,6 +4722,7 @@ vkcdnservice.appspot.com^
 ||b014381c95cb.com^
 ||b02byun5xc3s.com^
 ||b0oie4xjeb4ite.com^
+||b116785e75.com^
 ||b1181fb1.site^
 ||b194c1c862.com^
 ||b1d51fd3c4.com^
@@ -5795,6 +5800,7 @@ vkcdnservice.appspot.com^
 ||boyunakylie.com^
 ||boywhowascr.info^
 ||bp9l1pi60.pro^
+||bpazidzib.com^
 ||bpmvdlt.com^
 ||bpmvkvb.com^
 ||bptracking.com^
@@ -5924,6 +5930,7 @@ vkcdnservice.appspot.com^
 ||brocode1s.com^
 ||brocode2s.com^
 ||brocode3s.com^
+||brodieoccurs.shop^
 ||brodmn.com^
 ||brodownloads.site^
 ||brogetcode1s.com^
@@ -6012,6 +6019,7 @@ vkcdnservice.appspot.com^
 ||buckumoore.com^
 ||buckwheatchipwrinkle.com^
 ||bucojjqcica.com^
+||buddhicopts.com^
 ||buddyassetstupid.com^
 ||buddyguests.com^
 ||budgepenitent.com^
@@ -8450,6 +8458,7 @@ vkcdnservice.appspot.com^
 ||demanding-application.pro^
 ||demba.xyz^
 ||demeanourgrade.com^
+||demisemyrick.com^
 ||demiseskill.com^
 ||democracyendlesslyzoo.com^
 ||democracyseriously.com^
@@ -13765,6 +13774,7 @@ vkcdnservice.appspot.com^
 ||increasinglycockroachpolicy.com^
 ||incremydeal.sbs^
 ||indazollimmers.click^
+||indebannets.com^
 ||indebtedatrocious.com^
 ||indecisionevasion.com^
 ||indefinitelytonsil.com^
@@ -14367,6 +14377,7 @@ vkcdnservice.appspot.com^
 ||javtype.fun^
 ||javunaware11.fun^
 ||javwait.fun^
+||jawanbun.com^
 ||jawinfallible.com^
 ||jawlookingchapter.com^
 ||jawpcowpeas.top^
@@ -20909,6 +20920,7 @@ vkcdnservice.appspot.com^
 ||ptougeegnep.net^
 ||ptouglaiksiky.net^
 ||ptoujaust.com^
+||ptoulraiph.net^
 ||ptoumsid.net^
 ||ptoupagreltop.net^
 ||ptoushoa.com^
@@ -22925,6 +22937,7 @@ vkcdnservice.appspot.com^
 ||sayingconvicted.com^
 ||sayingdentalinternal.com^
 ||saylnk.com^
+||sayyidsspintry.com^
 ||sb-stat1.com^
 ||sb89347.com^
 ||sbboppwsuocy.com^
@@ -23147,6 +23160,7 @@ vkcdnservice.appspot.com^
 ||seegraufah.com^
 ||seekmymatch.com^
 ||seekoflol.com^
+||seelanaglashaiy.xyz^
 ||seemaicees.xyz^
 ||seemingverticallyheartbreak.com^
 ||seemoraldisobey.com^
@@ -23221,6 +23235,7 @@ vkcdnservice.appspot.com^
 ||separationalphabet.com^
 ||separationharmgreatest.com^
 ||separationheadlight.com^
+||sepiarypooris.com^
 ||septads.store^
 ||septaraneae.shop^
 ||septemberautomobile.com^
@@ -23994,6 +24009,7 @@ vkcdnservice.appspot.com^
 ||soliads.online^
 ||solicitorquite.com^
 ||solidlyrotches.guru^
+||solidpousse.com^
 ||solispartner.com^
 ||solitudearbitrary.com^
 ||solitudeelection.com^
@@ -25420,6 +25436,7 @@ vkcdnservice.appspot.com^
 ||themselphenyls.com^
 ||themselvestypewriter.com^
 ||thenceafeard.com^
+||thencedisgustedbare.com^
 ||thenceextremeeyewitness.com^
 ||thenceshapedrugged.com^
 ||thenewstreams.com^
@@ -26073,6 +26090,7 @@ vkcdnservice.appspot.com^
 ||treasonemphasis.com^
 ||treasureantennadonkey.com^
 ||treasureralludednook.com^
+||treasurergroundlessagenda.com^
 ||treatedscale.com^
 ||treatmentaeroplane.com^
 ||treatyaccuserevil.com^
@@ -26260,6 +26278,7 @@ vkcdnservice.appspot.com^
 ||tubestrap.com^
 ||tubeultra.com^
 ||tubewalk.com^
+||tubingacater.com^
 ||tubroaffs.org^
 ||tuckedmajor.com^
 ||tuckedtucked.com^
@@ -28734,6 +28753,7 @@ vkcdnservice.appspot.com^
 ||yapzoa.xyz^
 ||yardr.net^
 ||yarlnk.com^
+||yarningbursal.com^
 ||yashi.com^
 ||yauperstote.top^
 ||yausbprxfft.xyz^
@@ -42328,6 +42348,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||1463.info^
 ||prestich.shop^
 ||www.mir-stalkera.ru^
 ||armablek.shop^
@@ -44866,6 +44887,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||carrier202205.tokyo^
 ||axesslove.mixh.jp^
 ||kaomanko.axesslove.com^
 ||jp1media.com^
@@ -52588,6 +52610,9 @@ inapps.appsflyersdk.com^
 ||ltimiyl.top^
 ||ppio12191ios.top^
 ||gherkax.com^
+||ibqemk.icu^
+||h0d.icu^
+||btimiyv.top^
 ||ihearsoh.com^
 ||juutckrt.icu^
 ||qtimiyy.top^
@@ -56070,6 +56095,7 @@ inapps.appsflyersdk.com^
 ||zxpvalr.xyz^
 ||zxqiwe.cn^
 ||zyfnbl.xyz^
+||hitchprivilege.com^
 ||ymmiyun.com^
 ||commonwealthproficient.com^
 ||666aa777bb.com^
@@ -58154,8 +58180,6 @@ analytics-*.aasaam.com
 @@||click.appcast.io^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/977
 @@||anwb.webpower.eu^|
-! https://github.com/AdguardTeam/AdguardFilters/issues/121419
-@@||eum-blue-saas.instana.io^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/959
 @@||bcicl.*.evergage.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/114908

@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-19 12:08:36 UTC                        #
+# Last updated: 2024-12-19 17:22:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dosmax.top
+127.0.0.1	aadcdn.fortinet.app
+127.0.0.1	adfs.fortinet.app
+127.0.0.1	212.47.173.34.bc.googleusercontent.com
+127.0.0.1	floratranslator.live
 127.0.0.1	gwcomics.com
 127.0.0.1	esondent.com
 127.0.0.1	covery-mover.biz
@@ -11161,10 +11166,4 @@
 127.0.0.1	oriondedjdissd.con-ip.com
 127.0.0.1	iwarsut775laudrye2.duckdns.org
 127.0.0.1	service-e5obcthn-1301549065.bj.tencentapigw.com.cn
-127.0.0.1	service-povdf8ll-1257331363.sh.tencentapigw.com
-127.0.0.1	midwestsoil.top
-127.0.0.1	rvandccc.com
-127.0.0.1	x8f7a89.pics
-127.0.0.1	jsincloud.com
-127.0.0.1	lifestylechoices.us
-# Number of entries: 11161
+# Number of entries: 11160
