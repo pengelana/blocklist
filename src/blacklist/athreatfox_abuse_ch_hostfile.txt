@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-19 17:22:41 UTC                        #
+# Last updated: 2024-12-20 00:01:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ip69-48-204-229.pbiaas.com
 127.0.0.1	dosmax.top
 127.0.0.1	aadcdn.fortinet.app
 127.0.0.1	adfs.fortinet.app
@@ -11160,10 +11161,4 @@
 127.0.0.1	gosuslugi.zilab.ru
 127.0.0.1	pelicanbcnsolutions.com
 127.0.0.1	ndas8m92.lol
-127.0.0.1	iwarsut775laudrye3.duckdns.org
-127.0.0.1	hjnourt38haoust1.duckdns.org
-127.0.0.1	bossnacarpet.com
-127.0.0.1	oriondedjdissd.con-ip.com
-127.0.0.1	iwarsut775laudrye2.duckdns.org
-127.0.0.1	service-e5obcthn-1301549065.bj.tencentapigw.com.cn
-# Number of entries: 11160
+# Number of entries: 11155
