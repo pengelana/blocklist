@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-21 02:36:02 UTC                        #
+# Last updated: 2024-12-21 07:32:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ecs-189-1-242-182.compute.hwclouds-dns.com
 127.0.0.1	premiumprotectiondis.org
 127.0.0.1	www.genghiskhanof21century.online
 127.0.0.1	mail.172-208-106-5.cprapid.com
@@ -11150,20 +11151,4 @@
 127.0.0.1	maduroma.com
 127.0.0.1	ardoelur.com
 127.0.0.1	duigore.com
-127.0.0.1	ms-update-cs1.azureedge.net
-127.0.0.1	admin.eneroco.com
-127.0.0.1	smtp2.servicebio.com
-127.0.0.1	mailgate.servicebio.com
-127.0.0.1	authsmtp.servicebio.com
-127.0.0.1	www2.servicebio.com
-127.0.0.1	www.kuromipg.im
-127.0.0.1	china-yqs.com
-127.0.0.1	past-dryer-gw.aws-apse2.cloud-ara.tyk.io
-127.0.0.1	scam.cuntcloud.com
-127.0.0.1	ndas8m92.shop
-127.0.0.1	wizarr.manate.ch
-127.0.0.1	go-sw6-02.adventos.de
-127.0.0.1	deadsecc-34880.portmap.host
-127.0.0.1	lake-french.gl.at.ply.gg
-127.0.0.1	grade-excellence.gl.at.ply.gg
-# Number of entries: 11160
+# Number of entries: 11145
