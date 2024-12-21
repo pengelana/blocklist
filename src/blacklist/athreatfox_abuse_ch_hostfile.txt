@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-21 07:32:36 UTC                        #
+# Last updated: 2024-12-21 11:12:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	toptek.sbs
 127.0.0.1	ecs-189-1-242-182.compute.hwclouds-dns.com
 127.0.0.1	premiumprotectiondis.org
 127.0.0.1	www.genghiskhanof21century.online
@@ -11141,14 +11142,4 @@
 127.0.0.1	rblxshaders.com
 127.0.0.1	remember-sail.gl.at.ply.gg
 127.0.0.1	minutes-nirvana.gl.at.ply.gg
-127.0.0.1	gsearch.duckdns.org
-127.0.0.1	comarmo.com
-127.0.0.1	monesam.com
-127.0.0.1	seburax.com
-127.0.0.1	yerifest.com
-127.0.0.1	dolipox.com
-127.0.0.1	fedelize.com
-127.0.0.1	maduroma.com
-127.0.0.1	ardoelur.com
-127.0.0.1	duigore.com
-# Number of entries: 11145
+# Number of entries: 11136
