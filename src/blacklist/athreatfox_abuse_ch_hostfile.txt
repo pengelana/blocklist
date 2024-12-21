@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-20 18:03:29 UTC                        #
+# Last updated: 2024-12-21 02:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	premiumprotectiondis.org
+127.0.0.1	www.genghiskhanof21century.online
+127.0.0.1	mail.172-208-106-5.cprapid.com
 127.0.0.1	niewiemcodac.ddns.net
 127.0.0.1	brideeded.duckdns.org
 127.0.0.1	hamptoninnbelton.com
@@ -11163,4 +11166,4 @@
 127.0.0.1	deadsecc-34880.portmap.host
 127.0.0.1	lake-french.gl.at.ply.gg
 127.0.0.1	grade-excellence.gl.at.ply.gg
-# Number of entries: 11157
+# Number of entries: 11160

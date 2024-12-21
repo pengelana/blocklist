@@ -1,9 +1,9 @@
-! Checksum: jvubD1yBbl9DOZhDXRNMdg
-! Diff-Path: ../patches/15/15-s-1734719922-3600.patch
+! Checksum: lFbJEHR/hgOkwAWAim5jqA
+! Diff-Path: ../patches/15/15-s-1734741487-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.74.29
-! TimeUpdated: 2024-12-20T18:35:10+00:00
+! Version: 2.0.74.30
+! TimeUpdated: 2024-12-21T00:34:35+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-20T18:01:24.516Z
+! Last modified: 2024-12-21T00:03:12.297Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12018,6 +12018,7 @@ vkcdnservice.appspot.com^
 ||grashaksoudry.net^
 ||grasshusk.com^
 ||grasutie.net^
+||gratataxis.shop^
 ||graterpatent.com^
 ||gratertwentieth.com^
 ||gratificationdesperate.com^
@@ -38938,7 +38939,6 @@ vkcdnservice.appspot.com^
 ||tracking.thehut.net^
 ||tracking.tidalhifi.com^
 ||tracking.times247.com^
-||tracking.tomshardware.co.uk^
 ||tracking.ukwm.co.uk^
 ||tracking.unrealengine.com^
 ||tracking.yourfilehost.com^
@@ -52031,6 +52031,8 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||rktjxj.icu^
+||orodsmnu.com^
 ||grmzwc.icu^
 ||ppio12200ios.top^
 ||ondraits.com^
