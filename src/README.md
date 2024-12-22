@@ -122,7 +122,7 @@
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
 [ OK ]       221 src/blacklist/dnstunneling_t.txt
-[ OK ]       200 src/blacklist/dood_t.txt
+[ OK ]       201 src/blacklist/dood_t.txt
 [ OK ]     2,413 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,865 src/blacklist/easylist_adservers_popup.txt
 [ OK ]    56,143 src/blacklist/filters_adtidy_org_15.txt
@@ -161,14 +161,14 @@
 [ OK ]    52,872 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,091 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 3,242,718
-Filter Duplicates   : 2,143,483
-Filter Whitelist    : 2,008,813
-Import Blacklist    : 2,009,322
-Compressed          : 1,672,716
+Total Blacklist     : 3,242,719
+Filter Duplicates   : 2,143,484
+Filter Whitelist    : 2,008,814
+Import Blacklist    : 2,009,323
+Compressed          : 1,672,717
 
    LENGTH     COUNT
-        2 1,074,383
+        2 1,074,384
         3   470,503
         4    98,801
         5    19,203
@@ -186,7 +186,7 @@ Compressed          : 1,672,716
        17         5
        19         4
 
-Total Blocklist     : 1,672,716
+Total Blocklist     : 1,672,717
 
 ~~~
 
