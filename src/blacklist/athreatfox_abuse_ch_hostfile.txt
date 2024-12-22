@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-22 12:35:28 UTC                        #
+# Last updated: 2024-12-22 16:00:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	164.92.226.28.sslip.io
 127.0.0.1	c.cc13.cn
 127.0.0.1	qamar-alsharqia.com
 127.0.0.1	sokrpro.com
@@ -11146,5 +11147,4 @@
 127.0.0.1	antfly50.sytes.net
 127.0.0.1	asevn.com
 127.0.0.1	dns.topinvestmentusa.net
-127.0.0.1	bar-fri.gl.at.ply.gg
 # Number of entries: 11141
