@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-21 11:12:53 UTC                        #
+# Last updated: 2024-12-21 20:01:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	genghiskhanof21century.online
 127.0.0.1	toptek.sbs
 127.0.0.1	ecs-189-1-242-182.compute.hwclouds-dns.com
 127.0.0.1	premiumprotectiondis.org
@@ -11137,4 +11138,4 @@
 127.0.0.1	mdasidy72.mom
 127.0.0.1	janbours92harbu02.duckdns.org
 127.0.0.1	janbours92harbu03.duckdns.org
-# Number of entries: 11131
+# Number of entries: 11132
