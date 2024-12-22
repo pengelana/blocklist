@@ -8,14 +8,14 @@
 [ OK ]    75,622 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ]    21,216 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       698 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
-[ OK ]    80,702 src/blacklist/KADhosts.txt
+[ OK ]    80,712 src/blacklist/KADhosts.txt
 [ OK ]         8 src/blacklist/LanikSJ_popads-domains.txt
 [ OK ]       318 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]     9,813 src/blacklist/NRD_phishing-30day.txt
 [ OK ]     7,116 src/blacklist/Spam404_adblock-list.txt
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,654 src/blacklist/StevenBlack_hosts.txt
-[ OK ]    11,127 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    11,140 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,908 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]   435,156 src/blacklist/blocklistproject_abuse.txt
 [ OK ]   435,221 src/blacklist/blocklistproject_malware.txt
@@ -122,10 +122,10 @@
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
 [ OK ]       221 src/blacklist/dnstunneling_t.txt
-[ OK ]       196 src/blacklist/dood_t.txt
+[ OK ]       199 src/blacklist/dood_t.txt
 [ OK ]     2,413 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,865 src/blacklist/easylist_adservers_popup.txt
-[ OK ]    56,100 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]    56,143 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
 [ OK ]    11,865 src/blacklist/hagezi_fake.txt
@@ -141,39 +141,39 @@
 [ OK ]   199,615 src/blacklist/jarelllama_domains.txt
 [ OK ]     3,644 src/blacklist/judol_t.txt
 [ OK ]     1,103 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
-[ OK ]       447 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
+[ OK ]       460 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]         6 src/blacklist/malwarebytes_t.txt
 [ OK ]        89 src/blacklist/malwarhunterteam_t.txt
 [ OK ]     2,296 src/blacklist/matomo_org_spammers.txt
 [ OK ]    42,073 src/blacklist/mitchellkrogza_phishing-domains-ACTIVE.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    45,405 src/blacklist/oisd_small.txt
+[ OK ]    45,390 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]   258,678 src/blacklist/phishing_army_blocklist.txt
+[ OK ]   258,527 src/blacklist/phishing_army_blocklist.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       170 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]         2 src/blacklist/redirect_t.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   115,369 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   115,221 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,773 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ]   468,768 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    52,872 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,091 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 3,243,093
-Filter Duplicates   : 2,143,589
-Filter Whitelist    : 2,008,919
-Import Blacklist    : 2,009,427
-Compressed          : 1,672,778
+Total Blacklist     : 3,242,861
+Filter Duplicates   : 2,143,538
+Filter Whitelist    : 2,008,868
+Import Blacklist    : 2,009,377
+Compressed          : 1,672,732
 
    LENGTH     COUNT
-        2 1,074,413
-        3   470,532
-        4    98,804
-        5    19,204
+        2 1,074,395
+        3   470,503
+        4    98,805
+        5    19,203
         6     4,415
-        7     1,624
+        7     1,625
         8     2,349
         9     1,048
        10       261
@@ -186,7 +186,7 @@ Compressed          : 1,672,778
        17         5
        19         4
 
-Total Blocklist     : 1,672,778
+Total Blocklist     : 1,672,732
 
 ~~~
 
