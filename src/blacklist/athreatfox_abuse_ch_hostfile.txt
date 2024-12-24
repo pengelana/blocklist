@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-24 16:02:00 UTC                        #
+# Last updated: 2024-12-24 16:26:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	we-careu.xyz
+127.0.0.1	srvy.vlrt-gap.com
+127.0.0.1	dhusch.com
+127.0.0.1	trailbuddymaps.com
 127.0.0.1	ec2-13-43-58-188.eu-west-2.compute.amazonaws.com
 127.0.0.1	thirtth13pn.top
 127.0.0.1	observerfry.lat
@@ -11225,4 +11229,4 @@
 127.0.0.1	speedohasti.shop
 127.0.0.1	mcrkqm.cn
 127.0.0.1	clever-steadily-duckling.ngrok-free.app
-# Number of entries: 11219
+# Number of entries: 11223
