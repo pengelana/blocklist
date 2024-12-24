@@ -1,9 +1,9 @@
-! Checksum: M/QcxzA82S4oBVopqvND8Q
-! Diff-Path: ../patches/15/15-s-1735000666-3600.patch
+! Checksum: 6ytcaoOLQ26prtrA4EF5pA
+! Diff-Path: ../patches/15/15-s-1735043905-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.74.43
-! TimeUpdated: 2024-12-24T00:34:17+00:00
+! Version: 2.0.74.45
+! TimeUpdated: 2024-12-24T12:34:37+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-24T00:03:28.529Z
+! Last modified: 2024-12-24T12:01:31.143Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -45,6 +45,7 @@
 ||ageetsaimouphih.net^
 ||cedrt6.pro^
 ||cpngiubbcnq.love^
+||ads.twdcgrid.com^
 ||myaudioads.com^
 ||rixengine.com^
 ||nearkillgift.life^
@@ -7043,6 +7044,7 @@ vkcdnservice.appspot.com^
 ||clkrev.com^
 ||clksite.com^
 ||clkslvmiwadfsx.xyz^
+||clktds.org^
 ||clmbtech.com^
 ||clnk.me^
 ||cloakedpsyche.click^
@@ -9126,6 +9128,7 @@ vkcdnservice.appspot.com^
 ||drillcompensate.com^
 ||drinksbookcaseconsensus.com^
 ||dripe.site^
+||drivago.top^
 ||drivercontinentcleave.com^
 ||drivewayilluminatedconstitute.com^
 ||drivewayperrydrought.com^
@@ -26050,7 +26053,6 @@ vkcdnservice.appspot.com^
 ||tvprocessing.com^
 ||twaitevirgal.com^
 ||twazzyoidwlfe.com^
-||twdcgrid.com^
 ||tweakarrangement.com^
 ||twelfthcomprehendgrape.com^
 ||twelfthdistasteful.com^
@@ -36834,6 +36836,7 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||altema-log.com^
 ||telemetry.insights.video.a2z.com^
 ||w890.denvergazette.com^
 ||co932.coloradopolitics.com^
@@ -38202,7 +38205,6 @@ vkcdnservice.appspot.com^
 ||data-collector.wefi.com^
 ||data.mob.com^
 ||datacollect*.abtasty.com^
-||dbfukofby5ycr.cloudfront.net^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dcs.maxthon.com^
 ||dct.mango-office.ru^
@@ -44924,6 +44926,9 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||towmfs.com^
+||hfisngksng.com^
+||sikncs.com^
 ||qimaf.com^
 ||renrenkanpian.com^
 ||b10.justacdn.net^
@@ -52264,6 +52269,10 @@ inapps.appsflyersdk.com^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||beenedsl.com^
+||tghrfv.icu^
+||wwilmie.top^
+||k9u.icu^
+||shuucerz.com^
 ||rusnuiyu.com^
 ||ndlwtl.icu^
 ||swilmib.top^
