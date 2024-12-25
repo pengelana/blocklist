@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-24 16:26:18 UTC                        #
+# Last updated: 2024-12-24 20:02:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cryp-domedows.com
+127.0.0.1	egypt2.camdvr.org
+127.0.0.1	sasaa.kozow.com
 127.0.0.1	we-careu.xyz
 127.0.0.1	srvy.vlrt-gap.com
 127.0.0.1	dhusch.com
@@ -11227,6 +11230,4 @@
 127.0.0.1	moprewaldon.com
 127.0.0.1	oswalfeen.com
 127.0.0.1	speedohasti.shop
-127.0.0.1	mcrkqm.cn
-127.0.0.1	clever-steadily-duckling.ngrok-free.app
-# Number of entries: 11223
+# Number of entries: 11224
