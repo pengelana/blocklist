@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-25 16:01:53 UTC                        #
+# Last updated: 2024-12-26 08:15:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	165-22-250-3.cprapid.com
+127.0.0.1	google-br.duckdns.org
+127.0.0.1	company-telecom.gl.at.ply.gg
+127.0.0.1	problems-onion.gl.at.ply.gg
 127.0.0.1	abaftebeetl.biz
 127.0.0.1	fastard.com
 127.0.0.1	charsi.sbs
@@ -11204,6 +11208,4 @@
 127.0.0.1	networkhealth.azureedge.net
 127.0.0.1	bookings.catomeister.com
 127.0.0.1	t-protecting.gl.at.ply.gg
-127.0.0.1	boats.dogmuncher.xyz
-127.0.0.1	dogmuncher.xyz
-# Number of entries: 11200
+# Number of entries: 11202
