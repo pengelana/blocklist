@@ -1,9 +1,9 @@
-! Checksum: o/1/aaodFSvJ0QQapCbJ8A
-! Diff-Path: ../patches/15/15-s-1735367908-3600.patch
+! Checksum: Pl2lVCZpoXcz4clBxwDrog
+! Diff-Path: ../patches/15/15-s-1735389507-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.74.61
-! TimeUpdated: 2024-12-28T06:35:06+00:00
+! Version: 2.0.74.62
+! TimeUpdated: 2024-12-28T12:34:39+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-28T06:01:18.360Z
+! Last modified: 2024-12-28T12:01:33.230Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -46885,8 +46885,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 26 Dec 2024 22:56 UTC+7
-! OriginalVersion: 2412262256
+! Last modified: 28 Dec 2024 15:38 UTC+7
+! OriginalVersion: 2412281538
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -47755,9 +47755,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 26 Dec 2024 22:56 UTC+7
-! OriginalVersion: 2412262256
-! Blocked: 4.691 rules
+! Last modified: 28 Dec 2024 15:30 UTC+7
+! OriginalVersion: 2412281530
+! Blocked: 4.692 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -51000,6 +51000,7 @@ inapps.appsflyersdk.com^
 ||thsdbj.com^
 ||thseaeing.fun^
 ||thshopee.com^
+||thuekhachsan.com.vn^
 ||thuoctangcuongsinhlynam.com^
 ||thuonghieutoancau69.com^
 ||thuonghieutop1.online^
