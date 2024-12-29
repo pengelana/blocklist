@@ -1,9 +1,9 @@
-! Checksum: Pl2lVCZpoXcz4clBxwDrog
-! Diff-Path: ../patches/15/15-s-1735389507-3600.patch
+! Checksum: fMZR8/QntEvUxBjo0oCrZA
+! Diff-Path: ../patches/15/15-s-1735432617-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.74.62
-! TimeUpdated: 2024-12-28T12:34:39+00:00
+! Version: 2.0.74.64
+! TimeUpdated: 2024-12-29T00:33:27+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-28T12:01:33.230Z
+! Last modified: 2024-12-29T00:03:31.791Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2022,6 +2022,7 @@ vkcdnservice.appspot.com^
 ||64580df84b.com^
 ||65wenv5f.xyz^
 ||665166e5a9.com^
+||6657e4f5c2.com^
 ||66a3413a7e.com^
 ||67trackdomain.com^
 ||68069795d1.com^
@@ -4876,6 +4877,7 @@ vkcdnservice.appspot.com^
 ||bdxhujrned.buzz^
 ||be-frioaj.love^
 ||be30660063.com^
+||be51586160.com^
 ||bea988787c.com^
 ||beachanatomyheroin.com^
 ||beakerweedjazz.com^
@@ -10405,6 +10407,7 @@ vkcdnservice.appspot.com^
 ||fc7c8be451.com^
 ||fc861ba414.com^
 ||fccinteractive.com^
+||fceedf7652.com^
 ||fckmedate.com^
 ||fcwlctdg.com^
 ||fd2cd5c351.com^
@@ -12640,6 +12643,7 @@ vkcdnservice.appspot.com^
 ||heliumwinebluff.com^
 ||hellominimshanging.com^
 ||helltraffic.com^
+||helmethomicidal.com^
 ||helmetregent.com^
 ||helmfireworkssauce.com^
 ||helmingcensers.shop^
@@ -13045,6 +13049,7 @@ vkcdnservice.appspot.com^
 ||hotkabachok.com^
 ||hotlinedisappointed.com^
 ||hotnews1.me^
+||hottedholster.com^
 ||hottercensorbeaker.com^
 ||hotwords.com^
 ||houdodoo.net^
@@ -14181,6 +14186,7 @@ vkcdnservice.appspot.com^
 ||jbm6c54upkui.com^
 ||jbrlsr.com^
 ||jbtul.com^
+||jbvoejzamqjzl.top^
 ||jbwiujl.com^
 ||jbzmwqmqwowaz.top^
 ||jc32arlvqpv8.com^
@@ -17064,6 +17070,7 @@ vkcdnservice.appspot.com^
 ||muriheem.net^
 ||murkybrashly.com^
 ||murkymouse.online^
+||murolwsi.com^
 ||musclesadmonishment.com^
 ||musclesprefacelie.com^
 ||muscularcopiedgulp.com^
@@ -21324,6 +21331,7 @@ vkcdnservice.appspot.com^
 ||rapepush.net^
 ||raphanysteers.com^
 ||raphidewakener.com^
+||rapidfoxengine.com^
 ||rapidhits.net^
 ||rapidhunchback.com^
 ||rapidlypierredictum.com^
@@ -23939,6 +23947,7 @@ vkcdnservice.appspot.com^
 ||spo-play.live^
 ||spoiledpresence.com^
 ||spoilmagicstandard.com^
+||spokanchap.com^
 ||spokesperson254.fun^
 ||spondeekitling.top^
 ||spongecell.com^
@@ -26996,6 +27005,7 @@ vkcdnservice.appspot.com^
 ||vihub.ru^
 ||viiavjpe.com^
 ||viibest.com^
+||viibmmqc.com^
 ||viicylmb.com^
 ||viiczfvm.com^
 ||viiddai.com^
@@ -44186,6 +44196,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ssp.rutube.ru^
 ||media-advcycle.imgsmail.ru^
 ||sdk.kokocads.com^
 ||r1.ati.su^
@@ -52330,6 +52341,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||iemhotqk.com^
+||rvxmlj.icu^
+||vjzvgvgz.icu^
 ||noslugut.com^
 ||rklzpo.com^
 ||mwilmix.top^
@@ -52337,6 +52351,9 @@ inapps.appsflyersdk.com^
 ||trjfoagf.icu^
 ||sn9.icu^
 ||cclimif.top^
+||8cp.icu^
+||hclimiu.top^
+||relgrads.com^
 ||ncvwnp.icu^
 ||sachaits.com^
 ||fzdwtage.icu^

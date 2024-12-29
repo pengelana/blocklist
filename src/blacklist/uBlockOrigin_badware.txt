@@ -5580,7 +5580,7 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24123
 ! https://github.com/pizzaboxer/bloxstrap/blob/main/README.md
-||bloxstrap.*^$doc,domain=~bloxstrap.pizzaboxer.xyz,to=~bloxstrap.pizzaboxer.xyz
+||bloxstrap.*^$doc,to=~bloxstrap.pizzaboxer.xyz|~bloxstrap.cc
 ||bloxstrapmenu.com^$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24323
@@ -6314,3 +6314,6 @@ uploadfox.net###ad-gs-05
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26629
 ||dtioykqj1u8de.cloudfront.net^$all,to=~amazon.co.jp
+
+! https://github.com/uBlockOrigin/uAssets/issues/26650
+||photonlabs.app^$all
