@@ -194,7 +194,6 @@ Total Blocklist     : 1,882,692
 # Blacklist
 
 ~~~
-https://github.com/scafroglia93/blocklists.git
 https://filters.adtidy.org/extension/chromium/filters/15.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 https://someonewhocares.org/hosts/hosts
@@ -203,8 +202,6 @@ https://v.firebog.net/hosts/static/w3kbl.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersPiHole.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 https://phishing.army/download/phishing_army_blocklist.txt
 https://www.botvrij.eu/data/ioclist.domain.raw
 https://www.botvrij.eu/data/ioclist.hostname.raw
@@ -230,25 +227,31 @@ https://blocklistproject.github.io/Lists/abuse.txt
 https://blocklistproject.github.io/Lists/malware.txt
 https://blocklistproject.github.io/Lists/phishing.txt
 https://blocklistproject.github.io/Lists/ransomware.txt
-https://blocklistproject.github.io/Lists/redirect.txt
 https://blocklistproject.github.io/Lists/scam.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/popads-domains.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/domains-only/nrd-30day_part1.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/domains-only/nrd-30day_part2.txt
-https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/clickbait.txt
-
+https://github.com/romainmarcoux/malicious-domains/raw/refs/heads/main/full-domains-aa.txt
+https://github.com/romainmarcoux/malicious-domains/raw/refs/heads/main/full-domains-ab.txt
+https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs_justdomains.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites_justdomains.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_mail_trackers_justdomains.txt
+https://hosts.ubuntu101.co.za/domains.list
 ~~~
 
 # Whitelist
 
 ~~~
+https://data.iana.org/TLD/tlds-alpha-by-domain.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
@@ -269,7 +272,10 @@ https://local.oisd.nl/extract/commonly_whitelisted.php
 https://raw.githubusercontent.com/freekers/whitelist/master/domains/whitelist.txt
 https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt
 https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/mac.txt
-https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt
-
+https://raw.githubusercontent.com/fabriziosalmi/blacklists/refs/heads/main/whitelist.txt
+https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt
+https://raw.githubusercontent.com/Potterli20/file/refs/heads/main/file-hosts/allow/Domains
+https://raw.githubusercontent.com/mitchellkrogza/phishing/refs/heads/main/falsepositive.list
+https://raw.githubusercontent.com/mitchellkrogza/phishing/refs/heads/main/falsepositive_regex.list
+https://raw.githubusercontent.com/mitchellkrogza/phishing/refs/heads/main/falsepositive_rzd.list
 ~~~
-
