@@ -1,9 +1,9 @@
-! Checksum: sdSdLcXJh2NGXEo5iA6N/w
-! Diff-Path: ../patches/15/15-s-1735454295-3600.patch
+! Checksum: Xu+ppqOLYYRLaqLs3DLyXQ
+! Diff-Path: ../patches/15/15-s-1735519077-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.74.65
-! TimeUpdated: 2024-12-29T06:34:52+00:00
+! Version: 2.0.74.68
+! TimeUpdated: 2024-12-30T00:34:28+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-29T06:01:25.627Z
+! Last modified: 2024-12-30T00:03:25.191Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3151,6 +3151,7 @@ vkcdnservice.appspot.com^
 ||afgtrwd1.com^
 ||afgwsgl.com^
 ||afgzipohma.com^
+||afi-thor.com^
 ||afiliapub.click^
 ||afilliatetraff.com^
 ||afkearupl.com^
@@ -9384,6 +9385,7 @@ vkcdnservice.appspot.com^
 ||eckleinlienic.click^
 ||eckonturricalsbu.org^
 ||eclkmpbn.com^
+||eclqhkyjqpcv.com^
 ||ecoastandhei.org^
 ||econenectedith.info^
 ||economyhave.com^
@@ -14468,6 +14470,7 @@ vkcdnservice.appspot.com^
 ||jsontdsexit.com^
 ||jsretra.com^
 ||jssearch.net^
+||jssejsnvdy.com^
 ||jswww.net^
 ||jubacasziel.shop^
 ||jubnaadserve.com^
@@ -17032,6 +17035,7 @@ vkcdnservice.appspot.com^
 ||mtejadostvovn.com^
 ||mthvjim.com^
 ||mtkgyrzfygdh.com^
+||mtptaewihgbzcq.com^
 ||mtuvr.life^
 ||mtypitea.net^
 ||mtysrtgur.com^
@@ -18202,6 +18206,7 @@ vkcdnservice.appspot.com^
 ||ogeeztf.com^
 ||ogercron.com^
 ||ogetherefwukoul.info^
+||ogfaqwwux.com^
 ||ogfba.net^
 ||ogfbb.net^
 ||ogfbc.net^
@@ -21554,6 +21559,7 @@ vkcdnservice.appspot.com^
 ||recyclinganticipated.com^
 ||recyclingbees.com^
 ||recyclingproverbintroduce.com^
+||red-just-fit.click^
 ||red-track.xyz^
 ||redadisappoi.info^
 ||redadisappointed.com^
@@ -23928,6 +23934,7 @@ vkcdnservice.appspot.com^
 ||spentjerseydelve.com^
 ||sperans-beactor.com^
 ||spheredkapas.com^
+||spice-sugar.net^
 ||spiceethnic.com^
 ||spicy-combination.pro^
 ||spicy-effect.com^
@@ -24195,6 +24202,7 @@ vkcdnservice.appspot.com^
 ||steessay.com^
 ||steetchouwu.com^
 ||steinfqwe6782beck.com^
+||stella-nova.click^
 ||stellar-dating2.fun^
 ||stellarmingle.store^
 ||stelsarg.net^
@@ -28375,6 +28383,7 @@ vkcdnservice.appspot.com^
 ||xporn.in^
 ||xppedxgjxcajuae.xyz^
 ||xpxsfejcf.com^
+||xqdbitceeeixnw.com^
 ||xqeoitqw.site^
 ||xqmvzmt.com^
 ||xqwcryh.com^
@@ -44671,7 +44680,6 @@ inapps.appsflyersdk.com^
 ||seo.linel.top^
 ||compass-fit.jp^
 ||gs-ad.jp^
-||afi-thor.com^
 ||afbhub.net^
 ||advortex.cloud^
 ||dlp4luwpus5kr.cloudfront.net^
@@ -46917,8 +46925,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Dec 2024 15:38 UTC+7
-! OriginalVersion: 2412281538
+! Last modified: 30 Dec 2024 00:24 UTC+7
+! OriginalVersion: 2412300024
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -47787,8 +47795,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 28 Dec 2024 15:30 UTC+7
-! OriginalVersion: 2412281530
+! Last modified: 30 Dec 2024 00:24 UTC+7
+! OriginalVersion: 2412300024
 ! Blocked: 4.692 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -52362,11 +52370,17 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||xamniksq.com^
+||pytexb.icu^
 ||iemhotqk.com^
 ||rvxmlj.icu^
 ||vjzvgvgz.icu^
 ||3xl.icu^
 ||iclimio.top^
+||ljjhfw34.fun^
+||scrugokl.com^
+||6ku.icu^
+||jclimia.top^
 ||noslugut.com^
 ||rklzpo.com^
 ||mwilmix.top^
