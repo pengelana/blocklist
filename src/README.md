@@ -122,7 +122,7 @@
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
 [ OK ]       228 src/blacklist/dnstunneling_t.txt
-[ OK ]       252 src/blacklist/dood_t.txt
+[ OK ]       253 src/blacklist/dood_t.txt
 [ OK ]     2,401 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,873 src/blacklist/easylist_adservers_popup.txt
 [ OK ]    56,471 src/blacklist/filters_adtidy_org_15.txt
@@ -161,16 +161,16 @@
 [ OK ]    53,020 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,043 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 3,625,767
-Filter Duplicates   : 2,490,252
-Filter Whitelist    : 2,355,093
-Import Blacklist    : 2,355,607
-Compressed          : 1,884,204
+Total Blacklist     : 3,625,768
+Filter Duplicates   : 2,490,253
+Filter Whitelist    : 2,355,095
+Import Blacklist    : 2,355,609
+Compressed          : 1,884,251
 
    LENGTH     COUNT
-        2 1,159,454
-        3   547,632
-        4   116,981
+        2 1,159,457
+        3   547,689
+        4   116,968
         5    48,427
         6     5,723
         7     1,841
@@ -186,7 +186,7 @@ Compressed          : 1,884,204
        17         5
        19         4
 
-Total Blocklist     : 1,884,204
+Total Blocklist     : 1,884,251
 
 ~~~
 
@@ -273,7 +273,8 @@ https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/
 https://raw.githubusercontent.com/fabriziosalmi/blacklists/refs/heads/main/whitelist.txt
 https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt
 https://raw.githubusercontent.com/Potterli20/file/refs/heads/main/file-hosts/allow/Domains
-https://raw.githubusercontent.com/mitchellkrogza/phishing/refs/heads/main/falsepositive.list
-https://raw.githubusercontent.com/mitchellkrogza/phishing/refs/heads/main/falsepositive_regex.list
-https://raw.githubusercontent.com/mitchellkrogza/phishing/refs/heads/main/falsepositive_rzd.list
+https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/refs/heads/master/whitelist.anti/whitelist.anti
+https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/refs/heads/master/whitelist.me/whitelist.me
+https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/refs/heads/master/whitelist.me/whitelist.me.regex
+https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/refs/heads/master/whitelist.me/whitelist.me.rzd
 ~~~
