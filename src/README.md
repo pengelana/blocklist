@@ -15,7 +15,6 @@
 [ OK ]     7,116 src/blacklist/Spam404_adblock-list.txt
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,676 src/blacklist/StevenBlack_hosts.txt
-[ OK ]   707,122 src/blacklist/Ultimate-Hosts-Blacklist_domains.txt
 [ OK ]    10,978 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,868 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]   435,156 src/blacklist/blocklistproject_abuse.txt
@@ -162,23 +161,23 @@
 [ OK ]    52,973 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,041 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 4,143,593
-Filter Duplicates   : 2,778,890
-Filter Whitelist    : 2,642,312
-Import Blacklist    : 2,642,816
-Compressed          : 1,942,770
+Total Blacklist     : 3,436,471
+Filter Duplicates   : 2,309,635
+Filter Whitelist    : 2,174,502
+Import Blacklist    : 2,175,015
+Compressed          : 1,825,669
 
    LENGTH     COUNT
-        2 1,175,038
-        3   604,961
-        4   120,838
-        5    29,152
-        6     6,725
-        7     2,070
-        8     2,466
-        9     1,099
-       10       269
-       11        65
+        2 1,142,787
+        3   530,951
+        4   114,216
+        5    26,491
+        6     5,484
+        7     1,811
+        8     2,424
+        9     1,091
+       10       265
+       11        62
        12        21
        13        17
        14        16
@@ -187,7 +186,7 @@ Compressed          : 1,942,770
        17         6
        19         4
 
-Total Blocklist     : 1,942,770
+Total Blocklist     : 1,825,669
 
 ~~~
 
@@ -245,7 +244,6 @@ https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combine
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites_justdomains.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_mail_trackers_justdomains.txt
-https://hosts.ubuntu101.co.za/domains.list
 ~~~
 
 # Whitelist
