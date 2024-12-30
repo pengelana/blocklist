@@ -715,6 +715,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||malenirt.site^$all
 ||repostponing.cfd^$all
 /post/FileRotator_ID*/download.php?subid=$xhr
+/bonus/com-*.php?c=$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24602
 ! https://www.virustotal.com/gui/url/ce2b833adda2f862d77398203bbe33ea331097ba2a803d1a763492d2ac0d5a60
@@ -6334,3 +6335,6 @@ uploadfox.net###ad-gs-05
 
 ! https://www.reddit.com/r/Scams/comments/1hp4wu1/ninja_kitchen_products_scam/
 ||ninnjaofficial.com^$all,to=~ninjakitchen.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/26672
+||gtrewe.co.in^$all
