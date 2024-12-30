@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-30 16:03:14 UTC                        #
+# Last updated: 2024-12-30 20:02:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vimeworldserverstat.serveminecraft.net
+127.0.0.1	ipv6.194-59-30-152.cprapid.com
 127.0.0.1	server1.quantumcrisp.com
 127.0.0.1	globalsystemsupport.com
 127.0.0.1	mail.pf.194-59-30-152.cprapid.com
@@ -10934,6 +10936,4 @@
 127.0.0.1	googledocs.duckdns.org
 127.0.0.1	provided-existence.gl.at.ply.gg
 127.0.0.1	them-recommended.gl.at.ply.gg
-127.0.0.1	londopas.com
-127.0.0.1	berjimek.com
 # Number of entries: 10930
