@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-12-30 05:09:15 CET
-# entries:        1104
+# last updated:   2025-01-06 05:34:18 CET
+# entries:        1100
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -13,7 +13,6 @@
 127.0.0.1 6321239.fls.doubleclick.net
 127.0.0.1 197654070b0e4b05add9b2994aea3887.js.ubembed.com
 127.0.0.1 a.adroll.com
-127.0.0.1 a.adtech.de
 127.0.0.1 a.omappapi.com
 127.0.0.1 a.opmnstr.com
 127.0.0.1 a.optmnstr.com
@@ -55,6 +54,7 @@
 127.0.0.1 ads.exakt24.se
 127.0.0.1 ads.expekt.se
 127.0.0.1 ads.fotosidan.se
+127.0.0.1 ads.frihetsnytt.se
 127.0.0.1 ads.holid.io
 127.0.0.1 ads.kelkoo.com
 127.0.0.1 ads.leovegas.com
@@ -442,7 +442,6 @@
 127.0.0.1 freegeoip.app
 127.0.0.1 freespee.com
 127.0.0.1 freewheel-mtgx-tv.akamaized.net
-127.0.0.1 frugalrushcap.com
 127.0.0.1 functions.adnami.io
 127.0.0.1 funnelytics.io
 127.0.0.1 funtomic-d.openx.net
@@ -613,7 +612,6 @@
 127.0.0.1 npario-inc.net
 127.0.0.1 ntrfr.expekt.se
 127.0.0.1 ntrfr.leovegas.com
-127.0.0.1 ntrfr.pixel.bet
 127.0.0.1 nucleusanalytics.io
 127.0.0.1 nvpx.adhost.se
 127.0.0.1 offer-go.com
@@ -669,7 +667,6 @@
 127.0.0.1 pxl.host
 127.0.0.1 r.existenz.se
 127.0.0.1 rabble-res.cloudinary.com
-127.0.0.1 reauthenticator.com
 127.0.0.1 recirculation.spot.im
 127.0.0.1 redistats.com
 127.0.0.1 region1.google-analytics.com
@@ -782,10 +779,12 @@
 127.0.0.1 stat.brollopstorget.se
 127.0.0.1 stat.devote.se
 127.0.0.1 stat.familjeliv.se
+127.0.0.1 stat.loppi.se
 127.0.0.1 stat.modette.se
 127.0.0.1 stat.nyheter24.se
 127.0.0.1 stat.rodeo.net
 127.0.0.1 stat.torgen.se
+127.0.0.1 stat.vimedbarn.se
 127.0.0.1 stat03.stat.cliche.se
 127.0.0.1 statcounter.va-endpoint.com
 127.0.0.1 static.addtoany.com
@@ -816,7 +815,6 @@
 127.0.0.1 stats.med.lu.se
 127.0.0.1 stats.playoncenter.com
 127.0.0.1 stats.poddtoppen.se
-127.0.0.1 stats.proff.se
 127.0.0.1 stats.tipser.com
 127.0.0.1 stats.userneeds.com
 127.0.0.1 stats.wpmucdn.com
@@ -858,7 +856,6 @@
 127.0.0.1 tagging-service.tv4play.se
 127.0.0.1 tagging-service.tv4.se
 127.0.0.1 tags.adnuntius.com
-127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 tags.expo9.exponential.com
 127.0.0.1 tags.refinery89.com
@@ -1106,6 +1103,5 @@
 127.0.0.1 www.gymshark-sweden.com.se
 127.0.0.1 x.bidswitch.net
 127.0.0.1 yieldbird.com
-127.0.0.1 z.moatads.com
 127.0.0.1 zn6lkvme45abyczq5-tuigroup.siteintercept.qualtrics.com
 127.0.0.1 znbkpczkrl5wwqzj3-tripadvisor.siteintercept.qualtrics.com
