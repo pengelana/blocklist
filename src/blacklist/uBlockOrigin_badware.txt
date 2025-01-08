@@ -4088,6 +4088,8 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://urldna.io/scan/673d3de4d80447503bfc9372
 ! https://www.virustotal.com/gui/url/83f4006efa9dddfb7b6df6dda5a39e9e591906623eab4e0818b145fde7748bee
 ||cere.network/*-dhlshipmailchecker.shtml^$doc,to=~dhl.com
+! https://www.virustotal.com/gui/url/78a9667c1b6380afdc50c5a0f20f2bd228ee2f6e354c8ea6e8acb0325236f6c2
+||myjobdhl.earcu.com^$all,to=~dhl.com
 
 ! whatsapp
 ||firavave.club^$all
@@ -4275,6 +4277,10 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||fbmailsystem.com^$all,to=~facebook.com
 ! https://www.virustotal.com/gui/url/0ff080c3b0927c65ceb6baae035a93c9aa385a679401a87bb4904cc06bd83bff
 ||meta.supportservicehub.eu^$all,to=~facebook.com
+! https://www.virustotal.com/gui/url/2910c4441a720bf8b1c2376b9d191b24fd7f65d98073440ee33fbacbd897f3e6
+||facebookconfirm.com^$all,to=~facebook.com
+! https://www.virustotal.com/gui/url/026da7ca8f917b726796ed50338068e7325ad0f0983b585ce1ee8048f64c1055
+||faceboock-page-support.com^$all,to=~facebook.com
 
 ! shopping sites
 /api/user/do_login|$xhr,1p,to=com|info,method=post,header=access-control-allow-headers:/authorization\,content-type\,if-match\,if-modified-since\,if-none-match\,if-unmodified-since\,x-requested-with/i
@@ -4546,8 +4552,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||cmtg1.com^$all
 ||telegrambotsolution.pages.dev^$all
 /^https:\/\/www\.telegram[a-z]{2}\.com\//$doc,to=com|~telegram.org
-! https://www.virustotal.com/gui/url/dfc0c0423f0e994148d39d8458893a35bb024fdeeabfd7a82dd0d4e50ce68ace
-||rr.nu^$doc
 ! https://www.virustotal.com/gui/url/ef9755fcb211a668986b9afc5187577c92fb8c8bf62057bf9d0b59333827a35a
 /^https:\/\/ht[a-z]\d{2}\.vip\//$doc,to=vip
 ! https://www.virustotal.com/gui/url/3891030a1d3e7fb7ebac20d4607242e3c30477016bcdad27da7e88c9cdf65d3f
@@ -6218,3 +6222,9 @@ uploadfox.net###ad-gs-05
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26728
 ||supporthubcenter.eu^$all,to=~facebook.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/26760
+||hotdebrid.com^$document
+||debridlink.com^$document
+||maxdebrid.com^$document
+||anydebrid.com^$document
