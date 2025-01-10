@@ -1,9 +1,9 @@
-! Checksum: AOYgkBbb6CZ9tTsJwjEzkA
-! Diff-Path: ../patches/15/15-s-1736469778-3600.patch
+! Checksum: dYXZICAVoBrz/ue9XJPmdQ
+! Diff-Path: ../patches/15/15-s-1736512978-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.75.11
-! TimeUpdated: 2025-01-10T00:39:16+00:00
+! Version: 2.0.75.13
+! TimeUpdated: 2025-01-10T12:39:11+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-10T00:03:25.670Z
+! Last modified: 2025-01-10T12:01:47.468Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -652,6 +652,10 @@
 !+ NOT_OPTIMIZED
 ||vipads.live^
 !+ NOT_OPTIMIZED
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/196097
+||tn.porngo.xxx^$badfilter
+||tn.porngo.xxx^
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/189721
 ! Opera promo on third-party sites
@@ -33327,6 +33331,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||optiyield.opti-digital.com^
 ||volces.com^
 ||twitter.sx^
 ||lf1-cdn-tos.bytegoofy.com^
@@ -52607,9 +52612,17 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||hdjthzg.cn^
+||pxhuiben.com^
 ||oliver.pub^
 ||lbfwxr.icu^
 ||eitilbyr.com^
+||3uo.fun^
+||ddhjabqe.icu^
+||majile.vip^
+||nyhdv.com^
+||osdxx.com^
+||bhegilut.com^
 ||pinjzp.icu^
 ||aos01080ss.xyz^
 ||ztlkngyj.icu^

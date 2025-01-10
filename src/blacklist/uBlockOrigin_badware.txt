@@ -2699,6 +2699,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||t-echi.fun^$doc
 ||adult-ntrchanel.com^$all
 ||echi-echi-time.org^$all
+||track.chkr7.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/142492
 ||apkmirror.co^$all
@@ -3379,6 +3380,7 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||mail-cytanet.pages.dev^$all,to=~mail.cytanet.com.cy
 ||serviceteasfreem.weebly.com^$all
 ||jhwbcvkjkshaw.weebly.com^$all,to=~webmail.shaw.ca
+||webmailupdating.wixsite.com^$all,to=~email.telstra.com
 ! https://www.virustotal.com/gui/url/dd060d260d7781f9610f40bdff4991144ed5b52be3a14dfcda6783987efc4b79
 ||phoenixvilla.rw/wp-about/*.html^$doc
 ! https://www.virustotal.com/gui/url/5a758358bf0a16b7afeadc99026ce4fc7c1faf0298f2f7c6b5ace52e7f148eef
@@ -5690,6 +5692,10 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||tracker.club-os.com^
 ||onelink.me/*&af_web_dp=$doc
 ||guide-orientation.tn/go_page.php?$doc
+! https://github.com/uBlockOrigin/uAssets/issues/26798
+!#if env_mobile
+@@||onelink.me/*://app/$doc
+!#endif
 
 ! https://krebsonsecurity.com/2024/09/scam-funeral-streaming-groups-thrive-on-facebook/
 ||allsportslivenow.com^$doc
