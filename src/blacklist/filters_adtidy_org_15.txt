@@ -1,9 +1,9 @@
-! Checksum: CwjT3unMRMzYIyPHR/I9WA
-! Diff-Path: ../patches/15/15-s-1736556191-3600.patch
+! Checksum: 1tBnniH/55M6ruiMPIHlyQ
+! Diff-Path: ../patches/15/15-s-1736577806-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.75.15
-! TimeUpdated: 2025-01-11T00:39:28+00:00
+! Version: 2.0.75.16
+! TimeUpdated: 2025-01-11T06:39:52+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-11T00:03:20.716Z
+! Last modified: 2025-01-11T06:01:29.741Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2194,6 +2194,7 @@ vkcdnservice.appspot.com^
 ||abattoirpleatsprinkle.com^
 ||abazelfan.com^
 ||abbasidquippy.shop^
+||abbateerupted.com^
 ||abberantdiscussion.com^
 ||abberantdoggie.com^
 ||abberantpawnpalette.com^
@@ -7925,6 +7926,7 @@ vkcdnservice.appspot.com^
 ||daejyre.com^
 ||daffaite.com^
 ||daffodilnotifyquarterback.com^
+||dagassapereion.com^
 ||dagheepsoach.net^
 ||dagnar.com^
 ||dagnurgihjiz.com^
@@ -10724,6 +10726,7 @@ vkcdnservice.appspot.com^
 ||flaweyesight.com^
 ||flawgrandparentsmysterious.com^
 ||flaxconfession.com^
+||flaxdescale.com^
 ||flaxierfilmset.com^
 ||flcrcyj.com^
 ||fldes6fq.de^
@@ -18791,6 +18794,7 @@ vkcdnservice.appspot.com^
 ||oshoothoolo.com^
 ||oskiwood.com^
 ||osmeticjewlike.com^
+||osminaclumber.com^
 ||osmosedshrined.top^
 ||ospartners.xyz^
 ||ospreyorceins.com^
@@ -20522,6 +20526,7 @@ vkcdnservice.appspot.com^
 ||projectscupcakeinternational.com^
 ||projectwonderful.com^
 ||prolatecyclus.com^
+||proleclips.com^
 ||prologuerussialavender.com^
 ||prologuetwinsmolecule.com^
 ||promiseyuri.com^
@@ -25134,6 +25139,7 @@ vkcdnservice.appspot.com^
 ||techourtoapingu.com^
 ||techreviewtech.com^
 ||tecominchisel.com^
+||tectureclod.top^
 ||tecuil.com^
 ||tedhilarlymcken.org^
 ||tediousgorgefirst.com^
@@ -25148,6 +25154,7 @@ vkcdnservice.appspot.com^
 ||teepoomo.xyz^
 ||teestoagloupaza.net^
 ||teetusee.xyz^
+||teewhilemath.net^
 ||tefrjctjwuu.com^
 ||tefuse.com^
 ||tegleebs.com^
@@ -25805,6 +25812,7 @@ vkcdnservice.appspot.com^
 ||touchupchows.com^
 ||touchyeccentric.com^
 ||touchytautogs.com^
+||tougaipteehuboo.xyz^
 ||toughdrizzleleftover.com^
 ||tougrauwaizus.net^
 ||touptaisu.com^
@@ -27830,6 +27838,7 @@ vkcdnservice.appspot.com^
 ||wetnesstommer.com^
 ||wetpeachcash.com^
 ||wetsireoverload.com^
+||wevechinse.com^
 ||wewaixor.com^
 ||wewearegogogo.com^
 ||wextap.com^
@@ -41007,8 +41016,6 @@ inapps.appsflyersdk.com^
 ||pets.channeladvisor.com^
 ||pi.ispot.tv^
 ||ping.dozuki.com^
-||ping.fastsimon.com^
-||ping.instantsearchplus.com^
 ||pings.vidpulse.com^
 ||pix.revjet.com^
 ||pix.speedbit.com^
@@ -52631,6 +52638,9 @@ inapps.appsflyersdk.com^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||riscats.com^
+||jebrhb.icu^
+||bc4.fun^
+||rvxsvwqf.icu^
 ||hdjthzg.cn^
 ||pxhuiben.com^
 ||oliver.pub^
