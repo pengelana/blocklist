@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-12 00:03:16 UTC                        #
+# Last updated: 2025-01-12 06:07:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	corepatchcraft.com
 127.0.0.1	www.g.mllcrosoft.com
 127.0.0.1	lunarproducts.net
 127.0.0.1	nebulabot.net
@@ -18734,4 +18735,4 @@
 127.0.0.1	spikeliftall.com
 127.0.0.1	stripplasst.com
 127.0.0.1	worlpquano.com
-# Number of entries: 18728
+# Number of entries: 18729
