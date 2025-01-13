@@ -707,6 +707,7 @@ tech4yougadgets.com##+js(aopr, Notification)
 ||flirtixxx.com^$all
 ||girlslusts.com^$all
 ||desirefygirls.com^$all
+||arousalx.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24602
 ! https://www.virustotal.com/gui/url/ce2b833adda2f862d77398203bbe33ea331097ba2a803d1a763492d2ac0d5a60
@@ -4148,6 +4149,7 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||facebook-guidelines.com^$all
 ||certify-issues-details-case.netlify.app^$all
 ||meta-accessibility.io.vn^$all
+||facebock-page-center.com^$all
 ||confirmationhelpmeta.io.vn^$all,to=~facebook.com
 ||mfacebook-com.vn^$all
 ||www-mfacebook.$doc
@@ -4583,6 +4585,8 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||telezelm-*.icu^$doc
 ! https://www.virustotal.com/gui/url/e7eea1fe6282dee603a27cc5d34c0c5eee90fd402de80989cf7a939e3e7e1352
 ||whatsapp*.icu^$doc
+! https://www.virustotal.com/gui/url/cb39c3fd6faa42c07328f8e73f8a4d2258523b557b9f4e5a134ef4ec3cf4698c
+/^https:\/\/telegram-[a-z]{2}\.[a-z]{2,3}\//$doc,to=~gov|~edu|~com|~net|~org
 
 ! usps
 ||uspsparcels.net^$all,to=~usps.com
@@ -6236,7 +6240,10 @@ uploadfox.net###ad-gs-05
 ||gtrewe.co.in^$all
 ! https://github.com/uBlockOrigin/uAssets/issues/26708
 ||fiheos.co.in^$all
-/^https?:\/\/[a-z0-9]{18}\.[a-z]{6}\.co\.in\//$all,to=co.in
+! https://github.com/uBlockOrigin/uAssets/issues/26817
+||butsmism.co.in^$all
+||gapconnectionbridge.co.in^$all
+/^https?:\/\/[a-z0-9]{6,20}\.[a-z]{6,20}\.co\.in\//$all,to=co.in
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26722
 ||maxsecurityultimate.com^$all
@@ -6256,3 +6263,7 @@ uploadfox.net###ad-gs-05
 ! https://www.reddit.com/r/antivirus/comments/1hzae66/what_is_the_best_thing_to_do_after_clicking_a/
 ||grass-io.$all,to=cc|vip|~getgrass.io
 ||inmotionhosting.com/~myapp/grass_air/$doc,to=~getgrass.io
+
+! https://github.com/uBlockOrigin/uAssets/issues/26814
+||epubgleagues.com^$all
+||pubgrlxvote.top^$all
