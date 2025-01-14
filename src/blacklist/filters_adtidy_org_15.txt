@@ -1,9 +1,9 @@
-! Checksum: Qi192menLUrqVUyAnCGNig
-! Diff-Path: ../patches/15/15-s-1736794016-3600.patch
+! Checksum: JlT4FARDbRD2HmBErRj39w
+! Diff-Path: ../patches/15/15-s-1736836969-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.75.27
-! TimeUpdated: 2025-01-13T18:43:16+00:00
+! Version: 2.0.75.28
+! TimeUpdated: 2025-01-14T06:39:15+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-13T18:01:32.968Z
+! Last modified: 2025-01-14T06:01:20.733Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3217,6 +3217,7 @@ vkcdnservice.appspot.com^
 ||aiiirwciki.com^
 ||aijurivihebo.com^
 ||aikat-vim.com^
+||aikidosaimable.com^
 ||aikraith.net^
 ||aikravoapu.com^
 ||aikrighawaks.com^
@@ -3340,6 +3341,7 @@ vkcdnservice.appspot.com^
 ||albireo.xyz^
 ||albraixentor.com^
 ||albumshrugnotoriety.com^
+||albumsomer.com^
 ||alcatza.com^
 ||alcaydecubages.com^
 ||alchemysocial.com^
@@ -4600,6 +4602,7 @@ vkcdnservice.appspot.com^
 ||backseatmarmaladeconsiderate.com^
 ||backseatrunners.com^
 ||backssensorunreal.com^
+||backsweka.com^
 ||backupcelebritygrave.com^
 ||baconbedside.com^
 ||badeldestarticulate.com^
@@ -4827,6 +4830,7 @@ vkcdnservice.appspot.com^
 ||beakerweedjazz.com^
 ||beakexcursion.com^
 ||beakobjectcaliber.com^
+||beakpee.com^
 ||bealafulup.com^
 ||beamedshipwreck.com^
 ||beamobserver.com^
@@ -5557,6 +5561,7 @@ vkcdnservice.appspot.com^
 ||borablejoky.shop^
 ||borakmolests.top^
 ||bordsnewsjule.com^
+||boreaszolaism.com^
 ||borehatchetcarnival.com^
 ||boreusorgans.top^
 ||borhaj.com^
@@ -5685,6 +5690,7 @@ vkcdnservice.appspot.com^
 ||bravotrk.com^
 ||brawlperennialcalumny.com^
 ||brazenwholly.com^
+||brazilprocyon.com^
 ||breadpro.com^
 ||breadsincerely.com^
 ||breadthneedle.com^
@@ -6008,6 +6014,7 @@ vkcdnservice.appspot.com^
 ||byfoongusor.com^
 ||bygliscortor.com^
 ||bygoingawning.shop^
+||bygonearabin.top^
 ||bygoneskalpas.shop^
 ||bygoneudderpension.com^
 ||bygsworlowe.info^
@@ -6995,6 +7002,7 @@ vkcdnservice.appspot.com^
 ||clumperrucksey.life^
 ||clumsinesssinkingmarried.com^
 ||clumsyshare.com^
+||clunkedisolex.com^
 ||clunkyentirelinked.com^
 ||cluodlfare.com^
 ||clusterdamages.top^
@@ -7503,6 +7511,7 @@ vkcdnservice.appspot.com^
 ||cosysuppressed.com^
 ||cotchaug.com^
 ||coticoffee.com^
+||cottoidearldom.com^
 ||cottoncabbage.com^
 ||cottondivorcefootprint.com^
 ||coucalhidated.com^
@@ -8499,6 +8508,7 @@ vkcdnservice.appspot.com^
 ||diametersunglassesbranch.com^
 ||dianomioffers.co.uk^
 ||dibbuksnoonlit.shop^
+||dibrachndoderm.com^
 ||dibsemey.com^
 ||dicesstipo.com^
 ||diceunacceptable.com^
@@ -9201,6 +9211,7 @@ vkcdnservice.appspot.com^
 ||durableordinarilyadministrator.com^
 ||durantconvey.com^
 ||durith.com^
+||duskinglocus.com^
 ||dust-0001.delorazahnow.workers.dev^
 ||dustersee.com^
 ||dustourregraft.top^
@@ -9757,6 +9768,7 @@ vkcdnservice.appspot.com^
 ||enjaaiwix.com^
 ||enjehdch.xyz^
 ||enjoyedsexualpromising.com^
+||enlardlunatum.com^
 ||enlargementerroronerous.com^
 ||enlargementwolf.com^
 ||enlightencentury.com^
@@ -10004,6 +10016,7 @@ vkcdnservice.appspot.com^
 ||eumarkdepot.com^
 ||eunow4u.com^
 ||eunpprzdlkf.online^
+||euphemyhogton.com^
 ||euqamqasa.com^
 ||europacash.com^
 ||europe-discounts.com^
@@ -11707,6 +11720,7 @@ vkcdnservice.appspot.com^
 ||glaidalr.net^
 ||glaidekeemp.net^
 ||glaidipt.net^
+||glaignatsensah.xyz^
 ||glaijauk.xyz^
 ||glaikrolsoa.com^
 ||glaisseexoar.net^
@@ -14551,6 +14565,7 @@ vkcdnservice.appspot.com^
 ||jssearch.net^
 ||jssejsnvdy.com^
 ||jswww.net^
+||jtegqwmjfxu.site^
 ||jubacasziel.shop^
 ||jubnaadserve.com^
 ||jubsaugn.com^
@@ -14648,6 +14663,7 @@ vkcdnservice.appspot.com^
 ||kaarheciqa.xyz^
 ||kaascypher.com^
 ||kabakamarbles.top^
+||kabardmarrot.com^
 ||kabarnaira.com^
 ||kabudckn.com^
 ||kacukrunitsoo.net^
@@ -15902,6 +15918,7 @@ vkcdnservice.appspot.com^
 ||lqcdn.com^
 ||lqclick.com^
 ||lqcngjecijy.rocks^
+||lqgenuq-j.life^
 ||lqtiwevsan.com^
 ||lr-in.com^
 ||lraonxdikxi.com^
@@ -16278,6 +16295,7 @@ vkcdnservice.appspot.com^
 ||maplecurriculum.com^
 ||maquiags.com^
 ||marapcana.online^
+||maraywreath.com^
 ||marazma.com^
 ||marbct.xyz^
 ||marbil24.co.za^
@@ -16704,6 +16722,7 @@ vkcdnservice.appspot.com^
 ||milkywaynewspaper.com^
 ||millennialmedia.com^
 ||millerminds.com^
+||millingderv.com^
 ||millionsafternoonboil.com^
 ||milljeanne.com^
 ||millsurfaces.com^
@@ -17416,6 +17435,7 @@ vkcdnservice.appspot.com^
 ||natregs.com^
 ||natsdk.com^
 ||nattepush.com^
+||nattierpegwood.com^
 ||naturalhealthsource.club^
 ||naturalistsbumpmystic.com^
 ||naturallyedaciousedacious.com^
@@ -18142,6 +18162,7 @@ vkcdnservice.appspot.com^
 ||oaksandtheircle.info^
 ||oalsauwy.net^
 ||oalselry.com^
+||oamoacirdaures.net^
 ||oamoameevee.net^
 ||oamoatch.com^
 ||oamtorsa.net^
@@ -18988,6 +19009,7 @@ vkcdnservice.appspot.com^
 ||outseethoozet.net^
 ||outsetnormalwaited.com^
 ||outseylor.com^
+||outsidesubtree.com^
 ||outsimiseara.com^
 ||outsliggooa.com^
 ||outsmoke-niyaxabura.com^
@@ -21664,6 +21686,7 @@ vkcdnservice.appspot.com^
 ||rebelhaggard.com^
 ||rebellionnaturalconsonant.com^
 ||rebindskayoes.com^
+||rebootsormers.com^
 ||rebosoyodle.com^
 ||rebrew-foofteen.com^
 ||recageddolabra.shop^
@@ -24490,6 +24513,7 @@ vkcdnservice.appspot.com^
 ||stoaglauksargoo.xyz^
 ||stoagnejums.net^
 ||stoagouruzostee.net^
+||stoampaliy.net^
 ||stoaphalti.com^
 ||stoardeebou.xyz^
 ||stoashou.net^
@@ -27146,6 +27170,7 @@ vkcdnservice.appspot.com^
 ||venomouslife.com^
 ||venomouswhimarid.com^
 ||ventilatorcorrupt.com^
+||ventralwries.com^
 ||ventrequmus.com^
 ||ventualkentineda.info^
 ||venturead.com^
@@ -27370,6 +27395,7 @@ vkcdnservice.appspot.com^
 ||visiblegains.com^
 ||visiblejoseph.com^
 ||visiblemeasures.com^
+||visiblyhiemal.shop^
 ||visionchillystatus.com^
 ||visitcrispgrass.com^
 ||visitedquarrelsomemeant.com^
@@ -27446,6 +27472,7 @@ vkcdnservice.appspot.com^
 ||voicedstart.com^
 ||voicepainlessdonut.com^
 ||voicepeaches.com^
+||voicepythons.shop^
 ||voicerdefeats.com^
 ||voidmodificationdough.com^
 ||vokaunget.xyz^
@@ -28887,6 +28914,7 @@ vkcdnservice.appspot.com^
 ||yoibbka.com^
 ||yoickscaper.shop^
 ||yokeeroud.com^
+||yoksamhain.com^
 ||yolkhandledwheels.com^
 ||yomeno.xyz^
 ||yomxt.icu^
@@ -46290,8 +46318,8 @@ inapps.appsflyersdk.com^
 ! # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 ! # ----
 ! # title:          Frellwit's Swedish Hosts File
-! # last updated:   2025-01-06 05:34:18 CET
-! # entries:        1100
+! # last updated:   2025-01-14 05:42:13 CET
+! # entries:        1103
 ! # format:         hosts (hosts -- in hosts file format)
 ! # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -46391,6 +46419,7 @@ inapps.appsflyersdk.com^
 ||ax.idg.se^
 ||b1.trickyrock.com^
 ||backend.qimtek.se^
+||banner.bet365partners.com^
 ||banners.instaforex.com^
 ||banners.wsnonline.dk^
 ||barbours.com.se^
@@ -46555,7 +46584,9 @@ inapps.appsflyersdk.com^
 ||matomo.vibb.ax^
 ||maxetise.net^
 ||mcgtrack.herokuapp.com^
+||media.comeon.com^
 ||media.hajper.com^
+||media.snabbare.com^
 ||mediaglacier.com^
 ||mediakraft.se^
 ||mediaserver.entainpartners.com^
@@ -52713,6 +52744,13 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||lazzrv.icu^
+||geinkroll.com^
+||wusfa.xyz^
+||vmcnl.xyz^
+||eskux.xyz^
+||kdomsid.top^
+||4wm.fun^
 ||nxdefd.icu^
 ||thonkoirs.com^
 ||vftrfmia.icu^
@@ -57624,6 +57662,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter third-party ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/3rd_domains.txt
 !
+||ad-creative.pstatic.net^
 ||centaurs-rest.coupang.com^
 ||ad.cashdoc.io^
 ||sv.govkorea24.com^
@@ -57781,6 +57820,7 @@ analytics-*.aasaam.com
 !
 ! DOMAIN-REFRESHER: START
 !
+||ntkimg.cloud^
 ||ttse.b-cdn.net^
 ||i.keezip.com^
 ||awd.spochak.com^
