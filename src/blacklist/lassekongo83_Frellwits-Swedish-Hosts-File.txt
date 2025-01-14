@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-01-06 05:34:18 CET
-# entries:        1100
+# last updated:   2025-01-14 05:42:13 CET
+# entries:        1103
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -184,6 +184,7 @@
 127.0.0.1 back.revrelations.com
 127.0.0.1 backend.qimtek.se
 127.0.0.1 bam.bonad.io
+127.0.0.1 banner.bet365partners.com
 127.0.0.1 banners.instaforex.com
 127.0.0.1 banners.wsnonline.dk
 127.0.0.1 bannersnack.com
@@ -577,8 +578,10 @@
 127.0.0.1 mcgtrack.herokuapp.com
 127.0.0.1 media.aso1.net
 127.0.0.1 media.casumoaffiliates.com
+127.0.0.1 media.comeon.com
 127.0.0.1 media.go2speed.org
 127.0.0.1 media.hajper.com
+127.0.0.1 media.snabbare.com
 127.0.0.1 mediaglacier.com
 127.0.0.1 mediakraft.se
 127.0.0.1 mediaserver.entainpartners.com
