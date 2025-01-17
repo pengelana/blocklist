@@ -121,7 +121,7 @@
 [ OK ]       833 src/blacklist/craiu_list.txt
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
-[ OK ]       240 src/blacklist/dnstunneling_t.txt
+[ OK ]       241 src/blacklist/dnstunneling_t.txt
 [ OK ]       302 src/blacklist/dood_t.txt
 [ OK ]     2,395 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,867 src/blacklist/easylist_adservers_popup.txt
@@ -147,7 +147,7 @@
 [ OK ]     2,299 src/blacklist/matomo_org_spammers.txt
 [ OK ]   227,073 src/blacklist/mitchellkrogza_phishing-domains-ACTIVE.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    44,418 src/blacklist/oisd_small.txt
+[ OK ]    44,413 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   257,020 src/blacklist/phishing_army_blocklist.txt
 [ OK ]         7 src/blacklist/popup_t.txt
@@ -161,15 +161,15 @@
 [ OK ]    53,420 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,977 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 4,042,867
-Filter Duplicates   : 2,916,769
-Filter Whitelist    : 2,781,738
-Import Blacklist    : 2,782,254
-Compressed          : 2,313,991
+Total Blacklist     : 4,042,863
+Filter Duplicates   : 2,916,768
+Filter Whitelist    : 2,781,737
+Import Blacklist    : 2,782,253
+Compressed          : 2,313,990
 
    LENGTH     COUNT
-        2 1,538,975
-        3   595,018
+        2 1,538,973
+        3   595,019
         4   124,129
         5    44,266
         6     5,712
@@ -186,7 +186,7 @@ Compressed          : 2,313,991
        17         4
        19         4
 
-Total Blocklist     : 2,313,991
+Total Blocklist     : 2,313,990
 
 ~~~
 
