@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-18 07:21:20 UTC                        #
+# Last updated: 2025-01-18 07:45:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cf.r8.lc
 127.0.0.1	winaz5555-21166.portmap.host
 127.0.0.1	gosp.duckdns.org
 127.0.0.1	rosks.duckdns.org
@@ -19208,4 +19209,4 @@
 127.0.0.1	ndm2398asdlw.lol
 127.0.0.1	ndm2398asdlw.homes
 127.0.0.1	ndm2398asdlw.mom
-# Number of entries: 19202
+# Number of entries: 19203
