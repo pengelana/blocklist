@@ -1,9 +1,9 @@
-! Checksum: /8ixGh9hWVtUe5kGYfou9Q
-! Diff-Path: ../patches/15/15-s-1737506560-3600.patch
+! Checksum: CexJG5BTTY/0/SO3eFqdpQ
+! Diff-Path: ../patches/15/15-s-1737528201-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.75.60
-! TimeUpdated: 2025-01-22T00:39:04+00:00
+! Version: 2.0.75.61
+! TimeUpdated: 2025-01-22T06:39:42+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-22T00:03:17.689Z
+! Last modified: 2025-01-22T06:01:27.326Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -37425,6 +37425,8 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||metrics-a.wbx2.com^
+||event.msi.com^
 ||dco.coupang.com^
 ||clickstream-*.homedepot.com^
 ||mr.homedepot.com^
