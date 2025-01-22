@@ -154,23 +154,23 @@
 [ OK ]       170 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]         2 src/blacklist/redirect_t.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   112,507 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   112,498 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,779 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ]   989,304 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    53,516 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,985 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 4,267,214
+Total Blacklist     : 4,267,205
 Filter Duplicates   : 3,138,544
-Filter Whitelist    : 3,003,503
-Import Blacklist    : 3,004,018
-Compressed          : 2,537,747
+Filter Whitelist    : 3,003,499
+Import Blacklist    : 3,004,014
+Compressed          : 2,537,745
 
    LENGTH     COUNT
-        2 1,747,464
-        3   610,411
-        4   126,389
+        2 1,747,465
+        3   610,407
+        4   126,390
         5    41,819
         6     5,772
         7     1,842
@@ -186,7 +186,7 @@ Compressed          : 2,537,747
        17         4
        19         4
 
-Total Blocklist     : 2,537,747
+Total Blocklist     : 2,537,745
 
 ~~~
 
