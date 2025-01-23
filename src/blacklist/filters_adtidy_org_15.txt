@@ -1,9 +1,9 @@
-! Checksum: CexJG5BTTY/0/SO3eFqdpQ
-! Diff-Path: ../patches/15/15-s-1737528201-3600.patch
+! Checksum: AiH75LUJo5lUJPU7sC3kBA
+! Diff-Path: ../patches/15/15-s-1737593185-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.75.61
-! TimeUpdated: 2025-01-22T06:39:42+00:00
+! Version: 2.0.75.65
+! TimeUpdated: 2025-01-23T00:42:51+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-22T06:01:27.326Z
+! Last modified: 2025-01-23T00:03:13.021Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1896,6 +1896,7 @@ vkcdnservice.appspot.com^
 ||5ae3a94233.com^
 ||5b10f288ee.com^
 ||5b3fbababb.com^
+||5be7319a8b.com^
 ||5bf6d94b92.com^
 ||5btekl14.de^
 ||5c4ccd56c9.com^
@@ -4597,6 +4598,7 @@ vkcdnservice.appspot.com^
 ||b57dqedu4.com^
 ||b58ncoa1c07f.com^
 ||b5e75c56.com^
+||b6b2d31f7e.com^
 ||b6f16b3cd2.com^
 ||b73uszzq3g9h.com^
 ||b76751e155.com^
@@ -8896,6 +8898,7 @@ vkcdnservice.appspot.com^
 ||doflygonan.com^
 ||dofrogadiera.com^
 ||dogecalloo.com^
+||doggessasbolin.com^
 ||doghasta.com^
 ||dogiedimepupae.com^
 ||dogolurkr.com^
@@ -9488,6 +9491,7 @@ vkcdnservice.appspot.com^
 ||edixagnesag.net^
 ||edlilu.com^
 ||ednewsbd.com^
+||edokouksuk.net^
 ||edonhisdhi.com^
 ||edoumeph.com^
 ||edralintheirbrights.com^
@@ -9538,6 +9542,7 @@ vkcdnservice.appspot.com^
 ||eekrogrameety.net^
 ||eeksoabo.com^
 ||eeleekso.com^
+||eelerzambo.com^
 ||eelroave.xyz^
 ||eemsautsoay.net^
 ||eenbies.com^
@@ -10326,6 +10331,7 @@ vkcdnservice.appspot.com^
 ||f53d954cc5.com^
 ||f58x48lpn.com^
 ||f59408d48d.com^
+||f5ff45b3d4.com^
 ||f62b2a8ac6.com^
 ||f794d2f9d9.com^
 ||f8260adbf8558d6.com^
@@ -11041,6 +11047,7 @@ vkcdnservice.appspot.com^
 ||formatresourcefulresolved.com^
 ||formatstock.com^
 ||formedwrapped.com^
+||formerdisagreepectoral.com^
 ||formerdrearybiopsy.com^
 ||formerlyhorribly.com^
 ||formerlyparsleysuccess.com^
@@ -12421,6 +12428,7 @@ vkcdnservice.appspot.com^
 ||guitarjavgg124.fun^
 ||gujakqludcuk.com^
 ||gukmodukuleqasfo.com^
+||gukrathokeewhi.net^
 ||gulfimply.com^
 ||gullible-lawyer.pro^
 ||gullibleanimated.com^
@@ -12631,6 +12639,7 @@ vkcdnservice.appspot.com^
 ||harmvaluesrestriction.com^
 ||harnessabreastpilotage.com^
 ||harrenmedianetwork.com^
+||harrowliquid.com^
 ||harrydough.com^
 ||harrymercurydynasty.com^
 ||harshlygiraffediscover.com^
@@ -14760,6 +14769,7 @@ vkcdnservice.appspot.com^
 ||kaleidoscopeadjacent.com^
 ||kaleidoscopefingernaildigging.com^
 ||kaleidoscopepincers.com^
+||kalkvisrecit.shop^
 ||kalseech.xyz^
 ||kaltoamsouty.net^
 ||kamachilinins.com^
@@ -17125,6 +17135,7 @@ vkcdnservice.appspot.com^
 ||mopemodelingfrown.com^
 ||mopesrubelle.com^
 ||mopiwhoisqui.com^
+||moqbfkfuex.com^
 ||moradu.com^
 ||moral-enthusiasm.pro^
 ||moralitylameinviting.com^
@@ -18124,6 +18135,7 @@ vkcdnservice.appspot.com^
 ||null-point.com^
 ||nullscateringinforms.com^
 ||nullsglitter.com^
+||numb-price.pro^
 ||numberium.com^
 ||numberscoke.com^
 ||numbersinsufficientone.com^
@@ -18560,6 +18572,7 @@ vkcdnservice.appspot.com^
 ||olvwnmnp.com^
 ||olxoqmotw.com^
 ||olxwweaf.com^
+||olympuscracowe.shop^
 ||olzatpafwo.com^
 ||olzuvgxqhozu.com^
 ||omanala.com^
@@ -18679,6 +18692,7 @@ vkcdnservice.appspot.com^
 ||onfearowom.com^
 ||ongastlya.com^
 ||ongoingverdictparalyzed.com^
+||onionetmabela.top^
 ||onkafxtiqcu.com^
 ||onkavst.com^
 ||onkodjwuq.com^
@@ -18942,6 +18956,7 @@ vkcdnservice.appspot.com^
 ||oselamousey.com^
 ||osfrjut.com^
 ||osfultrbriolenai.info^
+||osgabcqk.com^
 ||osgsijvkoap.com^
 ||oshanixot.com^
 ||osharvrziafx.com^
@@ -21609,6 +21624,7 @@ vkcdnservice.appspot.com^
 ||rainwealth.com^
 ||rainyfreshen.com^
 ||raiseallocation.com^
+||raisoglaini.net^
 ||raistiwije.net^
 ||rajabets.xyz^
 ||rakiblinger.com^
@@ -22383,6 +22399,7 @@ vkcdnservice.appspot.com^
 ||riotousgrit.com^
 ||riotousunspeakablestreet.com^
 ||riowrite.com^
+||ripe-heart.com^
 ||ripeautobiography.com^
 ||ripencompatiblefreezing.com^
 ||ripenstreet.com^
@@ -22920,6 +22937,7 @@ vkcdnservice.appspot.com^
 ||salutationpersecutewindows.com^
 ||salvagefloat.com^
 ||samage-bility.icu^
+||samalcuratic.shop^
 ||samarradeafer.top^
 ||samghasps.com^
 ||sampalsyneatly.com^
@@ -24277,6 +24295,7 @@ vkcdnservice.appspot.com^
 ||spentjerseydelve.com^
 ||sperans-beactor.com^
 ||spheredkapas.com^
+||spheryexcise.shop^
 ||spice-sugar.net^
 ||spiceethnic.com^
 ||spicy-combination.pro^
@@ -26385,6 +26404,7 @@ vkcdnservice.appspot.com^
 ||tsy-jnugwavj.love^
 ||tsyndicate.com^
 ||ttbm.com^
+||tteojtlqlxrev.com^
 ||ttgmjfgldgv9ed10.com^
 ||tthathehadstop.info^
 ||ttoc8ok.com^
@@ -32142,7 +32162,6 @@ vkcdnservice.appspot.com^
 ||dmkdtkad2jyb9.cloudfront.net^
 ||dmmzkfd82wayn.cloudfront.net^
 ||dmz3nd5oywtsw.cloudfront.net^
-||dn0qt3r0xannq.cloudfront.net^
 ||dn3uy6cx65ujf.cloudfront.net^
 ||dn6rwwtxa647p.cloudfront.net^
 ||dn7u3i0t165w2.cloudfront.net^
@@ -33605,6 +33624,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||wsknow.net^
 ||api.taggrs.io^
 ||obseu.netgreencolumn.com^
 ||sygrip.info^
@@ -37425,6 +37445,10 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||logging.g.sst.secureserver.net^
+||metricreceiver.cellrebel.com^
+||events.app-performance.music.amazon.dev^
+||collector-*.px-client.net^
 ||metrics-a.wbx2.com^
 ||event.msi.com^
 ||dco.coupang.com^
@@ -45849,6 +45873,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||proxy.optoutadserving.com^
 ||cryptosplash.care^
 ||pexi.nl^
 ||adconfigproxy.azurewebsites.net^
@@ -52937,6 +52962,11 @@ inapps.appsflyersdk.com^
 ||scigzetg.com^
 ||bjfsk.xyz^
 ||jltwxisa.icu^
+||qo2.fun^
+||01221sop.xyz^
+||thangrurs.com^
+||m4r.fun^
+||scrorlaets.com^
 ||y0o.fun^
 ||icokamio.top^
 ||thrumulr.com^
@@ -58265,6 +58295,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1822
+@@|www.daraz.pk^|
+@@|daraz.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1820
 @@||sbs.demdex.net^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/194309
