@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-24 19:26:34 UTC                        #
+# Last updated: 2025-01-25 04:04:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	viraluxstore.com
+127.0.0.1	autodiscover.fithiphealthy.com
+127.0.0.1	static.it-sharepoint.com
+127.0.0.1	ads.it-sharepoint.com
+127.0.0.1	adviseur-oakk.nl
 127.0.0.1	languageslearning.click
 127.0.0.1	historyuncovered.click
 127.0.0.1	homeimxent.click
@@ -21387,4 +21392,4 @@
 127.0.0.1	novidadesfresquinhas.online
 127.0.0.1	office-adr.com
 127.0.0.1	troia23.duckdns.org
-# Number of entries: 21381
+# Number of entries: 21386
