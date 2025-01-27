@@ -133,7 +133,6 @@
 [ OK ]       409 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]       753 src/blacklist/hpthreatresearch_domains.txt
 [ OK ]    22,530 src/blacklist/infinitytec_clickbait.txt
-[ OK ]   117,642 src/blacklist/infinitytec_medicalpseudoscience.txt
 [ OK ]    31,268 src/blacklist/infinitytec_scams-and-phishing.txt
 [ OK ]       133 src/blacklist/ioclist.domain.raw.txt
 [ OK ]        17 src/blacklist/ioclist.hostname.raw.txt
@@ -161,17 +160,17 @@
 [ OK ]    53,565 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,988 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 4,307,091
-Filter Duplicates   : 3,169,456
-Filter Whitelist    : 3,034,407
-Import Blacklist    : 3,034,921
-Compressed          : 2,567,711
+Total Blacklist     : 4,189,449
+Filter Duplicates   : 3,074,651
+Filter Whitelist    : 2,939,680
+Import Blacklist    : 2,940,194
+Compressed          : 2,554,749
 
    LENGTH     COUNT
-        2 1,766,125
-        3   620,577
-        4   127,453
-        5    41,883
+        2 1,757,178
+        3   616,627
+        4   127,394
+        5    41,877
         6     5,826
         7     1,810
         8     2,558
@@ -186,7 +185,7 @@ Compressed          : 2,567,711
        17         4
        19         4
 
-Total Blocklist     : 2,567,711
+Total Blocklist     : 2,554,749
 
 ~~~
 
