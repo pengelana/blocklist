@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-28 00:04:55 UTC                        #
+# Last updated: 2025-01-28 04:04:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	travelbrands.eaglecorn.org
 127.0.0.1	952cd7f5-55c2-472f-bc9d-08487ef75661.random.avina.cloud
 127.0.0.1	85-10-144-98.colo.transip.net
 127.0.0.1	omatomo.pp.ua
@@ -21701,4 +21702,4 @@
 127.0.0.1	euphorianet.xyz
 127.0.0.1	idea-bernard.gl.at.ply.gg
 127.0.0.1	linnrat.lol
-# Number of entries: 21695
+# Number of entries: 21696
