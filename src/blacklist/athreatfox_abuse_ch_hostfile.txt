@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-29 04:01:17 UTC                        #
+# Last updated: 2025-01-29 05:49:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	twizt.net
 127.0.0.1	www.3elos.com
 127.0.0.1	sesraw.com
 127.0.0.1	solve.iyuu.org
@@ -21795,4 +21796,4 @@
 127.0.0.1	securitynull.duckdns.org
 127.0.0.1	wowsecurityspider.duckdns.org
 127.0.0.1	serak.top
-# Number of entries: 21789
+# Number of entries: 21790
