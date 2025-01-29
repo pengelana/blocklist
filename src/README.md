@@ -124,7 +124,7 @@
 [ OK ]       346 src/blacklist/dood_t.txt
 [ OK ]     2,731 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,892 src/blacklist/easylist_adservers_popup.txt
-[ OK ]         5 src/blacklist/fakenews_t.txt
+[ OK ]         6 src/blacklist/fakenews_t.txt
 [ OK ]    57,073 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
@@ -153,25 +153,25 @@
 [ OK ]       165 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]         2 src/blacklist/redirect_t.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   115,595 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   115,231 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,779 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ] 1,011,550 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    53,601 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,988 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 4,177,272
-Filter Duplicates   : 3,063,485
-Filter Whitelist    : 2,928,511
-Import Blacklist    : 2,929,025
-Compressed          : 2,551,026
+Total Blacklist     : 4,176,909
+Filter Duplicates   : 3,063,367
+Filter Whitelist    : 2,928,393
+Import Blacklist    : 2,928,907
+Compressed          : 2,550,908
 
    LENGTH     COUNT
-        2 1,749,068
-        3   621,585
-        4   128,728
+        2 1,748,991
+        3   621,549
+        4   128,724
         5    39,963
-        6     5,862
+        6     5,861
         7     1,800
         8     2,541
         9     1,073
@@ -185,7 +185,7 @@ Compressed          : 2,551,026
        17         4
        19         4
 
-Total Blocklist     : 2,551,026
+Total Blocklist     : 2,550,908
 
 ~~~
 
