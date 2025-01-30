@@ -1,9 +1,9 @@
-! Checksum: xE3KbUosY8qyw2/d28QoLA
-! Diff-Path: ../patches/15/15-s-1738197734-3600.patch
+! Checksum: xfXsuwsFeUUEGSvfPvs63Q
+! Diff-Path: ../patches/15/15-s-1738219322-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.75.94
-! TimeUpdated: 2025-01-30T00:38:37+00:00
+! Version: 2.0.75.95
+! TimeUpdated: 2025-01-30T06:38:22+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-30T00:03:08.666Z
+! Last modified: 2025-01-30T06:01:23.375Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -46793,8 +46793,8 @@ inapps.appsflyersdk.com^
 ! # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 ! # ----
 ! # title:          Frellwit's Swedish Hosts File
-! # last updated:   2025-01-27 05:27:43 CET
-! # entries:        1104
+! # last updated:   2025-01-30 05:02:13 CET
+! # entries:        1105
 ! # format:         hosts (hosts -- in hosts file format)
 ! # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -53221,6 +53221,9 @@ inapps.appsflyersdk.com^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||bodhalqg.com^
+||xedlxeuz.icu^
+||twxftd.icu^
+||k42.fun^
 ||v4p.fun^
 ||addalzq.com^
 ||6qo.fun^
