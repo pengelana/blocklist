@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-03 09:38:40 UTC                        #
+# Last updated: 2025-02-03 12:49:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hub.t1brime-dev.ru
 127.0.0.1	safeguard-authenticate.com
 127.0.0.1	front-end228.xyz
 127.0.0.1	7aha7o1azo0xz6fh.life
@@ -27134,4 +27135,4 @@
 127.0.0.1	taysour6lakut1.duckdns.org
 127.0.0.1	taysour6lakut2.duckdns.org
 127.0.0.1	nickman12-46565.portmap.io
-# Number of entries: 27128
+# Number of entries: 27129
