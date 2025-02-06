@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-06 08:11:17 UTC                        #
+# Last updated: 2025-02-06 08:46:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	secureverifys.com
+127.0.0.1	antiquebotv3.com
+127.0.0.1	amnahuseta19.com
+127.0.0.1	amnahuseta20.com
+127.0.0.1	apouttv28.com
 127.0.0.1	vikine.rest
 127.0.0.1	support.myfirstdealplaybook.com
 127.0.0.1	dwriftycloud.pics
@@ -27831,4 +27836,4 @@
 127.0.0.1	angela-kindly.with.playit.plus
 127.0.0.1	peskpdfgif.shop
 127.0.0.1	werdotx.shop
-# Number of entries: 27825
+# Number of entries: 27830
