@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-06 11:20:08 UTC                        #
+# Last updated: 2025-02-06 11:52:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.smfd.ink
 127.0.0.1	divexpo.com
 127.0.0.1	usa-east.raptoreum.zone
 127.0.0.1	spk-pushtanverfahren.com
@@ -27901,4 +27902,4 @@
 127.0.0.1	kyniemsro.com
 127.0.0.1	angela-kindly.with.playit.plus
 127.0.0.1	peskpdfgif.shop
-# Number of entries: 27895
+# Number of entries: 27896

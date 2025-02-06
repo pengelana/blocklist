@@ -14,14 +14,8 @@
 [ OK ]     7,116 src/blacklist/Spam404_adblock-list.txt
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,678 src/blacklist/StevenBlack_hosts.txt
-[ OK ]    27,893 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    27,894 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,758 src/blacklist/bigdargon_hosts-VN.txt
-[ OK ]   435,156 src/blacklist/blocklistproject_abuse.txt
-[ OK ]   435,221 src/blacklist/blocklistproject_malware.txt
-[ OK ]   190,222 src/blacklist/blocklistproject_phishing.txt
-[ OK ]     1,904 src/blacklist/blocklistproject_ransomware.txt
-[ OK ]   108,684 src/blacklist/blocklistproject_redirect.txt
-[ OK ]     1,274 src/blacklist/blocklistproject_scam.txt
 [ OK ]     1,536 src/blacklist/blocklists-ahnlab.txt
 [ OK ]        32 src/blacklist/blocklists-akamai.txt
 [NOK ]         0 src/blacklist/blocklists-alienlabs.txt
@@ -160,36 +154,36 @@
 [ OK ]    53,695 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,948 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 3,677,905
-Filter Duplicates   : 2,560,497
-Filter Whitelist    : 2,425,531
-Import Blacklist    : 2,426,044
-Compressed          : 2,051,045
+Total Blacklist     : 2,505,445
+Filter Duplicates   : 2,062,624
+Filter Whitelist    : 1,928,537
+Import Blacklist    : 1,929,051
+Compressed          : 1,584,476
 
    LENGTH     COUNT
-        2 1,293,971
-        3   576,264
-        4   129,629
-        5    39,273
-        6     6,043
-        7     1,817
-        8     2,520
-        9     1,077
-       10       261
-       11        55
-       12        21
-       13        22
-       14        14
-       15        15
-       16        11
-       17         5
+        2   941,395
+        3   494,827
+        4   113,902
+        5    30,013
+        6     3,089
+        7       735
+        8       305
+        9        85
+       10        31
+       11        16
+       12         4
+       13        11
+       14         5
+       15         7
+       16         4
+       17         1
        18        30
-       19        14
+       19        13
        20         1
        22         1
        24         1
 
-Total Blocklist     : 2,051,045
+Total Blocklist     : 1,584,476
 
 ~~~
 
@@ -225,11 +219,6 @@ https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 https://small.oisd.nl/
-https://blocklistproject.github.io/Lists/abuse.txt
-https://blocklistproject.github.io/Lists/malware.txt
-https://blocklistproject.github.io/Lists/phishing.txt
-https://blocklistproject.github.io/Lists/ransomware.txt
-https://blocklistproject.github.io/Lists/scam.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
