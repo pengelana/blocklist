@@ -118,7 +118,7 @@
 [ OK ]       392 src/blacklist/dood_t.txt
 [ OK ]     2,707 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,907 src/blacklist/easylist_adservers_popup.txt
-[ OK ]        19 src/blacklist/fakenews_t.txt
+[ OK ]        22 src/blacklist/fakenews_t.txt
 [ OK ]    57,458 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
@@ -154,21 +154,21 @@
 [ OK ]    53,779 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,954 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,513,127
-Filter Duplicates   : 2,074,173
-Filter Whitelist    : 1,940,072
-Import Blacklist    : 1,940,545
-Compressed          : 1,594,178
+Total Blacklist     : 2,513,130
+Filter Duplicates   : 2,074,176
+Filter Whitelist    : 2,029,674
+Import Blacklist    : 2,030,142
+Compressed          : 1,667,612
 
    LENGTH     COUNT
-        2   948,671
-        3   497,112
-        4   114,022
-        5    30,011
-        6     3,116
-        7       731
+        2 1,037,459
+        3   482,039
+        4   113,819
+        5    29,979
+        6     3,084
+        7       718
         8       305
-        9        85
+        9        84
        10        31
        11        16
        12         4
@@ -183,7 +183,7 @@ Compressed          : 1,594,178
        22         1
        24         1
 
-Total Blocklist     : 1,594,178
+Total Blocklist     : 1,667,612
 
 ~~~
 
