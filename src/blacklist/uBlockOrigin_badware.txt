@@ -5977,6 +5977,10 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ||freesoftwarecreative.com^$doc
 ||cloudtrks.com^$all
 ||macgsapptrck.com^$all
+||debridleech.com^$doc
+||trckkkk.com^$all
+||fastorfar.com^$all
+||hopgp.com^$all
 ||d12zgccgt6pwjz.cloudfront.net^
 ||d1myn4ixnn41tz.cloudfront.net^
 ||duh0b8nl8uhfn.cloudfront.net^
@@ -6267,6 +6271,8 @@ uploadfox.net###ad-gs-05
 !/^https?:\/\/[a-z0-9]{6,20}\.[a-z]{6,20}\.co\.in\//$all,to=co.in
 ! https://github.com/uBlockOrigin/uAssets/issues/26919
 ||glousism.co.in^$all
+! https://www.reddit.com/r/antivirus/comments/1imiwam/should_i_be_worried/
+||tryrichleads.top^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26722
 ||maxsecurityultimate.com^$all
@@ -6373,3 +6379,7 @@ uploadfox.net###ad-gs-05
 ||deepseeklogins.com^$all,to=~deepseek.com
 ||deepseekapk.download^$all,to=~deepseek.com
 ||deepseekapp.download^$all,to=~deepseek.com
+
+! https://www.reddit.com/r/phishing/comments/1iln9ux/is_this_a_new_scam/
+! https://www.virustotal.com/gui/url/dd2c16c95013aa1a20b35b50301b1116d582be01d346dc048a894b480fbbee59
+||paytoll*.top/ezdrivema^$all,to=~mass.gov
