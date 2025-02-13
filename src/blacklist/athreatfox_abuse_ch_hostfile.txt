@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-13 07:34:19 UTC                        #
+# Last updated: 2025-02-13 08:20:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	latenativereunion.shop
+127.0.0.1	u2.latenativereunion.shop
+127.0.0.1	verticaleatery.store
 127.0.0.1	check.yyiue.icu
 127.0.0.1	hisolution.io
 127.0.0.1	deepsealuc.com
@@ -30153,4 +30156,4 @@
 127.0.0.1	dns.skypeinc.com
 127.0.0.1	update.googlewired.com
 127.0.0.1	update.kasperskye.com
-# Number of entries: 30147
+# Number of entries: 30150
