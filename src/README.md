@@ -130,7 +130,7 @@
 [ OK ]       156 src/blacklist/ioclist.domain.raw.txt
 [ OK ]        16 src/blacklist/ioclist.hostname.raw.txt
 [ OK ]        12 src/blacklist/jameswt_t.txt
-[ OK ]   393,098 src/blacklist/jarelllama_domains.txt
+[ OK ]    50,884 src/blacklist/jarelllama_scams_light.txt
 [ OK ]     3,717 src/blacklist/judol_t.txt
 [ OK ]     1,102 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
 [ OK ]       345 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
@@ -153,25 +153,25 @@
 [ OK ]    53,844 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,854 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,504,539
-Filter Duplicates   : 2,061,478
-Filter Whitelist    : 1,927,376
-Import Blacklist    : 1,927,849
-Compressed          : 1,590,523
+Total Blacklist     : 2,162,325
+Filter Duplicates   : 1,763,879
+Filter Whitelist    : 1,629,801
+Import Blacklist    : 1,630,275
+Compressed          : 1,306,987
 
    LENGTH     COUNT
-        2   951,274
-        3   490,765
-        4   114,997
-        5    29,182
-        6     3,034
-        7       727
-        8       320
-        9       100
-       10        44
+        2   732,846
+        3   433,632
+        4   108,209
+        5    28,788
+        6     2,354
+        7       681
+        8       295
+        9        75
+       10        28
        11        16
        12         4
-       13        11
+       13        10
        14         5
        15         7
        16         4
@@ -181,7 +181,7 @@ Compressed          : 1,590,523
        20         1
        24         1
 
-Total Blocklist     : 1,590,523
+Total Blocklist     : 1,306,987
 
 ~~~
 
@@ -213,7 +213,7 @@ https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government
 https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
 https://raw.githubusercontent.com/craiu/iocs/main/log4shell/log4j_blocklist.txt
 https://threatfox.abuse.ch/downloads/hostfile/
-https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt
+https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/refs/heads/main/lists/wildcard_domains/scams_light.txt
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 https://small.oisd.nl/
