@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: 2025-02-13T12:10:04Z
+# Updated: 2025-02-14T00:09:40Z
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -13,6 +13,7 @@
 0.0.0.0 193-143-1-07.plesk.page
 0.0.0.0 29.251.196.35.bc.googleusercontent.com
 0.0.0.0 360down7.miiyun.cn
+0.0.0.0 5-157-110-232.dyn.eolo.it
 0.0.0.0 83-87-76-41.cable.dynamic.v4.ziggo.nl
 0.0.0.0 85-95-173-28.saransk.ru
 0.0.0.0 91-202-233-151.plesk.page
@@ -26,7 +27,6 @@
 0.0.0.0 a19ccc1.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 a23uuu1.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 a26bbb1.oss-cn-hongkong.aliyuncs.com
-0.0.0.0 abissnet.net
 0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 agapi.cqjjb.cn
@@ -39,12 +39,13 @@
 0.0.0.0 api-fgg3.cname.ah73g.xyz
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
+0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
-0.0.0.0 api.hostize.com
+0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
+0.0.0.0 app-antiriciclaggio-mps.com
 0.0.0.0 applepistudios.com
 0.0.0.0 armanayegh.com
-0.0.0.0 assumedtribsosp.shop
 0.0.0.0 attachment.vnecdn.net
 0.0.0.0 aulist.com
 0.0.0.0 avastcxp.com
@@ -56,25 +57,28 @@
 0.0.0.0 avastpdq.com
 0.0.0.0 avastpdr.com
 0.0.0.0 avastpx.com
+0.0.0.0 azgint.com
 0.0.0.0 azsolver.com
 0.0.0.0 b46.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 backgroundtasks.info
+0.0.0.0 bafybeicoo7kwhmnl6q7prd65aimf5byzrihrklgviebm2pkyzyepdaigf4.ipfs.dweb.link
 0.0.0.0 banthis.su
 0.0.0.0 bctabsogebtmoutsgs.duckdns.org
 0.0.0.0 becaconmougot.duckdns.org
 0.0.0.0 beiletoys.com
 0.0.0.0 best.obs.cn-sz1.ctyun.cn
+0.0.0.0 bestsoftwaredownloads.com
 0.0.0.0 bins.freesite.host
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 blackhattoolz.com
 0.0.0.0 bolsterflipgaming.com
 0.0.0.0 bruplong.oss-accelerate.aliyuncs.com
-0.0.0.0 budgetttysnzm.shop
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 c0e5b87c.solaraweb-alj.pages.dev
 0.0.0.0 c3poolbat.oss-accelerate.aliyuncs.com
 0.0.0.0 c3poolbat2.oss-ap-northeast-1.aliyuncs.com
 0.0.0.0 campingkaymakis.ath.forthnet.gr
+0.0.0.0 capouregionts.duckdns.org
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cattozzo.it
 0.0.0.0 cdaonline.com.ar
@@ -89,13 +93,13 @@
 0.0.0.0 cioudfiare.ru
 0.0.0.0 ciscocdn.com
 0.0.0.0 clubedasluluzinhasro.com.br
+0.0.0.0 cmcmarkets.work
 0.0.0.0 cnc.kotomari-vn.dev
 0.0.0.0 cnc.stressamp.com
 0.0.0.0 cnom.sante.gov.ml
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 commavast.com
-0.0.0.0 comteste.com
 0.0.0.0 conn.masjesu.zip
 0.0.0.0 cpc138130-hatf10-2-0-cust814.9-3.cable.virginm.net
 0.0.0.0 cranky-nash.91-202-233-151.plesk.page
@@ -107,19 +111,22 @@
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcp227.neoplus.adsl.tpnet.pl
-0.0.0.0 dcwblida.dz
 0.0.0.0 deabcbecaconmougot.duckdns.org
 0.0.0.0 desquer.ens.uabc.mx
 0.0.0.0 device.redirec.com
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
+0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dld.jxwan.com
+0.0.0.0 doearencorinthians.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.ftp21.cc
 0.0.0.0 down.fwqlt.com
+0.0.0.0 down.gmexiochappt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 down.ruanmei.com
 0.0.0.0 down10d.zol.com.cn
 0.0.0.0 download-winsdownload-wins.oss-cn-hangzhou.aliyuncs.com
@@ -128,6 +135,7 @@
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.skycn.com
 0.0.0.0 download.suxiazai.com
+0.0.0.0 downloadpropsdocs.com
 0.0.0.0 downsexv.com
 0.0.0.0 e4l4.com
 0.0.0.0 eager-haslett.91-202-233-151.plesk.page
@@ -138,6 +146,7 @@
 0.0.0.0 epanpano.com
 0.0.0.0 epei77.direct.quickconnect.to
 0.0.0.0 f24-zfcloud.zdn.vn
+0.0.0.0 fashionghana.shop
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
 0.0.0.0 files5.uludagbilisim.com
@@ -151,7 +160,6 @@
 0.0.0.0 genericfixer.com
 0.0.0.0 glennmedina.com
 0.0.0.0 globallaborsupply.com
-0.0.0.0 gopay.stockadv.com
 0.0.0.0 grupobramam.com.br
 0.0.0.0 hardcore-cartwright.194-26-192-76.plesk.page
 0.0.0.0 helpsharp.ydns.eu
@@ -167,14 +175,15 @@
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 i0001.clarodrive.com
+0.0.0.0 imtoken8.cc
 0.0.0.0 indexdougents.duckdns.org
 0.0.0.0 indexmousocgnets.duckdns.org
+0.0.0.0 infernoenjoyer.cfd
 0.0.0.0 information-binance.com
 0.0.0.0 ingonherbal.com
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 insocgencmouts.duckdns.org
 0.0.0.0 inspirepk.org
-0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jobcity.com
@@ -199,6 +208,7 @@
 0.0.0.0 maxmoney.com
 0.0.0.0 mcpperformance.com.br
 0.0.0.0 medises.co.kr
+0.0.0.0 meetingroomconfigurator.com
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 metalofhonorrrr.duckdns.org
 0.0.0.0 microsoft-analyse.com
@@ -208,6 +218,7 @@
 0.0.0.0 misljen.net
 0.0.0.0 mitgpssms.com
 0.0.0.0 modest-sinoussi.91-202-233-151.plesk.page
+0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mta179.insuretn.com
 0.0.0.0 mymin11.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 nabawitransport.com
@@ -222,10 +233,10 @@
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 odoo.kseibitools.com
 0.0.0.0 ofice365.github.io
+0.0.0.0 ohart.top
 0.0.0.0 ojang.pe.kr
 0.0.0.0 opolis.io
 0.0.0.0 osecweb.ir
-0.0.0.0 otrsolutons.com
 0.0.0.0 oys0ro.static.otenet.gr
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p6.zbjimg.com
@@ -237,11 +248,11 @@
 0.0.0.0 phidev.duckdns.org
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
-0.0.0.0 protechasia.com
 0.0.0.0 pub-92c456788ff540628e0e809709842c78.r2.dev
 0.0.0.0 pub-cdd0dd27ae6a4aee9841d397e0496374.r2.dev
 0.0.0.0 pub-d6448def2aba44ce96071bebcc1ce641.r2.dev
 0.0.0.0 qiniuyunxz.yxflzs.com
+0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quit.do.am
 0.0.0.0 rappel-coinbase.com
@@ -260,8 +271,8 @@
 0.0.0.0 safefiles2.oss-cn-beijing.aliyuncs.com
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 security-service-api-link.cc
-0.0.0.0 senbicaehgd.dns.army
 0.0.0.0 server.toeicswt.co.kr
+0.0.0.0 seventools.de
 0.0.0.0 sfa.com.ar
 0.0.0.0 sgz-1302338321.cos.ap-guangzhou.myqcloud.com
 0.0.0.0 shangmei-test.oss-cn-beijing.aliyuncs.com
@@ -282,7 +293,6 @@
 0.0.0.0 ssl.ftp21.cc
 0.0.0.0 staatsgewalt.jameschans.de
 0.0.0.0 staplebrokenmetaliyro.blogspot.com
-0.0.0.0 starcountry.net
 0.0.0.0 static.3001.net
 0.0.0.0 static.zongheng.com
 0.0.0.0 stdown.dinju.com
@@ -311,14 +321,15 @@
 0.0.0.0 update33.oss-ap-southeast-3.aliyuncs.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upload.vina-host.com
-0.0.0.0 userveriff02.com
 0.0.0.0 utorrent-backup-server.top
 0.0.0.0 utorrent-backup-server2.top
 0.0.0.0 utorrent-backup-server3.top
 0.0.0.0 utorrent-backup-server4.top
 0.0.0.0 utorrent-backup-server5.top
-0.0.0.0 utorrent-servers.xyz
 0.0.0.0 uyul.oss-cn-beijing.aliyuncs.com
+0.0.0.0 vbccorretoradeseguros.com.br
+0.0.0.0 vcompdocs.com
+0.0.0.0 vcompdocsproposal.com
 0.0.0.0 vmi1547155.contaboserver.net
 0.0.0.0 weco.oss-eu-central-1.aliyuncs.com
 0.0.0.0 weco2.oss-me-east-1.aliyuncs.com
@@ -330,10 +341,11 @@
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
+0.0.0.0 ximonite.com
+0.0.0.0 xingpai.weilay.com.cn
 0.0.0.0 xn--on3b15m2lco2u.com
 0.0.0.0 xss-1253555722.cos.ap-singapore.myqcloud.com
 0.0.0.0 xww.bucea.edu.cn
-0.0.0.0 yaytek.com.tr
 0.0.0.0 yunger.ddns.cam
 0.0.0.0 ywxww.net
 0.0.0.0 yzkzixun.com
@@ -341,4 +353,3 @@
 0.0.0.0 zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 0.0.0.0 zhikey.com
 0.0.0.0 zlonline.oss-cn-shenzhen.aliyuncs.com
-0.0.0.0 znrq.zifwxq.cn
