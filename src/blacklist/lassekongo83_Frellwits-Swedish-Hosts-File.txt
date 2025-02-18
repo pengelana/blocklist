@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-02-01 05:12:35 CET
-# entries:        1102
+# last updated:   2025-02-18 05:42:39 CET
+# entries:        1103
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -970,6 +970,7 @@
 127.0.0.1 tracking.klt.nu
 127.0.0.1 tracking.kpwebben.se
 127.0.0.1 tracking.kristianstadsbladet.se
+127.0.0.1 tracking.livesport.expressen.se
 127.0.0.1 tracking.ljusdalsposten.se
 127.0.0.1 tracking.ljusnan.se
 127.0.0.1 tracking.ltz.se
