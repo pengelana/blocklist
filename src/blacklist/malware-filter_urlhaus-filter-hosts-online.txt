@@ -1,10 +1,11 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: 2025-02-27T00:10:35Z
+# Updated: 2025-02-27T12:09:34Z
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
 # Source: https://urlhaus.abuse.ch/api/
 0.0.0.0 123.ywxww.net
+0.0.0.0 14stirling.dyndns.org
 0.0.0.0 1717.1000uc.com
 0.0.0.0 172-105-66-118.ip.linodeusercontent.com
 0.0.0.0 178-84-167-164.dynamic.upc.nl
@@ -13,6 +14,7 @@
 0.0.0.0 193-143-1-07.plesk.page
 0.0.0.0 3005.filemail.com
 0.0.0.0 360down7.miiyun.cn
+0.0.0.0 5-157-110-232.dyn.eolo.it
 0.0.0.0 83-87-76-41.cable.dynamic.v4.ziggo.nl
 0.0.0.0 85-95-173-28.saransk.ru
 0.0.0.0 91-202-233-151.plesk.page
@@ -32,10 +34,8 @@
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 afflnlty-serlf.com
 0.0.0.0 agapi.cqjjb.cn
-0.0.0.0 agpglss.com
 0.0.0.0 ah-scanning.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 ai-kling.online
-0.0.0.0 albuspsikoloji.com.tr
 0.0.0.0 alephmim.com
 0.0.0.0 alien-training.com
 0.0.0.0 americanexpressloginus.com
@@ -43,21 +43,24 @@
 0.0.0.0 angela.spklove.com
 0.0.0.0 antiapt.kaspersky-labs.com
 0.0.0.0 antlb0tv2.com
+0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
 0.0.0.0 api.co-operativefinance.com
+0.0.0.0 api.drivercamhub.cloud
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.information-binance.com
+0.0.0.0 api.rappel-coinbase.com
 0.0.0.0 app-antiriciclaggio-mps.com
 0.0.0.0 app-store.s3.cn-north-1.jdcloud-oss.com
 0.0.0.0 applepistudios.com
 0.0.0.0 apq-flnon-co.kristinaphillipson.com
 0.0.0.0 arcenciel.my3cx.fr
-0.0.0.0 armanayegh.com
 0.0.0.0 asfllnaq-de.com
 0.0.0.0 aslb-co-nz.andrewcotton.com
 0.0.0.0 atc-secure.com
 0.0.0.0 attachment.vnecdn.net
+0.0.0.0 aulist.com
 0.0.0.0 avastcxp.com
 0.0.0.0 avastcxt.com
 0.0.0.0 avastexodus.com
@@ -71,9 +74,6 @@
 0.0.0.0 b46.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 batterymax.pk
 0.0.0.0 bctabsogebtmoutsgs.duckdns.org
-0.0.0.0 becaconmougot.duckdns.org
-0.0.0.0 beiletoys.com
-0.0.0.0 benshamcentre.co.uk
 0.0.0.0 best.obs.cn-sz1.ctyun.cn
 0.0.0.0 bisanest.com
 0.0.0.0 bitkiselurunsiparis.com
@@ -88,7 +88,7 @@
 0.0.0.0 c3poolbat2.oss-ap-northeast-1.aliyuncs.com
 0.0.0.0 caffechian.com
 0.0.0.0 campingkaymakis.ath.forthnet.gr
-0.0.0.0 capouregionts.duckdns.org
+0.0.0.0 capthumam.com
 0.0.0.0 casalomaminca.com
 0.0.0.0 cattozzo.it
 0.0.0.0 cdaonline.com.ar
@@ -102,6 +102,7 @@
 0.0.0.0 citadel.magicm8.com
 0.0.0.0 cmcmarkets.work
 0.0.0.0 cnc.stressamp.com
+0.0.0.0 cnom.sante.gov.ml
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 commavast.com
@@ -110,12 +111,14 @@
 0.0.0.0 consortium-event-watershed-worm.trycloudflare.com
 0.0.0.0 cpc138130-hatf10-2-0-cust814.9-3.cable.virginm.net
 0.0.0.0 cranky-nash.91-202-233-151.plesk.page
+0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
 0.0.0.0 csg-app.com
 0.0.0.0 d.kpzip.com
 0.0.0.0 dacemirror.sci-hub.ru
 0.0.0.0 dangtienluc.com
 0.0.0.0 data.yhydl.com
+0.0.0.0 dcwblida.dz
 0.0.0.0 deabcbecaconmougot.duckdns.org
 0.0.0.0 desquer.ens.uabc.mx
 0.0.0.0 deutsclhllandtlclket-de.spongebobcoinsol.com
@@ -166,12 +169,11 @@
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
 0.0.0.0 gachetroi.com
+0.0.0.0 genericfixer.com
 0.0.0.0 glennmedina.com
 0.0.0.0 globallaborsupply.com
 0.0.0.0 grupobramam.com.br
-0.0.0.0 hardcore-cartwright.194-26-192-76.plesk.page
 0.0.0.0 heuristic-mendel.37-221-67-207.plesk.page
-0.0.0.0 hhbs.hhu.edu.cn
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hkuu.oss-cn-hongkong.aliyuncs.com
@@ -181,7 +183,6 @@
 0.0.0.0 hook.ftp21.cc
 0.0.0.0 host-195-103-203-106.business.telecomitalia.it
 0.0.0.0 host-95-230-215-65.business.telecomitalia.it
-0.0.0.0 host-95-255-114-11.business.telecomitalia.it
 0.0.0.0 hotelembuguacu.blob.core.windows.net
 0.0.0.0 hsbco-bn.com.egh-finance.com
 0.0.0.0 hseda.com
@@ -190,7 +191,6 @@
 0.0.0.0 indexmousocgnets.duckdns.org
 0.0.0.0 information-binance.com
 0.0.0.0 ingonherbal.com
-0.0.0.0 ini.sh-pp.com
 0.0.0.0 insocgencmouts.duckdns.org
 0.0.0.0 inspirepk.org
 0.0.0.0 jade-associates.com.br
@@ -201,24 +201,26 @@
 0.0.0.0 jrqh-hk.com
 0.0.0.0 js.telega.cn
 0.0.0.0 karoonpc.com
-0.0.0.0 kismetguzelim.com
-0.0.0.0 korvewo.top
 0.0.0.0 kristinaphillipson.com
 0.0.0.0 kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 lakestreetsolar.com
 0.0.0.0 larrinca.com
+0.0.0.0 leeholmes.com
 0.0.0.0 leindisncieamrocea-1341831283.cos.sa-saopaulo.myqcloud.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
+0.0.0.0 littlemoroccanthings.com
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 livetrack.in
 0.0.0.0 loader.hxsoftwares.com
+0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 m.gutousoft.com
 0.0.0.0 magicm8.com
 0.0.0.0 mandarin.net.au
 0.0.0.0 maxmoney.com
 0.0.0.0 medises.co.kr
+0.0.0.0 megawyd.com
 0.0.0.0 mertvinc.com.tr
 0.0.0.0 metaldetectingcompetitions.com
 0.0.0.0 microsoft-auth-network.cc
@@ -237,16 +239,15 @@
 0.0.0.0 nerve.untergrund.net
 0.0.0.0 newkey.co.kr
 0.0.0.0 news6.oss-ap-northeast-1.aliyuncs.com
-0.0.0.0 nichetoolsai.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 ns1.koleso.tc
+0.0.0.0 ny.lshdw.cc
 0.0.0.0 of.kiosoxw6.sa.com
 0.0.0.0 ofice365.github.io
 0.0.0.0 ojang.pe.kr
-0.0.0.0 onllne-acb-co-nz.nichetoolsai.com
-0.0.0.0 onllne-cltadelle-lv.agpglss.com
 0.0.0.0 ooriginalused.com
 0.0.0.0 opolis.io
+0.0.0.0 osecweb.ir
 0.0.0.0 otrsolutons.com
 0.0.0.0 oys0ro.static.otenet.gr
 0.0.0.0 p3.zbjimg.com
@@ -259,6 +260,7 @@
 0.0.0.0 pns.org.pk
 0.0.0.0 pogo-ea-helpdesk.com
 0.0.0.0 private-sailing-croatia.com
+0.0.0.0 procardio-store.com
 0.0.0.0 professionalphotographyassociates.com
 0.0.0.0 protechasia.com
 0.0.0.0 pub-92c456788ff540628e0e809709842c78.r2.dev
@@ -266,6 +268,7 @@
 0.0.0.0 qfs-securityledger.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
+0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 quit.do.am
 0.0.0.0 rappel-coinbase.com
@@ -286,12 +289,14 @@
 0.0.0.0 safe.ywxww.net
 0.0.0.0 safefiles2.oss-cn-beijing.aliyuncs.com
 0.0.0.0 saveyourcinema.ca
+0.0.0.0 sbtechus.com
 0.0.0.0 security-service-api-link.cc
 0.0.0.0 server.toeicswt.co.kr
-0.0.0.0 sfa.com.ar
+0.0.0.0 seventools.de
 0.0.0.0 sgz-1302338321.cos.ap-guangzhou.myqcloud.com
 0.0.0.0 shangmei-test.oss-cn-beijing.aliyuncs.com
 0.0.0.0 shell.dimitrimedia.com
+0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 sister-1324943887.cos.ap-guangzhou.myqcloud.com
 0.0.0.0 smsfastersend.com
@@ -313,11 +318,11 @@
 0.0.0.0 static.zongheng.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
+0.0.0.0 sufikhat.com
 0.0.0.0 suomi-app.net
 0.0.0.0 support.clz.kr
 0.0.0.0 symbiatec-fi.com
 0.0.0.0 symbietic.com
-0.0.0.0 symdlotic.com
 0.0.0.0 targetshopify.com
 0.0.0.0 tdejb.com
 0.0.0.0 tecni-soft.com
@@ -334,10 +339,10 @@
 0.0.0.0 tianyinsoft.top
 0.0.0.0 tournament-temporarily-yard-risks.trycloudflare.com
 0.0.0.0 traefik-dashboard.val.io.vn
-0.0.0.0 turkey-ivf.org
 0.0.0.0 twitch.cx
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.vlnguba.com
+0.0.0.0 update.volam2005pk.com
 0.0.0.0 update33.oss-ap-southeast-3.aliyuncs.com
 0.0.0.0 updateinfo-portal.com
 0.0.0.0 upload.vina-host.com
@@ -361,18 +366,16 @@
 0.0.0.0 www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com
 0.0.0.0 www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com
 0.0.0.0 wynecare.com
-0.0.0.0 wz.3911.com
 0.0.0.0 xiangshunjy.com
 0.0.0.0 ximonite.com
 0.0.0.0 xingpai.weilay.com.cn
+0.0.0.0 xn--on3b15m2lco2u.com
 0.0.0.0 xww.bucea.edu.cn
+0.0.0.0 yn.noyoo.cn
 0.0.0.0 yunger.ddns.cam
-0.0.0.0 ywxww.net
-0.0.0.0 yzkzixun.com
 0.0.0.0 z.shavsl.com
 0.0.0.0 zffsg.oss-ap-northeast-2.aliyuncs.com
 0.0.0.0 zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
-0.0.0.0 zhikey.com
 0.0.0.0 zlonline.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zzaque.com
