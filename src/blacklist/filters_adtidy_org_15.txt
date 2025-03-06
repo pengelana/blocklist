@@ -1,9 +1,9 @@
-! Checksum: uMcdbRdaJ7tl/Ig5nfZ7zQ
-! Diff-Path: ../patches/15/15-s-1741200099-3600.patch
+! Checksum: UPMQMNhLyk0jWhtquck4+w
+! Diff-Path: ../patches/15/15-s-1741221689-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.77.38
-! TimeUpdated: 2025-03-05T18:37:49+00:00
+! Version: 2.0.77.39
+! TimeUpdated: 2025-03-06T00:37:43+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-05T18:01:28.151Z
+! Last modified: 2025-03-06T00:03:20.456Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32604,6 +32604,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||govisibl.io^
 ||tver-metrics.streaks.jp^
 ||24support.cc^
 ||a.hit360.tech^
@@ -56671,7 +56672,6 @@ analytics-*.aasaam.com
 ||cyad.nate.com^
 ||ads.gamemeca.com^
 ||adcdn.gamemeca.com^
-||trendpick.shopping.naver.com^
 ||powerclick.about.co.kr^
 ||ads.tapzin.com^
 ||advod.sbs.co.kr^
