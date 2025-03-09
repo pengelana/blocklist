@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-09 07:33:10 UTC                        #
+# Last updated: 2025-03-09 08:01:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webmail.blogssab.com
+127.0.0.1	cpcalendars.bigmedianetwrk.com
 127.0.0.1	figure-races.gl.at.ply.gg
 127.0.0.1	remember-convenient.gl.at.ply.gg
 127.0.0.1	some-event.gl.at.ply.gg
@@ -43203,4 +43205,4 @@
 127.0.0.1	ganharcomblog.com
 127.0.0.1	benefits.melanatedbloodlinesrestoration.com
 127.0.0.1	quickresource.xyz
-# Number of entries: 43197
+# Number of entries: 43199
