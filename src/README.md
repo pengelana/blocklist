@@ -14,7 +14,8 @@
 [ OK ]       319 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]     7,116 src/blacklist/Spam404_adblock-list.txt
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
-[ OK ]     2,690 src/blacklist/StevenBlack_hosts.txt
+[ OK ]     2,691 src/blacklist/StevenBlack_hosts.txt
+[ OK ]   131,383 src/blacklist/StevenBlack_master_hosts.txt
 [ OK ]    43,197 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,759 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]       542 src/blacklist/blocklists-ahnlab.txt
@@ -147,25 +148,25 @@
 [ OK ]       165 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]       558 src/blacklist/redirect_t.txt
 [ OK ]   131,072 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   126,055 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
-[ OK ]    11,792 src/blacklist/someonewhocares_hosts.txt
+[ OK ]   126,068 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]    11,800 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,151 src/blacklist/stamparm_blackbook.txt
 [ OK ]   517,813 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    54,246 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,864 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,411,705
-Filter Duplicates   : 1,692,884
-Filter Whitelist    : 1,558,447
-Import Blacklist    : 1,558,898
-Compressed          : 1,202,623
+Total Blacklist     : 2,543,110
+Filter Duplicates   : 1,701,494
+Filter Whitelist    : 1,566,809
+Import Blacklist    : 1,567,260
+Compressed          : 1,207,207
 
    LENGTH     COUNT
-        2   684,609
-        3   402,846
-        4    99,877
-        5    13,652
-        6     1,031
+        2   686,040
+        3   404,720
+        4   101,062
+        5    13,740
+        6     1,037
         7       409
         8       115
         9        38
@@ -182,7 +183,7 @@ Compressed          : 1,202,623
        20         1
        24         1
 
-Total Blocklist     : 1,202,623
+Total Blocklist     : 1,207,207
 
 ~~~
 
@@ -191,6 +192,7 @@ Total Blocklist     : 1,202,623
 ~~~
 https://filters.adtidy.org/extension/chromium/filters/15.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://someonewhocares.org/hosts/hosts
 https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
