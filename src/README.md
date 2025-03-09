@@ -15,7 +15,6 @@
 [ OK ]     7,116 src/blacklist/Spam404_adblock-list.txt
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,690 src/blacklist/StevenBlack_hosts.txt
-[ OK ]   131,368 src/blacklist/StevenBlack_master_hosts.txt
 [ OK ]    43,197 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,759 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]       542 src/blacklist/blocklists-ahnlab.txt
@@ -155,18 +154,18 @@
 [ OK ]    54,246 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,864 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,543,073
-Filter Duplicates   : 1,701,483
-Filter Whitelist    : 1,566,800
-Import Blacklist    : 1,567,251
-Compressed          : 1,207,200
+Total Blacklist     : 2,411,705
+Filter Duplicates   : 1,692,884
+Filter Whitelist    : 1,558,447
+Import Blacklist    : 1,558,898
+Compressed          : 1,202,623
 
    LENGTH     COUNT
-        2   686,037
-        3   404,716
-        4   101,062
-        5    13,740
-        6     1,037
+        2   684,609
+        3   402,846
+        4    99,877
+        5    13,652
+        6     1,031
         7       409
         8       115
         9        38
@@ -183,7 +182,7 @@ Compressed          : 1,207,200
        20         1
        24         1
 
-Total Blocklist     : 1,207,200
+Total Blocklist     : 1,202,623
 
 ~~~
 
@@ -192,7 +191,6 @@ Total Blocklist     : 1,207,200
 ~~~
 https://filters.adtidy.org/extension/chromium/filters/15.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://someonewhocares.org/hosts/hosts
 https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
