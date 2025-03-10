@@ -124,7 +124,7 @@
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
 [ OK ]    10,434 src/blacklist/hagezi_fake.txt
-[ OK ]   157,713 src/blacklist/hagezi_light.txt
+[ OK ]   325,181 src/blacklist/hagezi_multi.txt
 [ OK ]    94,347 src/blacklist/hagezi_popup.txt
 [ OK ]       312 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]       753 src/blacklist/hpthreatresearch_domains.txt
@@ -155,21 +155,21 @@
 [ OK ]    54,245 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,848 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,359,937
-Filter Duplicates   : 1,657,739
-Filter Whitelist    : 1,523,125
-Import Blacklist    : 1,523,583
-Compressed          : 1,183,361
+Total Blacklist     : 2,527,405
+Filter Duplicates   : 1,704,994
+Filter Whitelist    : 1,570,301
+Import Blacklist    : 1,570,758
+Compressed          : 1,213,017
 
    LENGTH     COUNT
-        2   672,923
-        3   392,882
-        4   102,050
-        5    13,899
-        6     1,023
-        7       390
+        2   687,320
+        3   406,541
+        4   103,472
+        5    14,032
+        6     1,051
+        7       408
         8       116
-        9        39
+        9        38
        10        10
        11         4
        12         2
@@ -183,7 +183,7 @@ Compressed          : 1,183,361
        20         1
        24         1
 
-Total Blocklist     : 1,183,361
+Total Blocklist     : 1,213,017
 
 ~~~
 
@@ -222,7 +222,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.tx
 https://small.oisd.nl/
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/popads-domains.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
