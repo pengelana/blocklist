@@ -16,7 +16,7 @@
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,691 src/blacklist/StevenBlack_hosts.txt
 [ OK ]   131,368 src/blacklist/StevenBlack_master_hosts.txt
-[ OK ]    43,378 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    43,504 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,759 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]       387 src/blacklist/blocklists-ahnlab.txt
 [ OK ]        11 src/blacklist/blocklists-akamai.txt
@@ -124,7 +124,7 @@
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
 [ OK ]    10,434 src/blacklist/hagezi_fake.txt
-[ OK ]   325,181 src/blacklist/hagezi_multi.txt
+[ OK ]   157,713 src/blacklist/hagezi_light.txt
 [ OK ]    94,347 src/blacklist/hagezi_popup.txt
 [ OK ]       312 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]       753 src/blacklist/hpthreatresearch_domains.txt
@@ -148,28 +148,28 @@
 [ OK ]       165 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]       563 src/blacklist/redirect_t.txt
 [ OK ]   130,967 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   127,074 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   127,179 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,788 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,112 src/blacklist/stamparm_blackbook.txt
 [ OK ]   509,973 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    54,245 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,848 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,527,174
-Filter Duplicates   : 1,704,758
-Filter Whitelist    : 1,570,065
-Import Blacklist    : 1,570,522
-Compressed          : 1,212,817
+Total Blacklist     : 2,359,937
+Filter Duplicates   : 1,657,739
+Filter Whitelist    : 1,523,125
+Import Blacklist    : 1,523,583
+Compressed          : 1,183,361
 
    LENGTH     COUNT
-        2   687,159
-        3   406,524
-        4   103,451
-        5    14,031
-        6     1,051
-        7       408
+        2   672,923
+        3   392,882
+        4   102,050
+        5    13,899
+        6     1,023
+        7       390
         8       116
-        9        38
+        9        39
        10        10
        11         4
        12         2
@@ -183,7 +183,7 @@ Compressed          : 1,212,817
        20         1
        24         1
 
-Total Blocklist     : 1,212,817
+Total Blocklist     : 1,183,361
 
 ~~~
 
@@ -222,7 +222,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.tx
 https://small.oisd.nl/
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/popads-domains.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
