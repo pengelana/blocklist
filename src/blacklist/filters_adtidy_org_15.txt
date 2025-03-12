@@ -1,9 +1,9 @@
-! Checksum: 7ce+GD8z8r0i0ZGuEsABeA
-! Diff-Path: ../patches/15/15-s-1741740057-3600.patch
+! Checksum: JhZE2tXwVRIkpa0teZ1ysQ
+! Diff-Path: ../patches/15/15-s-1741787317-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.77.61
-! TimeUpdated: 2025-03-12T00:36:59+00:00
+! Version: 2.0.77.63
+! TimeUpdated: 2025-03-12T13:41:34+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-12T00:03:29.867Z
+! Last modified: 2025-03-12T12:01:52.356Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -30,6 +30,9 @@
 !
 !
 !
+||dullequivalent.com^
+||travelpayouts.com^
+||red-swimming.com^
 ||tds.favbet.partners^
 ||pbl3citto.com^
 ||soonpubplatform.online^
@@ -84888,6 +84891,8 @@ vkcdnservice.appspot.com^
 ! Disabled in DNS filter
 |piwik.
 !
+||ta.pinduoduo.com^
+||th.pinduoduo.com^
 ||gtr1.yes24.com^
 ||logs.getfiddler.com^
 ||dsbahmgppc0j4.cloudfront.net^
@@ -87632,6 +87637,11 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+!
+! NOTE: Regular rules
+!
+||grs.dbankcloud.
+||logservice.dbankcloud.cn
 ||logs.nebulahoroscope.com^
 ||braveglobal.tv^
 ||insights.alibaba.com^
@@ -92434,6 +92444,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||dontmakethem.club^
 ||subaxe.xyz^
 ||dahmnrmhyhsjxx.com^
 ||rogxwgqovb.com^
@@ -94868,8 +94879,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Mar 2025 10:14 UTC+7
-! OriginalVersion: 2503101014
+! Last modified: 12 Mar 2025 14:04 UTC+7
+! OriginalVersion: 2503121404
 ! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -95684,8 +95695,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Mar 2025 10:14 UTC+7
-! OriginalVersion: 2503101014
+! Last modified: 12 Mar 2025 14:04 UTC+7
+! OriginalVersion: 2503121404
 ! Blocked: 4.710 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -100281,6 +100292,9 @@ inapps.appsflyersdk.com^
 ||ecatqefal.com^
 ||jjfufv.icu^
 ||scesqoikq.com^
+||oajv.cn^
+||cigoqcq.top^
+||sbqg7jylmzsym.top^
 ||dtjcvd.icu^
 ||vragridsn.com^
 ||tpkv.cn^
