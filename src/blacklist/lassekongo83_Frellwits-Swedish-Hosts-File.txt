@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-03-01 06:58:35 CET
-# entries:        1100
+# last updated:   2025-03-13 05:22:16 CET
+# entries:        1103
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -312,11 +312,13 @@
 127.0.0.1 cintnetworks.com
 127.0.0.1 cis.schibsted.com
 127.0.0.1 cision.com
+127.0.0.1 cl.adrecord.com
 127.0.0.1 cl.k5a.io
 127.0.0.1 classic.avantlink.com
 127.0.0.1 clevernt.com
 127.0.0.1 clickdimensions.com
 127.0.0.1 clientcdn.pushengage.com
+127.0.0.1 clk.tradedoubler.com
 127.0.0.1 cl-eu2.k5a.io
 127.0.0.1 cl-eu3.k5a.io
 127.0.0.1 cl-eu4.k5a.io
@@ -881,6 +883,7 @@
 127.0.0.1 track.yetric.app
 127.0.0.1 trackcmp.net
 127.0.0.1 tracker.gamedock.io
+127.0.0.1 tracker.metricool.com
 127.0.0.1 tracker.zummycloud.com
 127.0.0.1 tracker-v4.gamedock.io
 127.0.0.1 tracker.kollega.open-analytics.se
