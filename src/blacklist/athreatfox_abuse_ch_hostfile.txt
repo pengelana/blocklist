@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-14 00:01:34 UTC                        #
+# Last updated: 2025-03-14 04:01:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcalendars.topandbestnews.com
+127.0.0.1	cpcalendars.ipmnewsworld.com
 127.0.0.1	cpcontacts.10bestbusiness.website
 127.0.0.1	webmail.takeufagame1212.xyz
 127.0.0.1	www.of123pro.online
@@ -43995,5 +43997,4 @@
 127.0.0.1	loginge.com
 127.0.0.1	www.analyze.pythr.net
 127.0.0.1	qtvzudev.pythr.net
-127.0.0.1	www.visual.ethergases.app
-# Number of entries: 43990
+# Number of entries: 43991
