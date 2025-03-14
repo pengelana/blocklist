@@ -141,7 +141,7 @@
 [ OK ]        89 src/blacklist/malwarhunterteam_t.txt
 [ OK ]     2,302 src/blacklist/matomo_org_spammers.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    44,623 src/blacklist/oisd_small.txt
+[ OK ]    44,618 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   282,990 src/blacklist/phishing_army_blocklist.txt
 [ OK ]         7 src/blacklist/popup_t.txt
@@ -155,7 +155,7 @@
 [ OK ]    54,280 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,850 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,529,562
+Total Blacklist     : 2,529,557
 Filter Duplicates   : 1,694,184
 Filter Whitelist    : 1,559,516
 Import Blacklist    : 1,559,975
