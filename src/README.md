@@ -1,6 +1,7 @@
 # Domains
 
 ~~~
+[ OK ]       743 src/blacklist/AWAvenue-Ads-Rule.txt
 [ OK ]    22,118 src/blacklist/AdguardTeam_disguised_ads_justdomains.txt
 [ OK ]    26,668 src/blacklist/AdguardTeam_disguised_clickthroughs_justdomains.txt
 [ OK ]    90,836 src/blacklist/AdguardTeam_disguised_mail_trackers_justdomains.txt
@@ -16,7 +17,7 @@
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,691 src/blacklist/StevenBlack_hosts.txt
 [ OK ]   132,355 src/blacklist/StevenBlack_master_hosts.txt
-[ OK ]    44,161 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    44,157 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,759 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]       387 src/blacklist/blocklists-ahnlab.txt
 [ OK ]        11 src/blacklist/blocklists-akamai.txt
@@ -141,34 +142,34 @@
 [ OK ]        89 src/blacklist/malwarhunterteam_t.txt
 [ OK ]     2,302 src/blacklist/matomo_org_spammers.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    44,759 src/blacklist/oisd_small.txt
+[ OK ]    44,756 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   282,990 src/blacklist/phishing_army_blocklist.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       165 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]       576 src/blacklist/redirect_t.txt
 [ OK ]   130,967 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   130,606 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   130,402 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,788 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,112 src/blacklist/stamparm_blackbook.txt
-[ OK ]   510,774 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]    54,288 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]   511,949 src/blacklist/stamparm_maltrail-malware-domains.txt
+[ OK ]    54,289 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,850 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,536,802
-Filter Duplicates   : 1,696,881
-Filter Whitelist    : 1,562,201
-Import Blacklist    : 1,562,660
-Compressed          : 1,210,128
+Total Blacklist     : 2,538,510
+Filter Duplicates   : 1,697,932
+Filter Whitelist    : 1,563,249
+Import Blacklist    : 1,563,708
+Compressed          : 1,211,085
 
    LENGTH     COUNT
-        2   683,258
-        3   405,525
-        4   105,376
-        5    14,308
-        6     1,067
+        2   684,154
+        3   405,559
+        4   105,392
+        5    14,315
+        6     1,070
         7       406
-        8       116
+        8       117
         9        38
        10         9
        11         4
@@ -181,7 +182,7 @@ Compressed          : 1,210,128
        18         6
        19         4
 
-Total Blocklist     : 1,210,128
+Total Blocklist     : 1,211,085
 
 ~~~
 
@@ -237,6 +238,7 @@ https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combine
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_mail_trackers_justdomains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
+https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
 ~~~
 
 # Whitelist
