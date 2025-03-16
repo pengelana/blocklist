@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-16 00:02:01 UTC                        #
+# Last updated: 2025-03-16 04:02:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpanel.gestisciweb.com
+127.0.0.1	autodiscover.e.multi-canale.com
+127.0.0.1	cpcalendars.adesso-online.com
+127.0.0.1	webmail.b.multi-canale.com
+127.0.0.1	webmail.gestisciweb.com
+127.0.0.1	dreamhome.lat
+127.0.0.1	cpanel.businesstimehub.com
+127.0.0.1	webdisk.answerallnewz.com
 127.0.0.1	webmail.c.multi-canale.com
 127.0.0.1	cpcalendars.generalnewzsab.com
 127.0.0.1	cpcontacts.youandmewtoto.xyz
@@ -44308,4 +44316,4 @@
 127.0.0.1	therapy.emergencepsychservices.com
 127.0.0.1	smolcatkgi.shop
 127.0.0.1	lolimpissed.xyz
-# Number of entries: 44302
+# Number of entries: 44310
