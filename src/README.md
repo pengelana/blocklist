@@ -126,7 +126,7 @@
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
 [ OK ]    10,524 src/blacklist/hagezi_fake.txt
 [ OK ]   289,811 src/blacklist/hagezi_multi.txt
-[ OK ]    95,834 src/blacklist/hagezi_popup.txt
+[ OK ]    97,553 src/blacklist/hagezi_popup.txt
 [ OK ]       312 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]       753 src/blacklist/hpthreatresearch_domains.txt
 [ OK ]    22,949 src/blacklist/infinitytec_clickbait.txt
@@ -149,23 +149,24 @@
 [ OK ]       165 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]       585 src/blacklist/redirect_t.txt
 [ OK ]   130,967 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   129,741 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   129,755 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,788 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,112 src/blacklist/stamparm_blackbook.txt
 [ OK ]   512,127 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    54,323 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,851 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,530,880
-Filter Duplicates   : 1,693,148
-Filter Whitelist    : 1,558,474
-Import Blacklist    : 1,558,933
-Compressed          : 1,211,442
+Total Blacklist     : 2,532,613
+Filter Duplicates   : 1,694,175
+External Whitelist  : 1,559,552
+Filter Whitelist    : 1,559,501
+Import Blacklist    : 1,559,960
+Compressed          : 1,212,367
 
    LENGTH     COUNT
-        2   685,775
-        3   404,326
-        4   105,363
+        2   686,753
+        3   404,274
+        4   105,362
         5    14,309
         6     1,071
         7       407
@@ -182,7 +183,7 @@ Compressed          : 1,211,442
        18         6
        19         4
 
-Total Blocklist     : 1,211,442
+Total Blocklist     : 1,212,367
 
 ~~~
 
