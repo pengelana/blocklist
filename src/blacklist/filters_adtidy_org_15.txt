@@ -1,9 +1,9 @@
-! Checksum: HOQ6Zxewpta8Ol0888G2Ng
-! Diff-Path: ../patches/15/15-s-1742106966-3600.patch
+! Checksum: XniD5jwimFbUbBAvagm6xw
+! Diff-Path: ../patches/15/15-s-1742128591-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.77.80
-! TimeUpdated: 2025-03-16T06:32:12+00:00
+! Version: 2.0.77.81
+! TimeUpdated: 2025-03-16T12:32:18+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-16T06:01:40.393Z
+! Last modified: 2025-03-16T12:01:41.906Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -95266,8 +95266,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Mar 2025 16:34 UTC+7
-! OriginalVersion: 2503151634
+! Last modified: 16 Mar 2025 16:02 UTC+7
+! OriginalVersion: 2503161602
 ! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -96082,8 +96082,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 15 Mar 2025 16:27 UTC+7
-! OriginalVersion: 2503151627
+! Last modified: 16 Mar 2025 13:58 UTC+7
+! OriginalVersion: 2503161358
 ! Blocked: 4.720 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -100692,6 +100692,7 @@ inapps.appsflyersdk.com^
 ||hwxprd.icu^
 ||nrqrbwi.top^
 ||cfwlvmg.top^
+||kodwaqepr.com^
 ||mvxh.cn^
 ||lftcph.icu^
 ||ak03150hou.com^
