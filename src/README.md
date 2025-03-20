@@ -142,31 +142,31 @@
 [ OK ]        89 src/blacklist/malwarhunterteam_t.txt
 [ OK ]     2,305 src/blacklist/matomo_org_spammers.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    44,695 src/blacklist/oisd_small.txt
+[ OK ]    44,687 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   280,635 src/blacklist/phishing_army_blocklist.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       165 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]       602 src/blacklist/redirect_t.txt
 [ OK ]   130,967 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   128,867 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   128,826 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    11,788 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,112 src/blacklist/stamparm_blackbook.txt
 [ OK ]   513,890 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    54,371 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,795 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,536,587
-Filter Duplicates   : 1,699,485
-External Whitelist  : 1,563,595
-Filter Whitelist    : 1,563,545
-Import Blacklist    : 1,564,003
-Compressed          : 1,221,820
+Total Blacklist     : 2,536,538
+Filter Duplicates   : 1,699,487
+External Whitelist  : 1,563,597
+Filter Whitelist    : 1,563,548
+Import Blacklist    : 1,564,006
+Compressed          : 1,221,825
 
    LENGTH     COUNT
-        2   692,840
+        2   692,844
         3   407,401
-        4   105,359
+        4   105,360
         5    14,532
         6     1,088
         7       413
@@ -183,7 +183,7 @@ Compressed          : 1,221,820
        18         6
        19         4
 
-Total Blocklist     : 1,221,820
+Total Blocklist     : 1,221,825
 
 ~~~
 
