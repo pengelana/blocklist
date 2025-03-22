@@ -1,9 +1,9 @@
-! Checksum: pnMCYg8KSic4Yo/FJ3hCOA
-! Diff-Path: ../patches/15/15-s-1742603788-3600.patch
+! Checksum: hQjrs19K0CBN/sF1q8CZGA
+! Diff-Path: ../patches/15/15-s-1742625392-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.78.4
-! TimeUpdated: 2025-03-22T00:32:17+00:00
+! Version: 2.0.78.5
+! TimeUpdated: 2025-03-22T06:32:17+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-22T00:03:40.565Z
+! Last modified: 2025-03-22T06:01:27.033Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -7977,6 +7977,7 @@ vkcdnservice.appspot.com^
 ||aimportfoliosquid.com^
 ||aimukreegee.net^
 ||ainerations.com^
+||ainouzaudre.net^
 ||aintydevelelastic.com^
 ||ainuftou.net^
 ||aiphotomania.com^
@@ -11105,6 +11106,7 @@ vkcdnservice.appspot.com^
 ||chaupheebe.net^
 ||chaussew.net^
 ||chautcho.com^
+||chauxuzauy.com^
 ||chbwe.space^
 ||cheap-celebration.pro^
 ||cheapenleaving.com^
@@ -11212,6 +11214,7 @@ vkcdnservice.appspot.com^
 ||chitika.net^
 ||chitsnooked.com^
 ||chivoagrie.net^
+||chivwtusseh.com^
 ||chiwaiwhor.xyz^
 ||chl7rysobc3ol6xla.com^
 ||chloredenpia.shop^
@@ -15867,6 +15870,7 @@ vkcdnservice.appspot.com^
 ||gemfowls.com^
 ||geminibugs.com^
 ||gemseeniloksair.net^
+||gemworkbakairi.com^
 ||gen-ref.com^
 ||genbalar.com^
 ||generalizebusinessman.com^
@@ -16359,6 +16363,7 @@ vkcdnservice.appspot.com^
 ||gotohouse1.club^
 ||gotoyahoo.com^
 ||gotrackier.com^
+||gougligloupha.net^
 ||gounodogaptofok.net^
 ||gousouse.com^
 ||goutee.top^
@@ -20874,6 +20879,7 @@ vkcdnservice.appspot.com^
 ||milljeanne.com^
 ||millsurfaces.com^
 ||millustry.top^
+||milseycurly.com^
 ||milteept.xyz^
 ||miltlametta.com^
 ||miluwo.com^
@@ -23792,6 +23798,7 @@ vkcdnservice.appspot.com^
 ||physidstert.shop^
 ||phywifupta.com^
 ||piaigyyigyghjmi.xyz^
+||pianolamickeys.com^
 ||piaroankenyte.store^
 ||piazzetasses.shop^
 ||picarasgalax.com^
@@ -28288,6 +28295,7 @@ vkcdnservice.appspot.com^
 ||stolenforensicssausage.com^
 ||stongoapti.net^
 ||stonierteddy.com^
+||stonifylolls.com^
 ||stonkstime.com^
 ||stooboastaud.net^
 ||stoobsugree.net^
