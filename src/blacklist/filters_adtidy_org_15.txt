@@ -1,9 +1,9 @@
-! Checksum: UEWq3nNTG0qrJCceP7OEXw
-! Diff-Path: ../patches/15/15-s-1742776584-3600.patch
+! Checksum: mUAdppbJm9Dm/ZnH8jXN0g
+! Diff-Path: ../patches/15/15-s-1742798234-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.78.12
-! TimeUpdated: 2025-03-24T00:32:15+00:00
+! Version: 2.0.78.13
+! TimeUpdated: 2025-03-24T06:32:32+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-24T00:03:54.201Z
+! Last modified: 2025-03-24T06:01:42.861Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -94863,8 +94863,8 @@ inapps.appsflyersdk.com^
 ! # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 ! # ----
 ! # title:          Frellwit's Swedish Hosts File
-! # last updated:   2025-03-19 05:15:00 CET
-! # entries:        1104
+! # last updated:   2025-03-24 05:34:13 CET
+! # entries:        1107
 ! # format:         hosts (hosts -- in hosts file format)
 ! # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -95005,6 +95005,7 @@ inapps.appsflyersdk.com^
 ||cdn.routy.app^
 ||cdn.shareaholic.net^
 ||cdn.sprida.se^
+||cdn.stroeerdigitalgroup.de^
 ||cdn.subscribers.com^
 ||cdn.userreport.com^
 ||cdn.webpushr.com^
@@ -95122,6 +95123,7 @@ inapps.appsflyersdk.com^
 ||m1.analytics.sitevision-cloud.se^
 ||matomo.chsc.dk^
 ||matomo.goteborgco.se^
+||matomo.lantmannen.com^
 ||matomo.lulea.se^
 ||matomo.mindbite.cloud^
 ||matomo.studio.se^
@@ -101170,6 +101172,8 @@ inapps.appsflyersdk.com^
 ||khegritww.com^
 ||knul.cn^
 ||ra10.xyz^
+||dtdqpc.top^
+||lsyaicl.icu^
 ||gerqragpl.com^
 ||nghv.cn^
 ||wlwgloo.top^
@@ -105878,6 +105882,8 @@ analytics-*.aasaam.com
 ||chancx.io^
 ! # https://github.com/Webamoozcom/warning-list/discussions/185
 ||falixa.com^
+! # https://github.com/Webamoozcom/warning-list/discussions/192
+||izonekala.com^
 ! # https://github.com/MasterKia/PersianBlocker/pull/201
 ! # https://webamooz.com/1402/06/25/%D9%84%D8%A7%DA%A9%D8%B3%D9%88%D9%86-laxxson-%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%BE%D8%A7%D9%86%D8%B2%DB%8C-%D8%A7%D8%B3%D8%AA/
 ||laxsson.com^

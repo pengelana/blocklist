@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-03-19 05:15:00 CET
-# entries:        1104
+# last updated:   2025-03-24 05:34:13 CET
+# entries:        1107
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -68,6 +68,7 @@
 127.0.0.1 ads.skargarden.se
 127.0.0.1 ads.skidspar.se
 127.0.0.1 ads.skolvarlden.se
+127.0.0.1 ads.sportslocalmedia.com
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 ads.themoneytizer.com
 127.0.0.1 ads.ungdomar.se
@@ -279,6 +280,7 @@
 127.0.0.1 cdn.snigelweb.com
 127.0.0.1 cdn.speedcurve.com
 127.0.0.1 cdn.sprida.se
+127.0.0.1 cdn.stroeerdigitalgroup.de
 127.0.0.1 cdn.subscribers.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.unblockia.com
@@ -573,6 +575,7 @@
 127.0.0.1 match.adsrvr.org
 127.0.0.1 matomo.chsc.dk
 127.0.0.1 matomo.goteborgco.se
+127.0.0.1 matomo.lantmannen.com
 127.0.0.1 matomo.lulea.se
 127.0.0.1 matomo.mindbite.cloud
 127.0.0.1 matomo.studio.se
