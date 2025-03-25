@@ -1,7 +1,7 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-03-24 05:34:13 CET
+# last updated:   2025-03-25 05:12:19 CET
 # entries:        1107
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
@@ -131,7 +131,6 @@
 127.0.0.1 analytics.sitewit.com
 127.0.0.1 analytics.sjf.se
 127.0.0.1 analytics.sleeknote.com
-127.0.0.1 analytics.smhi.se
 127.0.0.1 analytics.svenskdam.se
 127.0.0.1 analytics.svt.se
 127.0.0.1 analytics.teknikveckan.se
@@ -140,6 +139,7 @@
 127.0.0.1 analytics-ingress-global.bitmovin.com
 127.0.0.1 analytics-sdk.yle.fi
 127.0.0.1 analytics-smhise.smhi.se
+127.0.0.1 analytics-wpt.smhi.se
 127.0.0.1 analytics.ci-360.se
 127.0.0.1 angry-golick-2a96e5.netlify.app
 127.0.0.1 annoncer.nichehuset.dk
