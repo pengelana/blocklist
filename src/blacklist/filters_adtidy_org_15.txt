@@ -1,9 +1,9 @@
-! Checksum: sQN6MQumDRGfbT1TCXuHUQ
-! Diff-Path: ../patches/15/15-s-1743467485-3600.patch
+! Checksum: vsjJmKUCU2Vm3drWfzT6SQ
+! Diff-Path: ../patches/15/15-s-1743509687-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.78.42
-! TimeUpdated: 2025-04-01T00:28:03+00:00
+! Version: 2.0.78.44
+! TimeUpdated: 2025-04-01T12:11:23+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-01T00:04:15.525Z
+! Last modified: 2025-04-01T12:01:47.374Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -27981,6 +27981,7 @@ vkcdnservice.appspot.com^
 ||thechoansa.com^
 ||thechronicles2.xyz^
 ||thecoinworsttrack.com^
+||thecontentserver.com^
 ||thecoreadv.com^
 ||theehouho.xyz^
 ||theekedgleamed.com^
@@ -86048,7 +86049,6 @@ vkcdnservice.appspot.com^
 ||analytics.slidesai.io^
 ||idat.production.ippen.space^
 ||snowy.bellroy.com^
-||res.regoo.com^
 ||analytics.crea.ca^
 ||stat.airdroid.com^
 ||tracker.ranker.com^
@@ -87908,7 +87908,7 @@ inapps.appsflyersdk.com^
 ! NOTE: Regular rules
 !
 ||ulog-sdk.gifshow.com^
-||ulogs*.gifshow.com^
+||ulog*.gifshow.com^
 ||logapi-and.zhipin.com^
 ||hilton.data.adobedc.net^
 ||asanalytics.booking.com^
@@ -93356,6 +93356,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||telecome.cn^
 ||aizhantj.com^
 ||sm-cloud.yunsafe.top^
 ||dwyeuy.com^
@@ -93585,6 +93586,8 @@ inapps.appsflyersdk.com^
 ||ulukaris.com^
 ||itadapi.ithome.com.tw^
 ||zjgfq.com^
+! For DNS
+/^(mon|tue|wed|thu|fri|sat|sun)\d{1,2}\.so\d{1,6}koaq\.com$/
 !
 ! Source name: AdGuard Chinese filter ad servers first-party
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers_firstparty.txt
@@ -94288,8 +94291,8 @@ inapps.appsflyersdk.com^
 ! # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 ! # ----
 ! # title:          Frellwit's Swedish Hosts File
-! # last updated:   2025-03-31 05:34:03 CEST
-! # entries:        1110
+! # last updated:   2025-04-01 05:50:53 CEST
+! # entries:        1108
 ! # format:         hosts (hosts -- in hosts file format)
 ! # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -94351,6 +94354,7 @@ inapps.appsflyersdk.com^
 ||analytics.icagruppen.se^
 ||analytics.ica.se^
 ||analytics.kb.se^
+||analytics.lexbase.se^
 ||analytics.mabra.com^
 ||analytics.motherhood.se^
 ||analytics.nikkasystems.com^
@@ -94390,7 +94394,6 @@ inapps.appsflyersdk.com^
 ||banner.bet365partners.com^
 ||banners.instaforex.com^
 ||banners.wsnonline.dk^
-||barbours.com.se^
 ||bcm.interactives.dk^
 ||bellmetric.net^
 ||bettingstugan.se^
@@ -94581,7 +94584,6 @@ inapps.appsflyersdk.com^
 ||nitroscripts.com^
 ||norranstats.azurewebsites.net^
 ||ntrfr.expekt.se^
-||nucleusanalytics.io^
 ||omni-ad-blocket.herokuapp.com^
 ||openx.financialpublishers.nl^
 ||openx.gamereactor.dk^
@@ -94697,7 +94699,6 @@ inapps.appsflyersdk.com^
 ||tourn.co^
 ||tourn.se^
 ||tr.apsisforms.com^
-||track.yetric.app^
 ||tracker.zummycloud.com^
 ||tracker.kollega.open-analytics.se^
 ||tracker.kulturradet.open-analytics.se^
@@ -94915,50 +94916,33 @@ inapps.appsflyersdk.com^
 ||188affiliates.com^
 ||accesstrade.co.id^
 ||ad-loupe.com^
-||adbsys.icu^
 ||addesigner.com^
 ||admarketplace.net^
 ||adnety.com^
 ||adpop-1.com^
-||adpstatic.com^
 ||adreach.co^
-||adreviewcamp.com^
-||ads-link.net^
 ||ads.d21.media^
 ||ads.indosatooredoo.com^
 ||ads.telkomsel.com^
 ||adsbingo.com^
-||adscpm.site^
-||adshost.site^
 ||adsimg.kompas.com^
 ||adstarsmedia.co.id^
-||adtimeselaras.com^
 ||alertpay.com^
 ||ampclicks.com^
-||anekaiklan.com^
 ||baliadv.com^
 ||bellaads.com^
 ||brand.ad^
-||caribanner.bid^
 ||cdnasiaclub.com^
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
-||clickmedia.co.id^
-||compulsivehemisphere.com^
 ||csf.uzone.id^
-||d01.notifa.info^
-||dewsburg.info^
 ||digiads.co.id^
-||ena-native-ads4.com^
 ||etoads.net^
-||filebanner.com^
 ||forumiklan.com^
-||goingsilltrusty.com^
 ||groupiklan.com^
 ||gudangbanner.com^
 ||halal.ad^
 ||herdethi.net^
-||hosillfir.site^
 ||ibnads.xl.co.id^
 ||iklan-laris.com^
 ||iklanads.com^
@@ -94968,76 +94952,42 @@ inapps.appsflyersdk.com^
 ||iklanbogor.com^
 ||iklandenpasar.com^
 ||iklangratis.com^
-||iklangratis88.com^
 ||iklanhemat.com^
 ||iklanhoki.com^
 ||iklanoke.com^
 ||iklantelevisi.com^
 ||iklantext.com^
-||iklantop.net^
 ||iklanumum.com^
 ||indoadsnet.com^
 ||indobanner.com^
-||indofreeads.com^
 ||istana-impian.com^
-||istana-impian2.com^
-||istanaiklan.com^
 ||istanaimpian1.com^
 ||istanaimpian2.com^
 ||istanaimpian3.com^
-||jagoiklan.com^
 ||jagopromo.com^
 ||jasaiklan.com^
-||javaiklan.com^
 ||klikajadeh.com^
-||kotaksilver.casa^
 ||lokeriklan.com^
 ||luckyads.com^
-||luven.xyz^
-||masteriklan.net^
-||mediab.uy^
 ||mesiniklan.andipublisher.com^
-||newsupdatewe.info^
 ||offdeck.telkomsel.com^
 ||offerjuice.me^
-||onigagalai.ru^
 ||openadserving.com^
-||p01.notifa.info^
-||p02.notifa.info^
-||p03.notifa.info^
-||p04.notifa.info^
-||p05.notifa.info^
 ||padssup.com^
 ||paidforfree.com^
-||parentelement.ml^
 ||pasangiklan.com^
-||pasariklanbaris.com^
-||payingbeswim.com^
 ||paypopup.com^
 ||pc3ads.com^
 ||pondokiklan.com^
 ||popclck.net^
-||popunderjs.club^
-||presbanise.pw^
-||promobagus.com^
 ||promotioncamp.com^
 ||publish.web.id^
-||pusatiklan.com^
-||s2pops.club^
 ||sanglah.com^
 ||sarapbeh.com^
-||scriptall.ml^
-||sebar.idblognetwork.com^
 ||see-work.info^
-||sentrapromosi.com^
-||serbapromo.com^
-||shiiuojjccp.com^
 ||shiokambing2.com^
 ||sitti.co.id^
-||situsiklanbaris.com^
-||spanuletubings.com^
 ||sumberiklan.com^
-||suryaiklan.com^
 ||teliad.com^
 ||theclickers.net^
 ||tinggalklik.com^
@@ -95047,99 +94997,36 @@ inapps.appsflyersdk.com^
 ||uadexchange.com^
 ||useads.com^
 ||webiklan.com^
-||weblogiklan.com^
 ||yesads.com^
 ! Potential ad servers
-||34667c8ece5.com^
 ||64p3am9x95ct.com^
-||9icmzvn6.website^
 ||a63t9o1azf.com^
 ||abrts.pro^
 ||adeumssp.com^
 ||afbcashidr.com^
-||ahcnxuepput.com^
-||aj1052.online^
-||aopxnvrugx.com^
 ||auredzeon.com^
-||axzsd.pro^
-||azxsd.pro^
-||bcajjtbzmdrl.com^
-||bubblekraken.com^
-||chqspuonctkgz.com^
 ||craydark.pw^
-||daero.pw^
-||dearerfonder.info^
 ||edomz.com^
-||edspectsm.fun^
 ||flexterkita.com^
-||furocmay.com^
 ||gbrrrxbodqdlq.com^
-||ghaahq.com^
-||hegarberetrof.pro^
-||hoegutvie.com^
-||ihqfiimrbcf.com^
-||iupqelechcmj.com^
 ||iwtserve.com^
-||jjekxle.com^
-||juruiklan.com^
-||kdbumyha.com^
-||kozoysnsx.com^
-||ld82ydd.com^
-||leoceran.pw^
-||lpaizureik.com^
-||lsgqlgoc.com^
 ||midgerelativelyhoax.com^
-||mifsirnhvvrps.top^
-||motosal.net^
 ||mousheen.net^
-||naetoris.pw^
-||oardjnay.com^
-||olkrzytv.com^
-||ourtherss.top^
-||phudrour.net^
-||pvwtkxcpsrcsd.com^
-||q1xyxm89.com^
-||replase.gq^
-||replase.ml^
-||ridingintractable.com^
-||sekaneemits.com^
-||shiiticprating.com^
-||shqbsdjatunl.com^
-||tidnqztumpnk.com^
-||torflegorb.com^
-||trendlope.com^
-||trvwjyjgkgeagd.com^
-||tummiarunzpf.com^
-||uamrnaakv.com^
 ||ueuodgnrhb.com^
-||uieoogjarimcey.com^
-||uoarbhxfyygn.com^
-||uofmnbkm.com^
-||vrewpywootyu.com^
-||wbaogaqvrukprx.com^
-||whjibbprhng.com^
-||wkuave.com^
-||ys3e965d.top^
-||zuyejecgb.com^
 !
 ! Source name: ABPindo ad servers third-party
 ! Source: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt
 !
-||browsertelemetry.tk^
 ||c-stat.eu^
 ||cfs1.uzone.id^
-||hesftig.site^
 ||moneyfree.co^
 ||rajatraffic.com^
 ||track.aptitudemedia.co^
-||track.avxid.com^
 ||track.zerofriend.com^
-||trackdan.com^
 ||tracker.beritagar.id^
 ||tracker.lazada.co.id^
 ||trackingclick.net^
 ||traffic-monetizer.com^
-||trk.cpaoptimizer.com^
 !
 ! Source name: AdblockID adservers
 ! Source: https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl
@@ -100580,6 +100467,11 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||caxhuuzto.com^
+||so04010koaq.com^
+||lsjarh.top^
+||duyhlct.icu^
+||wqrv.cn^
 ||yasorlbeu.com^
 ||jtdltu.top^
 ||xsti.cn^
