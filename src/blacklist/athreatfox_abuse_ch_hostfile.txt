@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-09 18:23:25 UTC                        #
+# Last updated: 2025-04-09 20:34:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	plhotacepl-35143.portmap.io
+127.0.0.1	extra-internationally.gl.at.ply.gg
+127.0.0.1	bartsbee.kozow.com
+127.0.0.1	main.jojoasmr.xyz
 127.0.0.1	check.boruq.icu
 127.0.0.1	remc.climate-connect.com
 127.0.0.1	talktalky.com
@@ -46916,4 +46920,4 @@
 127.0.0.1	avatrade-regulation.com
 127.0.0.1	avatrade-compliance.com
 127.0.0.1	avatrade-services.com
-# Number of entries: 46910
+# Number of entries: 46914
