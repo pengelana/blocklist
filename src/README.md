@@ -7,7 +7,7 @@
 [ OK ]    89,681 src/blacklist/AdguardTeam_disguised_mail_trackers_justdomains.txt
 [ OK ]    19,502 src/blacklist/AdguardTeam_disguised_microsites_justdomains.txt
 [ OK ]   127,973 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
-[ OK ]   113,748 src/blacklist/Cats-Team_dns.txt
+[ OK ]   113,772 src/blacklist/Cats-Team_dns.txt
 [ OK ]    29,730 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       662 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]    97,153 src/blacklist/KADhosts.txt
@@ -119,7 +119,7 @@
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
 [ OK ]       288 src/blacklist/dnstunneling_t.txt
 [ OK ]     3,023 src/blacklist/durablenapkin_hosts.txt
-[ OK ]     3,511 src/blacklist/easylist_adservers_popup.txt
+[ OK ]     3,514 src/blacklist/easylist_adservers_popup.txt
 [ OK ]        43 src/blacklist/fakenews_t.txt
 [ OK ]   104,458 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
@@ -156,16 +156,16 @@
 [ OK ]    58,531 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,792 src/blacklist/uBlockOrigin_badware.txt
 
-Total Blacklist     : 2,595,344
-Filter Duplicates   : 1,762,757
-External Whitelist  : 1,626,855
-Filter Whitelist    : 1,626,804
-Import Blacklist    : 1,627,265
-Compressed          : 1,282,193
+Total Blacklist     : 2,595,371
+Filter Duplicates   : 1,762,769
+External Whitelist  : 1,626,867
+Filter Whitelist    : 1,626,815
+Import Blacklist    : 1,627,276
+Compressed          : 1,282,198
 
    LENGTH     COUNT
-        2   701,599
-        3   450,010
+        2   701,611
+        3   450,003
         4   112,067
         5    16,424
         6     1,316
@@ -183,7 +183,7 @@ Compressed          : 1,282,193
        18         5
        19         3
 
-Total Blocklist     : 1,282,193
+Total Blocklist     : 1,282,198
 
 ~~~
 
