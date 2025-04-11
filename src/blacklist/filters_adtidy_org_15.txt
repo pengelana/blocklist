@@ -1,9 +1,9 @@
-! Checksum: Gn/1nr9otHbhEtHU3/GS4w
-! Diff-Path: ../patches/15/15-s-1744351962-3600.patch
+! Checksum: 9qrfho+T71J0k653jm8Rhg
+! Diff-Path: ../patches/15/15-s-1744373634-3600.patch
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.78.83
-! TimeUpdated: 2025-04-11T06:09:22+00:00
+! Version: 2.0.78.84
+! TimeUpdated: 2025-04-11T12:10:27+00:00
 ! Expires: 10 days (update frequency)
 !
 !
@@ -11,7 +11,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-04-11T06:01:38.883Z
+! Last modified: 2025-04-11T12:01:48.934Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -30,8 +30,8 @@
 !
 !
 !
+||xdrlthfhikvgm.club^
 ||measlepotomac.shop^
-||doppiocdn.com^
 ||parteinroll.xyz^
 ||8ecc2aee4f.com^
 ||floors.dev^
@@ -89670,6 +89670,7 @@ inapps.appsflyersdk.com^
 ||mediametrics.mpsa.com^
 ||metering.pagesuite.com^
 ||metrics.ctvdigital.net^
+||metrics.doppiocdn.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
 ||metrics.onshape.com^
@@ -101184,6 +101185,8 @@ inapps.appsflyersdk.com^
 ||zqifmyt.icu^
 ||xwtylm.top^
 ||jmif.cn^
+||rvxo.cn^
+||idhaiafq.com^
 ||tezlpl.icu^
 ||duuddots.com^
 ||mjik.cn^
