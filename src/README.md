@@ -19,7 +19,7 @@
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,695 src/blacklist/StevenBlack_hosts.txt
 [ OK ]   136,141 src/blacklist/StevenBlack_master_hosts.txt
-[ OK ]    48,331 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    48,340 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,760 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]       387 src/blacklist/blocklists-ahnlab.txt
 [ OK ]        11 src/blacklist/blocklists-akamai.txt
@@ -148,7 +148,7 @@
 [ OK ]        89 src/blacklist/malwarhunterteam_t.txt
 [ OK ]     2,305 src/blacklist/matomo_org_spammers.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    43,703 src/blacklist/oisd_small.txt
+[ OK ]    43,870 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   290,362 src/blacklist/phishing_army_blocklist_extended.txt
 [ OK ]         7 src/blacklist/popup_t.txt
@@ -161,18 +161,18 @@
 [ OK ]   518,406 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    58,686 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,793 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       565 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       567 src/blacklist/urhaus_abuse_hostfile.txt
 
-Total Blacklist     : 3,071,416
-Filter Duplicates   : 2,156,737
-External Whitelist  : 2,020,508
-Filter Whitelist    : 2,020,455
-Import Blacklist    : 2,020,902
-Compressed          : 1,625,388
+Total Blacklist     : 3,071,594
+Filter Duplicates   : 2,156,746
+External Whitelist  : 2,020,517
+Filter Whitelist    : 2,020,464
+Import Blacklist    : 2,020,911
+Compressed          : 1,625,385
 
    LENGTH     COUNT
-        2   873,413
-        3   565,849
+        2   873,420
+        3   565,839
         4   130,792
         5    29,336
         6     4,292
@@ -200,7 +200,7 @@ Compressed          : 1,625,388
        29         1
        30         1
 
-Total Blocklist     : 1,625,388
+Total Blocklist     : 1,625,385
 
 ~~~
 
