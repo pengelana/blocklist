@@ -19,7 +19,7 @@
 [ OK ]     8,141 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,695 src/blacklist/StevenBlack_hosts.txt
 [ OK ]   136,141 src/blacklist/StevenBlack_master_hosts.txt
-[ OK ]    48,340 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    48,348 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,760 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]       387 src/blacklist/blocklists-ahnlab.txt
 [ OK ]        11 src/blacklist/blocklists-akamai.txt
@@ -143,7 +143,7 @@
 [ OK ]    18,254 src/blacklist/jarelllama_scams_light.txt
 [ OK ]     3,738 src/blacklist/judol_t.txt
 [ OK ]     1,111 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
-[ OK ]       579 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
+[ OK ]       616 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
 [ OK ]         6 src/blacklist/malwarebytes_t.txt
 [ OK ]        89 src/blacklist/malwarhunterteam_t.txt
 [ OK ]     2,305 src/blacklist/matomo_org_spammers.txt
@@ -161,9 +161,9 @@
 [ OK ]   518,406 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    58,686 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,793 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       567 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       562 src/blacklist/urhaus_abuse_hostfile.txt
 
-Total Blacklist     : 3,071,594
+Total Blacklist     : 3,071,634
 Filter Duplicates   : 2,156,746
 External Whitelist  : 2,020,517
 Filter Whitelist    : 2,020,464
@@ -171,8 +171,8 @@ Import Blacklist    : 2,020,911
 Compressed          : 1,625,385
 
    LENGTH     COUNT
-        2   873,420
-        3   565,839
+        2   873,419
+        3   565,840
         4   130,792
         5    29,336
         6     4,292
