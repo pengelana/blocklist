@@ -161,18 +161,18 @@
 [ OK ]   521,088 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    58,909 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,837 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       545 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       548 src/blacklist/urhaus_abuse_hostfile.txt
 
-Total Blacklist     : 3,148,861
-Filter Duplicates   : 2,175,198
-External Whitelist  : 2,038,980
-Filter Whitelist    : 2,038,926
-Import Blacklist    : 2,039,379
-Compressed          : 1,684,525
+Total Blacklist     : 3,148,864
+Filter Duplicates   : 2,175,197
+External Whitelist  : 2,038,979
+Filter Whitelist    : 2,038,925
+Import Blacklist    : 2,039,377
+Compressed          : 1,684,523
 
    LENGTH     COUNT
-        2   906,861
-        3   555,442
+        2   906,860
+        3   555,441
         4   166,816
         5    29,416
         6     4,296
@@ -200,7 +200,7 @@ Compressed          : 1,684,525
        29         1
        30         1
 
-Total Blocklist     : 1,684,525
+Total Blocklist     : 1,684,523
 
 ~~~
 
