@@ -107758,7 +107758,19 @@ analytics-*.aasaam.com
 @@||afi-b.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/636
 @@||daikoku.ebis.ne.jp^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/is CNAME adperfect.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/is1401
+! Blocked by CNAME bodis.com
+@@||leechers-paradise.org^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1406
+! Blocked by CNAME iocnt.net
+@@||data-*.herz-fuer-tiere.de^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/150715
+@@||go.adjust.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/150038
+! Blocked by CNAME getblueshift.com
+@@||clickattr.wayup.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1393
+! Blocked by CNAME adperfect.com
 @@||remembering.ca^|
 @@||obituaries.therecord.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1265
