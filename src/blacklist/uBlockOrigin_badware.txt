@@ -6089,7 +6089,12 @@ uploadfox.net###ad-gs-05
 ||maxdebrid.com^$doc
 ||anydebrid.com^$doc
 
-! https://www.reddied/
+! https://www.reddissues/26817
+||butsmism.co.in^$all
+!/^https?:\/\/[a-z0-9]{6,20}\.[a-z]{6,20}\.co\.in\//$all,to=co.in
+! https://github.com/uBlockOrigin/uAssets/issues/26919
+||glousism.co.in^$all
+! https://www.reddit.com/r/antivirus/comments/1imiwam/should_i_be_worried/
 ||tryrichleads.top^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26722
@@ -6276,7 +6281,7 @@ uploadfox.net###ad-gs-05
 ||turtleclient.xyz^$all
 
 ! https://www.reddit.com/r/phishing/comments/1i6j0m9/surely_this_cant_be_real_right/
-||irs.gov-$doc,to=~irs.gov
+||irs.gov-$doc
 
 ! https://www.reddit.com/r/Scams/comments/1hmbf58/i_fell_for_a_toll_scam/
 ! https://www.virustotal.com/gui/url/0a91a618dfb8e3f00196f613b5f73c84f5ff0cfa40e680764ec02e9ad2d62e82
@@ -6293,7 +6298,7 @@ uploadfox.net###ad-gs-05
 /^https?:\/\/[-a-z]{4,}\.org[-.][-a-z0-9]{2,}\.[a-z]{2,5}\//$doc,to=cc|cfd|cyou|live|top|vip|win|world|xin
 
 ! https://urlscan.io/search/#hash%3Ac3ddb433947ffba704fab581e16dd5a0d246c9861d169aca184266f7dc2cdff4
-/^https:\/\/[a-z]{8}\.[a-z]{2,8}\/[!+=][\/0-9a-z]{20,30}\.[-a-z]{2,7}$/$doc,to=art|asia|auction|bar|cam|click|coupons|digital|diy|food|forum|gay|guru|life|live|living|my|property|pw|rocks|run|shop|tattoo|tech|today|uno|work,match-case
+/^https:\/\/[a-z]{8}\.[a-z]{2,8}\/[!+=][\/0-9a-z]{20,30}\.[-a-z]{2,7}$/$doc,to=art|asia|auction|bar|cam|click|coupons|digital|diy|food|forum|gay|guru|life|live|living|my|property|pw|rocks|run|sbs|shop|store|tattoo|tech|today|uno|work,match-case
 /door/?ad_campaign_id=$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/28101
@@ -6340,3 +6345,6 @@ uploadfox.net###ad-gs-05
 ||v3-dappradar.com^$all
 ||app.darppadar.com^$all
 ||darppadar.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/28138
+||play-lust.com^$all
