@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 3093
+# Domains: 3110
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -61,6 +61,9 @@
 0.0.0.0 store.aadirone.cc
 0.0.0.0 abncbp.com
 0.0.0.0 www.abncbp.com
+0.0.0.0 accbing.com
+0.0.0.0 www.accbing.com
+0.0.0.0 store.accbing.com
 0.0.0.0 account-cfe.mx
 0.0.0.0 www.account-cfe.mx
 0.0.0.0 store.account-cfe.mx
@@ -88,9 +91,6 @@
 0.0.0.0 airteltower.com
 0.0.0.0 www.airteltower.com
 0.0.0.0 store.airteltower.com
-0.0.0.0 airtoff.com
-0.0.0.0 www.airtoff.com
-0.0.0.0 store.airtoff.com
 0.0.0.0 airup-fi.com
 0.0.0.0 www.airup-fi.com
 0.0.0.0 airup-gr.com
@@ -165,9 +165,13 @@
 0.0.0.0 www.amznshirts.com
 0.0.0.0 store.amznshirts.com
 0.0.0.0 an1.is
+0.0.0.0 animeshoppers.com
+0.0.0.0 www.animeshoppers.com
+0.0.0.0 store.animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 www.anydebrid.com
 0.0.0.0 app-uniswapping.org
+0.0.0.0 app.deflliama.tech
 0.0.0.0 app.identity-nexo.xborders.io
 0.0.0.0 www.app.identity-nexo.xborders.io
 0.0.0.0 store.app.identity-nexo.xborders.io
@@ -274,8 +278,6 @@
 0.0.0.0 www.best-torrents.com
 0.0.0.0 store.best-torrents.com
 0.0.0.0 bestiamos.com
-0.0.0.0 bestpriceonline.store
-0.0.0.0 www.bestpriceonline.store
 0.0.0.0 bestvod.pl
 0.0.0.0 www.bestvod.pl
 0.0.0.0 store.bestvod.pl
@@ -384,8 +386,6 @@
 0.0.0.0 www.breakshirts.com
 0.0.0.0 brttre.com
 0.0.0.0 www.brttre.com
-0.0.0.0 bsnltower5g.in
-0.0.0.0 www.bsnltower5g.in
 0.0.0.0 bsnltowerinstallations.com
 0.0.0.0 www.bsnltowerinstallations.com
 0.0.0.0 www.bsnltowersite.in
@@ -509,6 +509,8 @@
 0.0.0.0 coinaps.com
 0.0.0.0 www.coinaps.com
 0.0.0.0 store.coinaps.com
+0.0.0.0 coinomi.ing
+0.0.0.0 www.coinomi.ing
 0.0.0.0 coinreq.com
 0.0.0.0 www.coinreq.com
 0.0.0.0 store.coinreq.com
@@ -557,6 +559,7 @@
 0.0.0.0 www.cshrewards.net
 0.0.0.0 csmoney.trade
 0.0.0.0 www.csmoney.trade
+0.0.0.0 store.csmoney.trade
 0.0.0.0 cual3up029pc73fi5jug.ucapsidop.info
 0.0.0.0 www.cual3up029pc73fi5jug.ucapsidop.info
 0.0.0.0 store.cual3up029pc73fi5jug.ucapsidop.info
@@ -606,7 +609,8 @@
 0.0.0.0 decoryourhome.store
 0.0.0.0 deergift.com
 0.0.0.0 www.deergift.com
-0.0.0.0 store.deergift.com
+0.0.0.0 defii-larna.net
+0.0.0.0 www.defii-larna.net
 0.0.0.0 deiongh.info
 0.0.0.0 deluxdoll.com
 0.0.0.0 www.deluxdoll.com
@@ -734,6 +738,7 @@
 0.0.0.0 www.elrifeno.com
 0.0.0.0 emberio.com
 0.0.0.0 www.emberio.com
+0.0.0.0 en-trezor.io
 0.0.0.0 enchantestore.myshopify.com
 0.0.0.0 www.enchantestore.myshopify.com
 0.0.0.0 store.enchantestore.myshopify.com
@@ -773,9 +778,6 @@
 0.0.0.0 evisaindia.com
 0.0.0.0 www.evisaindia.com
 0.0.0.0 store.evisaindia.com
-0.0.0.0 evisaindia.org
-0.0.0.0 www.evisaindia.org
-0.0.0.0 store.evisaindia.org
 0.0.0.0 evisaindiaonline.org
 0.0.0.0 www.evisaindiaonline.org
 0.0.0.0 ex-torrenty.org
@@ -831,8 +833,6 @@
 0.0.0.0 www.faze24.com
 0.0.0.0 store.faze24.com
 0.0.0.0 faze3.com
-0.0.0.0 www.faze3.com
-0.0.0.0 store.faze3.com
 0.0.0.0 faze4.com
 0.0.0.0 www.faze4.com
 0.0.0.0 faze40.com
@@ -916,6 +916,9 @@
 0.0.0.0 www.fiusps.com
 0.0.0.0 fkpgr.buzz
 0.0.0.0 www.fkpgr.buzz
+0.0.0.0 flattee.com
+0.0.0.0 www.flattee.com
+0.0.0.0 store.flattee.com
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 www.folkrbvi.pages.dev
 0.0.0.0 store.folkrbvi.pages.dev
@@ -1058,6 +1061,8 @@
 0.0.0.0 www.gtltowerinfratel.in
 0.0.0.0 gunstee.com
 0.0.0.0 www.gunstee.com
+0.0.0.0 habilitacao.org
+0.0.0.0 store.habilitacao.org
 0.0.0.0 habtoorloyal.com
 0.0.0.0 www.habtoorloyal.com
 0.0.0.0 haceroberomaste.com
@@ -1316,9 +1321,6 @@
 0.0.0.0 www.kigurumi-usa.com
 0.0.0.0 kingcampoutdoors.co.jp
 0.0.0.0 www.kingcampoutdoors.co.jp
-0.0.0.0 kingteestore.com
-0.0.0.0 www.kingteestore.com
-0.0.0.0 store.kingteestore.com
 0.0.0.0 kino-cda.pl
 0.0.0.0 www.kino-cda.pl
 0.0.0.0 store.kino-cda.pl
@@ -1458,6 +1460,8 @@
 0.0.0.0 www.mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 store.mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 mansion-xenarthran.info
+0.0.0.0 manta-network-v2.us
+0.0.0.0 www.manta-network-v2.us
 0.0.0.0 maxdebrid.com
 0.0.0.0 www.maxdebrid.com
 0.0.0.0 mayor4london.com
@@ -1465,9 +1469,6 @@
 0.0.0.0 mcds100.com
 0.0.0.0 mcsglobalcargo.com
 0.0.0.0 www.mcsglobalcargo.com
-0.0.0.0 meaningift.com
-0.0.0.0 www.meaningift.com
-0.0.0.0 store.meaningift.com
 0.0.0.0 mega-heritage.com
 0.0.0.0 www.mega-heritage.com
 0.0.0.0 mega-kino.pl
@@ -1534,8 +1535,10 @@
 0.0.0.0 mujib-store28.blogspot.com
 0.0.0.0 www.mujib-store28.blogspot.com
 0.0.0.0 store.mujib-store28.blogspot.com
-0.0.0.0 mulllvad.org
 0.0.0.0 mullvaad.net
+0.0.0.0 multifilmy.pl
+0.0.0.0 www.multifilmy.pl
+0.0.0.0 store.multifilmy.pl
 0.0.0.0 museuw.com
 0.0.0.0 www.museuw.com
 0.0.0.0 musk-project.com
@@ -1680,11 +1683,15 @@
 0.0.0.0 www.navi69.com
 0.0.0.0 navi7.com
 0.0.0.0 www.navi7.com
+0.0.0.0 navi71.com
+0.0.0.0 www.navi71.com
+0.0.0.0 store.navi71.com
 0.0.0.0 navi72.com
 0.0.0.0 www.navi72.com
 0.0.0.0 navi72.ru
 0.0.0.0 www.navi72.ru
 0.0.0.0 store.navi72.ru
+0.0.0.0 navi76.com
 0.0.0.0 navi77.com
 0.0.0.0 www.navi77.com
 0.0.0.0 store.navi77.com
@@ -1696,12 +1703,14 @@
 0.0.0.0 store.navi8.com
 0.0.0.0 navi85.com
 0.0.0.0 www.navi86.ru
+0.0.0.0 navi87.com
 0.0.0.0 navi88.com
 0.0.0.0 www.navi88.com
 0.0.0.0 store.navi88.com
 0.0.0.0 navi9.com
 0.0.0.0 www.navi9.com
 0.0.0.0 store.navi9.com
+0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 www.navi99.com
 0.0.0.0 store.navi99.com
@@ -1788,6 +1797,7 @@
 0.0.0.0 www.norfotball.com
 0.0.0.0 norgefotball.com
 0.0.0.0 www.norgefotball.com
+0.0.0.0 store.norgeshoes.com
 0.0.0.0 nosdaarte.com
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 notasdenatran.co
@@ -1837,6 +1847,9 @@
 0.0.0.0 www.olymptrade-qid.com
 0.0.0.0 store.olymptrade-qid.com
 0.0.0.0 onary.info
+0.0.0.0 onenightchicko.com
+0.0.0.0 www.onenightchicko.com
+0.0.0.0 store.onenightchicko.com
 0.0.0.0 online-binomo.com
 0.0.0.0 www.online-binomo.com
 0.0.0.0 online-eta.com
@@ -1924,6 +1937,8 @@
 0.0.0.0 phototan-cdirect.info
 0.0.0.0 www.phototan-cdirect.info
 0.0.0.0 store.phototan-cdirect.info
+0.0.0.0 phototan.net
+0.0.0.0 www.phototan.net
 0.0.0.0 pickablegift.com
 0.0.0.0 www.pickablegift.com
 0.0.0.0 store.pickablegift.com
@@ -2037,17 +2052,20 @@
 0.0.0.0 www.rastreiobrasil.co
 0.0.0.0 rastreiocorreio.co
 0.0.0.0 www.rastreiocorreio.co
+0.0.0.0 rbcdevices.com
+0.0.0.0 www.rbcdevices.com
+0.0.0.0 store.rbcdevices.com
 0.0.0.0 reforest-iita.org
 0.0.0.0 www.reforest-iita.org
 0.0.0.0 regularizedenatran.co
 0.0.0.0 www.regularizedenatran.co
 0.0.0.0 www.remessacorreio.site
-0.0.0.0 resources4gaming.com
-0.0.0.0 www.resources4gaming.com
-0.0.0.0 store.resources4gaming.com
 0.0.0.0 revanced-extended.com
 0.0.0.0 www.revanced-extended.com
 0.0.0.0 store.revanced-extended.com
+0.0.0.0 revancedmusic.com
+0.0.0.0 www.revancedmusic.com
+0.0.0.0 store.revancedmusic.com
 0.0.0.0 reviewshirts.com
 0.0.0.0 www.reviewshirts.com
 0.0.0.0 rewardsgiantca.com
@@ -2177,14 +2195,10 @@
 0.0.0.0 store.shy-boat-90ce.jiko728928922.workers.dev
 0.0.0.0 si.factorysale2023.com
 0.0.0.0 www.si.factorysale2023.com
-0.0.0.0 store.si.factorysale2023.com
 0.0.0.0 sieuto.com
 0.0.0.0 www.sieuto.com
 0.0.0.0 sigmaoffers.com
 0.0.0.0 www.sigmaoffers.com
-0.0.0.0 signal-confirm.site
-0.0.0.0 www.signal-confirm.site
-0.0.0.0 store.signal-confirm.site
 0.0.0.0 signalgroup.site
 0.0.0.0 www.signalgroup.site
 0.0.0.0 signpify.com
@@ -2406,9 +2420,6 @@
 0.0.0.0 www.thehappywood.com
 0.0.0.0 thehardcorehabits.com
 0.0.0.0 www.thehardcorehabits.com
-0.0.0.0 themountainus.com
-0.0.0.0 www.themountainus.com
-0.0.0.0 store.themountainus.com
 0.0.0.0 theneurobalancetherapy.org
 0.0.0.0 www.theneurobalancetherapy.org
 0.0.0.0 thenorthfacegreece.com
@@ -2461,6 +2472,9 @@
 0.0.0.0 www.towerdepartment.com
 0.0.0.0 towerinstalltion5g.in
 0.0.0.0 www.towerinstalltion5g.in
+0.0.0.0 townaptdesk.info
+0.0.0.0 www.townaptdesk.info
+0.0.0.0 store.townaptdesk.info
 0.0.0.0 toyrube.com
 0.0.0.0 www.toyrube.com
 0.0.0.0 store.toyrube.com
@@ -2480,9 +2494,6 @@
 0.0.0.0 travisa.com
 0.0.0.0 www.travisa.com
 0.0.0.0 store.travisa.com
-0.0.0.0 treasurefan.com
-0.0.0.0 www.treasurefan.com
-0.0.0.0 store.treasurefan.com
 0.0.0.0 trendsharks.com
 0.0.0.0 www.trendsharks.com
 0.0.0.0 treverschmelerkris18.myshopify.com
@@ -2496,8 +2507,10 @@
 0.0.0.0 trnzu.info
 0.0.0.0 tromselementbygg.no
 0.0.0.0 www.tromselementbygg.no
+0.0.0.0 tronilnk.com
 0.0.0.0 trump-drop.org
 0.0.0.0 www.trumpsupport.help
+0.0.0.0 trust.wallet-web3.ing
 0.0.0.0 tsla-stock.com
 0.0.0.0 www.tsla-stock.com
 0.0.0.0 turtleclient.xyz
@@ -2948,27 +2961,6 @@
 0.0.0.0 wintexfashions.com
 0.0.0.0 www.wintexfashions.com
 0.0.0.0 wisdomganga.com
-0.0.0.0 www.wisdomganga.com
-0.0.0.0 withyotta.com
-0.0.0.0 www.withyotta.com
-0.0.0.0 woadoodles.com
-0.0.0.0 www.woadoodles.com
-0.0.0.0 worthas.shop
-0.0.0.0 wpad.casa
-0.0.0.0 www.wpad.casa
-0.0.0.0 wpad.ru
-0.0.0.0 www.wpad.ru
-0.0.0.0 store.wpad.ru
-0.0.0.0 wpad.top
-0.0.0.0 wpad.xyz
-0.0.0.0 wpclick.cc
-0.0.0.0 wuqrie.info
-0.0.0.0 ww25.utilify.me
-0.0.0.0 www.ww25.utilify.me
-0.0.0.0 store.ww25.utilify.me
-0.0.0.0 www.base-vod.pl
-0.0.0.0 wyzia-orderdeposits.com
-om
 0.0.0.0 www.wisdomganga.com
 0.0.0.0 withyotta.com
 0.0.0.0 www.withyotta.com
