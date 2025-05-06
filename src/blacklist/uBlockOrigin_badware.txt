@@ -6108,7 +6108,13 @@ uploadfox.net###ad-gs-05
 ! https://github.com/uBlockOrigin/uAssets/issues/26814
 ||pubgrlxvote.top^$all
 
-! https://github.com/uBlockOri//github.com/uBlockOrigin/uAssets/issues/26853
+! https://github.com/uBlockOri.$all,to=cc|vip|~getgrass.io
+||inmotionhosting.com/~myapp/grass_air/$doc,to=~getgrass.io
+
+! https://github.com/uBlockOrigin/uAssets/issues/26814
+||pubgrlxvote.top^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/26853
 ||teleqpnm.cn^$all,to=~telegram.org
 
 ! https://www.malwarebytes.com/blog/news/2025/01/the-great-google-ads-heist-criminals-ransack-advertiser-accounts-via-fake-google-ads
@@ -6231,7 +6237,7 @@ uploadfox.net###ad-gs-05
 !#endif
 
 ! https://www.reddit.com/r/Scams/comments/1iyqpsn/new_digital_fearscam_unlocked_zoom_phishing/
-||zoom.us*web.us^$doc,to=~zoom.com
+||zoom.us*web.us^$doc
 
 ! https://www.reddit.com/r/phishing/comments/1j2yegj/finally_got_one/
 ||e-zpass.com-$doc
@@ -6291,7 +6297,7 @@ uploadfox.net###ad-gs-05
 /^https?:\/\/[-a-z]{4,}\.org[-.][-a-z0-9]{2,}\.[a-z]{2,5}\//$doc,to=cc|cfd|cyou|live|top|vip|win|world|xin
 
 ! https://urlscan.io/search/#hash%3Ac3ddb433947ffba704fab581e16dd5a0d246c9861d169aca184266f7dc2cdff4
-/^https:\/\/[a-z]{8}\.[a-z]{2,8}\/[!+=][\/0-9a-z]{20,30}\.[-a-z]{2,7}$/$doc,to=art|asia|auction|bar|cam|click|coupons|digital|diy|food|forum|gay|guru|life|live|living|my|property|pw|rocks|run|sbs|shop|store|tattoo|tech|today|uno|work,match-case
+/^https:\/\/[a-z]{8}\.[a-z]{2,8}\/[!+=][\/0-9a-z]{20,30}\.[-a-z]{2,7}$/$doc,to=art|asia|auction|bar|cam|click|coupons|digital|diy|food|forum|gay|guru|life|live|living|my|property|pw|rocks|run|sbs|shop|store|tattoo|tech|today|top|uno|work,match-case
 /door/?ad_campaign_id=$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/28101
@@ -6308,18 +6314,15 @@ uploadfox.net###ad-gs-05
 ||coiincmi.com^$all
 ||trusltwcllet.com^$all
 ||accbing.com^$all
+
 ! https://github.com/uBlockOrigin/uAssets/issues/28128
 ||dexsceerner.net^$all
-||app.dexscreener-home.net^$all
 ||dexscreener-home.net^$all
 ||traolerjoe.org^$all
-||traderjoexyz.bylfg.org^$all
 ||bylfg.org^$all
 ||v2-o-p-e-n-s-e-a.com^$all
 ||susni-swap.com^$all
-||sushi.swap-ether.site^$all
 ||swap-ether.site^$all
-||open-sea.market-ntf.com^$all
 ||market-ntf.com^$all
 ||hyperilquid.org^$all
 ||hyperilquid.xyz-trade.com^$all
@@ -6328,16 +6331,72 @@ uploadfox.net###ad-gs-05
 ||tacngcm.com^$all
 ||raydiumx.org^$all
 ||ray-swap.net^$all
-||raydium.io-sol.org^$all
 ||io-sol.org^$all
 ||w-atomicwallet.com^$all
 ||atomiciwallet.com^$all
 ||base-bridqe.com^$all
-||base.bridge-home.net^$all
 ||bridge-home.net^$all
 ||v3-dappradar.com^$all
-||app.darppadar.com^$all
 ||darppadar.com^$all
+||mdexswap.live^$all
+||thebalan-er.com^$all
+||dodoexchange.live^$all
+||v4-biswap.com^$all
+||kyberwsap.net^$all
+||kyberswap-v2.xyz^$all
+||v2-biswap.pro^$all
+||org-earn.net^$all
+||soildly.xyz^$all
+||soildly.pro^$all
+||spooky-swap.pro^$all
+||io-swap.net^$all
+||thorswap-v2.xyz^$all
+||thor-swap.xyz^$all
+||v2-mdex.xyz^$all
+||rndex.xyz^$all
+||v2-velodrorne.com^$all
+||finance-superchain.net^$all
+||helplive-ledger.com^$all
+||ledger.limited^$all
+||kodiak-finance.org^$all
+||camelot-swap.com^$all
+||exc-v3.com^$all
+||camelot-ex.net^$all
+||zeddexexchange.live^$all
+||rabbltx.xyz^$all
+||rabbitx.pro^$all
+||alpaca-flnance.com^$all
+||alpacaflnance.com^$all
+||theuni-swap.com^$all
+||us-ledger.io^$all
+||en-bitcoin.org^$all
+||bitccincore.com^$all
+||radar-home.com^$all
+||io-sol.vip^$all
+||swap-ether.net^$all
+||exc-v3.org^$all
+||io-v6.bet^$all
+||spookyswap-v3.com^$all
+||tcangcm.com^$all
+||biswap.org-earn.com^$all
+||desablums.com^$all
+||org-earn.com^$all
+||finance-superchain.org^$all
+||app-uni-infos.com^$all
+||0maill.com^$all
+||trusltwcllct.com^$all
+||elcctrum.cc^$all
+||coiincmi.com^$all
+||ray-sol.net^$all
+||bitccincore.com^$all
+||en-bitcoin.org^$all
+||en-trezor.io^$all
+||alicante-news.com^$all
+||trezor.fit^$all
+||xrp-electrum.net^$all
+||electrummonero.com^$all
+||electrum-xmr.net^$all
+||electrum-bch.net^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/28138
 ||play-lust.com^$all
