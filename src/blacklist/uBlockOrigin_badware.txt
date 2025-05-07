@@ -6108,7 +6108,34 @@ uploadfox.net###ad-gs-05
 ! https://github.com/uBlockOrigin/uAssets/issues/26814
 ||pubgrlxvote.top^$all
 
-! https://github.com/uBlockOri.$all,to=cc|vip|~getgrass.io
+! https://github.com/uBlockOris://www.virustotal.com/gui/url/be76de7311f2989fd8bc3795e76047c8f83cbb9dc990180e985af4824269a3db
+||likeyoumakehappy.xyz^$all,to=~alza.sk
+
+! https://github.com/uBlockOrigin/uAssets/issues/26672
+||gtrewe.co.in^$all
+! https://github.com/uBlockOrigin/uAssets/issues/26708
+||fiheos.co.in^$all
+! https://github.com/uBlockOrigin/uAssets/issues/26817
+||butsmism.co.in^$all
+!/^https?:\/\/[a-z0-9]{6,20}\.[a-z]{6,20}\.co\.in\//$all,to=co.in
+! https://github.com/uBlockOrigin/uAssets/issues/26919
+||glousism.co.in^$all
+! https://www.reddit.com/r/antivirus/comments/1imiwam/should_i_be_worried/
+||tryrichleads.top^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/26722
+||maxsecurityultimate.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/26760
+||hotdebrid.com^$doc
+||maxdebrid.com^$doc
+||anydebrid.com^$doc
+
+! https://www.reddit.com/r/Scams/comments/1hx4mxz/semrush_task_scam_httpswwwsemrushmallcom/
+||semrushmall.com^$all,to=~semrush.com
+
+! https://www.reddit.com/r/antivirus/comments/1hzae66/what_is_the_best_thing_to_do_after_clicking_a/
+||grass-io.$all,to=cc|vip|~getgrass.io
 ||inmotionhosting.com/~myapp/grass_air/$doc,to=~getgrass.io
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26814
@@ -6213,13 +6240,13 @@ uploadfox.net###ad-gs-05
 /^https:\/\/help-\d{8}\.[a-z0-9]{6}-\d{2}\.click\//$doc,to=click|~facebook.com
 
 ! https://www.reddit.com/r/Scams/comments/1itaq6g/not_sure_if_this_text_from_the_irs_is_a_scam_or/
-||irs.gov.*.com^$doc,to=com|~irs.gov
+||irs.gov.*.com^$doc
 
 ! https://www.reddit.com/r/Scams/comments/1it0wrf/parking_fine_scam_spoofing_as_the_uk_government/
-||govuk.*.top^$doc,to=top|~gov.uk
+||govuk.*.top^$doc
 
 ! https://www.reddit.com/r/phishing/comments/1irz2ck/bro_really/
-||e-navy*.weebly.com^$doc,to=~navyfederal.org
+||e-navy*.weebly.com^$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/27298
 ||informationpolicy.cloud^$all
@@ -6297,7 +6324,7 @@ uploadfox.net###ad-gs-05
 /^https?:\/\/[-a-z]{4,}\.org[-.][-a-z0-9]{2,}\.[a-z]{2,5}\//$doc,to=cc|cfd|cyou|live|top|vip|win|world|xin
 
 ! https://urlscan.io/search/#hash%3Ac3ddb433947ffba704fab581e16dd5a0d246c9861d169aca184266f7dc2cdff4
-/^https:\/\/[a-z]{8}\.[a-z]{2,8}\/[!+=][\/0-9a-z]{20,30}\.[-a-z]{2,7}$/$doc,to=art|asia|auction|bar|cam|click|coupons|digital|diy|food|forum|gay|guru|life|live|living|my|property|pw|rocks|run|sbs|shop|store|tattoo|tech|today|top|uno|work,match-case
+/^https:\/\/[a-z]{8}\.[a-z]{2,8}\/[!.+=@][\/0-9a-z]{20,30}\.[-a-z]{2,7}$/$doc,to=art|asia|auction|bar|cam|click|coupons|digital|diy|food|forum|gay|guru|life|live|living|my|property|pw|rocks|run|sbs|shop|store|tattoo|tech|today|top|uno|work,match-case
 /door/?ad_campaign_id=$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/28101
