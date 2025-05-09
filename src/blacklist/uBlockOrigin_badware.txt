@@ -6108,7 +6108,7 @@ uploadfox.net###ad-gs-05
 ! https://github.com/uBlockOrigin/uAssets/issues/26814
 ||pubgrlxvote.top^$all
 
-! https://github.com/uBlockOris://www.virustotal.com/gui/url/be76de7311f2989fd8bc3795e76047c8f83cbb9dc990180e985af4824269a3db
+! https://github.com/uBlockOritotal.com/gui/url/be76de7311f2989fd8bc3795e76047c8f83cbb9dc990180e985af4824269a3db
 ||likeyoumakehappy.xyz^$all,to=~alza.sk
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26672
@@ -6324,7 +6324,7 @@ uploadfox.net###ad-gs-05
 /^https?:\/\/[-a-z]{4,}\.org[-.][-a-z0-9]{2,}\.[a-z]{2,5}\//$doc,to=cc|cfd|cyou|live|top|vip|win|world|xin
 
 ! https://urlscan.io/search/#hash%3Ac3ddb433947ffba704fab581e16dd5a0d246c9861d169aca184266f7dc2cdff4
-/^https:\/\/[a-z]{8}\.[a-z]{2,8}\/[!.+=@][\/0-9a-z]{20,30}\.[-a-z]{2,7}$/$doc,to=art|asia|auction|bar|cam|click|coupons|digital|diy|food|forum|gay|guru|life|live|living|my|property|pw|rocks|run|sbs|shop|store|tattoo|tech|today|top|uno|work,match-case
+/^https:\/\/[a-z]{8}\.[a-z]{2,8}\/[!.+=@][\/0-9a-z]{20,30}\.[-a-z]{2,7}$/$doc,to=art|asia|auction|bar|cam|click|cloud|coupons|digital|diy|food|forum|gay|guru|life|live|living|link|my|property|pw|rocks|run|sbs|shop|store|tattoo|tech|today|top|uno|work,match-case
 /door/?ad_campaign_id=$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/28101
@@ -6430,3 +6430,6 @@ uploadfox.net###ad-gs-05
 
 ! https://app.any.run/tasks/5972a8c5-5b87-4579-9cc5-8bc268abd6c0
 ://booking.*.com/sign-in?op_token=$doc
+
+! https://urlscan.io/search/#hash%3A45e39853c41558c4922ff1b0895547a99e378f136ec3d9d2f4df15cc269485fa
+||pages.dev/robots.txt$doc
