@@ -6108,7 +6108,12 @@ uploadfox.net###ad-gs-05
 ! https://github.com/uBlockOrigin/uAssets/issues/26814
 ||pubgrlxvote.top^$all
 
-! https://github.com/uBlockOritotal.com/gui/url/be76de7311f2989fd8bc3795e76047c8f83cbb9dc990180e985af4824269a3db
+! https://github.com/uBlockOritps://github.com/uBlockOrigin/uAssets/issues/26660
+?id=*&p1=*&p2=*&p3=*&p4=$doc
+||partners-tds.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/26655
+! https://www.virustotal.com/gui/url/be76de7311f2989fd8bc3795e76047c8f83cbb9dc990180e985af4824269a3db
 ||likeyoumakehappy.xyz^$all,to=~alza.sk
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26672
@@ -6190,10 +6195,10 @@ uploadfox.net###ad-gs-05
 ||duckdns.org/FAMOUS/Gens/$doc
 
 ! https://www.reddit.com/r/Scams/comments/1iif4o4/received_a_text_via_e_mail_from_irs/
-||irs.gov.*.com^$doc,to=com|~irs.gov
+||irs.gov.*.com^$doc
 
 ! https://www.reddit.com/r/Scams/comments/1iju9t8/can_someone_help_clarify_that_this_is_fake/
-||evri.*.xyz^$doc,to=xyz|~evri.com
+||evri.*.xyz^$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/27109
 ! https://github.com/uBlockOrigin/uAssets/issues/27172
@@ -6202,33 +6207,33 @@ uploadfox.net###ad-gs-05
 ||snapdrop.net^$all
 
 ! https://cyble.com/blog/deepseeks-growing-influence-surge-frauds-phishing-attacks/
-||deepseek-aiassistant.com^$all,to=~deepseek.com
-||usadeepseek.com^$all,to=~deepseek.com
+||deepseek-aiassistant.com^$all
+||usadeepseek.com^$all
 ! https://x.com/AlvieriD/status/1883450009523282280
 ! https://www.virustotal.com/gui/url/5059b05b49a57abb1e55efe9e811edae20d620d4fcbdbdfe595c31c16be78aa0
 ||gg.deepseek.$doc,to=~deepseek.com
 ||deepseek.$all,to=deepseek.app|deepseek.top|~deepseek.com
 ! https://x.com/AlvieriD/status/1887092079114817962
-||deepseeklogin.com^$all,to=~deepseek.com
-||deepseeklogins.com^$all,to=~deepseek.com
-||deepseekapk.download^$all,to=~deepseek.com
-||deepseekapp.download^$all,to=~deepseek.com
+||deepseeklogin.com^$all
+||deepseeklogins.com^$all
+||deepseekapk.download^$all
+||deepseekapp.download^$all
 
 ! https://www.reddit.com/r/phishing/comments/1iln9ux/is_this_a_new_scam/
 ! https://www.virustotal.com/gui/url/dd2c16c95013aa1a20b35b50301b1116d582be01d346dc048a894b480fbbee59
-||paytoll*.top/ezdrivema^$all,to=~mass.gov
+||paytoll*.top/ezdrivema^$all
 
 ! https://blog.sucuri.net/2025/02/google-tag-manager-skimmer-steals-credit-card-info-from-magento-site.html
 ! https://www.virustotal.com/gui/url/d75d7ece986f58c9b63c56e5a753158c2fa9dc927e9cc6a2ca5f2c1cfa2bde3a
 ||eurowebmonitortool.com^$all
 
 ! https://www.reddit.com/r/Scams/comments/1in9l8t/be_careful_posting_your_resume_on_job_boards/
-||sunpass.com-$doc,to=~sunpass.com
+||sunpass.com-$doc
 
 ! https://www.reddit.com/r/Scams/comments/1iuso58/need_help_identifying_a_text/
-||hhcollect.co^$all,to=~harriscollect.com
-||pay-hh.com^$all,to=~harriscollect.com
-||harriscollect.net^$all,to=~harriscollect.com
+||hhcollect.co^$all
+||pay-hh.com^$all
+||harriscollect.net^$all
 
 ! https://www.reddit.com/r/Scams/comments/1itgp4n/unpaid_toll_booth_scam/
 ! https://www.reddit.com/r/Scams/comments/1ivvd8u/httpsminnesotaezpasscom_and/
@@ -6433,3 +6438,6 @@ uploadfox.net###ad-gs-05
 
 ! https://urlscan.io/search/#hash%3A45e39853c41558c4922ff1b0895547a99e378f136ec3d9d2f4df15cc269485fa
 ||pages.dev/robots.txt$doc
+
+! https://www.reddit.com/r/Scams/comments/1jhij6t/us_i_got_into_some_car_trouble_and_got_this_text/
+||secure.payment*.xin^$all
