@@ -10,6 +10,7 @@
 [ OK ]       917 src/blacklist/AssoEchap_hosts.txt
 [ OK ]   115,770 src/blacklist/Cats-Team_dns.txt
 [ OK ]    31,040 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
+[ OK ]       670 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
 [ OK ]   128,158 src/blacklist/KADhosts.txt
 [ OK ]         6 src/blacklist/LanikSJ_popads-domains.txt
@@ -120,7 +121,7 @@
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
 [ OK ]    11,706 src/blacklist/cyberhost_uk_malware.txt
 [ OK ]       304 src/blacklist/dnstunneling_t.txt
-[ OK ]     3,093 src/blacklist/durablenapkin_hosts.txt
+[ OK ]     3,097 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,471 src/blacklist/easylist_adservers_popup.txt
 [ OK ]     2,046 src/blacklist/ethanr_Mandiant_APT1_Report_Appendix_D.txt
 [ OK ]        51 src/blacklist/fakenews_t.txt
@@ -147,7 +148,7 @@
 [ OK ]        89 src/blacklist/malwarhunterteam_t.txt
 [ OK ]     2,306 src/blacklist/matomo_org_spammers.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    44,410 src/blacklist/oisd_small.txt
+[ OK ]    44,398 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   304,812 src/blacklist/phishing_army_blocklist_extended.txt
 [ OK ]         7 src/blacklist/popup_t.txt
@@ -160,23 +161,23 @@
 [ OK ]   525,018 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    59,169 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,983 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       589 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       586 src/blacklist/urhaus_abuse_hostfile.txt
 
-Total Blacklist     : 3,066,746
-Filter Duplicates   : 2,171,570
-External Whitelist  : 2,035,512
-Filter Whitelist    : 2,035,459
-Import Blacklist    : 2,035,907
-Compressed          : 1,680,387
+Total Blacklist     : 3,067,405
+Filter Duplicates   : 2,171,809
+External Whitelist  : 2,035,737
+Filter Whitelist    : 2,035,684
+Import Blacklist    : 2,036,132
+Compressed          : 1,680,600
 
    LENGTH     COUNT
-        2   916,702
-        3   539,690
-        4   168,226
-        5    29,792
-        6     4,302
-        7    11,000
-        8    10,043
+        2   916,847
+        3   539,751
+        4   168,231
+        5    29,791
+        6     4,303
+        7    11,001
+        8    10,044
         9       132
        10        77
        11        68
@@ -199,7 +200,7 @@ Compressed          : 1,680,387
        29         1
        30         1
 
-Total Blocklist     : 1,680,387
+Total Blocklist     : 1,680,600
 
 ~~~
 
