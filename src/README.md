@@ -124,7 +124,7 @@
 [ OK ]     3,057 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,471 src/blacklist/easylist_adservers_popup.txt
 [ OK ]     2,046 src/blacklist/ethanr_Mandiant_APT1_Report_Appendix_D.txt
-[ OK ]        51 src/blacklist/fakenews_t.txt
+[ OK ]        53 src/blacklist/fakenews_t.txt
 [ OK ]   105,557 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]    16,284 src/blacklist/firebog_Prigent-Crypto.txt
 [ OK ]   434,154 src/blacklist/firebog_net_RPiList-Malware.txt
@@ -161,17 +161,17 @@
 [ OK ]   525,298 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    59,241 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,984 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       530 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       529 src/blacklist/urhaus_abuse_hostfile.txt
 
-Total Blacklist     : 3,069,848
-Filter Duplicates   : 2,166,986
-External Whitelist  : 2,030,915
-Filter Whitelist    : 2,030,861
-Import Blacklist    : 2,031,314
-Compressed          : 1,677,567
+Total Blacklist     : 3,069,849
+Filter Duplicates   : 2,166,988
+External Whitelist  : 2,030,917
+Filter Whitelist    : 2,030,863
+Import Blacklist    : 2,031,316
+Compressed          : 1,677,569
 
    LENGTH     COUNT
-        2   916,532
+        2   916,534
         3   537,319
         4   167,988
         5    29,764
@@ -200,7 +200,7 @@ Compressed          : 1,677,567
        29         1
        30         1
 
-Total Blocklist     : 1,677,567
+Total Blocklist     : 1,677,569
 
 ~~~
 
