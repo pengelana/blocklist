@@ -108020,6 +108020,45 @@ analytics-*.aasaam.com
 @@||leechers-paradise.org^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1406
 ! Blocked by CNAME iocnt.net
+@@||data-*.herz-fuer-tier! Blocked by CNAME exponea.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1604
+@@||media-consumer365.desigual.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/164769
+@@||cdn.us*.exponea.com^|
+@@||crm-cdn.peek-cloppenburg.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/992
+@@||public-cis.exponea.com^|
+! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
+@@||cdn.rozetka.com.ua^|
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/194309 honto link
+@@||vcentry2.valuecommerce.ne.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1569
+@@||recommender.scarabresearch.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/167622
+! Blocked by CNAME extole.com
+@@||refer.discover.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/167320
+@@||cmp.inmobi.com^|
+! Blocked by CNAME data.adobedc.net
+@@||data.digital.costco.ca^|
+@@||data.digital.costco.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/163141
+@@||api.karte.io^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1464
+@@||sponsor.nitropay.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/157550
+@@||click.cptrack.de^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1412
+! line25.com - not able to accept cookies to use the page
+@@|ezodn.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1411
+@@||gate.first-id.fr^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1401
+! Blocked by CNAME bodis.com
+@@||leechers-paradise.org^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1406
+! Blocked by CNAME iocnt.net
 @@||data-*.herz-fuer-tiere.de^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150715
 @@||go.adjust.com^|
