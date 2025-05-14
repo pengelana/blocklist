@@ -108020,7 +108020,46 @@ analytics-*.aasaam.com
 @@||leechers-paradise.org^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1406
 ! Blocked by CNAME iocnt.net
-@@||data-*.herz-fuer-tier! Blocked by CNAME exponea.com
+@@||data-*.herz-fuer-tier6679cc586e5ad2/SpywareFilter/sections/tracking_servers.txt#L4110
+@@||acs-m.daraz.com.bd^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1768
+@@||f-gear.ec-optimizer.com^|
+!
+! Blocked by CNAME unbouncepages.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1826
+@@||get.neofinancial.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1765
+@@||hidive.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1817
+@@||learn.khanacademy.org^|
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/187801
+@@||res.ads.nicovideo.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1720
+! Blocked by CNAME data.adobedc.net
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1717
+@@||sax.sina.com.cn^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1709
+! Blocked by CNAME postaffiliatepro.com
+@@||linka.page^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1702
+@@||track.webgains.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1681
+! Blocked by CNAME fp27ee.wac.systemcdn.net
+@@||secureimage.securedataimages.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1668
+! Blocked by CNAME nr-data.net
+@@||infra-api.newrelic.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1631
+! Blocked by CNAME nc0.co
+@@||tms.capitalone.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1613
+@@||redir.ownpage.fr^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1583
+! Blocked by CNAME go2jump.org
+@@||tr.rdrtr.com^|
+!
+! Blocked by CNAME exponea.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1604
 @@||media-consumer365.desigual.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164769
