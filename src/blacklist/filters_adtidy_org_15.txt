@@ -108020,7 +108020,21 @@ analytics-*.aasaam.com
 @@||leechers-paradise.org^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1406
 ! Blocked by CNAME iocnt.net
-@@||data-*.herz-fuer-tier6679cc586e5ad2/SpywareFilter/sections/tracking_servers.txt#L4110
+@@||data-*.herz-fuer-tierissues/1822
+@@|www.daraz.pk^|
+@@|daraz.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1820
+@@||sbs.demdex.net^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/194309
+@@||cl.link-ag.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1784
+@@||action.metaffiliation.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1773
+! Blocked by CNAME s1search.co
+@@||www.dogpile.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1771
+! Related to disguised tracker
+! https://github.com/AdguardTeam/AdguardFilters/blob/d77b4202c04486f0dc0488dbd56679cc586e5ad2/SpywareFilter/sections/tracking_servers.txt#L4110
 @@||acs-m.daraz.com.bd^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1768
 @@||f-gear.ec-optimizer.com^|
