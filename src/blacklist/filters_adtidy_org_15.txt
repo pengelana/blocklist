@@ -108020,7 +108020,96 @@ analytics-*.aasaam.com
 @@||leechers-paradise.org^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1406
 ! Blocked by CNAME iocnt.net
-@@||data-*.herz-fuer-tier/github.com/AdguardTeam/AdGuardSDNSFilter/issues/1822
+@@||data-*.herz-fuer-tierer.celebrity-gossip.net^
+||stattrack.0catch.com^
+||stbt.coupons.com^
+||stcollection.moneysupermarket.com^
+||t.blinkist.com^
+||t.delfi.
+||t.vimeo.com^
+||tracer.perezhilton.com^
+||track.codepen.io^
+||track.collegehumor.com^
+||track.ft.com^
+||track.gawker.com^
+||track.workablemetro.com^
+||track.zalando.
+||track.zomato.com^
+||tracker.cpapath.com^
+||tracker.lolalytics.com^
+||tracker.redditmedia.com^
+||tracker.revip.info^
+||tracker.washtimes.com^
+||tracking.carprices.com^
+||tracking.goodgamestudios.com^
+||tracking.koego.com^
+||tracking.moneyam.com^
+||tracking.olx.
+||tracking.pornhd.com^
+||tracking.realtor.com^
+||tracking.shoptogether.buy.com^
+||tracking.ustream.tv^
+||trackpm.shop2market.com^
+!
+! Ads
+!
+||adocean.cz^
+||doubleclick.net^
+||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
+||vahufapave.com^
+||cewegncr.com^
+||dwabissw.com^
+||weline.info^
+||vukhhjzd.com^
+||lyuswpdanr.com^
+||42eed1a0d9c129.com^
+||ad.doganburda.com^
+||ads.linksrequest.com^
+||ads.yenimedya.com.tr^
+||ads.bluelithium.com^
+||s*.adduplex.com^
+||hgbnr.com^
+||hgbn1.com^
+||banner-media.ru^
+||ad.adriver.ru^
+||content.adriver.ru^
+||ad.3dnews.ru^
+||rutrk.org^
+||sportbets.su^
+||ad.onliner.by^
+||letysheeps.ru^
+||a4.overclockers.ua^
+||novunu.football-plyus.net^
+!
+! Special block section, requires explanation for the rule
+!
+!
+! Source name: Exception rules
+! Source: Filters/exceptions.txt
+!
+! Popular anti-adblock bait
+@@|www3.doubleclick.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1879
+! Blocked by the rule, required for blocking Ingenious Technologies analytics
+@@||acs-m.daraz.pk^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1876
+! Blocked by CNAME saymedia.com
+@@||taiga.maven.io^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/200033
+! Blocked by CNAME oasjs.kataweb.it
+@@||tlh.gedidigital.it^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1854
+! Blocked by CNAME tracking.socketlabs.com
+@@||smtp.focusgroupresearch.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/199304
+@@||ap01.records.in.treasuredata.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1840
+! Blocked by EasyList's `||23.109.82.`
+@@||click.avs.io^|
+! Link redirector - https://www.mydealz.de/visit/threadimg/2512771
+@@||link.sylikes.com^|
+@@||rd.bizrate.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1822
 @@|www.daraz.pk^|
 @@|daraz.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1820
