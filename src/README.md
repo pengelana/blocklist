@@ -240,7 +240,7 @@
 [NOK ]         0 src/blacklist/python_byob.txt
 [ OK ]       165 src/blacklist/quidsup_notrack-malware.txt
 [NOK ]         0 src/blacklist/redguard.txt
-[ OK ]       803 src/blacklist/redirect_t.txt
+[ OK ]       808 src/blacklist/redirect_t.txt
 [NOK ]         0 src/blacklist/redwarden.txt
 [ OK ]         8 src/blacklist/robloxcore.txt
 [ OK ]        26 src/blacklist/rogue_dns.txt
@@ -262,7 +262,7 @@
 [ OK ]         3 src/blacklist/swat_c2.txt
 [ OK ]        23 src/blacklist/telekopye_scamtool.txt
 [ OK ]     3,014 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       542 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       541 src/blacklist/urhaus_abuse_hostfile.txt
 [NOK ]         0 src/blacklist/villian_c2.txt
 [NOK ]         0 src/blacklist/viper.txt
 [ OK ]     1,822 src/blacklist/woof.txt
@@ -271,15 +271,15 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,263,913
-Filter Duplicates   : 2,228,044
-External Whitelist  : 2,091,969
-Filter Whitelist    : 2,091,914
-Import Blacklist    : 2,092,364
-Compressed          : 1,732,724
+Total Blacklist     : 3,263,917
+Filter Duplicates   : 2,228,049
+External Whitelist  : 2,091,974
+Filter Whitelist    : 2,091,919
+Import Blacklist    : 2,092,369
+Compressed          : 1,732,729
 
    LENGTH     COUNT
-        2   968,292
+        2   968,297
         3   539,496
         4   168,665
         5    29,955
@@ -308,7 +308,7 @@ Compressed          : 1,732,724
        29         1
        30         1
 
-Total Blocklist     : 1,732,724
+Total Blocklist     : 1,732,729
 
 ~~~
 
