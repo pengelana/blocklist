@@ -109751,6 +109751,35 @@ analytics-*.aasaam.com
 @@||data.digital.costco.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/163141
 @@||api.karte.io^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilcom/AdguardTeam/AdGuardSDNSFilter/issues/1583
+! Blocked by CNAME go2jump.org
+@@||tr.rdrtr.com^|
+!
+! Blocked by CNAME exponea.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1604
+@@||media-consumer365.desigual.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/164769
+@@||cdn.us*.exponea.com^|
+@@||crm-cdn.peek-cloppenburg.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/992
+@@||public-cis.exponea.com^|
+! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
+@@||cdn.rozetka.com.ua^|
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/194309 honto link
+@@||vcentry2.valuecommerce.ne.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1569
+@@||recommender.scarabresearch.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/167622
+! Blocked by CNAME extole.com
+@@||refer.discover.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/167320
+@@||cmp.inmobi.com^|
+! Blocked by CNAME data.adobedc.net
+@@||data.digital.costco.ca^|
+@@||data.digital.costco.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/163141
+@@||api.karte.io^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1464
 @@||sponsor.nitropay.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157550

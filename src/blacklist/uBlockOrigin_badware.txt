@@ -6116,6 +6116,10 @@ uploadfox.net###ad-gs-05
 ||r-tiktok.com^$all,to=~tiktok.com
 
 ! https://www.reddit.com/r/Scams/comments/1hhzsjx/is_salomonoutletstoresusacom_is_legit/
+||salomonoutletstoresusok/website_asking_for_camera_access/
+||r-tiktok.com^$all,to=~tiktok.com
+
+! https://www.reddit.com/r/Scams/comments/1hhzsjx/is_salomonoutletstoresusacom_is_legit/
 ||salomonoutletstoresusa.com^$all,to=~salomon.com
 
 ! fake dating
@@ -6203,14 +6207,14 @@ uploadfox.net###ad-gs-05
 
 ! https://www.reddit.com/r/Scams/comments/1i9q6d9/interact_transfer_website_scam/
 ! https://www.virustotal.com/gui/url/945ff04832d56ce17157c30a33e1c7f2fc7eea8577a519d7d5837f1864dd6563
-||e-interac-*.com^$all,to=~interac.ca
+||e-interac-*.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/196657
 ||press-continue.*.top^$all
 ||com/$doc,ipaddress=/^(172\.240\.(108\.(68|76|84)|127\.234|253\.132)|185\.246\.188\.125|192\.243\.(59\.(1[23]|20)|61.22[57]))$/
 
 ! https://www.reddit.com/r/Scams/comments/1iht58s/i_bought_from_httpsxhvoqishop/
-||xhvoqi.shop^$all,to=~costco.com
+||xhvoqi.shop^$all
 
 ! https://x.com/Unit42_Intel/status/1883948928602644785
 ||duckdns.org/security-check/$doc
@@ -6470,3 +6474,6 @@ uploadfox.net###ad-gs-05
 
 ! https://urlscan.io/result/0196c759-fc83-741d-9af3-70ffd2d7b443/
 ||drdosurvey.info^$all
+
+! https://x.com/Sh1n0g1/status/1923598004390592625
+||windows-line.com^$doc
