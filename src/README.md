@@ -179,11 +179,8 @@
 [ OK ]        53 src/blacklist/fakenews_t.txt
 [NOK ]         0 src/blacklist/filebroser.txt
 [ OK ]   107,105 src/blacklist/filters_adtidy_org_15.txt
-[ OK ]    16,284 src/blacklist/firebog_Prigent-Crypto.1.txt
 [ OK ]    16,284 src/blacklist/firebog_Prigent-Crypto.txt
-[ OK ]   435,381 src/blacklist/firebog_net_RPiList-Malware.1.txt
 [ OK ]   435,381 src/blacklist/firebog_net_RPiList-Malware.txt
-[ OK ]       355 src/blacklist/firebog_net_w3kbl.1.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
 [ OK ]         8 src/blacklist/generic_tds.txt
@@ -225,7 +222,6 @@
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]        15 src/blacklist/nighthawk.txt
 [ OK ]        10 src/blacklist/nimplant.txt
-[ OK ]     5,276 src/blacklist/oisd_small.1.txt
 [ OK ]    42,998 src/blacklist/oisd_small.txt
 [ OK ]        14 src/blacklist/openxcore.txt
 [ OK ]        48 src/blacklist/parrot_tds.txt
@@ -259,7 +255,6 @@
 [NOK ]         0 src/blacklist/spiderlabs_responder.txt
 [ OK ]    18,112 src/blacklist/stamparm_blackbook.txt
 [ OK ]   529,065 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]    59,472 src/blacklist/stopforumspam_com_toxic_domains_whole.1.txt
 [ OK ]    59,472 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]        84 src/blacklist/supershell_c2.txt
 [ OK ]         1 src/blacklist/supremebot.txt
@@ -276,7 +271,7 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,808,581
+Total Blacklist     : 3,291,813
 Filter Duplicates   : 2,234,851
 External Whitelist  : 2,098,767
 Filter Whitelist    : 2,098,711
@@ -285,8 +280,8 @@ Compressed          : 1,743,215
 
    LENGTH     COUNT
         2   974,104
-        3   542,478
-        4   170,137
+        3   542,477
+        4   170,138
         5    30,119
         6     4,690
         7    11,010
