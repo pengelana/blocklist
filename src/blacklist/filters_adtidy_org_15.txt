@@ -109097,7 +109097,25 @@ analytics-*.aasaam.com
 ! Fixing crazyegg.com login page
 @@|core.crazyegg.com^|
 @@|app.crazyegg.com^|
-! https://gaven.io^|
+! https://gd.onliner.by^
+||letysheeps.ru^
+||a4.overclockers.ua^
+||novunu.football-plyus.net^
+!
+! Special block section, requires explanation for the rule
+!
+!
+! Source name: Exception rules
+! Source: Filters/exceptions.txt
+!
+! Popular anti-adblock bait
+@@|www3.doubleclick.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1879
+! Blocked by the rule, required for blocking Ingenious Technologies analytics
+@@||acs-m.daraz.pk^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1876
+! Blocked by CNAME saymedia.com
+@@||taiga.maven.io^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/200033
 ! Blocked by CNAME oasjs.kataweb.it
 @@||tlh.gedidigital.it^|
