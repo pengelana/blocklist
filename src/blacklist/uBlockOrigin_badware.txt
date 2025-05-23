@@ -6051,7 +6051,10 @@ uploadfox.net###ad-gs-05
 
 ! https://github.com/AdguardTeam/CoreLibs/issues/1966 Can be removed if it's fixed
 !#if ext_ubol
-/^https:\/\/[a-z]{3,5}\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9a-z]{10}ruh_all_i_was_doing_was_looking_stuff_bc_im/
+/^https:\/\/[a-z]{3,5}\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9a-z]{10}ul/please_add_httpsonlyfansuk_to_the_filter_list/
+||only-fans.uk^$all
+
+! https://www.reddit.com/r/antivirus/comments/1iy3ndw/bruh_all_i_was_doing_was_looking_stuff_bc_im/
 ||apple-protect.com^$all
 
 ! https://github.com/AdguardTeam/CoreLibs/issues/1966 Can be removed if it's fixed
@@ -6222,4 +6225,7 @@ uploadfox.net###ad-gs-05
 ||x_x-more--followers-com.translate.goog^$all
 ||x_x-twitob-com.translate.goog^$all
 ||x_x-twitterfollowers-site.translate.goog^$all
-://x_x-*-*.translate.goog/?_x_tr_sl=auto&_x_tr_tl=$doc
+://x_x-*-*.translate.goog/?_x_tr_$doc
+
+! https://kagifeedback.org/d/6902-unofficial-mullvad-website-showing-in-results
+||mullvaad.net^$all
