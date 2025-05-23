@@ -879,7 +879,11 @@ heroeswm.ru
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1731
 ||adjust.com^
 ||app.adjust.net.in^
-! https://github.com/AdguardTeam/AdguardFilters/ire broken with DNS filtering
+! https://github.com/AdguardTeam/AdguardFilters/i469
+eroterest.net
+! See customer ID: 1693928
+||wipe.de
+! some sites are broken with DNS filtering
 piguiqproxy.com
 amgload.net
 ! https://github.com/AdguardTeam/AdguardDNS/issues/196
