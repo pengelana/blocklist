@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 09 Apr 2025 22:36 UTC+7
-# Version: 2504092236
-# Blocked: 1.760 domains
+# Last modified: 22 May 2025 13:57 UTC+7
+# Version: 2505221357
+# Blocked: 1.765 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1328,6 +1328,7 @@
 0.0.0.0 log-thanhnien.epicdn.me
 0.0.0.0 log-thuonggiaonline.epicdn.me
 0.0.0.0 log-tinnhanhchungkhoan.epicdn.me
+0.0.0.0 logv2-kienthuc.epicdn.me
 #[thanhnien.vn]
 0.0.0.0 ads.thanhnien.vn
 0.0.0.0 ai.thanhnien.vn
@@ -1566,6 +1567,7 @@
 0.0.0.0 crocopop.com
 0.0.0.0 csmads.gameclick.vn
 0.0.0.0 delivery.doisongphapluat.com.vn
+0.0.0.0 delivery.lsvn.vn
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 delivery.upremium.asia
 0.0.0.0 demopage.me
@@ -1749,6 +1751,7 @@
 0.0.0.0 log-dttc.sggp.org.vn
 0.0.0.0 log-en.nhandan.vn
 0.0.0.0 log-en.sggp.org.vn
+0.0.0.0 log-tamnhin.kienthuc.net.vn
 0.0.0.0 log-video.baotintuc.vn
 0.0.0.0 log.1vn.app
 0.0.0.0 log.247post.vn
@@ -1815,6 +1818,7 @@
 0.0.0.0 logs.thethaovanhoa.vn
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 logscafef.channelvn.net
+0.0.0.0 logv2.kienthuc.net.vn
 0.0.0.0 logv3.metric.vn
 0.0.0.0 ma.tgdd.vn
 0.0.0.0 matomo.bantheme.xyz
@@ -1909,6 +1913,7 @@
 0.0.0.0 tracking.fff.com.vn
 0.0.0.0 tracking.gapone.vn
 0.0.0.0 tracking.hapiwork.vn
+0.0.0.0 tracking.lsvn.vn
 0.0.0.0 tracking.meta.vn
 0.0.0.0 tracking.phunuadong.vn
 0.0.0.0 tracking.saostar.vn
@@ -1916,12 +1921,6 @@
 0.0.0.0 tracking.tinxe.vn
 0.0.0.0 tracking.tuyenquang.gov.vn
 0.0.0.0 tracking.tvet-vietnam.org
-0.0.0.0 tracking.vegaid.vn
-0.0.0.0 tracking.vietbao.vn
-0.0.0.0 tracking.viez.vn
-0.0.0.0 trackingapi.foody.vn
-0.0.0.0 trackity.tiki.vn
-0.0.0.0 trafrg
 0.0.0.0 tracking.vegaid.vn
 0.0.0.0 tracking.vietbao.vn
 0.0.0.0 tracking.viez.vn

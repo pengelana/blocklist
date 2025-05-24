@@ -668,8 +668,6 @@ thepiratebay3.com^$all
 ||b2base252.top^$all
 ||smartgethub.com^$all
 /?utm_source=*&j1=1^$doc
-://qgxeqm.*/?$doc
-://vnwxkk.*/?$doc
 /video_app/new/adult/*/index.html?$doc
 /trk?s1=*&type=2&brid=$doc
 ||pin673.cyou^$all
@@ -680,6 +678,8 @@ thepiratebay3.com^$all
 ||meetandlovenow.com^$all
 ||meetfindlove.com^$all
 ||partnerlovestory.com^$all
+||connectifylink.com^$all
+/click.php?key=*&zoneid=$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24602
 ! https://www.virustotal.com/gui/url/ce2b833adda2f862d77398203bbe33ea331097ba2a803d1a763492d2ac0d5a60
@@ -1002,6 +1002,15 @@ origincrack.com##center > button
 ||decisionsem.live^$all
 ||deliberatelyot.space^$all
 ||nitpickingtachpodiatries.com^$all
+||ozycode.cfd^$all
+||best-experience-cool.com^$all
+||mdowny11.cfd^$all
+||readyf1.click^$all
+||gotmylink.xyz^$all
+||clickmydown.xyz^$all
+||filefindme.xyz^$all
+||host3.live^$all
+||host9.link^$all
 .click/?s=*&g=*&q=files.zip$doc
 .click/*?s=*&g=*&q=$script,3p
 .click/?h=*&user=$script,3p
@@ -1010,11 +1019,14 @@ origincrack.com##center > button
 .xyz/*?s=*&g=*&q=$script,3p
 .xyz/?h=*&user=45$script,3p
 .xyz/*/?partner=*&pg=$script,3p
+.cfd/*?s=*&g=*&q=$script,3p
 .cfd/?h=*&user=$script,3p
 .cfd/?aD*HlwZT1jJnRtcD01JmFkY29kZT0x$script,3p
 .one/?h=*&user=$script,3p
 .online/?h=*&user=$script,3p
 .pro/?h=*&user=$script,3p
+.site/?h=*&user=$script,3p
+.store/?h=*&user=$script,3p
 %3C?php%20echo%20substr(md5(microtime()),0,rand(10,30));?%3E&$doc
 /?*&gkss=$doc,to=cfd|click|pro|world|xyz
 ^click_id=*&s1=$doc
@@ -5606,6 +5618,10 @@ adrissa.com.co,americansoda.co.uk,casteloforte.com.br,centerfabril.com.br,forque
 ||chromeupdates.com^$all
 ||fingerboarding.com^$all
 ||foodrailway.cfd^$all
+||macapp-apple.com^$all
+||macapps-apple.com^$all
+||odyssey1.to^$all
+||zofuk9jvv080425aq6.cfd^$all
 ||b-cdn.net/get-this-puzzle-solved.html^$doc
 ||b-cdn.net/Recap-v*.html^$doc
 ||b-cdn.net/verf-v*.html^$doc
@@ -5674,7 +5690,8 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://freesoftwarecreative.com/pages/?f4107d2
 ! https://d1myn4ixnn41tz.cloudfront.net/public/external/v2/htmlxf.4151823.2951e.0.js
 ! https://d390icj1ta4x0p.cloudfront.net/public/ct?cpguid=&pr=0&it=4151823&w=1920&h=1080&key=2951e&m=0&r=
-/cloudfront\.net\/(?=[a-z]{0,6}\d)[a-f0-9]{7}\.js$/$script,3p,match-case
+! https://github.com/uBlockOrigin/uAssets/issues/28422
+/\.cloudfront\.net\/(?=[a-z]{0,6}\d)[a-f0-9]{7}\.js$/$script,3p,match-case,to=~d3dvi1l4i1go4x.cloudfront.net
 ||freesoftwarecreative.com^$doc
 ||cloudtrks.com^$all
 ||macgsapptrck.com^$all
@@ -6041,17 +6058,6 @@ uploadfox.net###ad-gs-05
 ||e-navy*.weebly.com^$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/27298
-||informationpolicy.cloud^$all
-
-! https://www.reddit.com/r/uBlockOrigin/comments/1j1hdul/please_add_httpsonlyfansuk_to_the_filter_list/
-||only-fans.uk^$all
-
-! https://www.reddit.com/r/antivirus/comments/1iy3ndw/bruh_all_i_was_doing_was_looking_stuff_bc_im/
-||apple-protect.com^$all
-
-! https://github.com/AdguardTeam/CoreLibs/issues/1966 Can be removed if it's fixed
-!#if ext_ubol
-/^https:\/\/[a-z]{3,5}\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9a-z]{10}m/uBlockOrigin/uAssets/issues/27298
 ||informationpolicy.cloud^$all
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/1j1hdul/please_add_httpsonlyfansuk_to_the_filter_list/
