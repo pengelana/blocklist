@@ -109497,7 +109497,61 @@ analytics-*.aasaam.com
 ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
 @@||5471782.fls.doubleclick.net^|
 ! Fixing Walmart
-@@|^|
+@@| ||relevant-digital.com^
+@@||oneline.nextday.media^|
+! Reported via Telegram: https://t.me/AdGuard_chinese/13741
+@@|ftp.bmp.ovh^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/580
+@@||cloud.notification-naviextras.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/568
+@@||email.elitedangerous.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/551
+@@||links.e.theatlantic.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/71289
+@@||app.appsflyer.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/71434
+@@||email.procook.co.uk^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/498
+@@||omsc.kpn.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/514
+@@||logentries.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/517
+@@||email.*.skyeng.ru^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/65326
+@@||go.scorptec.com.au^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/468
+@@||links.getblueshift.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/453
+@@||click.trafficguard.ai^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/441
+@@||hb.afl.rakuten.co.jp^|
+@@||pt.afl.rakuten.co.jp^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/62583
+@@||proto2ad.durasite.net^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/62780
+@@||tags.crwdcntrl.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/428
+! CNAME: paymaya.customlinks.appsflyer.com
+@@||official.paymaya.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1499
+@@|statcounter.com^|
+@@||www.statcounter.com^|
+@@||gs.statcounter.com^|
+! Blocked by exacttarget.com alias
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/333
+@@||click.virt.s*.exacttarget.com^|
+@@||click.virt.exacttarget.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/685
+! Exacttarget Marketing Cloud
+@@||mc.*.exacttarget.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/61592
+@@||login.sendpulse.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/451
+@@||a.sellpoint.net^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/59840
+@@||tlaol.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/378
+@@||admin.dable.io^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/358
 @@||log.mmstat.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/345
