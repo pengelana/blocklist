@@ -109497,7 +109497,14 @@ analytics-*.aasaam.com
 ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
 @@||5471782.fls.doubleclick.net^|
 ! Fixing Walmart
-@@|om/AdguardTeam/AdGuardSDNSFilter/issues/743
+@@|liates.adsterra.com^|
+@@|beta.affiliates.adsterra.com^|
+@@|help-advertisers.adsterra.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/759
+! Blocked by CNAME impactradius.com
+@@||goto.target.com^|
+@@||goto.walmart.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/743
 @@||citiintl.122.2o7.net^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/805
 @@||ma135-r.analytics.edgekey.net^|
