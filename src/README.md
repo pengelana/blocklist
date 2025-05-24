@@ -148,7 +148,7 @@
 [ OK ]       308 src/blacklist/dnstunneling_t.txt
 [ OK ]        10 src/blacklist/domain_shadowing.txt
 [ OK ]     2,997 src/blacklist/durablenapkin_hosts.txt
-[ OK ]     3,485 src/blacklist/easylist_adservers_popup.txt
+[ OK ]     3,420 src/blacklist/easylist_adservers_popup.txt
 [ OK ]        64 src/blacklist/ek_angler.txt
 [ OK ]        13 src/blacklist/ek_bottle.txt
 [ OK ]         1 src/blacklist/ek_capesand.txt
@@ -223,7 +223,7 @@
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]        15 src/blacklist/nighthawk.txt
 [ OK ]        10 src/blacklist/nimplant.txt
-[ OK ]    42,540 src/blacklist/oisd_small.txt
+[ OK ]    42,605 src/blacklist/oisd_small.txt
 [ OK ]        14 src/blacklist/openxcore.txt
 [ OK ]        48 src/blacklist/parrot_tds.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
@@ -246,7 +246,7 @@
 [ OK ]         8 src/blacklist/robloxcore.txt
 [ OK ]        26 src/blacklist/rogue_dns.txt
 [ OK ]   130,958 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   130,701 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   130,703 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]     2,169 src/blacklist/savvyseahorse_tds.txt
 [ OK ]        15 src/blacklist/scareware.txt
 [ OK ]        92 src/blacklist/sliver.txt
@@ -264,7 +264,7 @@
 [ OK ]        23 src/blacklist/telekopye_scamtool.txt
 [ OK ]     2,818 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]     1,921 src/blacklist/upx_tds.txt
-[ OK ]       510 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       516 src/blacklist/urhaus_abuse_hostfile.txt
 [NOK ]         0 src/blacklist/villian_c2.txt
 [NOK ]         0 src/blacklist/viper.txt
 [ OK ]     1,822 src/blacklist/woof.txt
@@ -273,17 +273,17 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,308,354
-Filter Duplicates   : 2,252,430
-External Whitelist  : 2,116,338
-Filter Whitelist    : 2,116,283
-Import Blacklist    : 2,116,733
-Compressed          : 1,758,977
+Total Blacklist     : 3,308,362
+Filter Duplicates   : 2,252,457
+External Whitelist  : 2,116,365
+Filter Whitelist    : 2,116,309
+Import Blacklist    : 2,116,759
+Compressed          : 1,758,989
 
    LENGTH     COUNT
-        2   988,113
-        3   544,018
-        4   170,228
+        2   988,139
+        3   544,005
+        4   170,227
         5    30,235
         6     4,694
         7    11,012
@@ -310,7 +310,7 @@ Compressed          : 1,758,977
        29         1
        30         1
 
-Total Blocklist     : 1,758,977
+Total Blocklist     : 1,758,989
 
 ~~~
 
