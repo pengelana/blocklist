@@ -109040,7 +109040,59 @@ analytics-*.aasaam.com
 @@||netatmo.commander1.com^|
 ! https://github.com/easylist/easylist/pull/9904
 @@||vcentry3.valuecommerce.ne.jp^|
-! Fixing the issue with "Wi-Fi" connection mark when disguised tracker
+! Fixing the issue with "Wi-Fi" connection mark when 
+||ad.adriver.ru^
+||content.adriver.ru^
+||ad.3dnews.ru^
+||rutrk.org^
+||sportbets.su^
+||ad.onliner.by^
+||letysheeps.ru^
+||a4.overclockers.ua^
+||novunu.football-plyus.net^
+!
+! Special block section, requires explanation for the rule
+!
+!
+! Source name: Exception rules
+! Source: Filters/exceptions.txt
+!
+! Popular anti-adblock bait
+@@|www3.doubleclick.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1879
+! Blocked by the rule, required for blocking Ingenious Technologies analytics
+@@||acs-m.daraz.pk^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1876
+! Blocked by CNAME saymedia.com
+@@||taiga.maven.io^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/200033
+! Blocked by CNAME oasjs.kataweb.it
+@@||tlh.gedidigital.it^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1854
+! Blocked by CNAME tracking.socketlabs.com
+@@||smtp.focusgroupresearch.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/199304
+@@||ap01.records.in.treasuredata.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1840
+! Blocked by EasyList's `||23.109.82.`
+@@||click.avs.io^|
+! Link redirector - https://www.mydealz.de/visit/threadimg/2512771
+@@||link.sylikes.com^|
+@@||rd.bizrate.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1822
+@@|www.daraz.pk^|
+@@|daraz.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1820
+@@||sbs.demdex.net^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/194309
+@@||cl.link-ag.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1784
+@@||action.metaffiliation.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1773
+! Blocked by CNAME s1search.co
+@@||www.dogpile.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1771
+! Related to disguised tracker
 ! https://github.com/AdguardTeam/AdguardFilters/blob/d77b4202c04486f0dc0488dbd56679cc586e5ad2/SpywareFilter/sections/tracking_servers.txt#L4110
 @@||acs-m.daraz.com.bd^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1768
