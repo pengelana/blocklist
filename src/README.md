@@ -223,13 +223,13 @@
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]        15 src/blacklist/nighthawk.txt
 [ OK ]        10 src/blacklist/nimplant.txt
-[ OK ]    41,808 src/blacklist/oisd_small.txt
+[ OK ]    41,920 src/blacklist/oisd_small.txt
 [ OK ]        14 src/blacklist/openxcore.txt
 [ OK ]        48 src/blacklist/parrot_tds.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]         2 src/blacklist/perfaudcore.txt
 [ OK ]        37 src/blacklist/perswaysion.txt
-[ OK ]   315,275 src/blacklist/phishing_army_blocklist_extended.txt
+[ OK ]   318,389 src/blacklist/phishing_army_blocklist_extended.txt
 [NOK ]         0 src/blacklist/phonyc2.txt
 [NOK ]         0 src/blacklist/pinnaclecore.txt
 [ OK ]         7 src/blacklist/popup_t.txt
@@ -241,12 +241,12 @@
 [NOK ]         0 src/blacklist/python_byob.txt
 [ OK ]       165 src/blacklist/quidsup_notrack-malware.txt
 [NOK ]         0 src/blacklist/redguard.txt
-[ OK ]       821 src/blacklist/redirect_t.txt
+[ OK ]       823 src/blacklist/redirect_t.txt
 [NOK ]         0 src/blacklist/redwarden.txt
 [ OK ]         8 src/blacklist/robloxcore.txt
 [ OK ]        26 src/blacklist/rogue_dns.txt
 [ OK ]   130,959 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]   131,017 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   131,019 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]     2,169 src/blacklist/savvyseahorse_tds.txt
 [ OK ]        15 src/blacklist/scareware.txt
 [ OK ]        92 src/blacklist/sliver.txt
@@ -255,7 +255,7 @@
 [ OK ]    11,791 src/blacklist/someonewhocares_hosts.txt
 [NOK ]         0 src/blacklist/spiderlabs_responder.txt
 [ OK ]    18,112 src/blacklist/stamparm_blackbook.txt
-[ OK ]   535,242 src/blacklist/stamparm_maltrail-malware-domains.txt
+[ OK ]   535,307 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    59,662 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]        84 src/blacklist/supershell_c2.txt
 [ OK ]         1 src/blacklist/supremebot.txt
@@ -264,7 +264,7 @@
 [ OK ]        23 src/blacklist/telekopye_scamtool.txt
 [ OK ]     2,831 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]     1,921 src/blacklist/upx_tds.txt
-[ OK ]       498 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       497 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,301 src/blacklist/validin-phish-feed-1.txt
 [ OK ]    64,625 src/blacklist/validin-phish-feed-2.txt
 [ OK ]     1,710 src/blacklist/validin-phish-feed-crissmonovmcom.txt
@@ -287,20 +287,20 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 4,145,605
-Filter Duplicates   : 3,059,257
-External Whitelist  : 2,922,929
-Filter Whitelist    : 2,922,871
-Import Blacklist    : 2,923,321
-Compressed          : 2,508,147
+Total Blacklist     : 4,148,899
+Filter Duplicates   : 3,058,794
+External Whitelist  : 2,922,466
+Filter Whitelist    : 2,922,408
+Import Blacklist    : 2,922,858
+Compressed          : 2,507,938
 
    LENGTH     COUNT
-        2 1,628,174
-        3   650,686
-        4   172,035
+        2 1,629,035
+        3   649,654
+        4   171,999
         5    30,834
-        6     4,760
-        7    11,007
+        6     4,759
+        7    11,006
         8    10,029
         9       120
        10        80
@@ -324,7 +324,7 @@ Compressed          : 2,508,147
        29         1
        30         1
 
-Total Blocklist     : 2,508,147
+Total Blocklist     : 2,507,938
 
 ~~~
 
@@ -381,6 +381,16 @@ https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combine
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_mail_trackers_justdomains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
+https://lists.cyberhost.uk/malware.txt
+https://urlhaus.abuse.ch/downloads/hostfile/
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+https://v.firebog.net/hosts/RPiList-Malware.txt
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+https://v.firebog.net/hosts/Prigent-Crypto.txt
+https://github.com/scafroglia93/blocklists.git
+https://github.com/stamparm/maltrail.git
+https://github.com/MikhailKasimov/validin-phish-feed.git
 ~~~
 
 # Whitelist
