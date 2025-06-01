@@ -109846,7 +109846,15 @@ analytics-*.aasaam.com
 ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
 @@||5471782.fls.doubleclick.net^|
 ! Fixing Walmart
-@@||omniture.walmart.com^|dvertising.com (www.engadget.com, www.huffpost.com)
+@@||omniture.walmart.com^|/github.com/AdguardTeam/AdGuardSDNSFilter/issues/190
+@@||awin1.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/185
+@@||app.adjust.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/183
+@@||feed.adrelayer.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/168
+@@||redirect.appmetrica.yandex.com^|
+! Fixing redirects through guce.advertising.com (www.engadget.com, www.huffpost.com)
 @@||guce.advertising.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27196
 @@||a.adwolf.ru^|
