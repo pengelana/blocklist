@@ -1,3 +1,5 @@
+## Encrypted DNS
+
 | No | Name                               | Type  | Config                                                            |
 | -- | ---------------------------------- | ----- | ----------------------------------------------------------------- |
 | 1  | doh-bye.ad-signed.mobileconfig     | DoH   | [download](https://tiar.app/c/doh-bye.ad-signed.mobileconfig)     |
@@ -17,3 +19,9 @@
 | 15 | doh.tiar.app-signed.mobileconfig   | DoH   | [download](https://tiar.app/c/doh.tiar.app-signed.mobileconfig)   |
 | 16 | doh.tiarap.org-signed.mobileconfig | DoH   | [download](https://tiar.app/c/doh.tiarap.org-signed.mobileconfig) |
 | 17 | dot.tiar.app-signed.mobileconfig   | DoT   | [download](https://tiar.app/c/dot.tiar.app-signed.mobileconfig)   |
+
+## Plain DNS
+
+| No | Name                               | Type      | Config                                                        |
+| -- | ---------------------------------- | --------- | ------------------------------------------------------------- |
+| 1  | tiarap_dns-signed.mobileconfig     | Plain DNS | [download](https://tiar.app/c/tiarap_dns-signed.mobileconfig) |
