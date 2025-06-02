@@ -109846,7 +109846,31 @@ analytics-*.aasaam.com
 ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
 @@||5471782.fls.doubleclick.net^|
 ! Fixing Walmart
-@@||omniture.walmart.com^|ad.l.doubleclick.net^|
+@@||omniture.walmart.com^|et Marketing Cloud
+@@||mc.*.exacttarget.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/61592
+@@||login.sendpulse.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/451
+@@||a.sellpoint.net^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/59840
+@@||tlaol.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/378
+@@||admin.dable.io^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/358
+@@||log.mmstat.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/345
+! Blocked by alimama.com alias
+@@||click.simba.taobao.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/340
+@@||cs.silverpop.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/312
+@@||grp07.ias.rakuten.co.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/304
+@@||cindyholbrook.lpages.co^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/289
+! Fixing Google Shop and Google Ads in search results.
+! These ads cannot be hidden on the DNS-level, so we should not break clicks on the adverts
+@@||pagead.l.doubleclick.net^|
 @@||www.googleadservices.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/287
 @@||my.tealiumiq.com^|
