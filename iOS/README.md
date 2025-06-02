@@ -1,3 +1,5 @@
+# iOS/iPadOS/tvOS/MacOS
+
 ## Encrypted DNS
 
 | No | Name                               | Type  | Config                                                            |
