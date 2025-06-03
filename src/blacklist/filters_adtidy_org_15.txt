@@ -109846,7 +109846,27 @@ analytics-*.aasaam.com
 ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
 @@||5471782.fls.doubleclick.net^|
 ! Fixing Walmart
-@@||omniture.walmart.com^||anwb.webpower.eu^|
+@@||omniture.walmart.com^|ers/issues/136509
+! Blocked by CNAME c.msn.com
+@@||c.office.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1131
+@@||surveymyopinion.researchnow.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1114
+! Blocked by CNAME track.customer.io
+@@||e.customeriomail.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1115
+! Blocked by CNAME tapfiliate.com
+@@||partner.everydays.de^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/134172
+@@||api.docodoco.jp^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/133715
+@@||js.monitor.azure.com^|
+! https://old.reddit.com/r/Adguard/comments/wkcvpx/redirect_link_not_working_when_adguard_pro_ios_is/
+@@||link.morningbrew.com^|
+! https://forum.adguard.com/index.php?threads/incorrect-extension-blocking.49177/#post-223130
+@@||click.appcast.io^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/977
+@@||anwb.webpower.eu^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/959
 @@||bcicl.*.evergage.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/114908
