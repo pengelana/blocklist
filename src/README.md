@@ -146,7 +146,7 @@
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
 [ OK ]    13,990 src/blacklist/cyberhost_uk_malware.txt
 [ OK ]         8 src/blacklist/deimos_c2.txt
-[ OK ]       309 src/blacklist/dnstunneling_t.txt
+[ OK ]       310 src/blacklist/dnstunneling_t.txt
 [ OK ]        10 src/blacklist/domain_shadowing.txt
 [ OK ]     3,011 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,442 src/blacklist/easylist_adservers_popup.txt
@@ -188,8 +188,8 @@
 [ OK ]         8 src/blacklist/generic_tds.txt
 [ OK ]     1,087 src/blacklist/gophish.txt
 [ OK ]    14,506 src/blacklist/hagezi_fake.txt
-[ OK ]   277,886 src/blacklist/hagezi_multi.txt
-[ OK ]    95,460 src/blacklist/hagezi_popup.txt
+[ OK ]   278,008 src/blacklist/hagezi_multi.txt
+[ OK ]    98,365 src/blacklist/hagezi_popup.txt
 [ OK ]       826 src/blacklist/hak5cloud_c2.txt
 [ OK ]       618 src/blacklist/havoc.txt
 [ OK ]       312 src/blacklist/hoshsadiq_nocoin_hosts.txt
@@ -224,7 +224,7 @@
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]        15 src/blacklist/nighthawk.txt
 [ OK ]        10 src/blacklist/nimplant.txt
-[ OK ]    42,161 src/blacklist/oisd_small.txt
+[ OK ]    42,159 src/blacklist/oisd_small.txt
 [ OK ]        14 src/blacklist/openxcore.txt
 [ OK ]        48 src/blacklist/parrot_tds.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
@@ -247,7 +247,7 @@
 [ OK ]         8 src/blacklist/robloxcore.txt
 [ OK ]        26 src/blacklist/rogue_dns.txt
 [ OK ]   130,952 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]    81,514 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]    81,520 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]     2,169 src/blacklist/savvyseahorse_tds.txt
 [ OK ]        15 src/blacklist/scareware.txt
 [ OK ]        92 src/blacklist/sliver.txt
@@ -257,7 +257,7 @@
 [NOK ]         0 src/blacklist/spiderlabs_responder.txt
 [ OK ]    18,112 src/blacklist/stamparm_blackbook.txt
 [ OK ]   537,213 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]    59,931 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]    59,941 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]        84 src/blacklist/supershell_c2.txt
 [ OK ]         1 src/blacklist/supremebot.txt
 [ OK ]        56 src/blacklist/sutra_tds.txt
@@ -288,21 +288,21 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,995,714
-Filter Duplicates   : 2,908,957
-External Whitelist  : 2,808,271
-Filter Whitelist    : 2,808,212
-Import Blacklist    : 2,808,664
-Compressed          : 2,414,595
+Total Blacklist     : 3,998,756
+Filter Duplicates   : 2,909,785
+External Whitelist  : 2,809,099
+Filter Whitelist    : 2,809,040
+Import Blacklist    : 2,809,492
+Compressed          : 2,415,330
 
    LENGTH     COUNT
-        2 1,544,859
-        3   637,405
-        4   174,760
-        5    31,027
-        6     4,833
-        7    11,018
-        8    10,046
+        2 1,545,204
+        3   637,757
+        4   174,792
+        5    31,032
+        6     4,834
+        7    11,019
+        8    10,045
         9       132
        10        90
        11        68
@@ -325,7 +325,7 @@ Compressed          : 2,414,595
        29         1
        30         1
 
-Total Blocklist     : 2,414,595
+Total Blocklist     : 2,415,330
 
 ~~~
 
