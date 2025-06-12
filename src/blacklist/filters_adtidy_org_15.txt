@@ -110342,7 +110342,163 @@ analytics-*.aasaam.com
 ! Once you enable private DNS, Android 9 starts resolving random domains looking like
 ! `*-*-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 ! Here you can check how it's used by Android: https://cs.android.com/search?q=ds.metric.gstatic.com
-@@-ds.metric.gstatic.com^rdSDNSFilter/issues/992
+@@-ds.metric.gstatic.com^.com^
+||stats.uswitch.com^
+||stats.vc.gg^
+||stats.video.search.yahoo.com^
+||stats.wwitv.com^
+||statstracker.celebrity-gossip.net^
+||stattrack.0catch.com^
+||stbt.coupons.com^
+||stcollection.moneysupermarket.com^
+||t.blinkist.com^
+||t.delfi.
+||t.vimeo.com^
+||tracer.perezhilton.com^
+||track.codepen.io^
+||track.collegehumor.com^
+||track.ft.com^
+||track.gawker.com^
+||track.workablemetro.com^
+||track.zalando.
+||track.zomato.com^
+||tracker.cpapath.com^
+||tracker.lolalytics.com^
+||tracker.redditmedia.com^
+||tracker.revip.info^
+||tracker.washtimes.com^
+||tracking.batanga.com^
+||tracking.carprices.com^
+||tracking.goodgamestudios.com^
+||tracking.koego.com^
+||tracking.moneyam.com^
+||tracking.olx.
+||tracking.porndoelabs.com^
+||tracking.pornhd.com^
+||tracking.realtor.com^
+||tracking.shoptogether.buy.com^
+||tracking.ustream.tv^
+||trackpm.shop2market.com^
+!
+! Ads
+!
+||adocean.cz^
+||doubleclick.net^
+||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
+||vahufapave.com^
+||cewegncr.com^
+||dwabissw.com^
+||weline.info^
+||vukhhjzd.com^
+||lyuswpdanr.com^
+||42eed1a0d9c129.com^
+||ad.doganburda.com^
+||ads.linksrequest.com^
+||ads.yenimedya.com.tr^
+||ads.bluelithium.com^
+||s*.adduplex.com^
+||hgbnr.com^
+||hgbn1.com^
+||banner-media.ru^
+||ad.adriver.ru^
+||content.adriver.ru^
+||ad.3dnews.ru^
+||rutrk.org^
+||sportbets.su^
+||ad.onliner.by^
+||letysheeps.ru^
+||torvind.com^
+||a4.overclockers.ua^
+||novunu.football-plyus.net^
+!
+! Special block section, requires explanation for the rule
+!
+!
+! Source name: Exception rules
+! Source: Filters/exceptions.txt
+!
+! Popular anti-adblock bait
+@@|www3.doubleclick.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1879
+! Blocked by the rule, required for blocking Ingenious Technologies analytics
+@@||acs-m.daraz.pk^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1876
+! Blocked by CNAME saymedia.com
+@@||taiga.maven.io^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/200033
+! Blocked by CNAME oasjs.kataweb.it
+@@||tlh.gedidigital.it^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1854
+! Blocked by CNAME tracking.socketlabs.com
+@@||smtp.focusgroupresearch.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/199304
+@@||ap01.records.in.treasuredata.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1840
+! Blocked by EasyList's `||23.109.82.`
+@@||click.avs.io^|
+! Link redirector - https://www.mydealz.de/visit/threadimg/2512771
+@@||link.sylikes.com^|
+@@||rd.bizrate.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1822
+@@|www.daraz.pk^|
+@@|daraz.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1820
+@@||sbs.demdex.net^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/194309
+@@||cl.link-ag.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1784
+@@||action.metaffiliation.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1773
+! Blocked by CNAME s1search.co
+@@||www.dogpile.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1771
+! Related to disguised tracker
+! https://github.com/AdguardTeam/AdguardFilters/blob/d77b4202c04486f0dc0488dbd56679cc586e5ad2/SpywareFilter/sections/tracking_servers.txt#L4110
+@@||acs-m.daraz.com.bd^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1768
+@@||f-gear.ec-optimizer.com^|
+!
+! Blocked by CNAME unbouncepages.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1826
+@@||get.neofinancial.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1765
+@@||hidive.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1817
+@@||learn.khanacademy.org^|
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/187801
+@@||res.ads.nicovideo.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1720
+! Blocked by CNAME data.adobedc.net
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1717
+@@||sax.sina.com.cn^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1709
+! Blocked by CNAME postaffiliatepro.com
+@@||linka.page^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1702
+@@||track.webgains.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1681
+! Blocked by CNAME fp27ee.wac.systemcdn.net
+@@||secureimage.securedataimages.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1668
+! Blocked by CNAME nr-data.net
+@@||infra-api.newrelic.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1631
+! Blocked by CNAME nc0.co
+@@||tms.capitalone.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1613
+@@||redir.ownpage.fr^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1583
+! Blocked by CNAME go2jump.org
+@@||tr.rdrtr.com^|
+!
+! Blocked by CNAME exponea.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1604
+@@||media-consumer365.desigual.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/164769
+@@||cdn.us*.exponea.com^|
+@@||crm-cdn.peek-cloppenburg.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/992
 @@||public-cis.exponea.com^|
 ! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
 @@||cdn.rozetka.com.ua^|
