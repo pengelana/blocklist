@@ -6,7 +6,7 @@
 | -- | ---------------------------------- | ----- | ----------------------------------------------------------------- |
 | 1  | doh-bye.ad-signed.mobileconfig     | DoH   | [download](https://tiar.app/c/doh-bye.ad-signed.mobileconfig)     |
 | 2  | dot-bye.ad-signed.mobileconfig     | DoT   | [download](https://tiar.app/c/dot-bye.ad-signed.mobileconfig)     |
-| 3  | doh-goodbye.ad-signed.mobileconfig | DoH   | [download](https://tiar.app/c/doh-goodbye.ad-signed.mobileconfig) |
+<!--- | 3  | doh-goodbye.ad-signed.mobileconfig | DoH   | [download](https://tiar.app/c/doh-goodbye.ad-signed.mobileconfig) |
 | 4  | dot-goodbye.ad-signed.mobileconfig | DoT   | [download](https://tiar.app/c/dot-goodbye.ad-signed.mobileconfig) |
 | 5  | doh-kopas.us-signed.mobileconfig   | DoH   | [download](https://tiar.app/c/doh-kopas.us-signed.mobileconfig)   |
 | 6  | dot-kopas.us-signed.mobileconfig   | DoT   | [download](https://tiar.app/c/dot-kopas.us-signed.mobileconfig)   |
@@ -20,7 +20,7 @@
 | 14 | dot-unp.ad-signed.mobileconfig     | DoT   | [download](https://tiar.app/c/dot-unp.ad-signed.mobileconfig)     |
 | 15 | doh.tiar.app-signed.mobileconfig   | DoH   | [download](https://tiar.app/c/doh.tiar.app-signed.mobileconfig)   |
 | 16 | doh.tiarap.org-signed.mobileconfig | DoH   | [download](https://tiar.app/c/doh.tiarap.org-signed.mobileconfig) |
-| 17 | dot.tiar.app-signed.mobileconfig   | DoT   | [download](https://tiar.app/c/dot.tiar.app-signed.mobileconfig)   |
+| 17 | dot.tiar.app-signed.mobileconfig   | DoT   | [download](https://tiar.app/c/dot.tiar.app-signed.mobileconfig)   | --->
 
 ## Plain DNS
 
