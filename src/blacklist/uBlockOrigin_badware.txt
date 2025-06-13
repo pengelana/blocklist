@@ -731,9 +731,6 @@ thepiratebay3.com^$all
 ||one-click.cc^$all
 ||descarga.pw^$doc
 ||clc-link.me^$all
-||app.mediafire.com/v3txu5tkw7ln5$doc
-||app.mediafire.com/tmiueij4j8d6g$doc
-||app.mediafire.com/29ph7u17caayi$doc
 ||mediafire.com/folder/ofa1qju50ffaz/$doc
 ||mediafire.com/folder/hm0b7x2593fh1/$doc
 ||mediafire.com/folder/86rkvkl7eswi2/$doc
@@ -750,8 +747,11 @@ thepiratebay3.com^$all
 ||sites.google.com/view/projectxx1|$doc
 ||sites.google.com/view/ex1aucnh3r1/$doc
 ||sites.google.com/view/exlauncher69/$doc
+||sites.google.com/view/lyxnteam/$doc
 ||sites.google.com/view/drcheats6|$doc
 ||sites.google.com/view/extnllmm|$doc
+||sites.google.com/view/kernelweb|$doc
+||sites.google.com/view/robiccv|$doc
 ||gamefree.vip^$doc
 ||gocrazy.gg^$doc
 ||mi-hack.com^$doc
@@ -767,12 +767,13 @@ thepiratebay3.com^$all
 ||projecthygieia.com^$all
 ||pctopkey.com^$all
 ||zxcprogs.shop^$all
-||loaderaura.com^$all
-||auraloads.com^$all
-||shadowofff.neocities.org^$doc
 ||fusionhacks.cc^$doc
-||ethelium.club^$doc
 ||phantomcorestudios.net^$doc
+||lumennex.pro^$all
+||aimshare.pro^$all
+||lightsense.top^$all
+||downloadsuite.pro^$all
+||dropcheats.net^$doc
 ! https://cloud-pack.org/yE2Kn04/
 ||cloud-pack.org^$doc
 ||cloud-deployments.org^$doc
@@ -2680,6 +2681,8 @@ origincrack.com##center > button
 /^https:\/\/[a-z]{12,15}\.com\/\?p=[0-9a-f]{32}&u=[0-9a-f]{138}\b/$doc,match-case
 /?ph0nq=1-$doc
 /?ph0nq=+1-$doc
+||heattercer.com^$all
+||web.core.windows.net/?_event=$doc
 
 ! https://github.com/uBlockOrigin/uBlock-discussions/discussions/302#discussioncomment-10338866
 ||pages.dev/*/Fm7-alert.wav
@@ -4172,8 +4175,9 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||steam.workshop*.com^$doc
 ! https://github.com/uBlockOrigin/uBOL-home/issues/156
 ! https://github.com/uBlockOrigin/uAssets/issues/27941
-/^https:\/\/s[cfntz]y?[ace][aemnu][a-z]{1,4}or?[mn][a-z]{4,8}[iy][a-z]?\.com\//$doc,to=com|~steamcommunity.com
-/^https:\/\/s[cfntz]y?[ace][aemnu][a-z]{1,4}or?[mn][a-z]{4,8}[iy][a-z]?\.ru\//$doc,to=ru|~steamcommunity.com
+/^https:\/\/s[cfntz]y?[ace][acemnu][a-z]{1,4}or?[mn][a-z]{4,8}[iy][a-z]?\.com\//$doc,to=com|~steamcommunity.com
+/^https:\/\/s[cfntz]y?[ace][acemnu][a-z]{1,4}or?[mn][a-z]{4,8}[iy][a-z]?\.cc\//$doc,to=cc
+/^https:\/\/s[cfntz]y?[ace][acemnu][a-z]{1,4}or?[mn][a-z]{4,8}[iy][a-z]?\.ru\//$doc,to=ru
 /^https:\/\/steam\.(?:community)?workshop-?[a-z]+\.com\//$doc,to=com|~steamcommunity.com
 ! https://www.virustotal.com/gui/url/d16f07ca49e9334d080d427294630f22f10d8925de8ae73df2128e0bdbd434a9
 ||steam.communityart-work.com^$all
@@ -4768,7 +4772,7 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ! https://www.virustotal.com/gui/url/09b11b4c345be67d2e7659fa2f1d1c07a000bc3cebbbbed17e891865a355d07e
 /^https:\/\/pub-[a-f0-9]{32}\.r2\.dev/be[a0-9]\d{2,3}\.html\b/$doc,match-case,to=r2.dev
 ! https://www.virustotal.com/gui/url/f6313df525470be85c52d6b7ec608c212bd3ec8eda8307f210371b221f24612c
-||namecheapsupport-*.codeanyapp.com^$all,to=~namecheap.com
+||namecheapsupport-*.codeanyapp.com^$all
 ! https://www.virustotal.com/gui/url/533a27da14f888f81e8afad084a17a7e1b2dd574cd90b869b21c993283862927
 ! https://www.virustotal.com/gui/url/f3bf8c53016b9b45de66415c7d948cd79c8f2d83b270e7135b21056fc7479b5d
 ||mybluehost.me/vcd/$doc
@@ -4782,7 +4786,7 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ! https://www.virustotal.com/gui/url/034cc004f078ee24b7f4377283d50d128f547de4339a51c8e29a8f8e36272b13
 ||smrturl.co/o/*/53458494^$doc
 ! https://www.virustotal.com/gui/url/e67f0541ea51baa725f5d46407f919246af360cf78bc40e0c17cba5ffbc39764
-||agripro-fr-*.com^$doc,to=~agriaffaires.com
+||agripro-fr-*.com^$doc
 ! https://www.virustotal.com/gui/url/df55aa990ceb6b188ea2bc71d8c53d5543ef819ff6980441733c47aab107ba03
 ||notifyhubss.net^$doc
 ! https://www.virustotal.com/gui/url/1a661786267f134f0db0e0c38c8a943b761fdc3024dfd83292bd92f5b87790db
@@ -4819,6 +4823,10 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||shimura-china.com^$all
 ! https://www.virustotal.com/gui/url/18f3f3c6c0ec589769e254f5a5c42101c4b29c04e115ac61f0a57f97ccd51402
 ||qufu.com.cn^$all
+! https://www.virustotal.com/gui/url/7e93bd06882beb5983367612f676d7dddfa9b49211869d84a055205c432617bd
+||glitch.me/public/NFCUAccess00.HTML^$doc
+! https://www.virustotal.com/gui/url/ca90c7b4fca15bc355558a97d9677c44085f52b7f677d3e1c844d6bd2609ac5b
+||event-redeem.com^$all
 
 ! docusign.com
 ||signature-rho.vercel.app^$all
@@ -4911,107 +4919,107 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ! https://khonggianmang.vn/uploads/2024_CBT_27_5b8aa10967.pdf
 ||uudaikhachhang-$doc
 ||nang-hang-$doc
-||mojgov.weebly.com^$all,to=~moj.gov.vn
-||chinhphu.cc^$all,to=~chinhphu.vn
-||lapdatinternet.net^$all,to=~sctv.com.vn
+||mojgov.weebly.com^$all
+||chinhphu.cc^$all
+||lapdatinternet.net^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_29_32b001d150.pdf
-||hethongnhanvien.com^$all,to=~lazada.vn
-||baovietcom.vip^$all,to=~baovietbank.vn
+||hethongnhanvien.com^$all
+||baovietcom.vip^$all
 ||hethongvaynhanh247.com^$all
 ||bethivetranh2024.weebly.com^$all
 ! https://www.virustotal.com/gui/url/7f02e45eca07e7e20dc88acf94a0403f02c5096f1ad128fd111c50e19bb63d76
-||momoshopvip.com^$all,to=~momo.vn
+||momoshopvip.com^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_31_7548fefc87.pdf
-||baovietn.vip^$all,to=~baovietbank.vn
-||govn.cc^$all,to=~gov.vn
-||baoviet.vip^$all,to=~baovietbank.vn
-||baoviet*.vip^$doc,to=vip|~baovietbank.vn
+||baovietn.vip^$all
+||govn.cc^$all
+||baoviet.vip^$all
+||baoviet*.vip^$doc
 
 ! https://khonggianmang.vn/uploads/20240701_BCT_07_2024_bcab9d2e82.pdf
-||mmb-online.com^$all,to=~mbbank.com.vn
-||soppe86.life^$all,to=~shopee.vn
-||iazada.com^$all,to=~lazada.vn
+||mmb-online.com^$all
+||soppe86.life^$all
+||iazada.com^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_32_7b55a3e3fc.pdf
 ||hotrokhachhang-$doc
 ||cham-soc-the-$doc
-||baovietvay.top^$all,to=~baovietbank.vn
-||tikinew.club^$all,to=~tiki.vn
-||pddgov.cc^$all,to=~gov.vn
-||vssid.*.cc^$doc,to=~baohiemxahoi.gov.vn
-||kbthuhoivontreo.com^$all,to=~vst.mof.gov.vn
+||baovietvay.top^$all
+||tikinew.club^$all
+||pddgov.cc^$all
+||vssid.*.cc^$doc
+||kbthuhoivontreo.com^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_33_e01257ffdd.pdf
-||sendotv.shop^$all,to=~sendo.vn
-||vnsendotv.vip^$all,to=~sendo.vn
-||sdfsshop1.com^$all,to=~tiki.vn
-||tikivn84.com^$all,to=~tiki.vn
-||snggov.com^$all,to=~gov.vn
-||vn-eid.com^$all,to=~dichvucong.gov.vn
+||sendotv.shop^$all
+||vnsendotv.vip^$all
+||sdfsshop1.com^$all
+||tikivn84.com^$all
+||snggov.com^$all
+||vn-eid.com^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_34_cf5513cd5e.pdf
-||558-558-559.com^$all,to=~shopee.vn
-||nzx65821s.com^$all,to=~shopee.vn
+||558-558-559.com^$all
+||nzx65821s.com^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_35_86bfef4e1e.pdf
-||hethongnoibo.bio.link^$all,to=~lazada.vn
-||sendovn.shop^$all,to=~sendo.vn
-||vnpttechnology.weebly.com^$all,to=~vnpt.com.vn
-||baovietvc.top^$all,to=~baovietbank.vn
-||baoviet*.top^$doc,to=~baovietbank.vn
-||nhanvienghtk.com^$all,to=~giaohangtietkiem.vn
-||giaohangtietkiem247.*^$all,to=giaohangtietkiem247.*|~giaohangtietkiem.vn
+||hethongnoibo.bio.link^$all
+||sendovn.shop^$all
+||vnpttechnology.weebly.com^$all
+||baovietvc.top^$all
+||baoviet*.top^$doc
+||nhanvienghtk.com^$all
+||giaohangtietkiem247.$all,to=giaohangtietkiem247.*|~giaohangtietkiem.vn
 
 ! https://khonggianmang.vn/uploads/2024_CBT_36_d1b5aaea0a.pdf
-||tienichshiinhan.com^$all,to=~shinhan.com.vn
+||tienichshiinhan.com^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_38_1dc220bba1.pdf
 ||ebayu.top^$all
-||svgov.cc^$all,to=~gov.vn
-||bcavnvnvngov.com^$all,to=~bocongan.gov.vn
-||hangtietkiem.online^$all,to=~giaohangtietkiem.vn
+||svgov.cc^$all
+||bcavnvnvngov.com^$all
+||hangtietkiem.online^$all
 
 ! https://khonggianmang.vn/uploads/20241004_BCT_09_2024_DN_PDF_7dbc4574fe.pdf
-||vamcvn.org^$all,to=~sbvamc.vn
+||vamcvn.org^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_41_2e21dc3d54.pdf
 ||uudauthekhachhanh-$doc
 ||chamsocthe-$doc
 ||amazoul.xyz^$all
 ||soyte.cc^$all
-||dichvudienmay-xanh.online^$all,to=~dienmayxanh.com
+||dichvudienmay-xanh.online^$all
 ||fasebook.com.vn^$all
-||giaohangtietkiemvn.website^$all,to=~giaohangtietkiem.vn
-||thuongmai-dientu.com^$all,to=~lazada.vn
-||tiki886.vip^$all,to=~sendo.vn
-||jetkingncsc.com^$all,to=~ncsc.gov.vn
-||vieegovn.cc^$all,to=~gov.vn
+||giaohangtietkiemvn.website^$all
+||thuongmai-dientu.com^$all
+||tiki886.vip^$all
+||jetkingncsc.com^$all
+||vieegovn.cc^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_42_d70d7fd1fb.pdf
-||thongtincancuoc.com^$all,to=~chinhphu.vn
-||vietcp.com^$all,to=~dichvucong.gov.vn
-||ccbcavn.cc^$all,to=~gov.vn
+||thongtincancuoc.com^$all
+||vietcp.com^$all
+||ccbcavn.cc^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_43_c3bec6c039.pdf
 /^https:\/\/amazon[a-z]\d\.com\//$doc,to=com
 ||amazoul.site^$all
 ||amazoni2.com^$all
-||dienlanhdienmayxanhvn.com^$all,to=~dienmayxanh.com
-||sendo1.com^$all,to=~sendo.vn
-||evnnpcs.com^$all,to=~evn.com.vn
+||dienlanhdienmayxanhvn.com^$all
+||sendo1.com^$all
+||evnnpcs.com^$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_44_c16e3ef30d.pdf
 ||cskhtructuyen-$doc
 ||shopamzselling.com^$all
 ||brvgov.com^$all
-||vnairlines.net^$all,to=~vietnamairlines.com
-||giaohangtietkiem-cskh.com^$all,to=~giaohangtietkiem.vn
-||lazada.ac^$all,to=~lazada.vn
-||tb88789.com^$all,to=~shopee.vn
-||tikione.vip^$all,to=~tiki.vn
-||tikifreeship.$all,to=~tiki.vn
+||vnairlines.net^$all
+||giaohangtietkiem-cskh.com^$all
+||lazada.ac^$all
+||tb88789.com^$all
+||tikione.vip^$all
+||tikifreeship.$all
 
 ! https://khonggianmang.vn/uploads/2024_CBT_45_94e8b27e5a.pdf
 ||tiktok-svip*.com^$all
@@ -5312,7 +5320,7 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||2d45b3cf2299d8ba038f45cb38aca4f2ecfbcb8d264ba28432ae5c51.com^$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24262
-||get-express-vpn.online^$all,to=~expressvpn.com
+||get-express-vpn.online^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24323
 ! https://www.virustotal.com/gui/url/f355d4d12f50be515284fc97096bad1f093194efe21fd7420c4446ae20def74a
@@ -5321,11 +5329,11 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ! https://www.urlvoid.com/scan/joannclearances.com/
 ! https://www.scamadviser.com/check-website/joannclearances.com
 ! https://www.scam-detector.com/validator/joannclearances-com-review/
-||joannclearances.com^$all,to=~joann.com
+||joannclearances.com^$all
 ! https://github.com/uBlockOrigin/uAssets/issues/25075
-||joannstoressales.shop^$all,to=~joann.com
+||joannstoressales.shop^$all
 ! https://github.com/uBlockOrigin/uAssets/issues/25077
-||joannmax.com^$doc,to=~joann.com
+||joannmax.com^$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24390
 ! https://github.com/hagezi/dns-blocklists/issues/3163#issuecomment-2229056638
@@ -5335,8 +5343,8 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||securifyguard.com^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24421
-||highwaycpmrevenue.social-previews.top^$all,to=~image.io
-||clicksocialimage.top^$all,to=~image.io
+||highwaycpmrevenue.social-previews.top^$all
+||clicksocialimage.top^$all
 
 ! https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/facebook-malvertising-epidemic-unraveling-a-persistent-threat-sys01/
 ! https://www.virustotal.com/gui/file/02b336b42d4d80ed17bf255536ecdf3d28db51bc81cc17926dee458e61f092e5
@@ -5362,9 +5370,9 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 /^https:\/\/[a-z]{6,19}\.(?:com|net)\/(?:static_)?file\/\?t=[_a-z0-9]+&ns=[a-z]{2}$/$doc,match-case,to=com|net
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24522
-||shy-boat-90ce.jiko728928922.workers.dev^$doc,to=~uniswap.org
-||uniwspapp.com^$all,to=~uniswap.org
-||app.corn-staging.com^$all,to=~uniswap.org
+||shy-boat-90ce.jiko728928922.workers.dev^$doc
+||uniwspapp.com^$all
+||app.corn-staging.com^$all
 
 ! https://community.bolster.ai/t/crowdstrike-look-alike-domains-list/217
 ||crowdstrikebluescreen.com^$doc
@@ -5389,8 +5397,8 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||dropbox.com/*/crowdstrike-hotfix.zip^$all
 
 ! https://www.fortinet.com/blog/threat-research/dark-web-shows-cybercriminals-ready-for-olympics
-||tickets.website.com.se^$all,to=~tickets.paris2024.org
-||ticketsparis24.com^$all,to=~tickets.paris2024.org
+||tickets.website.com.se^$all
+||ticketsparis24.com^$all
 
 ! https://www.gdatasoftware.com/blog/2024/06/37947-badspace-backdoor
 ! https://x.com/GroupIB_TI/status/1790230873285242992
@@ -5478,8 +5486,8 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 
 ! https://github.com/uBlockOrigin/uAssets/issues/25353
 ! https://www.urlvoid.com/scan/feather-wallet.org/
-||sparrowwallet.net^$doc,to=~sparrowwallet.com
-||electrum.is^$doc,to=~electrum.org
+||sparrowwallet.net^$doc
+||electrum.is^$doc
 
 ! https://unit42.paloaltonetworks.com/rare-phishing-page-delivery-header-refresh/
 ||tracker.club-os.com^
@@ -5498,11 +5506,11 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 /^https:\/\/(?:www\.)?[-a-z0-9]+\.xyz\.[-a-z0-9]+\.com\//$doc,to=com,ipaddress=148.251.54.196
 
 ! https://securelist.com/sambaspy-rat-targets-italian-users/113851/
-||belliniepecuniaimmobili.*^$doc,to=belliniepecuniaimmobili.*
-||immobilibelliniepecunia.*^$doc,to=immobilibelliniepecunia.*
-||bpecuniaimmobili.*^$doc,to=bpecuniaimmobili.*
-||belliniepecuniaimmobilisrl.*^$doc,to=belliniepecuniaimmobilisrl.*
-||immobiliarebelliniepecunia.*^$doc,to=immobiliarebelliniepecunia.*
+||belliniepecuniaimmobili.$doc,to=belliniepecuniaimmobili.*
+||immobilibelliniepecunia.$doc,to=immobilibelliniepecunia.*
+||bpecuniaimmobili.$doc,to=bpecuniaimmobili.*
+||belliniepecuniaimmobilisrl.$doc,to=belliniepecuniaimmobilisrl.*
+||immobiliarebelliniepecunia.$doc,to=immobiliarebelliniepecunia.*
 
 ! https://github.com/uBlockOrigin/uAssets/issues/25470
 ||the-north-face.gr^$all
@@ -5946,7 +5954,8 @@ uploadfox.net###ad-gs-05
 ||jaowomous.xyz^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26660
-?id=*&p1=*&p2=*&p3=*&p4=$doc
+! https://github.com/uBlockOrigin/uAssets/issues/28690
+!?id=*&p1=*&p2=*&p3=*&p4=$doc
 ||partners-tds.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26655
@@ -6111,7 +6120,7 @@ uploadfox.net###ad-gs-05
 ||fly.storage.tigris.dev/completing/default-page.html?X-Amz-Algorithm=$doc
 ||fly.storage.tigris.dev/pass-this-security-check.html?X-Amz-Algorithm=$doc
 
-! https://hybrid-analysis.com/sample/a86e82991e518f25534e59f857ea1le/a86e82991e518f25534e59f857ea156140b083365eadd1ee0d88517c2badf766
+! https://hybrid-analysis.com/sample/a86e82991e518f25534e59f857ea156140b083365eadd1ee0d88517c2badf766
 ! https://urlscan.io/result/0195d81c-3058-7ff5-b149-2cebebf1b331/
 /amvn_pops/?keyword=$doc
 

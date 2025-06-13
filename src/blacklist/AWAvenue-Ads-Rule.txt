@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 841
-!Version: 1.6.5-release
-!Update time: 2025-05-28 16:42:07 UTC+8
-!Update content: Purge jsdelivr CDN cache
+!Total lines: 845
+!Version: 1.6.6-release
+!Update time: 2025-06-12 17:20:33 UTC+8
+!Update content: remove Google Analytics, its reasonable.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -13,6 +13,7 @@
 ||1500022744.vodplayer.wxamedia.com^
 ||1500026601.vodplayer.wxamedia.com^
 ||8le8le.com^
+||8rn1y79f02-1.algolianet.com^
 ||a0.app.xiaomi.com^
 ||aaid.umeng.com^
 ||abtest-ch.snssdk.com^
@@ -21,6 +22,8 @@
 ||ad-scope.com.cn^
 ||ad-sdk-config.youdao.com^
 ||ad-sdk.huxiu.com^
+||ad-splash-tracking.hktvmall.com^
+||ad-splash.hktvmall.com^
 ||ad.12306.cn^
 ||ad.51wnl.com^
 ||ad.api.3g.youku.com^
@@ -169,7 +172,6 @@
 ||analysis.yozocloud.cn^
 ||analytics-api.samsunghealthcn.com^
 ||analytics.adjust.cn^
-||analytics.google.com^
 ||analytics.pinterest.com^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.query.yahoo.com^
@@ -443,6 +445,7 @@
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
 ||lh3.googleadsserving.cn^
 ||litchiads.com^
+||live-api.hktvmall.com^
 ||liveats-vod.video.ptqy.gitv.tv^
 ||livemonitor.huan.tv^
 ||livep.l.aiseet.atianqi.com^
@@ -630,6 +633,7 @@
 ||sdk-cache.video.ptqy.gitv.tv^
 ||sdk.1rtb.net^
 ||sdk.ad.smaato.net^
+||sdk.adx.adwangmai.com^
 ||sdk.beizi.biz^
 ||sdk.cferw.com^
 ||sdk.e.qq.com^
@@ -681,14 +685,6 @@
 ||success.ctobsnssdk.com^
 ||supply.inmobicdn.net^
 ||sv-video.play.aiseet.atianqi.com^
-||syh-imp.cdnjtzy.com^
-||szbdyd.com^
-||t-dsp.pinduoduo.com^
-||t.applovin.com^
-||t.l.qq.com^
-||t.teads.tv^
-||t.track.ad.xiaomi.com^
-||t002.ottcn..com^
 ||syh-imp.cdnjtzy.com^
 ||szbdyd.com^
 ||t-dsp.pinduoduo.com^
