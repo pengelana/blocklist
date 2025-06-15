@@ -769,9 +769,7 @@ thepiratebay3.com^$all
 ||zxcprogs.shop^$all
 ||fusionhacks.cc^$doc
 ||phantomcorestudios.net^$doc
-||lumennex.pro^$all
 ||aimshare.pro^$all
-||lightsense.top^$all
 ||downloadsuite.pro^$all
 ||dropcheats.net^$doc
 ! https://cloud-pack.org/yE2Kn04/
@@ -2859,7 +2857,7 @@ origincrack.com##center > button
 ||magiskroot.net^$all
 ||magisks.com^$all
 ||themagisk.com^$all
-||magiskzip.*^$all
+||magiskzip.*^$all,domain=~magiskzip.com
 ||magiskmodule.com^$all
 ! LibreTube - Official site: libretube.dev
 ! https://github.com/libre-tube/LibreTube/issues/4409
@@ -5981,6 +5979,7 @@ uploadfox.net###ad-gs-05
 ||hotdebrid.com^$doc
 ||maxdebrid.com^$doc
 ||anydebrid.com^$doc
+||okdebrid.com^$doc
 
 ! https://www.reddit.com/r/Scams/comments/1hx4mxz/semrush_task_scam_httpswwwsemrushmallcom/
 ||semrushmall.com^$all
@@ -6295,6 +6294,3 @@ weightlossdiet.top##+js(acs, open, executeCode)
 ! https://github.com/DandelionSprout/adfilt/discussions/779#discussioncomment-13435345
 ||figa.beauty^$all
 ||lonely.beauty^$all
-
-! https://github.com/uBlockOrigin/uAssets/issues/28788
-||adwareremoval.info^$all
