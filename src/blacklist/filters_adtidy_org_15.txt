@@ -111162,6 +111162,20 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdguardDNS/issues/192
 @@||redir.tradedoubler.com^|
 @@||clk*.tradedoubler.com^|
+|
+! https://github.com/AdguardTeam/AdguardFilters/issues/27196
+@@||a.adwolf.ru^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/26607
+! https://github.com/AdguardTeam/AdguardFilters/issues/23929
+@@||cm-beacon.nakanohito.jp^|
+@@||cm-widget.nakanohito.jp^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/19113
+@@||ads.tdbank.com^|
+! https://forum.adguard.com/index.php?threads/23410/page-7#post-165504
+@@||nineto5mac-d.openx.net^|
+! https://github.com/AdguardTeam/AdguardDNS/issues/192
+@@||redir.tradedoubler.com^|
+@@||clk*.tradedoubler.com^|
 ! https://forum.adguard.com/index.php?threads/27021/
 @@||href.li^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/6749
