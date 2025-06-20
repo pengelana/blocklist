@@ -1,6 +1,11 @@
 //
 // HTTPS exclusions, necessary to resolve specific issues
 //
+// https://github.com/AdguardTeam/HttpsExclusions/issues/659
+relays.syncthing.net
+discovery-announce-v4.syncthing.net
+discovery-announce-v6.syncthing.net
+discovery-lookup.syncthing.net
 // https://github.com/AdguardTeam/HttpsExclusions/issues/300
 idmsa.apple.com
 // https://github.com/AdguardTeam/HttpsExclusions/issues/449
@@ -87,7 +92,7 @@ dms.metlife.ru
 vnn-res.vgcloud.vn
 // AG-3013
 ping.*.adguard.io
-// https://github.com/AdguardTeam/HttpsExclusions/issues/291 
+// https://github.com/AdguardTeam/HttpsExclusions/issues/291
 nuernberg.de
 // https://github.com/AdguardTeam/AdguardFilters/issues/63641
 vseinstrumenti.ru
