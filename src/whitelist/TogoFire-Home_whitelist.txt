@@ -110,11 +110,22 @@
 @@||snossafamilia.com.br^$important
 @@||supernossafamilia.com^$important
 @@||mail.supernossafamilia.com^$important
-@@||hub.gowifi.com.br^$important
+@@||superamigos.net^$important
+@@||mail.superamigos.net^$important
 @@||node712.extrainfra.com^$important
+@@||mail.node712.extrainfra.com^$important
+@@||ns1n712.extrainfra.com^$important
+@@||ns2n712.extrainfra.com^$important
+@@||dilbert.ns.cloudflare.com^$important
+@@||dana.ns.cloudflare.com^$important
+@@||ns1.dnsowl.com^$important
+@@||ns2.dnsowl.com^$important
+@@||ns3.dnsowl.com^$important
+@@||irena.ns.cloudflare.com^$important
+@@||weston.ns.cloudflare.com^$important
+@@||hub.gowifi.com.br^$important
 @@||da-de1.cloudns.io^$important
 @@||getmailbird.com^$important
-@@||flathub.org^$important
 ! Yahoo Mail
 @@||smtp.mail.yahoo.com^$important
 ! Twitch Chat
@@ -142,6 +153,26 @@
 @@||widget-cdn.rpxnow.com^$important
 @@||akamai.net^$important
 @@||akadns.net^$important
+! Snapchat
+@@||story.snapchat.com^$important
+@@||accounts.snapchat.com^$important
+@@||static.snapchat.com^$important
+@@||app.snapchat.com^$important
+@@||cf-st.sc-cdn.net^$important
+! Snapchat Aws
+@@||aws.duplex.snapchat.com^$important
+@@||aws.api.snapchat.com^$important
+@@|aws-proxy-gcp.api.snapchat.com^$important
+@@||aws.api.sc-gw.com^$important
+@@||us-east1-aws.api.sc-gw.com^$important
+! Snapchat api
+@@||us-east4-gcp.api.snapchat.com^$important
+@@||aws.api.snapchat.com^$important
+@@||us-central1-gcp.api.snapchat.com^$important
+@@||aws-proxy-gcp.api.sc-gw.com^$important
+@@||us-east1-aws.duplex.sc-gw.com^$important
+@@||gcp.api.snapchat.com^$important
+@@||us-central1-gcp.api.sc-gw.com^$important
 ! Sonarr TV Soft
 @@||apt.sonarr.tv^$important
 @@||download.sonarr.tv^$important
@@ -280,10 +311,6 @@
 @@||onecollector.cloudapp.aria.akadns.net^$important
 @@||assets1.xboxlive.com^$important
 @@||xkms.xbolive.com^$important
-@@||notify.xboxlive.com^$important
-@@||help.ui.xboxlive.com^$important
-@@||licensing.xboxlive.com^$important
-@@||eds.xboxlive.com^$important
 @@||xboxlive.com^$important
 @@||v10.events.data.microsoft.com^$important
 @@||us-v10.events.data.microsoft.com^$important
@@ -302,6 +329,7 @@
 ! Samsung TV network issue
 @@||cdn.samsungcloudsolution.com^$important
 ! Spotify
+@@||spotify.com^$important
 @@||open.spotify.com^$important
 @@||mobile-ap.spotify.com^$important
 @@||apresolve.spotify.com^$important
@@ -344,17 +372,8 @@
 @@||connectivitycheck.android.com^$important
 @@||connectivitycheck.gstatic.com^$important
 @@||appspot-preview.l.google.com^$important
-@@||dev.virtualearth.net^$important
-@@||t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
-@@||t0.ssl.ak.tiles.virtualearth.net^$important
-@@||delivery.vidible.tv^$important
-@@||img.vidible.tv^$important
-@@||videos.vidible.tv^$important
-@@||edge.api.brightcove.com^$important
 @@||via.placeholder.com^$important
 @@||placeholder.com^$important
-@@||placeholdit.imgix.net^$important
-@@||placehold.it^$important
 @@||itunes.apple.com^$important
 @@||imagesak.secureserver.net^$important
 ! Weather
@@ -464,13 +483,8 @@
 @@||snap.licdn.com^$important
 @@||sessions.bugsnag.com^$important
 @@||http2.mlstatic.com^$important
-@@||lightboxapi.azurewebsites.net^$important
-@@||seal-sanjose.bbb.org^$important
 @@||redditstatic.com^$important
 @@||bat.bing.com^$important
-@@||dashboard.thankful.ai^$important
-@@||cdn.polyfill.io^$important
-@@||js.iugu.com^$important
 @@||aliexpress.com^$important
 @@||s.click.aliexpress.com^$important
 @@||answers.microsoft.com^$important
@@ -484,7 +498,6 @@
 @@||eightforums.com^$important
 @@||jwplatform.com^$important
 @@||ooyala.com^$important
-@@||keystone.mwbsys.com^$important
 @@||cedexis.net^$important
 @@||omni.com.br^$important
 @@||ias.biz.com.br^$important
@@ -494,14 +507,33 @@
 @@||dl.gl-inet.com^$important
 @@||firewalla.com^$important
 @@||gl-inet.com^$important
+@@||app.tagsell.com.br^$important
+@@||app.tagsell.com.br/login^$important
+@@||app.internetbanking.caixa.gov.br^$important
+@@||caixa.gov.br^$important
+@@||tagsell.com.br^$important
+@@||my.kaspersky.com^$important
+@@||*.iobit.com^$important
+@@||*.elasticbeanstalk.com^$important
+@@||cd4o.com^$important
+@@||driverboosterscan.com^$important
+@@||tls.comnectnet.com.br^$important
+@@||tls.comnectmonitor.com.br^$important
+@@||portal.comnect.com.br^$important
+@@||update.comnect.com.br^$important
+@@||sitefexpress.softwareexpress.com.br^$important
+@@||35.199.86.162^$important
+@@||sitdm.net^$important
+@@||usitdm.net^$important
+@@||uzecomvoce.com.br^$important
+@@||shalltry.com^$important
+@@||*.dmcardweb.com.br^$important
 ! https://www.reddit.com/r/pihole/comments/74it6h/help_identifying_embedded_video_url_being_blocked/
 @@||d2c8v52ll5s99u.cloudfront.net^$important
 ! https://wally3k.github.io/ (bottom of the page)
 @@||rover.ebay.com^$important
 @@||s3.amazonaws.com^$important
 @@||dns.msftncsi.com^$important
-@@||res.cloudinary.com^$important
-@@||imgs.xkcd.com^$important
 ! Symantect Records user logins to management console
 @@||oms.symantec.com^$important
 @@||om.symantec.com^$important
@@ -515,13 +547,11 @@
 ! For reddit (image/video CDNs)
 @@||embed.ly^$important
 @@||embedly.com^$important
-@@||cdn.embedly.com^$important
 @@||cdn.embed.ly^$important
 @@||m1.daumcdn.net^$important
 @@||m1.nsimg.net^$important
 @@||m2.nsimg.net^$important
 ! Spotify ios app
-@@||spclient.wg.spotify.com^$important
 @@||spclient.spotify.com^$important
 ! Used for Google Play store app updates
 ! https://github.com/itc-ger/hosts-blocklists/commit/3b6368cdd03f04b326dd8f9632d3d1a7a961460b
@@ -529,7 +559,6 @@
 @@||redirector.gvt1.com^$important
 @@||gvt1.com^$important
 ! https://github.com/StevenBlack/hosts/issues/419
-@@||s0.2mdn.net^$important
 @@||2mdn.net^$important
 ! https://github.com/StevenBlack/hosts/issues/415
 @@||teslathemes.com^$important
@@ -548,7 +577,6 @@
 @@||samsungcloudsolution.com^$important
 @@||time.samsungcloudsolution.com^$important
 ! Samsung smart TV's network issue
-@@||cdn.samsungcloudsolution.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/31
 @@||graph.instagram.com^$important
 @@||graph.facebook.com^$important
@@ -579,14 +607,12 @@
 ! https://github.com/notracking/hosts-blocklists/issues/52
 @@||streamillimit�.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/56
-@@||apresolve.spotify.com^$important
 @@||experts-exchange.com^$important
 ! https://github.com/pi-hole/pi-hole/issues/1980
 @@||mbnet.fi^$important
 ! https://github.com/notracking/hosts-blocklists/issues/65
 @@||euronews.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/67
-@@||ssl.p.jwpcdn.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/68
 @@||sentry.io^$important
 ! https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
@@ -633,7 +659,6 @@
 @@||weeklyad.target.com.edgesuite.net^$important
 ! https://github.com/notracking/hosts-blocklists/issues/100
 @@||s0.wp.com^$important
-@@||redirector.googlevideo.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/102
 ! https://github.com/notracking/hosts-blocklists/issues/79
 @@||zencdn.net^$important
@@ -696,11 +721,9 @@
 @@||gh.ffshrine.org^$important
 ! https://github.com/notracking/hosts-blocklists/issues/136
 @@||players.brightcove.net^$important
-@@||brightcove.net^$important
 ! Legit car sale site
 @@||autoscout24.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/144
-@@||eightforums.com^$important
 ! https://www.reddit.com/comments/9xwwwy
 @@||localcontent.huffingtonpost.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/152
@@ -740,9 +763,7 @@
 @@||.gvt2.com^$important
 @@||gvt2.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/146
-@@||gfwsl.geforce.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/171
-@@||unpkg.com^$important
 @@||unpkg.com^$important
 @@||habrahabr.ru^$important
 @@||salesforce.com^$important
@@ -827,9 +848,6 @@
 ! For experian.com to work
 @@||datadoghq-browser-agent.com^$important
 ! Netflix
-@@||ichnaea.netflix.com^$important
-@@||appboot.netflix.com^$important
-@@||secure.netflix.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/195
 @@||nrdp.nccp.netflix.com^$important
 ! https://www.reddit.com/r/oisd_blocklist/comments/dwxgld/dbloisdnl_internets_1_domain_blocklist/
@@ -847,10 +865,8 @@
 @@||captive.roku.com^$important
 @@||d1k85ogl73rd7b.cloudfront.net^$important
 ! https://www.reddit.com/r/pihole/comments/8d15la/cbs_all_access_roku_app_not_working_with_pihole/
-@@||cbsi.com^$important
 ! Fox News
 ! https://discourse.pi-hole.net/t/cant-watch-fox-news-live/1563/3?u=jacob.salmela
-@@||widget-cdn.rpxnow.com^$important
 @@||rpxnow.com^$important
 ! Twitch client
 @@||cdn-gl.imrworldwide.com^$important
@@ -971,7 +987,6 @@
 @@||plex.direct^$important
 @@||proxy00.spop.ams.plex.bz^$important
 @@||thetvdb.plexapp.com^$important
-@@||tvdb2.plex.tv^$important
 ! https://github.com/notracking/hosts-blocklists/issues/354
 @@||bit.do^$important
 ! https://github.com/notracking/hosts-blocklists/issues/3591
@@ -1003,7 +1018,6 @@
 @@||minecraftprod.rtep.msgamestudios.com^$important
 ! For amazon app
 @@||aan.amazon.com^$important
-@@||fls-na.amazon.com^$important
 @@||aax-us-iad.amazon.com^$important
 ! Not used to serve ads from (some people require it for their jobs as webdeveloper)
 @@||ads.google.com^$important
@@ -1034,8 +1048,6 @@
 ! For Philips logon
 @@||d29usylhdk1xyu.cloudfront.net^$important
 ! Will drain Kindle battery when blocked, users are advised to disable tracking in the app settings
-@@||device-metrics-us.amazon.com^$important
-@@||device-metrics-us-2.amazon.com^$important
 ! hdseans.pl video playback blocked
 @@||ebd.cda.pl^$important
 ! Yahoo video cast
@@ -1154,7 +1166,6 @@
 ! Local store site, does not seem to be infected anymore
 @@||alphadomus.co.nz^$important
 ! https://github.com/notracking/hosts-blocklists/issues/418
-@@||yospace.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/419
 @@||semawur.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/421
@@ -1164,11 +1175,9 @@
 ! https://www.wilderssecurity.com/threads/adguard-ad-blocker.342850/page-85#post-2656320
 @@||videoplaza.tv^$important
 ! https://github.com/notracking/hosts-blocklists/issues/429
-@@||driftt.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/428
 @@||playhydrax.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/430
-@@||drift.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/435
 @@||js.intercomcdn.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/434
@@ -1292,7 +1301,6 @@
 @@||ups.com^$important
 @@||verizon.com^$important
 @@||wowhead.com^$important
-@@||wowhead.com^$important
 @@||expedia.com^$important
 @@||urbandictionary.com^$important
 @@||foodnetwork.com^$important
@@ -1306,7 +1314,6 @@
 @@||khanacademy.org^$important
 @@||ny.gov^$important
 @@||en.wikipedia.org^$important
-@@||wikipedia.org^$important
 @@||fandom.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/482
 @@||s.media-imdb.com^$important
@@ -1538,7 +1545,6 @@
 @@||responsys.net^$important
 ! https://github.com/notracking/hosts-blocklists/issues/696
 @@||burnermail.io^$important
-@@||getairmail.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/700
 @@||click.redditmail.com^$important
 ! https://github.com/notracking/hosts-blocklists/issues/703
@@ -1724,7 +1730,6 @@ dr49lng3n1n2s.cloudfront.net^$important
 ! https://github.com/notracking/hosts-blocklists/issues/826
 @@||eindependencia.edu.mx^$important
 ! https://github.com/notracking/hosts-blocklists/issues/827
-@@||telegra.ph^$important
 ! https://github.com/notracking/hosts-blocklists/issues/828
 @@||pxf.io^$important
 ! https://github.com/notracking/hosts-blocklists/issues/829
@@ -1772,7 +1777,6 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||mindvalley.com^$important
 ! https://github.com/hagezi/dns-blocklists/issues/191
 @@||etrality.com^$important
-@@||etrality.com^$important
 @@||speedcheck.org^$important
 @@||api.speedspot.org^$important
 ! https://github.com/notracking/hosts-blocklists/issues/835
@@ -1791,7 +1795,6 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||check2.tsb.co.uk^$important
 @@||asadcdn.com^$important
 @@||appboy-images.com^$important
-@@||asadcdn.com^$important
 @@||browser.events.data.microsoft.com^$important
 @@||target.microsoft.com^$important
 @@||go.trouter.skype.com^$important
@@ -1909,13 +1912,10 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||litix.io^$important
 @@||gizmodern.com^$important
 @@||p.shure.com^$important
-@@||gizmodern.com^$important
-@@||p.shure.com^$important
 @@||go.pardot.com^$important
 @@||shure.com^$important
 @@||pardot.com^$important
 @@||middleware.p7s1.io^$important
-@@||learn.cisecurity.org^$important
 @@||cloud-news.ionos.com^$important
 @@||device-api.urbanairship.com^$important
 @@||urbanairship.com^$important
@@ -2004,8 +2004,6 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||api.box.com^$important
 ! https://github.com/AdguardTeam/ExperimentalFilter/issues/1935
 @@||api.accuweather.com^$important
-@@||brightcove.com^$important
-@@||urbanairship.com^$important
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/498
 @@||login.live.com^$important
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/529
@@ -2036,7 +2034,6 @@ dr49lng3n1n2s.cloudfront.net^$important
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/476
 @@||lastpass.com^$important
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/518
-@@||wire.com^$important
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/622
 @@||api.freeletics.com^$important
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/516
@@ -2115,7 +2112,6 @@ dr49lng3n1n2s.cloudfront.net^$important
 ! VK:
 @@||vk.com^$important
 @@||pp.userapi.com^$important
-@@||userapi.com^$important
 @@||google.com$app=com.vkontakte.android^$important
 @@||vk.com$app=com.vkontakte.android^$important
 @@||vkuservideo.net$app=com.vkontakte.android^$important
@@ -2162,59 +2158,57 @@ dr49lng3n1n2s.cloudfront.net^$important
 ! Sweden's biggest gym-app - blob-storage/CDN for Azure
 @@||az416426.vo.msecnd.net^$important
 ! Instagram:
-@@||facebook.com$app=com.instagram.android^$important
+@@||facebook.com^$important,app=com.instagram.android
 ! Giphy / Instagram GIF use this
 @@||limited-prod.giphy.map.fastly.net^$important
 @@||api.giphy.com^$important
 ! Whatsapp & Whatsapp 4B:
-@@||whatsapp.net$app=com.whatsapp^$important
-@@||whatsapp.net$app=com.whatsapp.w4b^$important
+@@||whatsapp.net^$important,app=com.whatsapp
+@@||whatsapp.net^$important,app=com.whatsapp.w4b
 ! Tele2:
-@@||tele2.ru$app=ru.tele2.mytele2^$important
+@@||tele2.ru^$important,app=ru.tele2.mytele2
 ! My Beeline:
-@@||amazonaws.com$app=ru.beeline.services^$important
+@@||amazonaws.com^$important,app=ru.beeline.service
 ! Facebook:
-@@||fna.fbcdn.net$app=com.facebook.katana^$important
-@@||xx.fbcdn.net$app=com.facebook.katana^$important
-@@||xx.fbcdn.net$app=com.facebook.katana^$important
-@@||mqtt-mini.facebook.com$app=com.facebook.katana^$important
-@@||xx.fbcdn.net$app=com.facebook.katana^$important
-@@||m.facebook.com$app=com.facebook.katana^$important
-@@||graph.fbpigeon.com$app=com.facebook.katana^$important
+@@||fna.fbcdn.net^$important,app=com.facebook.katana
+@@||xx.fbcdn.net^$important,app=com.facebook.katana
+@@||mqtt-mini.facebook.com^$important,app=com.facebook.katana
+@@||m.facebook.com^$important,app=com.facebook.katana
+@@||graph.fbpigeon.com^$important,app=com.facebook.katana
 ! Google play services: https://github.com/AdguardTeam/AdguardForAndroid/issues/1894
-@@||googleapis.com$app=com.google.android.gms^$important
-@@||myaccount.google.com$app=com.google.android.gms^$important
-@@||www.google.com$app=com.google.android.gms^$important
-@@||gvt1.com$app=com.google.android.gms^$important
+@@||googleapis.com^$important,app=com.google.android.gms
+@@||myaccount.google.com^$important,app=com.google.android.gms
+@@||www.google.com^$important,app=com.google.android.gms
+@@||gvt1.com^$important,app=com.google.android.gms
 ! Plex https://github.com/AdguardTeam/AdguardForAndroid/issues/3324
-@@||plex.tv$app=com.plexapp.android^$important
+@@||plex.tv^$important,app=com.plexapp.android
 ! Railcard https://github.com/AdguardTeam/AdguardForAndroid/issues/3255
-@@||railcard.co.uk$app=com.raildeliverygroup.railcard^$important
-@@||digital-railcard.co.uk$app=com.raildeliverygroup.railcard^$important
+@@||railcard.co.uk^$important,app=com.raildeliverygroup.railcard
+@@||digital-railcard.co.uk^$important,app=com.raildeliverygroup.railcard
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/3328
 ! Norton mobile security (this av no is good btw)
-@@||developers.google.com$app=com.symantec.mobilesecurity^$important
-@@||norton.com$app=com.symantec.mobilesecurity^$important
+@@||developers.google.com^$important,app=com.symantec.mobilesecurity
+@@||norton.com^$important,app=com.symantec.mobilesecurity
 ! Sophos Intercept X
-@@||sophosxl.net$app=com.sophos.smsec^$important
+@@||sophosxl.net^$important,app=com.sophos.smsec
 ! Zomato
-@@||api.zomato.com$app=com.application.zomato^$important
+@@||api.zomato.com^$important,app=com.application.zomato
 ! Google calendar
-@@||googleapis.com$app=com.google.android.calendar^$important
-@@||googleapis.com$app=com.google.android.syncadapters.calendar^$important
+@@||googleapis.com^$important,app=com.google.android.calendar
+@@||googleapis.com^$important,app=com.google.android.syncadapters.calendar
 ! Audible by Amazon
-@@||amazon.com$app=com.audible.application^$important
-@@||audible.de$app=com.audible.application^$important
+@@||amazon.com^$important,app=com.audible.application
+@@||audible.de^$important,app=com.audible.application
 ! SASystemProviders (Samsung)
-@@||dls-udc.dqa.samsung.com$app=com.samsung.accessory.safiletransfer^$important
+@@||dls-udc.dqa.samsung.com^$important,app=com.samsung.accessory.safiletransfer
 ! Play Services fonts
-@@||fonts.gstatic.com$app=com.google.android.gms^$important
+@@||fonts.gstatic.com^$important,app=com.google.android.gms
 ! YouTube
-@@||googleusercontent.com$app=com.google.android.youtube^$important
-@@||youtubei.googleapis.com$app=com.google.android.youtube^$important
-@@||youtube.com$app=com.google.android.youtube^$important
-@@||ggpht.com$app=com.google.android.youtube^$important
-@@||ytimg.com$app=com.google.android.youtube^$important
+@@||googleusercontent.com^$important,app=com.google.android.youtube
+@@||youtubei.googleapis.com^$important,app=com.google.android.youtube
+@@||youtube.com^$important,app=com.google.android.youtube
+@@||ggpht.com^$important,app=com.google.android.youtube
+@@||ytimg.com^$important,app=com.google.android.youtube
 ! Verifying student status in YT Music or YT
 @@||*.sheerid.net^$important
 ! Yandex Disk
@@ -2257,7 +2251,6 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||api.adguard.com^$important
 @@||addons-api.adguard.com^$important
 @@||chrome.adtidy.org^$important
-@@||dl.dropboxusercontent.com^$important
 @@||eff.org^$important
 ! Necessary for installing add-ons to FF
 @@||mozilla.net^$important
@@ -2356,7 +2349,6 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||keenetic.pro^$important
 @@||keenetic.link^$important
 ! Google Cloud Shell
-@@||ssh.cloud.google.com^$important
 ! https://github.com/AdguardTeam/HttpsExclusions/issues/138
 @@||startmail.com^$important
 ! https://github.com/AdguardTeam/HttpsExclusions/issues/191
@@ -2413,9 +2405,7 @@ dr49lng3n1n2s.cloudfront.net^$important
 ! Breaks site layout on cbs.com
 @@||wwwimage-tve.cbsstatic.com^$important
 ! Soundcloud and others in some regions
-@@||geolocation.onetrust.com^$important
 ! Images in apps and mails
-@@||appboy-images.com^$important
 ! Banggood App
 @@||banggood.com^$important
 ! Mac specific exclusions
@@ -2425,7 +2415,6 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||icloud.com^$important
 @@||icloud.com.cn^$important
 ! https://github.com/AdguardTeam/AdguardForMac/issues/552
-@@||mzstatic.com^$important
 ! Temporary, see https://github.com/AdguardTeam/CoreLibs/issues/674
 @@||vchecks.me^$important
 @@||www.svyaznoy.ru^$important
@@ -2468,7 +2457,6 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||steamcommunity.com^$important
 @@||steamcontent.com^$important
 @@||steamgames.com^$important
-@@||steampowered.com^$important
 @@||steampowered.com.8686c.com^$important
 @@||steamstatic.com^$important
 @@||steamstatic.com.8686c.com^$important
@@ -2510,14 +2498,15 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||mirrorcache-us.opensuse.org^$important
 @@||mirrorcache-br.opensuse.org^$important
 @@||mirrorcache-br-2.opensuse.org^$important
+@@||cache.opensuse.net.br^$important
 @@||mirrorcache.opensuse.org^$important
 @@||news.opensuse.org^$important
 @@||ftp.gwdg.de^$important
 @@||build.opensuse.org^$important
 @@||software.opensuse.org^$important
 ! Flathub
-@@||dl.flathub.org^$important
 @@||flathub.org^$important
+@@||dl.flathub.org^$important
 @@||flatpak.elementary.io^$important
 @@||flatpak.zorinos.com^$important
 @@||docs.flatpak.org^$important
