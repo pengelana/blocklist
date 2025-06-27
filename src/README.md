@@ -259,7 +259,7 @@
 [NOK ]         0 src/blacklist/spiderlabs_responder.txt
 [ OK ]    18,111 src/blacklist/stamparm_blackbook.txt
 [ OK ]   549,473 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]    60,403 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]    60,404 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]        84 src/blacklist/supershell_c2.txt
 [ OK ]         1 src/blacklist/supremebot.txt
 [ OK ]        56 src/blacklist/sutra_tds.txt
@@ -267,7 +267,7 @@
 [ OK ]        23 src/blacklist/telekopye_scamtool.txt
 [ OK ]     3,034 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]     1,921 src/blacklist/upx_tds.txt
-[ OK ]       529 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       525 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,301 src/blacklist/validin-phish-feed-1.txt
 [ OK ]    94,393 src/blacklist/validin-phish-feed-2.txt
 [ OK ]     4,075 src/blacklist/validin-phish-feed-3.txt
@@ -291,20 +291,20 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 4,105,193
-Filter Duplicates   : 2,963,714
-External Whitelist  : 2,835,050
-Filter Whitelist    : 2,834,991
-Import Blacklist    : 2,835,444
-Compressed          : 2,424,442
+Total Blacklist     : 4,105,190
+Filter Duplicates   : 2,963,715
+External Whitelist  : 2,819,618
+Filter Whitelist    : 2,819,559
+Import Blacklist    : 2,820,012
+Compressed          : 2,409,740
 
    LENGTH     COUNT
-        2 1,563,192
-        3   631,332
-        4   171,936
-        5    31,443
-        6     4,890
-        7    10,973
+        2 1,554,165
+        3   628,336
+        4   169,286
+        5    31,421
+        6     4,888
+        7    10,968
         8    10,029
         9       129
        10        92
@@ -328,7 +328,7 @@ Compressed          : 2,424,442
        29         1
        30         1
 
-Total Blocklist     : 2,424,442
+Total Blocklist     : 2,409,740
 
 ~~~
 
