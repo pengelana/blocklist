@@ -2145,7 +2145,54 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||mobile.events.data.trafficmanager.net^$important
 @@||eu.events.data.trafficmanager.net^$important
 ! Outlook - link to new outlook e-Mail address
-@@||eoft.com^$important
+@@||eimportant
+! Samsung own stats are sent here, but it checks the cert
+@@||atlas.samsung.com^$important
+! https://github.com/AdguardTeam/AdguardForAndroid/issues/1867
+@@||generalmotorscorporation.sc.omtrdc.net^$important
+@@||api.gm.com^$important
+@@||gmmobileservices.gm.com^$important
+@@||acompli.net^$important
+! https://github.com/AdguardTeam/CoreLibs/issues/1032 (acompli.net Outlook)
+! Specific Exclusions for Applications
+! https://github.com/AdguardTeam/AdguardForAndroid/issues/3052
+! Mamba:
+@@||api.mobile-api.ru$app=ru.mamba.client^$important
+! Tunnelbear:
+@@||tunnelbear.com$app=com.tunnelbear.android^$important
+@@||amazonaws.com$app=com.tunnelbear.android^$important
+! VK:
+@@||vk.com^$important
+@@||pp.userapi.com^$important
+@@||google.com$app=com.vkontakte.android^$important
+@@||vk.com$app=com.vkontakte.android^$important
+@@||vkuservideo.net$app=com.vkontakte.android^$important
+@@||vk-cdn.net$app=com.vkontakte.android^$important
+! Twitter
+@@||cdn.syndication.twimg.com^$important
+@@||cdn.syndication.twitter.com^$important
+@@||syndication.twimg.com^$important
+@@||pbs.twimg.com^$important
+! Disney+ Asia will show a No Internet Connection banner
+@@||bifrost-api.hotstar.com^$important
+! Epic Games Launcher
+@@||eulatracking-public-service-*.ol.epicgames.com^$important
+! Chick-Fil-A App
+@@||*.tmetrix.my.chick-fil-a.com^$important
+! Imgur
+@@||js.media-lab.ai^$important
+! Google Photos
+@@||people-pa.googleapis.com^$important
+! Outlook:
+@@||azureedge.net$app=com.microsoft.office.outlook^$important
+@@||acompli.net$app=com.microsoft.office.outlook^$important
+@@||microsoft.com$app=com.microsoft.office.outlook^$important
+! https://github.com/notracking/hosts-blocklists/issues/436
+@@||safelinks.protection.outlook.com^$important
+@@||.safelinks.protection.outlook.com^$important
+! Outlook mobile app
+! https://github.com/hagezi/dns-blocklists/issues/233
+@@||mobile.events.data.microsoft.com^$important
 @@||eu-mobile.events.data.microsoft.com^$important
 @@||mobile.events.data.trafficmanager.net^$important
 @@||eu.events.data.trafficmanager.net^$important
@@ -2209,6 +2256,7 @@ dr49lng3n1n2s.cloudfront.net^$important
 ! Play Services fonts
 @@||fonts.gstatic.com^$important,app=com.google.android.gms
 ! YouTube
+@@||googleusercontent.com^$domain=youtube.com$important
 @@||googleusercontent.com^$important,app=com.google.android.youtube
 @@||youtubei.googleapis.com^$important,app=com.google.android.youtube
 @@||youtube.com^$important,app=com.google.android.youtube
@@ -2302,7 +2350,7 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||firestore.clients6.google.com^$important
 ! https://forum.adguard.com/index.php?threads/27219/
 @@||triolan.name^$important
-! Opera VPN:
+! Opera VPN
 @@||api.surfeasy.com^$important
 @@||sec-tunnel.com^$important
 @@||opera-proxy.net^$important
@@ -2516,3 +2564,64 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||flatpak.zorinos.com^$important
 @@||docs.flatpak.org^$important
 @@||flatpak.org^$important
+! Shopping
+@@||assets.adobedtm.com^$important
+@@||nexus.ensighten.com^$important
+! Smart TV
+@@||ngfts.lge.com^$important
+@@||mhc-ajax-eu.myhomescreen.tv^$important
+@@||mhc-ajax-eu-s2.myhomescreen.tv^$important
+@@||mhc-ajax-us.myhomescreen.tv^$important
+@@||mhc-eu.myhomescreen.tv^$important
+@@||mhc-us.myhomescreen.tv^$important
+@@||mhc-xpana-eu.myhomescreen.tv^$important
+@@||mhc-xpana-eu-s2.myhomescreen.tv^$important
+@@||mhc-xpana-us.myhomescreen.tv^$important
+@@||vcs.vdspf.com^$important
+@@||applicast.ga.sony.net^$important
+@@||update.biv.sony.tv^$important
+@@||deviceportal.nettvservices.com^$important
+@@||epg.corio.com^$important
+@@||ecdinterface.philips.com^$important
+@@||auth.samsungosp.com^$important
+@@||cdn.samsungcloudsolution.com^$important
+@@||infolink.pavv.co.kr^$important
+@@||lcprd1.samsungcloudsolution.net^$important
+@@||otnprd10.samsungcloudsolution.net^$important
+@@||otnprd11.samsungcloudsolution.net^$important
+@@||otnprd8.samsungcloudsolution.net^$important
+@@||otnprd9.samsungcloudsolution.net^$important
+@@||samsungosp.com^$important
+@@||samsungotn.net^$important
+@@||time.samsungcloudsolution.com^$important
+@@||osb-ussvc.samsungqbe.com^$important
+@@||otn.samsungcloudcdn.com^$important
+@@||ns11.whois.co.kr^$important
+@@||api.vizio.com^$important
+@@||images.vizio.com^$important
+@@||announcements.vizio.com^$important
+@@||hbbtv.prosieben.de^$important
+@@||hbbtv.redbutton.de^$important
+@@||hbbtv.zdf.de^$important
+@@||apicache.vudu.com^$important
+@@||tv.deezer.com^$important
+@@||api.us.hismarttv.com^$important
+@@||api.euro.hismarttv.com^$important
+! Canon
+@@||gdlp01.c-wss.com^$important
+! Weather
+@@||images.twnmm.com^$important
+! Captcha
+@@||api-verify.recaptcha.net^$important
+! Equifax
+@@||ci-mpsnare.iovation.com^$important
+@@||scorecardresearch.com^$important
+@@||equifaxps.122.2o7.net^$important
+@@||equifax28031z.btttag.com^$important
+@@||equifax.com^$important
+@@||equifax.ca^$important
+@@||mpsnare.iesnare.com^$important
+! Fast
+@@||fast.com^$important
+! Firewalla
+@@||my.firewalla.com^$important
