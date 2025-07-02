@@ -110085,7 +110085,28 @@ analytics-*.aasaam.com
 @@||links.getblueshift.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/453
 @@||click.trafficguard.ai^|
-! https://github.com/AdguardTeam/AdGuardSDNSFTeam/AdguardFilters/issues/98798
+! https://github.com/AdguardTeam/AdGuardSDNSFm/AdguardFilters/issues/115247
+@@||stash.roistat.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/113049
+@@||static-v*.trbo.com^|
+@@||api-v*.trbo.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/111707
+@@||brm-core-*.brsrvr.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/897
+! Blocked by CNAME affex.org
+@@||marketing.net.idealo-partner.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/107168
+@@||netatmo.commander1.com^|
+! https://github.com/easylist/easylist/pull/9904
+@@||vcentry3.valuecommerce.ne.jp^|
+! Fixing the issue with "Wi-Fi" connection mark when you configure private DNS on Android 9
+! Once you enable private DNS, Android 9 starts resolving random domains looking like
+! `*-*-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
+! Here you can check how it's used by Android: https://cs.android.com/search?q=ds.metric.gstatic.com
+@@-ds.metric.gstatic.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/824
+@@||id.i2i.jp^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/98798
 @@||thumbnail.thench.net^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/819
 @@||validate.perfdrive.com^|
