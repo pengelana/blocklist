@@ -110085,7 +110085,22 @@ analytics-*.aasaam.com
 @@||links.getblueshift.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/453
 @@||click.trafficguard.ai^|
-! https://github.com/AdguardTeam/AdGuardSDNSFm/AdguardTeam/AdGuardSDNSFilter/issues/992
+! https://github.com/AdguardTeam/AdGuardSDNSFttps://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1631
+! Blocked by CNAME nc0.co
+@@||tms.capitalone.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1613
+@@||redir.ownpage.fr^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1583
+! Blocked by CNAME go2jump.org
+@@||tr.rdrtr.com^|
+!
+! Blocked by CNAME exponea.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1604
+@@||media-consumer365.desigual.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/164769
+@@||cdn.us*.exponea.com^|
+@@||crm-cdn.peek-cloppenburg.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/992
 @@||public-cis.exponea.com^|
 ! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
 @@||cdn.rozetka.com.ua^|
