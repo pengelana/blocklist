@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-03 18:01:10 UTC                        #
+# Last updated: 2025-07-03 19:22:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	whitegambit.com
 127.0.0.1	degene000-47221.portmap.io
 127.0.0.1	63tefarz8.localto.net
 127.0.0.1	ratlordvc.ddns.net
@@ -67581,6 +67582,4 @@
 127.0.0.1	www.sofianeyaya.fr
 127.0.0.1	usps-sureness.com
 127.0.0.1	acc.mllcrosoft.com
-127.0.0.1	usps-online.com
-127.0.0.1	apm.vpce.gdw55e.upgrade1.zip
-# Number of entries: 67577
+# Number of entries: 67576
