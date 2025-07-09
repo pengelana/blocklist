@@ -5770,7 +5770,34 @@ uploadfox.net###ad-gs-05
 ||longchampblackfriday.com^$all
 ||jcrewblackfriday.com^$all
 
-! https://blog.eclecticiq.com/inside-intelligence-center-financiall
+! https://blog.eclecticiq.com/inside-intelligence-center-financiadgicxde.com^$all
+
+! https://www.cloudflare.com/es-la/threat-intelligence/research/report/sacked-or-hacked-unmasking-employment-termination-scams/
+||gxsearch.club^$all
+
+! https://blog.sucuri.net/2024/11/credit-card-skimmer-malware-targeting-magento-checkout-pages.html
+||staticfonts.com^$all
+||static-fonts.com^$all
+
+! https://www.reddit.com/r/Scams/comments/1h2b6vz/semrushshopcom_scam/
+! https://www.virustotal.com/gui/url/cf71745d1add3f6d61cf306282b04d7c2271c69c5d32de23cb0eec54a9b5611b
+||semrushshop.com^$all
+
+! https://www.malwarebytes.com/blog/scams/2024/11/printer-problems-beware-the-bogus-help
+||megadrive.solutions^$all
+||geeksprosoftwareprints.org^$all
+||printcaretech.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/26264
+||editproai.$all,to=editproai.org|editproai.pro
+
+! https://github.com/uBlockOrigin/uAssets/issues/26255
+! https://web.archive.org/web/20241130205822/https://lesivs.com/
+||lesivs.com^$doc
+
+! https://blog.checkpoint.com/research/navigating-the-evolving-threat-landscape-ahead-of-black-friday/
+||longchampblackfriday.com^$all
+||jcrewblackfriday.com^$all
 
 ! https://blog.eclecticiq.com/inside-intelligence-center-financially-motivated-chinese-threat-actor-silkspecter-targeting-black-friday-shoppers
 ||dopeblackfriday.shop^$all
@@ -5806,6 +5833,11 @@ uploadfox.net###ad-gs-05
 
 ! fake cloudflare captcha
 ||pub-549d59daefd74f7583e1766800fe7b07.r2.dev^
+! https://github.com/uBlockOrigin/uAssets/issues/29125
+||cdncloud.icu^$all
+||wallpaper-engine.pro^$all
+||ide.it/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-
+/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-0311104f6b606e1ad6e4eaeb8aa6336c.js$script
 
 ! fake dating
 /^https:\/\/[0-9a-z]{7}\.([0-9a-z]{7})\.top\/[0-9a-z]{7}\?t=\1&cid=[0-9a-z]+/$doc,to=top,match-case
