@@ -1,6 +1,8 @@
 //
 // Android specific exclusions
 //
+// https://github.com/AdguardTeam/HttpsExclusions/issues/655
+sahibinden-vod2.mncdn.com$app=org.mozilla.firefox
 // https://github.com/AdguardTeam/AdguardFilters/issues/18070
 termux.net
 // https://github.com/AdguardTeam/AdguardFilters/issues/12189
