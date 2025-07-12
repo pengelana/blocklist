@@ -6180,7 +6180,8 @@ uploadfox.net###ad-gs-05
 ! https://sourceforge.net/p/win32diskimager/blog/2024/12/beware-of-fake-sites/
 ||win32diskimager.org^$doc
 
-! https://github.com/easylist/easylist/commit/306f423a860eb5c2dafctp.mazamob.space^$all
+! https://github.com/easylist/easylist/commit/306f423a860eb5c2dafcithub.com/uBlockOrigin/uAssets/issues/28580
+||plotp.mazamob.space^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/28571
 ! https://sourceforge.net/p/win32diskimager/blog/2024/12/beware-of-fake-sites/
@@ -6199,3 +6200,9 @@ weightlossdiet.top##+js(acs, open, executeCode)
 
 ! https://urlscan.io/search/#filename%3A%22click2131287361236.php%22
 /click2131287361236.php?$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/29163
+||windirstat.org^$all
+
+! https://urlscan.io/result/0197f9ec-bbc5-71dc-a9a4-6935cb0e43d0/
+||soubtcevent.com^$all
