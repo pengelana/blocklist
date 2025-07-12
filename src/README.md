@@ -146,7 +146,7 @@
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
 [ OK ]    16,455 src/blacklist/cyberhost_uk_malware.txt
 [ OK ]         8 src/blacklist/deimos_c2.txt
-[ OK ]       311 src/blacklist/dnstunneling_t.txt
+[ OK ]       312 src/blacklist/dnstunneling_t.txt
 [ OK ]        10 src/blacklist/domain_shadowing.txt
 [ OK ]     3,023 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,146 src/blacklist/easylist_adservers_popup.txt
@@ -268,7 +268,7 @@
 [ OK ]        23 src/blacklist/telekopye_scamtool.txt
 [ OK ]     2,970 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]     1,921 src/blacklist/upx_tds.txt
-[ OK ]       490 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       489 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,300 src/blacklist/validin-phish-feed-1.txt
 [ OK ]    94,392 src/blacklist/validin-phish-feed-2.txt
 [ OK ]     7,716 src/blacklist/validin-phish-feed-3.txt
@@ -293,17 +293,17 @@
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
 Total Blacklist     : 4,243,463
-Filter Duplicates   : 3,015,039
-External Whitelist  : 2,870,823
-Filter Whitelist    : 2,870,763
-Import Blacklist    : 2,871,231
-Compressed          : 2,444,554
+Filter Duplicates   : 3,015,040
+External Whitelist  : 2,870,824
+Filter Whitelist    : 2,870,764
+Import Blacklist    : 2,871,232
+Compressed          : 2,444,499
 
    LENGTH     COUNT
-        2 1,579,652
-        3   639,394
-        4   167,392
-        5    31,477
+        2 1,579,653
+        3   639,371
+        4   167,360
+        5    31,476
         6     4,940
         7    11,009
         8    10,041
@@ -329,7 +329,7 @@ Compressed          : 2,444,554
        29         1
        30         1
 
-Total Blocklist     : 2,444,554
+Total Blocklist     : 2,444,499
 
 ~~~
 
