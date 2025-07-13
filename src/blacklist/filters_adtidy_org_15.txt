@@ -115139,7 +115139,112 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdguardDNS/issues/192
 @@||redir.tradedoubler.com^|
 @@||clk*.tradedoubler.com^|
-! https://forum.adguard.com/ind/1393
+! https://forum.adguard.com/ind.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1840
+! Blocked by EasyList's `||23.109.82.`
+@@||click.avs.io^|
+! Link redirector - https://www.mydealz.de/visit/threadimg/2512771
+@@||link.sylikes.com^|
+@@||rd.bizrate.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1822
+@@|www.daraz.pk^|
+@@|daraz.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1820
+@@||sbs.demdex.net^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/194309
+@@||cl.link-ag.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1784
+@@||action.metaffiliation.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1773
+! Blocked by CNAME s1search.co
+@@||www.dogpile.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1771
+! Related to disguised tracker
+! https://github.com/AdguardTeam/AdguardFilters/blob/d77b4202c04486f0dc0488dbd56679cc586e5ad2/SpywareFilter/sections/tracking_servers.txt#L4110
+@@||acs-m.daraz.com.bd^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1768
+@@||f-gear.ec-optimizer.com^|
+!
+! Blocked by CNAME unbouncepages.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1826
+@@||get.neofinancial.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1765
+@@||hidive.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1817
+@@||learn.khanacademy.org^|
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/187801
+@@||res.ads.nicovideo.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1720
+! Blocked by CNAME data.adobedc.net
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1717
+@@||sax.sina.com.cn^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1709
+! Blocked by CNAME postaffiliatepro.com
+@@||linka.page^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1702
+@@||track.webgains.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1681
+! Blocked by CNAME fp27ee.wac.systemcdn.net
+@@||secureimage.securedataimages.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1668
+! Blocked by CNAME nr-data.net
+@@||infra-api.newrelic.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1631
+! Blocked by CNAME nc0.co
+@@||tms.capitalone.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1613
+@@||redir.ownpage.fr^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1583
+! Blocked by CNAME go2jump.org
+@@||tr.rdrtr.com^|
+!
+! Blocked by CNAME exponea.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1604
+@@||media-consumer365.desigual.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/164769
+@@||cdn.us*.exponea.com^|
+@@||crm-cdn.peek-cloppenburg.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/992
+@@||public-cis.exponea.com^|
+! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
+@@||cdn.rozetka.com.ua^|
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/194309 honto link
+@@||vcentry2.valuecommerce.ne.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1569
+@@||recommender.scarabresearch.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/167622
+! Blocked by CNAME extole.com
+@@||refer.discover.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/167320
+@@||cmp.inmobi.com^|
+! Blocked by CNAME data.adobedc.net
+@@||data.digital.costco.ca^|
+@@||data.digital.costco.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/163141
+@@||api.karte.io^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1464
+@@||sponsor.nitropay.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/157550
+@@||click.cptrack.de^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1412
+! line25.com - not able to accept cookies to use the page
+@@|ezodn.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1411
+@@||gate.first-id.fr^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1401
+! Blocked by CNAME bodis.com
+@@||leechers-paradise.org^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1406
+! Blocked by CNAME iocnt.net
+@@||data-*.herz-fuer-tiere.de^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/150715
+@@||go.adjust.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/150038
+! Blocked by CNAME getblueshift.com
+@@||clickattr.wayup.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1393
 ! Blocked by CNAME adperfect.com
 @@||remembering.ca^|
 @@||obituaries.therecord.com^|
