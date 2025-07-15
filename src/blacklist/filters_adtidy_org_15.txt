@@ -127541,6 +127541,58 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/797
 ! https://forum.adguard.com/index.php?threads/amplitude-com-blocked.45115
 @@||analytics.amplitude.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/ues/1115
+! Blocked by CNAME tapfiliate.com
+@@||partner.everydays.de^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/134172
+@@||api.docodoco.jp^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/133715
+@@||js.monitor.azure.com^|
+! https://old.reddit.com/r/Adguard/comments/wkcvpx/redirect_link_not_working_when_adguard_pro_ios_is/
+@@||link.morningbrew.com^|
+! https://forum.adguard.com/index.php?threads/incorrect-extension-blocking.49177/#post-223130
+@@||click.appcast.io^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/977
+@@||anwb.webpower.eu^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/959
+@@||bcicl.*.evergage.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/114908
+@@||torimochi.line-apps.com^|
+! Fixing crazyegg.com login page
+@@|core.crazyegg.com^|
+@@|app.crazyegg.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/937
+@@||oa.tr.line.me^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/115247
+@@||stash.roistat.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/113049
+@@||static-v*.trbo.com^|
+@@||api-v*.trbo.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/111707
+@@||brm-core-*.brsrvr.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/897
+! Blocked by CNAME affex.org
+@@||marketing.net.idealo-partner.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/107168
+@@||netatmo.commander1.com^|
+! https://github.com/easylist/easylist/pull/9904
+@@||vcentry3.valuecommerce.ne.jp^|
+! Fixing the issue with "Wi-Fi" connection mark when you configure private DNS on Android 9
+! Once you enable private DNS, Android 9 starts resolving random domains looking like
+! `*-*-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
+! Here you can check how it's used by Android: https://cs.android.com/search?q=ds.metric.gstatic.com
+@@-ds.metric.gstatic.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/824
+@@||id.i2i.jp^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/98798
+@@||thumbnail.thench.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/819
+@@||validate.perfdrive.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/98729
+@@||ia.hit.interia.pl^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/797
+! https://forum.adguard.com/index.php?threads/amplitude-com-blocked.45115
+@@||analytics.amplitude.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/783
 @@|adsterra.com^|
 @@|ads.adsterra.com^|
