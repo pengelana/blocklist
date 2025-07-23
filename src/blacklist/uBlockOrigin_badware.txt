@@ -6199,7 +6199,8 @@ uploadfox.net###ad-gs-05
 
 ! https://github.com/uBlockOrigin/uAssets/issues/28520
 ! https://www.virustotal.com/gui/file/44a40ddf96e77c305ea479d73555b2f0259c70d0b818eb9162ee62476b36383c
-||hardware-goog/?_x_tr_$doc
+||hardware-^$all
+://x_x-*-*.translate.goog/?_x_tr_$doc
 
 ! https://kagifeedback.org/d/6902-unofficial-mullvad-website-showing-in-results
 ||mullvaad.net^$all
@@ -6299,4 +6300,19 @@ weightlossdiet.top##+js(acs, open, executeCode)
 ||zorpleflux.top^$all
 
 ! https://urlscan.io/search/#hash%3A2c1d6c6bc603efe83d443d7b4c076e37c656f152097717f5cecfcbcd10634508
-/^https:\/\/[a-z]{3,30}\.[a-z]{2,4}\/socket\.io\/socket\.io\.js$/$script,1p,strict1p,match-case,domain=ci|ge|eu|life,header=nel:/report_to":"cf-nel/
+! https://github.com/uBlockOrigin/uAssets/commit/34f63be2c047998654a6ec7e9556afc92245e9da
+/^https:\/\/[a-z]{3,30}\.[a-z]{2,4}\/socket\.io\/socket\.io\.js$/$header=nel:/report_to":"cf-nel/,script,1p,strict1p,match-case,domain=ci|ge|eu|life
+
+! https://github.com/uBlockOrigin/uAssets/issues/29260
+||stellar-coin.com^$all
+||stellar-stb.com^$all
+||stellar-blade.click^$all
+
+! https://github.com/prettier/eslint-config-prettier/issues/339#issuecomment-3090304490
+||npnjs.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/29277
+||grupocgcr.com^$all
+
+! https://x.com/x64koichi/status/1947515231103783409
+||pastebin.store/js.js
