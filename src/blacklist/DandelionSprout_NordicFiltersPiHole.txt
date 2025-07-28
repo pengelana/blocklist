@@ -766,7 +766,8 @@ yttersiden.no
 (.*\.)?legoland\.com-^.*\..*$
 (.*\.)?faarup\.com-^.*\..*$
 (.*\.)?djurs\.com-^.*\..*$
-(no\..*$
+(\.)?coop\.no\..*$
+^(.*\.)?shell\.no\..*$
 ^(.*\.)?finn\.no\..*$
 ^(.*\.)?dnb\.no\..*$
 ^(.*\.)?sparebank1\.no\..*$
