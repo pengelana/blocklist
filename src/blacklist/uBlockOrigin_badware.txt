@@ -6236,6 +6236,24 @@ weightlossdiet.top##+js(acs, open, executeCode)
 ! https://github.com/prettier/eslint-config-prettier/issues/339#issuecomment-3090304490
 ||npnjs.com^$all
 
+! https://github.com/uBll
+||datavibe.sbs^$all
+||infosync.top^$all
+||infograph.top^$all
+||zorpleflux.top^$all
+
+! https://urlscan.io/search/#hash%3A2c1d6c6bc603efe83d443d7b4c076e37c656f152097717f5cecfcbcd10634508
+! https://github.com/uBlockOrigin/uAssets/commit/34f63be2c047998654a6ec7e9556afc92245e9da
+/^https:\/\/[a-z]{3,30}\.[a-z]{2,4}\/socket\.io\/socket\.io\.js$/$header=nel:/report_to":"cf-nel/,script,1p,strict1p,match-case,domain=ci|ge|eu|life
+
+! https://github.com/uBlockOrigin/uAssets/issues/29260
+||stellar-coin.com^$all
+||stellar-stb.com^$all
+||stellar-blade.click^$all
+
+! https://github.com/prettier/eslint-config-prettier/issues/339#issuecomment-3090304490
+||npnjs.com^$all
+
 ! https://github.com/uBlockOrigin/uAssets/issues/29277
 ||grupocgcr.com^$all
 
@@ -6253,3 +6271,6 @@ weightlossdiet.top##+js(acs, open, executeCode)
 
 ! https://www.facebook.com/share/p/172MPhiL2h/
 ||cuocthiianhdepthieunhii2025.weebly.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/29380
+||carrotsaystopping.com^$all

@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 857
+!Total lines: 855
 !Version: 1.6.8-release
-!Update time: 2025-07-27 20:57:46 UTC+8
-!Update content: 使用更简洁的 dnsmasq 规则格式
+!Update time: 2025-07-30 07:19:34 UTC+8
+!Update content: 移除失效内容
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -790,7 +790,6 @@
 ||v2mi.gdt.qq.com^
 ||v3-ad.video.yximgs.com^
 ||v3.gdt.qq.com^
-||vali-ugc.cp31.ott.cibntv.net^
 ||vd6.l.qq.com^
 ||vi.l.qq.com^
 ||video-ad.sm.cn^
@@ -865,4 +864,3 @@
 /[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com/
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com/
 /[a-zA-Z0-9.-]*-normal.zijieapi.com/
-/cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
