@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 855
+!Total lines: 853
 !Version: 1.6.8-release
-!Update time: 2025-07-30 07:19:34 UTC+8
-!Update content: 移除失效内容
+!Update time: 2025-08-03 17:29:46 UTC+8
+!Update content: 修复读取规则的小问题
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -683,9 +683,6 @@
 ||static.ads-twitter.com^
 ||statics.woozooo.com^
 ||stats.wp.com^
-|r.com^
-||statics.woozooo.com^
-||stats.wp.com^
 ||statsigapi.net^
 ||stg-data.ads.heytapmobi.com^
 ||stun.hitv.com^
@@ -865,21 +862,3 @@
 *-ad.wtzw.com*
 *-be-pack-sign.pglstatp-toutiao.com*
 *-normal.zijieapi.com*
-/.*.1rtb.com/
-/.*.a.market.xiaomi.com/
-/.*.ad.gameley.com/
-/.*.adintl.cn/
-/.*.adx.adwangmai.com/
-/.*.data.hicloud.com/
-/.*.log.aliyuncs.com/
-/.*.ubixioe.com/
-/.*.vlion.cn/
-/.*.yfanads.com/
-/.*.zhangyuyidong.cn/
-/[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com/
-/[a-zA-Z0-9.-]*-ad.sm.cn/
-/[a-zA-Z0-9.-]*-ad.video.yximgs.com/
-/[a-zA-Z0-9.-]*-ad.wtzw.com/
-/[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com/
-/[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com/
-/[a-zA-Z0-9.-]*-normal.zijieapi.com/
