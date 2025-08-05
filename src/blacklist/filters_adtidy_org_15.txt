@@ -126505,6 +126505,20 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/428
 ! CNAME: paymaya.customlinks.appsflyer.com
 @@||official.paymaya.com^|
+! https://github.com/AdguardTeam/ilter/issues/468
+@@||links.getblueshift.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/453
+@@||click.trafficguard.ai^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/441
+@@||hb.afl.rakuten.co.jp^|
+@@||pt.afl.rakuten.co.jp^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/62583
+@@||proto2ad.durasite.net^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/62780
+@@||tags.crwdcntrl.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/428
+! CNAME: paymaya.customlinks.appsflyer.com
+@@||official.paymaya.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1499
 @@|statcounter.com^|
 @@||www.statcounter.com^|
