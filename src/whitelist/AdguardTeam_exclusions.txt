@@ -1,3 +1,48 @@
+! https://github.com/AdguardTeam/AdguardFilters/commit/a55eb73eb0439f7d95a7981457172f0f059569ff#commitcomment-163113893
+||usefathom.com^
+||bentonow.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/210099
+||i.posthog.com^
+! https://github.com/AdguardTeam/CoreLibs/issues/1971#issuecomment-3131079404
+||veta.naver.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/209715
+||marketo.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/209795
+||sstats.bitdefender.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1919
+||datacaciques.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/207941
+||sstats.adobe.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/207905
+||dogo.intel.com^
+! https://github.com/hagezi/dns-blocklists/issues/6459
+||mairdumont.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1905
+||betfair.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1895
+||eu-mobile.events.data.microsoft.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1900
+||firstpromoter.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1898
+||brevo.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/205818
+||exactag.com^
+! https://github.com/hagezi/dns-blocklists/issues/6286
+||s.sick.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1888
+||flaviar.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1884
+||vivocha.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1882
+||click.ru^
+! https://github.com/AdguardTeam/AdguardFilters/issues/203738
+||sw.broadcom.com^
+! https://github.com/Cats-Team/AdRules/issues/225
+||discord.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1857
+||shrinkearn.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1843
+||convertbox.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1860
 ||bigpulpit.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/199829
@@ -403,8 +448,6 @@
 ||insight.rapid7.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/727
 ||ipcheck.tmgrup.com.tr^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/724
-||analytics.google.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/88390
 ||airbrake.io^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/723
@@ -826,60 +869,6 @@ pingdom.net
 ! Fixing Spotify redirect
 adj.st
 ! https://github.com/AdguardTeam/AdguardDNS/issues/278
-ezoic.net
-! https://github.com/AdguardTeam/AdguardDNS/issues/269#issuecomment-381627885
-apptimize.com
-brahe.apptimize.com
-! blocked by DNS
-olymptrade.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/13834
-onthe.io
-! https://github.com/AdguardTeam/AdguardDNS/issues/247
-confirmit.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/11931
-comagic.ru
-! Fixing video player on estream.to
-estream.to
-! https://github.com/AdguardTeam/AdguardFilters/issues/10136
-adtechus.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/9241
-statuscake.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/9748
-impact-ad.jp
-! https://github.com/AdguardTeam/AdguardFilters/issues/9668
-cxense.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/9130
-popin.cc
-! https://forum.adguard.com/index.php?threads/tubepornkiss-com-nsfw.27807/
-webclicks24.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/9154
-loader.adrelayer.com
-! ads replacement on lenta.ru
-ssp.rambler.ru
-! https://github.com/AdguardTeam/AdguardFilters/issues/8872
-rtoaster.jp
-! https://github.com/AdguardTeam/AdguardFilters/issues/8698
-seosprint.net
-! https://github.com/AdguardTeam/AdguardFilters/issues/8469
-eroterest.net
-! See customer ID: 1693928
-||wipe.de
-! some sites are broken with DNS filtering
-piguiqproxy.com
-amgload.net
-! https://github.com/AdguardTeam/AdguardDNS/issues/196
-neobux.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/7161
-hellywood.ru
-! https://forum.adguard.com/index.php?threads/25831/
-heroeswm.ru
-! https://github.com/AdguardTeam/AdguardFilters/issues/7061
-||mixpanel.com^
-! https://github.com/AdguardTeam/AdguardDNS/issues/191
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1731
-||adjust.com^
-||app.adjust.net.in^
-! https://github.com/AdguardTeam/AdguardFilters/i/AdguardTeam/AdguardDNS/issues/278
 ezoic.net
 ! https://github.com/AdguardTeam/AdguardDNS/issues/269#issuecomment-381627885
 apptimize.com
