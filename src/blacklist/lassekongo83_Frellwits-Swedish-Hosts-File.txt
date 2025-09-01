@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-08-02 05:54:08 CEST
-# entries:        1137
+# last updated:   2025-09-01 06:54:33 CEST
+# entries:        1150
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -59,7 +59,6 @@
 127.0.0.1 ads.leovegas.com
 127.0.0.1 ads.mainloop.net
 127.0.0.1 ads.motorvarlden.se
-127.0.0.1 ads.mrgreen.com
 127.0.0.1 ads.nordreportern.se
 127.0.0.1 ads.playpilot.com
 127.0.0.1 ads.pubmatic.com
@@ -113,6 +112,7 @@
 127.0.0.1 analytics.apotekhjartat.se
 127.0.0.1 analytics.arvika.se
 127.0.0.1 analytics.ciseway.se
+127.0.0.1 analytics.citreamedia.com
 127.0.0.1 analytics.clickdimensions.com
 127.0.0.1 analytics.codigo.se
 127.0.0.1 analytics.elle.se
@@ -164,12 +164,14 @@
 127.0.0.1 api3847.d41.co
 127.0.0.1 app.converdiant.com
 127.0.0.1 app.interactiveads.ai
+127.0.0.1 app.nocodelytics.com
 127.0.0.1 app.truconversion.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 app3.salesmanago.pl
 127.0.0.1 applets.ebxcdn.com
 127.0.0.1 apps.shareaholic.com
 127.0.0.1 apps-cdn.relevant-digital.com
+127.0.0.1 app.visitor-analytics.io
 127.0.0.1 apsislead.com
 127.0.0.1 aquaplatform.com
 127.0.0.1 arbetaren.innocraft.cloud
@@ -180,6 +182,7 @@
 127.0.0.1 assets.heylink.com
 127.0.0.1 assets.revcontent.com
 127.0.0.1 assets.strossle.com
+127.0.0.1 assets.zubitracker.io
 127.0.0.1 as-sec.casalemedia.com
 127.0.0.1 auction-release.mlpapi.com
 127.0.0.1 audience.systems
@@ -195,6 +198,7 @@
 127.0.0.1 banners.instaforex.com
 127.0.0.1 banners.wsnonline.dk
 127.0.0.1 bannersnack.com
+127.0.0.1 bb-pbc.mainroll.com
 127.0.0.1 bc.marfeelcache.com
 127.0.0.1 bcm.interactives.dk
 127.0.0.1 bellmetric.net
@@ -254,6 +258,7 @@
 127.0.0.1 cdn.adt532.com
 127.0.0.1 cdn.adt545.net
 127.0.0.1 cdn.adt567.net
+127.0.0.1 cdn.adt574.com
 127.0.0.1 cdn.adt598.com
 127.0.0.1 cdn.adtrue.com
 127.0.0.1 cdn.advisible.com
@@ -316,6 +321,7 @@
 127.0.0.1 cdn-header-bidding.snack-media.com
 127.0.0.1 cdn-magiclinks.trackonomics.net
 127.0.0.1 cdn-scripts.signifyd.com
+127.0.0.1 cdn.confiant-integrations.net
 127.0.0.1 cdn.dep-x.com
 127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.lrkt-in.com
@@ -437,6 +443,7 @@
 127.0.0.1 embi-media.com
 127.0.0.1 emea.hhkld.com
 127.0.0.1 emea.viadata.store
+127.0.0.1 eniro-cdn.relevant-digital.com
 127.0.0.1 etc-cdn-staging.ams3.digitaloceanspaces.com
 127.0.0.1 eum.instana.io
 127.0.0.1 europe-west1-bonnier-big-data.cloudfunctions.net
@@ -481,6 +488,7 @@
 127.0.0.1 get.optad360.io
 127.0.0.1 get.s-onetag.com
 127.0.0.1 glitnoraffiliates.elb.myaffiliates.com
+127.0.0.1 go.affiliationcloud.com
 127.0.0.1 go.ezodn.com
 127.0.0.1 go.ezoic.net
 127.0.0.1 graphics.adrecord.com
@@ -572,6 +580,7 @@
 127.0.0.1 lifeofsvea.mainroll.com
 127.0.0.1 litix.io
 127.0.0.1 live.demand.supply
+127.0.0.1 load.a.receptskatt.se
 127.0.0.1 load.sumome.com
 127.0.0.1 loadbalancer.visitor-analytics.io
 127.0.0.1 loader.wisepops.com
@@ -583,6 +592,7 @@
 127.0.0.1 log-api.newrelic.com
 127.0.0.1 longchampstockholm.com.se
 127.0.0.1 look.ufinkln.com
+127.0.0.1 ls.dycdn.net
 127.0.0.1 lwadm.com
 127.0.0.1 m.extellio.com
 127.0.0.1 m1.analytics.sitevision-cloud.se
@@ -629,6 +639,7 @@
 127.0.0.1 mtv.hb.omtrdc.net
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 my.hellobar.com
+127.0.0.1 my.rtmark.net
 127.0.0.1 n.dyntrk.com
 127.0.0.1 native.sharethrough.com
 127.0.0.1 network.ad.nu
@@ -684,7 +695,6 @@
 127.0.0.1 prd-collector-platform.ex.co
 127.0.0.1 premium.analys.cloud
 127.0.0.1 prg.smartadserver.com
-127.0.0.1 privalytic.com
 127.0.0.1 protagcdn.com
 127.0.0.1 proxyas.com
 127.0.0.1 pubads.g.doubleclick.net
@@ -697,6 +707,7 @@
 127.0.0.1 push-notifications.top
 127.0.0.1 pxl.host
 127.0.0.1 r.existenz.se
+127.0.0.1 r1.ddlnk.net
 127.0.0.1 rabble-res.cloudinary.com
 127.0.0.1 recirculation.spot.im
 127.0.0.1 redistats.com
@@ -761,6 +772,7 @@
 127.0.0.1 scripts.makeinfluence.com
 127.0.0.1 scripts.mediavine.com
 127.0.0.1 scripts.simpleanalyticscdn.com
+127.0.0.1 scripts.stay22.com
 127.0.0.1 scripts.opti-digital.com
 127.0.0.1 script.e-space.se
 127.0.0.1 sdk.pulse.schibsted.com
@@ -832,6 +844,7 @@
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 statistics.heltenkelt.se
 127.0.0.1 statistik.blogg1.se
+127.0.0.1 statistik.jagareforbundet.se
 127.0.0.1 statistik.sailguide.com
 127.0.0.1 statistik.svenskaakademien.se
 127.0.0.1 stats.agrar.nu
@@ -998,7 +1011,6 @@
 127.0.0.1 tracking.illvet.se
 127.0.0.1 tracking.inboxads.com
 127.0.0.1 tracking.jp.se
-127.0.0.1 tracking.kalmarposten.se
 127.0.0.1 tracking.klt.nu
 127.0.0.1 tracking.kpwebben.se
 127.0.0.1 tracking.kristianstadsbladet.se
@@ -1050,21 +1062,6 @@
 127.0.0.1 tracking.vetlandaposten.se
 127.0.0.1 tracking.viivilla.se
 127.0.0.1 tracking.visitorsvoice.com
-127.0.0.1 tracking.vlt.se
-127.0.0.1 tracking.vn.se
-127.0.0.1 tracking.ystadsallehanda.se
-127.0.0.1 tracking.etidning.fagersta-posten.se
-127.0.0.1 tracking.fagersta-posten.se
-127.0.0.1 tradecore.tradehouse.media
-127.0.0.1 traffic.feedremedy.com
-127.0.0.1 trafficgateway.research-int.se
-127.0.0.1 trckr.nordiskemedier.dk
-127.0.0.1 trckr1.nordiskemedier.dk
-127.0.0.1 trugaze.io
-127.0.0.1 try.abtasty.com
-127.0.0.1 tt.onthe.io
-127.0.0.1 turbolion.io
-12racking.visitorsvoice.com
 127.0.0.1 tracking.vlt.se
 127.0.0.1 tracking.vn.se
 127.0.0.1 tracking.ystadsallehanda.se

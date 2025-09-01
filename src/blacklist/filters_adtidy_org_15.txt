@@ -137988,6 +137988,43 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/602
 ! Don't block clicks in AWS emails
 @@||email.awscloud.com^|
+! https://github.com/AdguardTeam/s.adsterra.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/759
+! Blocked by CNAME impactradius.com
+@@||goto.target.com^|
+@@||goto.walmart.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/743
+@@||citiintl.122.2o7.net^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/805
+@@||ma135-r.analytics.edgekey.net^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/89190
+@@||79423.analytics.edgekey.net^|
+!
+! Blocked by CNAME ||leadpages.net^$third-party
+! https://github.com/AdguardTeam/AdguardFilters/issues/98565
+@@||classliving.lpages.co^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/829
+@@||home.focusatwill.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/707
+@@||health.halodoc.com^|
+!
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/709
+@@||promo.gramedia.com^|
+! https://github.com/AdguardTeam/AdguardFilters/issues/81939
+@@||support-beacon.nakanohito.jp^|
+@@||support-widget.nakanohito.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/660
+@@||afi-b.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/pull/636
+@@||daikoku.ebis.ne.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/629
+@@||envato.market^|
+! https://github.com/AdguardTeam/AdguardFilters/pull/76413
+! whitelist as click-through
+@@||ac.ebis.ne.jp^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/602
+! Don't block clicks in AWS emails
+@@||email.awscloud.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/574
 ! Blocked by ||relevant-digital.com^
 @@||oneline.nextday.media^|
