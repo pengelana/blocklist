@@ -1,6 +1,8 @@
 //
 // HTTPS exclusions, necessary to resolve specific issues
 //
+// https://github.com/AdguardTeam/AdguardFilters/issues/211633
+api.github.com$app=Discord.exe
 // https://github.com/AdguardTeam/HttpsExclusions/issues/659
 relays.syncthing.net
 discovery-announce-v4.syncthing.net
