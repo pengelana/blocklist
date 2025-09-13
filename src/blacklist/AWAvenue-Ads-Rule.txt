@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 853
+!Total lines: 859
 !Version: 1.6.8-release
-!Update time: 2025-08-03 17:29:46 UTC+8
-!Update content: 修复读取规则的小问题
+!Update time: 2025-09-08 17:44:58 UTC+8
+!Update content: Update Geosite.py
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -180,8 +180,8 @@
 ||analytics.woozooo.com^
 ||analyticsengine.s3.amazonaws.com^
 ||analyze.lemurbrowser.com^
-||android.bugly.qq.com^
 ||andrqd.play.aiseet.atianqi.com^
+||ap.dongdianqiu.com^
 ||ap.dongqiudi.com^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
@@ -240,8 +240,10 @@
 ||bgg.baidu.com^
 ||bianxian.com^
 ||bingads.microsoft.com^
+||biz.weibo.com^
 ||bj.ad.track.66mobi.com^
 ||books-analytics-events.apple.com^
+||bootpreload.uve.weibo.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
 ||bsrv.qq.com^
 ||bugly.qq.com^
@@ -379,6 +381,7 @@
 ||heads-ak.spotify.com.edgesuite.net^
 ||heads-fa.spotify.com^
 ||hexagon-analytics.com^
+||hlog.bigda.com^
 ||hm.baidu.com^
 ||hmma.baidu.com^
 ||hotupgrade.hpplay.cn^
@@ -514,6 +517,7 @@
 ||mini-prog-drm.vodplayvideo.net^
 ||mission-pub.smart-tv.cn^
 ||miui-fxcse.avlyun.com^
+||mlog.bigda.com^
 ||mmgame.qpic.cn^
 ||mnqlog.ldmnq.com^
 ||moatads.com^
@@ -522,6 +526,7 @@
 ||mobads.baidu.com^
 ||mobaliyun.res.mgtv.com^
 ||mobile.da.mgtv.com^
+||mobilead.kuwo.cn^
 ||mobilelog.upqzfile.com^
 ||monitor-ads-test.huan.tv^
 ||monitor-uu.play.aiseet.atianqi.com^
@@ -678,11 +683,6 @@
 ||snowflake.qq.com^
 ||staging-notify.sec.miui.com^
 ||stat.dongqiudi.com^
-||stat.y.qq.com^
-||static-s.iqiyi.com^
-||static.ads-twitter.com^
-||statics.woozooo.com^
-||staom^
 ||stat.y.qq.com^
 ||static-s.iqiyi.com^
 ||static.ads-twitter.com^
