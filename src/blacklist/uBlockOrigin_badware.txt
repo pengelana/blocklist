@@ -5903,11 +5903,14 @@ uploadfox.net###ad-gs-05
 /^https?:\/\/[-a-z]{4,}\.org[-.][-a-z0-9]{2,}\.[a-z]{2,6}\//$doc,to=cc|cfd|cyou|icu|live|online|shop|top|vip|win|world|xin
 /^https?:\/\/(?:[-a-z]{4,}\.)?gov[-.][-a-z0-9]{2,}\.[a-z]{2,6}\//$doc,to=cc|cfd|cyou|icu|live|online|shop|top|vip|win|world|xin
 !#if env_safari
-/^https?:\/\/[-a-z][-a-z][-a-z][-a-z]+\.com[-.][-a-z0-9][-a-z0-9]+\.[a-z][a-z][a-z]?[a-z]?[a-z]?[a-z]?\//$doc,to=cc|cfd|cyou|icu|live|online|shop|top|vip|win|world|xin
-/^https?:\/\/[-a-z][-a-z][-a-z][-a-z]+\.org[-.][-a-z0-9][-a-z0-9]+\.[a-z][a-z][a-z]?[a-z]?[a-z]?[a-z]?\//$doc,to=cc|cfd|cyou|icu|live|online|shop|top|vip|win|world|xin
-/^https?:\/\/[-a-z][-a-z][-a-z][-a-z]+\.gov[-.][-a-z0-9][-a-z0-9]+\.[a-z][a-z][a-z]?[a-z]?[a-z]?[a-z]?\//$doc,to=cc|cfd|cyou|icu|live|online|shop|top|vip|win|world|xin
-/^https?:\/\/gov[-.][-a-z0-9][-a-z0-9]+\.[a-z][a-z][a-z]?[a-z]?[a-z]?[a-z]?\//$doc,to=cc|cfd|cyou|icu|live|online|shop|top|vip|win|world|xin
+/^https?:\/\/[-a-z][-a-z][-a-z][-a-z]+\.com[-.][-a-z0-9][-a-z0-9]+\.[a-z]+\//$doc,to=cc|cfd|cyou|icu|live|online|shop|top|vip|win|world|xin
+/^https?:\/\/[-a-z][-a-z][-a-z][-a-z]+\.org[-.][-a-z0-9][-a-z0-9]+\.[a-z]+\//$doc,to=cc|cfd|cyou|icu|live|online|shop|top|vip|win|world|xin
+/^https?:\/\/[-a-z][-a-z][-a-z][-a-z]+\.gov[-.][-a-z0-9][-a-z0-9]+\.[a-z]+\//$doc,to=cc|cfd|cyou|icu|live|online|shop|top|vip|win|world|xin
+/^https?:\/\/gov[-.][-a-z0-9][-a-z0-9]+\.[a-z]+\//$doc,to=cc|cfd|cyou|icu|live|online|shop|top|vip|win|world|xin
 !#endif
+! https://www.reddit.com/r/phishing/comments/1nk0gvx/is_this_a_scam_or_a_fake_message/
+! https://www.virustotal.com/gui/url/b428e461d719401be48bd5a84f976e5a16b09147484379f4c4e43c1bd76dc8bd
+||secure.mygov.$doc,to=top
 
 ! https://urlscan.io/search/#hash%3Ac3ddb433947ffba704fab581e16dd5a0d246c9861d169aca184266f7dc2cdff4
 /^https:\/\/[a-z]{7,8}\.[a-z]{2,8}\/[!.+,=?@\[][\/0-9a-z]{20,30}\.[-a-z]{2,7}$/$doc,to=agency|art|asia|auction|bar|beauty|beer|best|biz|business|cam|cards|click|cloud|coupons|digital|diy|fashion|food|forum|gay|guru|info|life|live|living|link|ltd|my|property|pw|rocks|run|sbs|shop|store|studio|tattoo|tech|today|top|uno|work,match-case
@@ -6266,3 +6269,14 @@ $doc,ipaddress=185.216.143.121
 
 ! https://urlscan.io/result/019950cd-edee-7578-9a4a-4647a972566f/
 /^https:\/\/pub-[0-9a-f]{32}\.r2\.dev\/(?=[-%0-9a-z]*[A-Z])[-%0-9A-Za-z]+-\d+\.html$/$doc,domain=r2.dev,match-case
+
+! https://www.reddit.com/r/TradingView/comments/1neegby/the_scam_tradingview_ads_are_now_on_reddit/
+! https://www.virustotal.com/gui/url/ec0e80c1355249269c6e8b9a13d3033bfa876f8c7af2041be4991f9ee9aea7d8
+||tradingsview.net^$all
+
+! https://www.reddit.com/r/phishing/comments/1nhn8yi/spam_text_message/
+! https://www.reddit.com/r/phishing/comments/1njh1dc/branching_out_arent_they_americans_are_being/
+! https://www.virustotal.com/gui/url/1fe26e239d62ea4fc24fe85b39f589060df781fa07aa5d085c26bcf42a24f3f5
+! https://www.virustotal.com/gui/url/53044a78745fc650f95c619a5557e240bb4386a6ec8301fcfebb2d69fa7d800b
+||florida.revenue-*.net^$all
+||phila.revenue*.cc^$all
