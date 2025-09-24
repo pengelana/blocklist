@@ -1,0 +1,29 @@
+#################################################################
+#		Validin Threat Intelligence Platform		#
+#								#
+#	DNS history to track and discover digital threats	#
+#								#
+#			Feed of phish-domains			#
+#								#
+#								#
+#	Site: https://validin.com				#
+#	Platform: https://app.validin.com/portal		#
+#								#
+#								#
+#################################################################
+
+# Note: continuation of /validin-phish-feed.txt, /validin-phish-feed-1.txt, /validin-phish-feed-2.txt, /validin-phish-feed-3.txt files
+
+# Reference: https://x.com/DSLab_Ukraine/status/1970477588523938239
+# Reference: FAVICON=5e1f5addac24d740cec0c41d5f99cd20
+
+member00121.workers.dev
+vbl2z0mp7atvxhoo23vr8jvoi4hx77hsotj5vppjv90tpxh1dzwywqs7b40xyc2.workers.dev
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7401
+
+l-1password.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7402
+
+servicestelle-bzst.de
