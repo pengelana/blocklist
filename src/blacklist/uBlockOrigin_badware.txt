@@ -6275,7 +6275,7 @@ $doc,ipaddress=185.216.143.121
 ||tradingsview.net^$all
 
 ! https://www.reddit.com/r/phishing/comments/1nhn8yi/spam_text_message/
-! https://www.reddit.com/r/phishing/comments/1njh1dc/branching_s/issues/212534
+! https://www.reddit.com/r/phishing/comments/1njh1dc/branching_ilters/issues/212534
 ||problems-center.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/29985
@@ -6319,5 +6319,16 @@ $doc,ipaddress=185.216.143.121
 
 ! https://github.com/uBlockOrigin/uAssets/issues/30153
 ! https://github.com/uBlockOrigin/uAssets/issues/30149
-/^https://gitcoin-[a-z]{1,}\.com/?$/$all,reason="Blatant scammers who are not related to GitHub or Gitcoin whatsoever."
-/^https://[a-z]{1,}-gitcoin\.com/?$/$all,reason="Blatant scammers who are not related to GitHub or Gitcoin whatsoever."
+/^https?:\/\/gitcoin-[a-z]+\.com\//$all,reason="Blatant scammers who are not related to GitHub or Gitcoin whatsoever."
+/^https?:\/\/[a-z]+-gitcoin\.com\//$all,reason="Blatant scammers who are not related to GitHub or Gitcoin whatsoever."
+
+! https://safeweb.norton.com/report?url=paradlgm.com
+||paradlgm.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/30162
+-ledger.live^$doc
+||guarda.dev^$all
+||guardan.io^$all
+||official-ledger.live^$all
+||install-ledger.live^$all
+||en-ledger-install.com^$all
