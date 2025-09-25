@@ -6275,7 +6275,10 @@ $doc,ipaddress=185.216.143.121
 ||tradingsview.net^$all
 
 ! https://www.reddit.com/r/phishing/comments/1nhn8yi/spam_text_message/
-! https://www.reddit.com/r/phishing/comments/1njh1dc/branching_ilters/issues/212534
+! https://www.reddit.com/r/phishing/comments/1njh1dc/branching_got_this/
+||annonumapp.com^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/212534
 ||problems-center.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/29985
@@ -6332,3 +6335,13 @@ $doc,ipaddress=185.216.143.121
 ||official-ledger.live^$all
 ||install-ledger.live^$all
 ||en-ledger-install.com^$all
+
+! https://x.com/masaomi346/status/1971010622897914055
+/^https:\/\/[a-z]{5,10}\.[a-z]{5,10}\.[a-z]{3}\/y1\.html$/$doc,match-case,to=com|top|~weebly.com
+://www.*.pro/y1.html|$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/30176
+! https://www.virustotal.com/gui/url/4bec3c4503a93685de3997ad2107ecf9108570d08c6b121b29d401a8a18afa35 - tagesschau.de
+||nachdiewelt.click^$all
+||seloriva.com^$doc
+||seloriva.net^$doc
