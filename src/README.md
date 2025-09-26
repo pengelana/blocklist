@@ -254,7 +254,7 @@
 [NOK ]         0 src/blacklist/redwarden.txt
 [ OK ]         8 src/blacklist/robloxcore.txt
 [ OK ]        26 src/blacklist/rogue_dns.txt
-[ OK ]   122,226 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
+[ OK ]   125,063 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
 [ OK ]    20,925 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]     2,169 src/blacklist/savvyseahorse_tds.txt
 [ OK ]        15 src/blacklist/scareware.txt
@@ -273,7 +273,7 @@
 [ OK ]        23 src/blacklist/telekopye_scamtool.txt
 [ OK ]     3,131 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]     1,921 src/blacklist/upx_tds.txt
-[ OK ]       704 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       692 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,304 src/blacklist/validin-phish-feed-1.txt
 [ OK ]    94,391 src/blacklist/validin-phish-feed-2.txt
 [ OK ]   119,099 src/blacklist/validin-phish-feed-3.txt
@@ -298,19 +298,19 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,605,570
-Filter Duplicates   : 2,657,938
-External Whitelist  : 2,530,909
-Filter Whitelist    : 2,530,850
-Import Blacklist    : 2,531,414
-Compressed          : 2,197,166
+Total Blacklist     : 3,608,395
+Filter Duplicates   : 2,658,292
+External Whitelist  : 2,531,263
+Filter Whitelist    : 2,531,204
+Import Blacklist    : 2,531,768
+Compressed          : 2,197,516
 
    LENGTH     COUNT
-        2 1,559,207
-        3   535,910
-        4    80,647
-        5    18,307
-        6     2,157
+        2 1,559,490
+        3   535,975
+        4    80,649
+        5    18,308
+        6     2,156
         7       724
         8       138
         9        36
@@ -325,7 +325,7 @@ Compressed          : 2,197,166
        18         3
        19         3
 
-Total Blocklist     : 2,197,166
+Total Blocklist     : 2,197,516
 
 ~~~
 
