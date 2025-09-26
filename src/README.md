@@ -238,7 +238,6 @@
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]         2 src/blacklist/perfaudcore.txt
 [ OK ]        37 src/blacklist/perswaysion.txt
-[ OK ]   464,278 src/blacklist/phishing-domains-ACTIVE.txt
 [ OK ]   138,763 src/blacklist/phishing_army_blocklist_extended.txt
 [NOK ]         0 src/blacklist/phonyc2.txt
 [NOK ]         0 src/blacklist/pinnaclecore.txt
@@ -278,7 +277,7 @@
 [ OK ]   108,304 src/blacklist/validin-phish-feed-1.txt
 [ OK ]    94,391 src/blacklist/validin-phish-feed-2.txt
 [ OK ]   119,099 src/blacklist/validin-phish-feed-3.txt
-[ OK ]    19,223 src/blacklist/validin-phish-feed-4.txt
+[ OK ]    19,241 src/blacklist/validin-phish-feed-4.txt
 [ OK ]     1,710 src/blacklist/validin-phish-feed-crissmonovmcom.txt
 [ OK ]    74,574 src/blacklist/validin-phish-feed-phishydnstxt-1.txt
 [ OK ]    69,031 src/blacklist/validin-phish-feed-phishydnstxt-2.txt
@@ -299,34 +298,34 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 4,069,830
-Filter Duplicates   : 3,087,112
-External Whitelist  : 2,952,039
-Filter Whitelist    : 2,951,977
-Import Blacklist    : 2,952,532
-Compressed          : 2,568,708
+Total Blacklist     : 3,605,570
+Filter Duplicates   : 2,657,938
+External Whitelist  : 2,530,909
+Filter Whitelist    : 2,530,850
+Import Blacklist    : 2,531,414
+Compressed          : 2,197,166
 
    LENGTH     COUNT
-        2 1,693,020
-        3   720,093
-        4   110,492
-        5    38,457
-        6     4,548
-        7     1,307
-        8       327
-        9       145
-       10        42
-       11        22
-       12        12
-       13       126
-       14        10
-       15        82
-       16         9
-       17         2
+        2 1,559,207
+        3   535,910
+        4    80,647
+        5    18,307
+        6     2,157
+        7       724
+        8       138
+        9        36
+       10        20
+       11         4
+       12         3
+       13         2
+       14         2
+       15         1
+       16         1
+       17         1
        18         3
-       19        11
+       19         3
 
-Total Blocklist     : 2,568,708
+Total Blocklist     : 2,197,166
 
 ~~~
 
