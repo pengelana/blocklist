@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 May 2025 13:57 UTC+7
-# Version: 2505221357
-# Blocked: 1.765 domains
+# Last modified: 29 Sep 2025 10:33 UTC+7
+# Version: 2509291033
+# Blocked: 1.773 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1264,6 +1264,12 @@
 0.0.0.0 logfr.vietnamplus.vn
 0.0.0.0 logru.vietnamplus.vn
 0.0.0.0 logzh.vietnamplus.vn
+0.0.0.0 dantocmiennui-log.baotintuc.vn
+0.0.0.0 en-log.vietnamplus.vn
+0.0.0.0 es-log.vietnamplus.vn
+0.0.0.0 fr-log.vietnamplus.vn
+0.0.0.0 ru-log.vietnamplus.vn
+0.0.0.0 zh-log.vietnamplus.vn
 #[dantocmiennui.vn]
 0.0.0.0 log.dantocmiennui.vn
 0.0.0.0 logkm.dantocmiennui.vn
@@ -1408,7 +1414,7 @@
 #[adlinknetwork.vn]
 0.0.0.0 service.adlinknetwork.vn
 0.0.0.0 syndication.adlinknetwork.vn
-#[vdacdn2.viettel.vn]
+#[vdacdn*.viettel.vn]
 0.0.0.0 vdacdn1.viettel.vn
 0.0.0.0 vdacdn2.viettel.vn
 #[vda.viettel.vn]
@@ -1419,6 +1425,9 @@
 #[tv360.vn]
 0.0.0.0 log.tv360.vn
 0.0.0.0 pubads-wiinvent.tv360.vn
+#[shopee.vn]
+0.0.0.0 log-collector.shopee.vn
+0.0.0.0 userstats.shopee.vn
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -1438,7 +1447,6 @@
 0.0.0.0 adchoice.com
 0.0.0.0 adclient.vietnamnetjsc.vn
 0.0.0.0 addtop.trangvangvietnam.com
-0.0.0.0 adhub.mobifone.vn
 0.0.0.0 adm.phunusuckhoe.vn
 0.0.0.0 adm.phunuvagiadinh.vn
 0.0.0.0 admin.giaminhmedia.vn
@@ -1484,6 +1492,7 @@
 0.0.0.0 ads.laodongnghean.vn
 0.0.0.0 ads.markettimes.vn
 0.0.0.0 ads.marry.vn
+0.0.0.0 ads.msdigital.vn
 0.0.0.0 ads.nghenhinvietnam.vn
 0.0.0.0 ads.nguoiduatin.vn
 0.0.0.0 ads.nhadatmoi.net
@@ -1549,7 +1558,6 @@
 0.0.0.0 avoadsservices.com
 0.0.0.0 ax.mpcdn.top
 0.0.0.0 banner.5giay.vn
-0.0.0.0 banner.etargeting.mobifone.vn
 0.0.0.0 banner.thadaco.vn
 0.0.0.0 banner.trangvangvietnam.com
 0.0.0.0 banner.uto.vn
@@ -1574,6 +1582,7 @@
 0.0.0.0 deqik.com
 0.0.0.0 dt.vnecdn.com
 0.0.0.0 duamilsyr.com
+0.0.0.0 farawayinstallation.com
 0.0.0.0 financial-agent.headlines.pw
 0.0.0.0 fzip.thanhnien.vn
 0.0.0.0 go.vnecdn.com
@@ -1747,7 +1756,6 @@
 0.0.0.0 live.careplusvn.com
 0.0.0.0 live.vnpgroup.net
 0.0.0.0 liveonline.nhanhoa.com
-0.0.0.0 log-collector.shopee.vn
 0.0.0.0 log-dttc.sggp.org.vn
 0.0.0.0 log-en.nhandan.vn
 0.0.0.0 log-en.sggp.org.vn
@@ -1761,6 +1769,7 @@
 0.0.0.0 log.baodatviet.vn
 0.0.0.0 log.baodauthau.vn
 0.0.0.0 log.baogialai.com.vn
+0.0.0.0 log.baohatinh.vn
 0.0.0.0 log.baolaocai.vn
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.baonghean.vn
@@ -1785,6 +1794,7 @@
 0.0.0.0 log.lichviet.org
 0.0.0.0 log.mekongasean.vn
 0.0.0.0 log.ngaynay.vn
+0.0.0.0 log.nguoimuanha.vn
 0.0.0.0 log.nhandan.vn
 0.0.0.0 log.nhipcaudautu.vn
 0.0.0.0 log.oto.com.vn
@@ -1910,17 +1920,6 @@
 0.0.0.0 tracking.cystack.net
 0.0.0.0 tracking.dantri.com.vn
 0.0.0.0 tracking.fado.vn
-0.0.0.0 tracking.fff.com.vn
-0.0.0.0 tracking.gapone.vn
-0.0.0.0 tracking.hapiwork.vn
-0.0.0.0 tracking.lsvn.vn
-0.0.0.0 tracking.meta.vn
-0.0.0.0 tracking.phunuadong.vn
-0.0.0.0 tracking.saostar.vn
-0.0.0.0 tracking.tekoapis.com
-0.0.0.0 tracking.tinxe.vn
-0.0.0.0 tracking.tuyenquang.gov.vn
-0.0.0.0 tracking.tvet-vietnam.o.0.0.0 tracking.fado.vn
 0.0.0.0 tracking.fff.com.vn
 0.0.0.0 tracking.gapone.vn
 0.0.0.0 tracking.hapiwork.vn
