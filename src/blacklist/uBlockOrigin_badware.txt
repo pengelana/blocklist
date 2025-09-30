@@ -5778,6 +5778,8 @@ uploadfox.net###ad-gs-05
 ||fly.storage.tigris.dev/completing/default-page.html?X-Amz-Algorithm=$doc
 ||fly.storage.tigris.dev/pass-this-security-check.html?X-Amz-Algorithm=$doc
 
+! https://hybrid-analysis.com/sample/a86e82991e518f25534e59f857ea156140b083365eaddthm=$doc
+
 ! https://hybrid-analysis.com/sample/a86e82991e518f25534e59f857ea156140b083365eadd1ee0d88517c2badf766
 ! https://urlscan.io/result/0195d81c-3058-7ff5-b149-2cebebf1b331/
 /amvn_pops/?keyword=$doc
@@ -6035,7 +6037,8 @@ weightlossdiet.top##+js(acs, open, executeCode)
 ! https://urlscan.io/result/01989b3c-4c33-716c-a270-179fa905579f/
 /?js*&f=*&t=$xhr,redirect=noop.txt
 /submit.php?i=*&t=$xhr
-/^https:\/\/api\.[a-z]{20,}\.com\/\?[a-z]{2,3}=[0-9a-f]{32}$/$doc,match-case
+/^https:\/\/api\.[a-z]{2,}\.[a-z]{2,}\/\?[a-z]{2,3}=[0-9a-f]{32}$/$doc,match-case
+://api.*/?zrs=$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/29515
 ! https://www.virustotal.com/gui/url/fc99f6b3ef99669275b4b798eb2bc46cdc4f5f7e09b84e57ba1a2238db3b4795
@@ -6238,3 +6241,8 @@ $doc,ipaddress=185.216.143.121
 ! https://github.com/uBlockOrigin/uAssets/issues/30196
 ! https://www.virustotal.com/gui/url/4ccf93ccfee5d80e50c41befffe6a3cebd0993a9408b8956139de9df59bf2ad0
 ||client.*-blockfi.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/30216
+||v2-app-lido-finance.cc^$all
+||app.v2lido.bond^$all
+||app-lido-finance-v2.com^$all
