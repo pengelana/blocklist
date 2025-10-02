@@ -641,6 +641,11 @@ howtoremove.guide###gray_de
 ||cdnservice.ink^$all
 .co.in/a0x1/?cid=$doc
 
+! https://github.com/uBlockOrigin/uAssets/issues/30246
+/zclkvisitor/*^campaignid=$doc
+||nachhilfeteam.net^$all
+||adalh-zcq.com^$all
+
 ! https://github.com/uBlockOrigin/uAssets/issues/24602
 ! https://safeweb.norton.com/report/show?url=discordvip.createsocialcard.top
 ! https://safeweb.norton.com/report/show?url=discordvip.pages.dev
@@ -4243,6 +4248,9 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||nexprosystems.com^$all
 ! https://www.virustotal.com/gui/url/c0866e0d37947db3044bb377ae5ac782ccbba00e58558eaf932590b44db7b9c7
 ||scanlonchiro.com^$all
+! https://www.virustotal.com/gui/url/010ec70b6c61ab44ab7babace2ce2dfae1a6d854741e5a1a966b56001ad91c11
+||colibriteich.company^$all
+*$doc,ipaddress=178.16.53.131
 
 ! telegram
 ||telegramhcn.com^$all
@@ -4328,7 +4336,6 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 
 ! weebly/square phishing
 /^https:\/\/(?:[a-z0-9]{2,}-)+10\d{4}\.weeblysite\.com\//$doc,to=weeblysite.com
-/^https:\/\/(?:[a-z0-9]{2,}-)+10\d{4}\.square\.site\//$doc,to=square.site
 
 ! spotify
 ||keepo.io/opddater-spotifykonto-informas/$all
@@ -5761,7 +5768,7 @@ uploadfox.net###ad-gs-05
 
 ! https://github.com/AdguardTeam/CoreLibs/issues/1966 Can be removed if it's fixed
 !#if ext_ubol
-/^https:\/\/[a-z]{3,5}\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9a-z]{10}|\d{8})\.html$/$doc,match-case,to=art|baby|boats|buzz|cards|cfd|click|cyou|eu|fit|fun|hair|homes|ink|lat|lol|mom|my|pics|quest|sbs|skin|today|top|world|xyz
+/^https:\/\/[a-z]{3,5}\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9a-z]{10}|\d{8})\.html$/$doc,match-case,to=art|autos|baby|boats|buzz|cards|cfd|click|cyou|eu|fit|fun|hair|homes|ink|lat|lol|mom|my|pics|quest|sbs|skin|today|top|work|world|xyz
 /^https:\/\/[a-z]{4,5}\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9a-z]{10}|\d{8})\.html$/$doc,match-case,to=biz|blog|cc|cloud|club|info|life|live|me|one|online|shop|site|space|store
 !#endif
 
@@ -5777,8 +5784,6 @@ uploadfox.net###ad-gs-05
 ! https://urlscan.io/result/0195d804-d996-7001-8afc-be76c4caf798/related/
 ||fly.storage.tigris.dev/completing/default-page.html?X-Amz-Algorithm=$doc
 ||fly.storage.tigris.dev/pass-this-security-check.html?X-Amz-Algorithm=$doc
-
-! https://hybrid-analysis.com/sample/a86e82991e518f25534e59f857ea156140b083365eaddthm=$doc
 
 ! https://hybrid-analysis.com/sample/a86e82991e518f25534e59f857ea156140b083365eadd1ee0d88517c2badf766
 ! https://urlscan.io/result/0195d81c-3058-7ff5-b149-2cebebf1b331/
@@ -6240,8 +6245,6 @@ $doc,ipaddress=185.216.143.121
 
 ! https://github.com/uBlockOrigin/uAssets/issues/30196
 ! https://www.virustotal.com/gui/url/4ccf93ccfee5d80e50c41befffe6a3cebd0993a9408b8956139de9df59bf2ad0
-||client.*-blockfi.com^$aBlockOrigin/uAssets/issues/30196
-! https://www.virustotal.com/gui/url/4ccf93ccfee5d80e50c41befffe6a3cebd0993a9408b8956139de9df59bf2ad0
 ||client.*-blockfi.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/30216
@@ -6251,3 +6254,4 @@ $doc,ipaddress=185.216.143.121
 
 ! https://github.com/uBlockOrigin/uAssets/issues/30222
 ||network-jpn.com^$all
+||statswpmy.com^$all
