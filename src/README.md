@@ -14,10 +14,6 @@
 [ OK ]    25,848 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       939 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
-[ OK ]       101 src/blacklist/GoodbyeAds-Samsung-AdBlock.txt
-[ OK ]     3,780 src/blacklist/GoodbyeAds-Spotify-AdBlock.txt
-[ OK ]       275 src/blacklist/GoodbyeAds-Xiaomi-Extension.txt
-[ OK ]    97,624 src/blacklist/GoodbyeAds-YouTube-AdBlock.txt
 [ OK ]    54,029 src/blacklist/KADhosts.txt
 [ OK ]         4 src/blacklist/LanikSJ_popads-domains.txt
 [ OK ]       332 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
@@ -238,7 +234,7 @@
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]         2 src/blacklist/perfaudcore.txt
 [ OK ]        37 src/blacklist/perswaysion.txt
-[ OK ]   143,333 src/blacklist/phishing_army_blocklist_extended.txt
+[ OK ]   143,722 src/blacklist/phishing_army_blocklist_extended.txt
 [NOK ]         0 src/blacklist/phonyc2.txt
 [NOK ]         0 src/blacklist/pinnaclecore.txt
 [ OK ]         7 src/blacklist/popup_t.txt
@@ -254,7 +250,7 @@
 [NOK ]         0 src/blacklist/redwarden.txt
 [ OK ]         8 src/blacklist/robloxcore.txt
 [ OK ]        26 src/blacklist/rogue_dns.txt
-[ OK ]    86,673 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
+[ OK ]    86,904 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
 [ OK ]    20,925 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]     2,169 src/blacklist/savvyseahorse_tds.txt
 [ OK ]        15 src/blacklist/scareware.txt
@@ -273,7 +269,7 @@
 [ OK ]        23 src/blacklist/telekopye_scamtool.txt
 [ OK ]     3,078 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]     1,921 src/blacklist/upx_tds.txt
-[ OK ]       707 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       712 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,304 src/blacklist/validin-phish-feed-1.txt
 [ OK ]    93,632 src/blacklist/validin-phish-feed-2.txt
 [ OK ]   119,099 src/blacklist/validin-phish-feed-3.txt
@@ -298,22 +294,22 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,545,463
-Filter Duplicates   : 2,648,221
-External Whitelist  : 2,521,426
-Filter Whitelist    : 2,521,365
-Import Blacklist    : 2,521,948
-Compressed          : 2,187,231
+Total Blacklist     : 3,444,308
+Filter Duplicates   : 2,547,383
+External Whitelist  : 2,420,700
+Filter Whitelist    : 2,420,639
+Import Blacklist    : 2,421,222
+Compressed          : 2,087,983
 
    LENGTH     COUNT
-        2 1,557,616
-        3   530,127
-        4    78,501
-        5    17,943
-        6     2,134
-        7       700
+        2 1,557,917
+        3   443,042
+        4    66,576
+        5    17,639
+        6     2,117
+        7       486
         8       132
-        9        38
+        9        34
        10        19
        11         6
        12         3
@@ -324,7 +320,7 @@ Compressed          : 2,187,231
        18         3
        19         3
 
-Total Blocklist     : 2,187,231
+Total Blocklist     : 2,087,983
 
 ~~~
 
