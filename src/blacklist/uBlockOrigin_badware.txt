@@ -6243,7 +6243,11 @@ $doc,ipaddress=185.216.143.121
 ||seloriva.com^$doc
 ||seloriva.net^$doc
 
-! https://github.com/uBlockOrigin/uAssets/is.de
+! https://github.com/uBlockOrigin/uAssets/is3}\/y1\.html$/$doc,match-case,to=com|top|~weebly.com
+://www.*.pro/y1.html|$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/30176
+! https://www.virustotal.com/gui/url/4bec3c4503a93685de3997ad2107ecf9108570d08c6b121b29d401a8a18afa35 - tagesschau.de
 ||nachdiewelt.click^$all
 ||seloriva.com^$doc
 ||seloriva.net^$doc
@@ -6280,3 +6284,6 @@ $doc,ipaddress=185.216.143.121
 ||rarible.io-nft.guru^$all
 ||rarible.nft-markets.org^$all
 ||pddeploy.com^$all
+
+! https://www.reddit.com/r/antivirus/comments/1o0qpvg/ios_mcafee_and_other_random_scans_while_scrolling/
+||killmalware.click^$all
