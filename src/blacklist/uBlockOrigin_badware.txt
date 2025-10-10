@@ -6243,7 +6243,31 @@ $doc,ipaddress=185.216.143.121
 ||seloriva.com^$doc
 ||seloriva.net^$doc
 
-! https://github.com/uBlockOrigin/uAssets/is3}\/y1\.html$/$doc,match-case,to=com|top|~weebly.com
+! https://github.com/uBlockOrigin/uAssets/is1dc0f77b71867
+||upa1bit.$all
+||upbitbr.$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/30148
+||y-comblnator.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/30153
+! https://github.com/uBlockOrigin/uAssets/issues/30149
+/^https?:\/\/gitcoin-[a-z]+\.com\//$all,reason="Blatant scammers who are not related to GitHub or Gitcoin whatsoever."
+/^https?:\/\/[a-z]+-gitcoin\.com\//$all,reason="Blatant scammers who are not related to GitHub or Gitcoin whatsoever."
+
+! https://safeweb.norton.com/report?url=paradlgm.com
+||paradlgm.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/30162
+-ledger.live^$doc
+||guarda.dev^$all
+||guardan.io^$all
+||official-ledger.live^$all
+||install-ledger.live^$all
+||en-ledger-install.com^$all
+
+! https://x.com/masaomi346/status/1971010622897914055
+/^https:\/\/[a-z]{5,10}\.[a-z]{5,10}\.[a-z]{3}\/y1\.html$/$doc,match-case,to=com|top|~weebly.com
 ://www.*.pro/y1.html|$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/30176
@@ -6287,3 +6311,6 @@ $doc,ipaddress=185.216.143.121
 
 ! https://www.reddit.com/r/antivirus/comments/1o0qpvg/ios_mcafee_and_other_random_scans_while_scrolling/
 ||killmalware.click^$all
+
+! https://x.com/masaomi346/status/1976194339962515575
+.com/SecurityPlugin.zip
