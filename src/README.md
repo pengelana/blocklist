@@ -10,11 +10,11 @@
 [ OK ]    11,118 src/blacklist/AdguardTeam_disguised_microsites_justdomains.txt
 [ OK ]    77,002 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ]       919 src/blacklist/AssoEchap_hosts.txt
-[ OK ]   145,734 src/blacklist/Cats-Team_dns.txt
+[ OK ]   145,994 src/blacklist/Cats-Team_dns.txt
 [ OK ]    25,848 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       939 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
-[ OK ]    55,376 src/blacklist/KADhosts.txt
+[ OK ]    55,134 src/blacklist/KADhosts.txt
 [ OK ]         4 src/blacklist/LanikSJ_popads-domains.txt
 [ OK ]       332 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]     7,115 src/blacklist/Spam404_adblock-list.txt
@@ -30,10 +30,10 @@
 [ OK ]     4,421 src/blacklist/android_hiddad.txt
 [ OK ]        14 src/blacklist/araneida.txt
 [NOK ]         0 src/blacklist/arl.txt
-[ OK ]    44,607 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    44,898 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]         4 src/blacklist/bad_proxy.txt
 [ OK ]     1,108 src/blacklist/bad_script.txt
-[ OK ]     3,283 src/blacklist/bad_service.txt
+[ OK ]     3,284 src/blacklist/bad_service.txt
 [ OK ]     1,773 src/blacklist/bigdargon_hosts-VN.txt
 [NOK ]         0 src/blacklist/bitrixcore.txt
 [ OK ]       865 src/blacklist/black_tds.txt
@@ -149,7 +149,7 @@
 [ OK ]         8 src/blacklist/deimos_c2.txt
 [ OK ]       328 src/blacklist/dnstunneling_t.txt
 [ OK ]        10 src/blacklist/domain_shadowing.txt
-[ OK ]     2,837 src/blacklist/durablenapkin_hosts.txt
+[ OK ]     2,817 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,209 src/blacklist/easylist_adservers_popup.txt
 [ OK ]        64 src/blacklist/ek_angler.txt
 [ OK ]        13 src/blacklist/ek_bottle.txt
@@ -189,9 +189,9 @@
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
 [ OK ]         8 src/blacklist/generic_tds.txt
 [ OK ]     1,087 src/blacklist/gophish.txt
-[ OK ]    14,069 src/blacklist/hagezi_fake.txt
-[ OK ]   239,484 src/blacklist/hagezi_multi.txt
-[ OK ]    72,236 src/blacklist/hagezi_popup.txt
+[ OK ]    14,177 src/blacklist/hagezi_fake.txt
+[ OK ]   241,813 src/blacklist/hagezi_multi.txt
+[ OK ]    72,636 src/blacklist/hagezi_popup.txt
 [ OK ]       945 src/blacklist/hak5cloud_c2.txt
 [ OK ]     1,100 src/blacklist/havoc.txt
 [ OK ]        64 src/blacklist/help_tds.txt
@@ -228,13 +228,13 @@
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]        15 src/blacklist/nighthawk.txt
 [ OK ]        10 src/blacklist/nimplant.txt
-[ OK ]    48,606 src/blacklist/oisd_small.txt
+[ OK ]    48,037 src/blacklist/oisd_small.txt
 [ OK ]        14 src/blacklist/openxcore.txt
 [ OK ]        48 src/blacklist/parrot_tds.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]         2 src/blacklist/perfaudcore.txt
 [ OK ]        37 src/blacklist/perswaysion.txt
-[ OK ]   144,738 src/blacklist/phishing_army_blocklist_extended.txt
+[ OK ]   144,661 src/blacklist/phishing_army_blocklist_extended.txt
 [NOK ]         0 src/blacklist/phonyc2.txt
 [NOK ]         0 src/blacklist/pinnaclecore.txt
 [ OK ]         7 src/blacklist/popup_t.txt
@@ -246,11 +246,11 @@
 [NOK ]         0 src/blacklist/python_byob.txt
 [ OK ]       149 src/blacklist/quidsup_notrack-malware.txt
 [NOK ]         0 src/blacklist/redguard.txt
-[ OK ]       991 src/blacklist/redirect_t.txt
+[ OK ]       994 src/blacklist/redirect_t.txt
 [NOK ]         0 src/blacklist/redwarden.txt
 [ OK ]         8 src/blacklist/robloxcore.txt
 [ OK ]        26 src/blacklist/rogue_dns.txt
-[ OK ]   110,969 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
+[ OK ]   111,483 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
 [ OK ]    20,925 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]     2,169 src/blacklist/savvyseahorse_tds.txt
 [ OK ]        15 src/blacklist/scareware.txt
@@ -260,20 +260,20 @@
 [ OK ]    11,807 src/blacklist/someonewhocares_hosts.txt
 [NOK ]         0 src/blacklist/spiderlabs_responder.txt
 [ OK ]    18,111 src/blacklist/stamparm_blackbook.txt
-[ OK ]   583,322 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]    62,967 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]   583,768 src/blacklist/stamparm_maltrail-malware-domains.txt
+[ OK ]    62,973 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]        84 src/blacklist/supershell_c2.txt
 [ OK ]         1 src/blacklist/supremebot.txt
 [ OK ]        56 src/blacklist/sutra_tds.txt
 [ OK ]         3 src/blacklist/swat_c2.txt
 [ OK ]        23 src/blacklist/telekopye_scamtool.txt
-[ OK ]     3,085 src/blacklist/uBlockOrigin_badware.txt
+[ OK ]     3,087 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]     1,921 src/blacklist/upx_tds.txt
-[ OK ]       807 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       964 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,304 src/blacklist/validin-phish-feed-1.txt
 [ OK ]    93,631 src/blacklist/validin-phish-feed-2.txt
 [ OK ]   119,099 src/blacklist/validin-phish-feed-3.txt
-[ OK ]    40,416 src/blacklist/validin-phish-feed-4.txt
+[ OK ]    40,549 src/blacklist/validin-phish-feed-4.txt
 [ OK ]     1,710 src/blacklist/validin-phish-feed-crissmonovmcom.txt
 [ OK ]    74,574 src/blacklist/validin-phish-feed-phishydnstxt-1.txt
 [ OK ]    69,031 src/blacklist/validin-phish-feed-phishydnstxt-2.txt
@@ -294,18 +294,18 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,475,709
-Filter Duplicates   : 2,549,310
-External Whitelist  : 2,422,619
-Filter Whitelist    : 2,422,558
-Import Blacklist    : 2,423,141
-Compressed          : 2,089,773
+Total Blacklist     : 3,479,451
+Filter Duplicates   : 2,550,633
+External Whitelist  : 2,423,942
+Filter Whitelist    : 2,423,881
+Import Blacklist    : 2,424,464
+Compressed          : 2,090,800
 
    LENGTH     COUNT
-        2 1,559,519
-        3   443,208
-        4    66,596
-        5    17,641
+        2 1,560,195
+        3   443,545
+        4    66,609
+        5    17,642
         6     2,117
         7       486
         8       132
@@ -320,7 +320,7 @@ Compressed          : 2,089,773
        18         3
        19         3
 
-Total Blocklist     : 2,089,773
+Total Blocklist     : 2,090,800
 
 ~~~
 
@@ -336,7 +336,7 @@ https://v.firebog.net/hosts/static/w3kbl.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-https://phishing.army/download/phishing_army_blocklist.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://www.botvrij.eu/data/ioclist.domain.raw
 https://www.botvrij.eu/data/ioclist.hostname.raw
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
@@ -359,17 +359,14 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.tx
 https://small.oisd.nl/
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/popads-domains.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_phishing/domains-only/nrd-phishing-30day.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
-https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/clickbait.txt
 https://github.com/romainmarcoux/malicious-domains/raw/refs/heads/main/full-domains-aa.txt
 https://github.com/romainmarcoux/malicious-domains/raw/refs/heads/main/full-domains-ab.txt
-https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs_justdomains.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites_justdomains.txt
@@ -384,15 +381,11 @@ https://v.firebog.net/hosts/RPiList-Malware.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 https://v.firebog.net/hosts/Prigent-Crypto.txt
-https://github.com/scafroglia93/blocklists.git
-https://github.com/stamparm/maltrail.git
-https://github.com/MikhailKasimov/validin-phish-feed.git
 ~~~
 
 # Whitelist
 
 ~~~
-https://data.iana.org/TLD/tlds-alpha-by-domain.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
@@ -416,9 +409,7 @@ https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/
 https://raw.githubusercontent.com/fabriziosalmi/blacklists/refs/heads/main/whitelist.txt
 https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt
 https://raw.githubusercontent.com/Potterli20/file/refs/heads/main/file-hosts/allow/Domains
-https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/refs/heads/master/whitelist.anti/whitelist.anti
-https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/refs/heads/master/whitelist.me/whitelist.me
-https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/refs/heads/master/whitelist.me/whitelist.me.regex
-https://raw.githubusercontent.com/Phishing-Database/Phishing.Database/refs/heads/master/whitelist.me/whitelist.me.rzd
 https://raw.githubusercontent.com/Cats-Team/deadhosts/refs/heads/main/dead.txt
+https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/refs/heads/main/data/dead_domains.txt
+https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/refs/heads/main/data/parked_domains.txt
 ~~~

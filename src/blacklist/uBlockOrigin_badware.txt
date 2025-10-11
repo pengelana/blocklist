@@ -6243,7 +6243,7 @@ $doc,ipaddress=185.216.143.121
 ||seloriva.com^$doc
 ||seloriva.net^$doc
 
-! https://github.com/uBlockOrigin/uAssets/is1dc0f77b71867
+! https://github.com/uBlockOrigin/uAssets/is4b1f733bc0351bb0f803bb5fe2b6ee1afc1dc0f77b71867
 ||upa1bit.$all
 ||upbitbr.$all
 
@@ -6314,3 +6314,10 @@ $doc,ipaddress=185.216.143.121
 
 ! https://x.com/masaomi346/status/1976194339962515575
 .com/SecurityPlugin.zip
+
+! https://www.reddit.com/r/Scams/comments/1o2493i/warning_i_believe_fake_site_impersonating/ - birkenstock.com
+||morganryan.shop^$all
+
+! https://www.reddit.com/r/antivirus/comments/1o29d2k/computer_virus/
+||tring-tring.com^$all
+*$doc,ipaddress=54.38.216.75
