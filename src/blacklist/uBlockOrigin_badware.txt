@@ -6321,3 +6321,16 @@ $doc,ipaddress=185.216.143.121
 ! https://www.reddit.com/r/antivirus/comments/1o29d2k/computer_virus/
 ||tring-tring.com^$all
 *$doc,ipaddress=54.38.216.75
+
+! https://www.reddit.com.com/r/Scams/comments/1o4eusi/us_how_do_i_report_a_fakescam_website_using_a/
+||vero-hr.click^$all
+
+! https://socket.dev/blog/175-malicious-npm-packages-host-phishing-infrastructure
+||jackpotmastersdanske.com^$all
+||musicboxcr.com^$all
+||villasmbuva.co.mz^$all
+||fejyhy.com^$all
+||fenamu.com^$all
+||notwinningbutpartici.com^$all
+||elkendinsc.com^$all
+||unpkg.com/redirect-*/beamglea.js$script
