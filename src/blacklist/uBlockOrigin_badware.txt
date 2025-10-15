@@ -6243,7 +6243,25 @@ $doc,ipaddress=185.216.143.121
 ||seloriva.com^$doc
 ||seloriva.net^$doc
 
-! https://github.com/uBlockOrigin/uAssets/is4b1f733bc0351bb0f803bb5fe2b6ee1afc1dc0f77b71867
+! https://github.com/uBlockOrigin/uAssets/is647a972566f/
+/^https:\/\/pub-[0-9a-f]{32}\.r2\.dev\/(?=[-%0-9a-z]*[A-Z])[-%0-9A-Za-z]+-\d+\.html$/$doc,domain=r2.dev,match-case
+
+! https://www.reddit.com/r/phishing/comments/1nhn8yi/spam_text_message/
+! https://www.reddit.com/r/phishing/comments/1njh1dc/branching_out_arent_they_americans_are_being/
+! https://www.virustotal.com/gui/url/1fe26e239d62ea4fc24fe85b39f589060df781fa07aa5d085c26bcf42a24f3f5
+! https://www.virustotal.com/gui/url/53044a78745fc650f95c619a5557e240bb4386a6ec8301fcfebb2d69fa7d800b
+||florida.revenue-*.net^$all
+||phila.revenue*.cc^$all
+
+! https://www.youtube.com/watch?v=0fpihOP0qJ8
+||bitchats.app^$all
+||bitchat.pro^$all
+||bitchat.live^$all
+||myhuaweicloud.com/app/Bitchat_*.apk$all
+
+! https://www.reddit.com/r/CryptoScams/comments/1nmmlla/scam_alert_fake_upbit_sites_targeting_crypto/
+! https://www.virustotal.com/gui/url/0db497e9253e0414fb8c66c6498cf51c72b9a2d9cfb5a1d27ae8aece2977d4a6
+! https://www.virustotal.com/gui/url/a24806e65d73dabf84b1f733bc0351bb0f803bb5fe2b6ee1afc1dc0f77b71867
 ||upa1bit.$all
 ||upbitbr.$all
 
@@ -6334,3 +6352,12 @@ $doc,ipaddress=185.216.143.121
 ||notwinningbutpartici.com^$all
 ||elkendinsc.com^$all
 ||unpkg.com/redirect-*/beamglea.js$script
+
+! https://x.com/masaomi346/status/1977574611656274143
+.com/article/auth=$doc
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/215430
+||stylexlab.ru^$doc
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/215496
+||marktplaats.ch^$doc
