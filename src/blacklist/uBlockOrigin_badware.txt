@@ -6243,7 +6243,23 @@ $doc,ipaddress=185.216.143.121
 ||seloriva.com^$doc
 ||seloriva.net^$doc
 
-! https://github.com/uBlockOrigin/uAssets/is647a972566f/
+! https://github.com/uBlockOrigin/uAssets/iss/comments/1n22mas/opened_a_website_and_got_this/
+||annonumapp.com^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/212534
+||problems-center.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/29985
+||smnewd.com^$all
+||33ok.club^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/212910
+||protect-myphone.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/30022
+||hltvorg.com^$all
+
+! https://urlscan.io/result/019950cd-edee-7578-9a4a-4647a972566f/
 /^https:\/\/pub-[0-9a-f]{32}\.r2\.dev\/(?=[-%0-9a-z]*[A-Z])[-%0-9A-Za-z]+-\d+\.html$/$doc,domain=r2.dev,match-case
 
 ! https://www.reddit.com/r/phishing/comments/1nhn8yi/spam_text_message/
