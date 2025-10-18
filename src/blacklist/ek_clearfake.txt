@@ -1,7 +1,7 @@
 # Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
-# Aliases: clickfix, filefix, storm-1865
+# Aliases: clickfix, filefix, storm-1865, unc5142
 
 # Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2023-08-28-v10404/902
 
@@ -10801,6 +10801,7 @@ booking-confirmation-id73552.com
 booking-confirmation-id73553.com
 booking-confirmation-id73554.com
 booking-confirmation-id9516.com
+booking-confirmation-id9601.com
 booking-confirmation-id9691.com
 booking-id1458914.com
 booking-id4832.com
@@ -10871,6 +10872,10 @@ clonfrm-regrlv-today.com
 complt-reservation39421.com
 compltroomregistr.com
 confirm-guest091211.com
+confirmatio02265-booking.com
+confirmatio0425-booking.com
+confirmatio0855-booking.com
+confirmatio3325-booking.com
 confirmation-id1422213.com
 confirmation-id1610.com
 confirmation-id1634.com
@@ -10885,8 +10890,10 @@ confirmation-id501328648.com
 confirmation-id5542.com
 confirmation-id6254.com
 confirmation-id627881.com
+confirmation-id62883.com
 confirmation-id643467569.com
 confirmation-id64434569.com
+confirmation-id71902.com
 confirmation-id7421.com
 confirmation-id78532.com
 confirmation-id79360.com
@@ -10901,6 +10908,7 @@ confirmation-reservation-9995823941.com
 confirmation-stay-12798284.com
 confirmation-stayment456295811.cfd
 confirmation002-booking.com
+confirmation0025-booking.com
 confirmation008-booking.com
 confirmation009-booking.com
 confirmation0135-booking.com
@@ -10910,6 +10918,8 @@ confirmation0322-booking.com
 confirmation055-booking.com
 confirmation0822-booking.com
 confirmation0881-booking.com
+confirmation0894-booking.com
+confirmation0915-booking.com
 confirmation1001-booking.com
 confirmation1119-booking.com
 confirmation1181-booking.com
@@ -10919,8 +10929,12 @@ confirmation299-booking.com
 confirmation342-booking.com
 confirmation8181-booking.com
 confirmation8324-booking.com
+confirmation8665-booking.com
 confirmation8722-booking.com
 confirmation887-booking.com
+confirmation9025-booking.com
+confirmation974-booking.com
+confirmation984-booking.com
 confirmation9912-booking.com
 confirmation992-booking.com
 confirmationstay-508499321.com
@@ -10993,6 +11007,7 @@ page0610.shop
 qualityinndowntown.life
 qualityinnguest.world
 rasv-prp-clonfrm413.com
+rege-park.com
 registration-pro.world
 reservation-confirmation-id9449.com
 reservation-confirmation-id9531.com
@@ -16940,6 +16955,9 @@ update-info926.com
 # Reference: https://app.validin.com/detail?find=7229fb742242db43d708ae9e9205581d9289c3b9&type=hash#tab=host_pairs (# 2025-08-26)
 
 0.nybk.ru
+07.cv3a9.ru
+08.ckar-4.ru
+08u073852.ru
 092.vj4e5.ru
 0b.nybk.ru
 0e.8-fr.ru
@@ -16956,11 +16974,17 @@ update-info926.com
 0zq.802d.ru
 0zq.e41m.ru
 0zq.ryzuka.ru
+0zq.s91ii.ru
+11.dnek6.ru
 12if.pejy1.ru
+13.gyj-0.ru
+14.vqod-2.ru
 15.nybh.ru
 16.mynq.ru
+1a2e6.ru
 1c.bejw.ru
 1e.nqyf7.ru
+1f.zzax-4.ru
 1i.myzj.ru
 1i5i.ru
 1jd.bvuf2.ru
@@ -16972,24 +16996,32 @@ update-info926.com
 1m.s91ii.ru
 1m.w5j7z0.ru
 1mk.vqod-2.ru
+1n.gyj-0.ru
+1o6y4.ru
 1sw.stix-2.ru
 1wd2k.ru
 2.kunb.ru
 280.ldef-4.ru
 29rs.ru
+2k.sheh0.ru
 2m.s836.ru
+2mq4r.ru
 2q.fid1.ru
 2w1.527w.ru
 2xh.fk9e2.ru
 2yf.ndoq0.ru
 3.tiqk.ru
 31x.rjuq3.ru
+32.wtok2.ru
 33.bb3y5.ru
 36.fk9e2.ru
+36.ynmh-8.ru
 37.wugh.ru
+3bm.dlun-7.ru
 3c.xbiq2.ru
 3e7u.ru
 3j.rm6a4.ru
+3k.rxir-9.ru
 3n.ndoq0.ru
 3o5i.ru
 3oi.wtok2.ru
@@ -16999,13 +17031,17 @@ update-info926.com
 3tq.dk2o1.ru
 3u1y.ru
 3w.mt-3-o-4.ru
+3w5.dlun-7.ru
 3z.7-fd.ru
 4.derl.ru
 45b.rv-2-o-5.ru
 47b.sj5o5.ru
 48o.qute3.ru
+4c.gtus-4.ru
 4cv6c.ru
+4d.kdit-5.ru
 4ed.nqyf7.ru
+4fg2n.ru
 4h.97jt.ru
 4i1.ussn-7.ru
 4ia.fk9e2.ru
@@ -17018,36 +17054,49 @@ update-info926.com
 4t.wugh.ru
 4x.gug7.ru
 4xq2k.ru
+4y3e4.ru
 5.wugh.ru
 526r.ru
 527w.ru
 54.jk3y7.ru
+56.fkur-8.ru
 57.jk-3-y-7.ru
 59.zzax-4.ru
 5e6a.ru
+5e7i0.ru
 5hj.mt-3-o-4.ru
 5i0a.ru
 5k.dnek6.ru
 5k.ldef-4.ru
 5lr1v.ru
 5n.97qm.ru
+5n.kqag-6.ru
 5o.jk-3-y-7.ru
 5pc.jt4o0.ru
 5q.lexz.ru
 5sv1g.ru
 5tl.sx2u0.ru
+5tq.xr-7-a-0.ru
 5u.tiqk.ru
 5v6.cv3a9.ru
+5x.yffl-9.ru
+5xw.aclz-9.ru
 5y4a.ru
 5z.sx2u0.ru
 6.nytk.ru
+60e533569.ru
+61.yffl-9.ru
 61g.rv-2-o-5.ru
 624.zzax-4.ru
 65.tvoj5.ru
+65y.ckar-4.ru
 6ci.gc0o9.ru
+6dx.cfob-5.ru
 6fl.sj5o5.ru
 6i4u.ru
 6j.vbep3.ru
+6mm.ibzr-2.ru
+6p.dnek6.ru
 6r.xt7y8.ru
 6t.xr-7-a-0.ru
 6u1.mt3o4.ru
@@ -17056,6 +17105,7 @@ update-info926.com
 7-gb.ru
 7.nytk.ru
 70.fk-9-e-2.ru
+70.xbiq2.ru
 712.cv-3-a-9.ru
 72k.hpap-6.ru
 773.bb-3-y-5.ru
@@ -17063,6 +17113,7 @@ update-info926.com
 7a.sj-5-o-5.ru
 7l.rm6a4.ru
 7m.van1.ru
+7m.wtok2.ru
 7r.qrow6.ru
 7tq.rv-2-o-5.ru
 7wh2n.ru
@@ -17070,26 +17121,38 @@ update-info926.com
 8-fr.ru
 8.mijk.ru
 802d.ru
+814.ynmh-8.ru
 81dm.ru
+85.ndoq0.ru
 88.xr6u9.ru
+89.yffl-9.ru
 8a.tiqk.ru
 8b.mt-3-o-4.ru
 8d.derl.ru
 8f.lexz.ru
+8m.bid-5.ru
+8m.yffl-9.ru
 8r.kijx.ru
 8u2.7-gb.ru
+8u2a9.ru
+8y7o4.ru
 9.pymz.ru
 9.v9542.ru
 90.gc0o9.ru
 907.nmys-4.ru
 97jt.ru
 97qm.ru
+98.hnaq6.ru
+99y401874.ru
 9c.81dm.ru
 9gh.bb3y5.ru
 9iy.rm6a4.ru
+9n.bvum-6.ru
 9t.wsit-4.ru
 9zk8r.ru
+a.1o6y4.ru
 a.3e7u.ru
+a.4fg2n.ru
 a.5y4a.ru
 a.7-fd.ru
 a.bpva0.ru
@@ -17106,6 +17169,7 @@ a.mexizo.ru
 a.n5m4t.ru
 a.n6e8h.ru
 a.p2o7l.ru
+a.pi9yj.ru
 a.qylyxi.ru
 a.s80ye.ru
 a.si3un.ru
@@ -17116,9 +17180,11 @@ a.tfpe6.ru
 a.u11q.ru
 a.u79p.ru
 a.u84t.ru
+a.v7e1v.ru
 a.wuhp.ru
 a.x3u0s.ru
 a.x7f4g2.ru
+a1.5sv1g.ru
 a1.b5k6f4.ru
 a1.f926m.ru
 a1.hasefa.ru
@@ -17130,6 +17196,7 @@ a1.y83v.ru
 a1f.cv-3-a-9.ru
 a1t.myga3.ru
 a1x.81dm.ru
+a27.jcof9.ru
 a4.mcej9.ru
 a5.29rs.ru
 a7.nibulu.ru
@@ -17152,6 +17219,7 @@ ac.cuzolia9.ru
 ac.r3j5c.ru
 ac.s3i1.ru
 ac.s7z7r.ru
+aclz-9.ru
 ad.c0h9w.ru
 ad.kokq.ru
 ad.q8e5.ru
@@ -17165,6 +17233,7 @@ ae.g7r7s.ru
 ae.j1g3k.ru
 ae.k9u1.ru
 ae.tsqe2.ru
+ae3.vw0e1.ru
 af.b5x1g.ru
 af.g7r7s.ru
 af.n44s.ru
@@ -17223,6 +17292,7 @@ ap.nybh.ru
 aq.b5x1g.ru
 aq.nyps.ru
 ar.q8e5.ru
+ar.qcet-8.ru
 ar.tvti0.ru
 ar.w6n2t.ru
 ar.x8q0h.ru
@@ -17243,6 +17313,7 @@ au.d3g7t.ru
 au.hnaq6.ru
 au.v4h3t.ru
 aue.xr7a0.ru
+auf.blyp-9.ru
 auf.nelypuu5.ru
 autodiscover.wbth.org
 av.p9v7g.ru
@@ -17271,6 +17342,8 @@ ayeu.org
 ayl.kjyx7.ru
 az.b8a2.ru
 az.v1n4n.ru
+b.4xq2k.ru
+b.a89b.ru
 b.bupuva.ru
 b.c109s.ru
 b.c2x0b1.ru
@@ -17287,7 +17360,10 @@ b.t408.ru
 b.w135v.ru
 b.wehv.ru
 b10ou.ru
+b2.jk-3-y-7.ru
+b21.wib-8.ru
 b27.sx2u0.ru
+b2i.tvil-0.ru
 b3.wuhp.ru
 b3x1p.ru
 b4m.cv-3-a-9.ru
@@ -17299,6 +17375,7 @@ b5x1g.ru
 b7.fk-9-e-2.ru
 b8.5e6a.ru
 b8a2.ru
+b9.dlun-7.ru
 ba.c2y8.ru
 ba.d3g7t.ru
 ba.khhu8.ru
@@ -17321,6 +17398,7 @@ bc.d3l4d.ru
 bc.k9u1.ru
 bc.pxys.ru
 bc.t65p.ru
+bd.5e7i0.ru
 bd.ctze0.ru
 bd.favezi.ru
 bd.j2e6.ru
@@ -17336,6 +17414,7 @@ bd.sj-5-o-5.ru
 bd.t3m3d.ru
 bd.t938q.ru
 bd.w9v5r4.ru
+bd.z1u2z.ru
 be.boku0.ru
 be.devy-3.ru
 be.gyfc.ru
@@ -17363,6 +17442,7 @@ bi.f0z1n.ru
 bi.lalz.ru
 bi.vwjy7.ru
 bi3ux.ru
+bid-5.ru
 bisaj.run
 bivedyi2.ru
 bj.jzak.ru
@@ -17389,21 +17469,25 @@ bo.vwjy7.ru
 bogx.org
 boku-0.ru
 boku0.ru
+book.1a2e6.ru
 boqobui1.ru
 bowibo.ru
 bp.n6p5j.ru
 bpva-0.ru
 bpva0.ru
+bq.4fg2n.ru
 bq.d44yy.ru
 bq.kyhely.ru
 bq.q5z9s.ru
 bq.s9i1.ru
 bq.u84t.ru
+bq.v7e1v.ru
 bq.w9k6m9.ru
 bqet-3.ru
 bqet3.ru
 br.g3w2p.ru
 br.x0e8.ru
+brisk.wqix-5.ru
 brt.velyzeu3.ru
 bs.j1g3k.ru
 bs.q8e5.ru
@@ -17423,12 +17507,14 @@ bv.f0z1n.ru
 bv.m7e4.ru
 bvqu-7.ru
 bvqu7.ru
+bvuf-2.ru
 bvuf2.ru
 bvum-6.ru
 bw.l8o6.ru
 bw.m5k1k.ru
 bwag.ru
 bwe.myga3.ru
+bwj.tvil-0.ru
 bx.fozomya6.ru
 bx.qekz.ru
 bx.r2h7m.ru
@@ -17442,6 +17528,7 @@ by.pejy1.ru
 by.vwjy7.ru
 by.xe3ax.ru
 byq3.ru
+bz.ktox5.ru
 bz.m5k1k.ru
 bzr.29rs.ru
 c.l8o6.ru
@@ -17455,6 +17542,7 @@ c1m.hasefa.ru
 c1m.sa8yn.ru
 c1m.w135v.ru
 c2.kdesu.ru
+c2n.da2yw.ru
 c2n.hlgy7.ru
 c2n.m046d.ru
 c2n.n6e8h.ru
@@ -17464,6 +17552,7 @@ c34uu.ru
 c6.0y2i.ru
 c8.526r.ru
 c8.e41m.ru
+c8.p2a3p.ru
 c8.w5j7z0.ru
 c8.wagoda.ru
 c8i0.ru
@@ -17486,6 +17575,7 @@ celokya5.ru
 cevyfoy.ru
 cewyzui61.ru
 cfb.goxuxuy4.ru
+cfob-5.ru
 cg.vbep3.ru
 cg.vgof.ru
 cgty8.ru
@@ -17499,6 +17589,9 @@ ciy.stix-2.ru
 cj.mexyxei9.ru
 ck.jk3y7.ru
 ckar-4.ru
+ckr.aclz-9.ru
+ckyq-9.ru
+cloud.bvuf-2.ru
 clq.hifeboi3.ru
 club.nugawye78.ru
 cm.1i5i.ru
@@ -17509,6 +17602,7 @@ cm.n726z.ru
 cm.q4e3n.ru
 cm.qoruva.ru
 cm.su6ak.ru
+cmv.ithc-4.ru
 cofepoi2.ru
 cofidyu58.ru
 cokok.run
@@ -17518,6 +17612,7 @@ cool.zanax6aa1.ru
 cpcontacts.wbth.org
 cq.lulugiy2.ru
 cr.dumx.ru
+cr0.aclz-9.ru
 cso.burydyu0.ru
 ct.jorx.ru
 ctze0.ru
@@ -17534,6 +17629,7 @@ cv-3-a-9.ru
 cv.gdyl2.ru
 cv3a9.ru
 cy.fo1od.ru
+cyc.rxir-9.ru
 cylud.ru
 cyruh.run
 d-09-r.ru
@@ -17550,7 +17646,9 @@ d3g7t.ru
 d3l4d.ru
 d4.3o5i.ru
 d4.gbta9.ru
+d4.hnaq6.ru
 d4.m1y8v.ru
+d4.wi7id.ru
 d4.z491l.ru
 d42n.ru
 d44yy.ru
@@ -17575,6 +17673,7 @@ dc.burydyu0.ru
 dc.nufypiy1.ru
 dcd.sumukye2.ru
 dd.gwut.ru
+ddo.vj4e5.ru
 de.lkci1.ru
 de.vwjy7.ru
 deal.wofaraa29.ru
@@ -17621,6 +17720,8 @@ do.xudofiu02.ru
 dodiquy0.ru
 doll.fozomya6.ru
 doll.jytoceo30.ru
+dp.sxuj-7.ru
+dr.fkur-8.ru
 drg.kidizue6.ru
 dskl.somipaa9.ru
 du.xe3ax.ru
@@ -17650,14 +17751,18 @@ e.ni0uz.ru
 e.nykeju.ru
 e.p9a0k.ru
 e.q7y4s.ru
+e.r65ao.ru
 e.s3i1.ru
 e.t8g2w.ru
 e.u49n.ru
+e.v57eo.ru
 e.xavv.ru
 e.y83v.ru
 e2.97jt.ru
 e41m.ru
+e4e.ktox5.ru
 e8.qzad-3.ru
+e9u.blyp-9.ru
 ea.n44s.ru
 ebn.goxuxuy4.ru
 ec.bb3y5.ru
@@ -17685,6 +17790,8 @@ ep.v96g.ru
 eq.g-69-p.ru
 eq.jagc.ru
 eq.sqfe-6.ru
+eqt.ldef-4.ru
+er.cv-3-a-9.ru
 er.k25q.ru
 er.mzvo7.ru
 er.plig-5.ru
@@ -17698,6 +17805,7 @@ et.xrhu7.ru
 eu.p93z.ru
 eu.rv-2-o-5.ru
 ew.mzvo7.ru
+ew4.xr6u9.ru
 ewm.ndoq0.ru
 ex.t65p.ru
 ex.xrly8.ru
@@ -17711,6 +17819,7 @@ f.r2h7m.ru
 f05t.ru
 f0z1n.ru
 f1.dzem-4.ru
+f1.tvoj5.ru
 f2g5q.ru
 f3.5i0a.ru
 f42s.ru
@@ -17726,6 +17835,8 @@ faqyhi.ru
 farm.gofumoo29.ru
 favezi.ru
 fb.vbof.ru
+fd.nmys-4.ru
+fe.gyj-0.ru
 fe.xx-os.ru
 feryfoi88.ru
 ff.gwut.ru
@@ -17752,6 +17863,7 @@ fohf.ru
 fop.sumukye2.ru
 fozomya6.ru
 fpqr.voxuzeo8.ru
+fq.wdax1.ru
 fr.bb-3-y-5.ru
 fr.d42n.ru
 fr.wuhp.ru
@@ -17780,7 +17892,9 @@ g-69-p.ru
 g.1jd3t.ru
 g.3u1y.ru
 g.527w.ru
+g.5e7i0.ru
 g.6i4u.ru
+g.9zk8r.ru
 g.b10ou.ru
 g.favezi.ru
 g.fid1.ru
@@ -17801,8 +17915,10 @@ g.xabz.ru
 g04s.ru
 g0s1f.ru
 g1.5e6a.ru
+g1s.obvp-2.ru
 g26ia.ru
 g3w2p.ru
+g46dfgdf65h.8y7o4.ru
 g601c.ru
 g69p.ru
 g6i2.ru
@@ -17810,10 +17926,12 @@ g7r7s.ru
 g8z.fk-9-e-2.ru
 ga.gyjyvyy6.ru
 gaquh6ee7.ru
+gb.bqet3.ru
 gb.t-65-p.ru
 gbta9.ru
 gc0o9.ru
 gd.nyfc.ru
+gdyl-2.ru
 gdyl2.ru
 ge.sheh0.ru
 gef.vekoloe8.ru
@@ -17841,6 +17959,7 @@ gk.dnek6.ru
 gl.goxuxuy4.ru
 gm.sx-2-u-0.ru
 gm.velyzeu3.ru
+gne.lr2y6.ru
 go.badejie69.ru
 go.boku-0.ru
 go.devy-3.ru
@@ -17875,6 +17994,7 @@ gwut.ru
 gxy.voxuzeo8.ru
 gybivey8.top
 gyfc.ru
+gyj-0.ru
 gyjyvyy6.ru
 gypuq.ru
 gyr.velyzeu3.ru
@@ -17891,6 +18011,7 @@ h.m4d8q9.ru
 h.pejy1.ru
 h.pymz.ru
 h.w2r1k.ru
+h1.2mq4r.ru
 h1.802d.ru
 h1.e41m.ru
 h1.p2a3p.ru
@@ -17898,6 +18019,7 @@ h1.ryzuka.ru
 h1.w5j7z0.ru
 h1n.nibulu.ru
 h2.7wh2n.ru
+h2.a89b.ru
 h2.bpva-0.ru
 h2.bupuva.ru
 h2.c2x0b1.ru
@@ -17905,7 +18027,9 @@ h2.faqyhi.ru
 h2.g26ia.ru
 h2.j9i2c.ru
 h2.vamuwe.ru
+h3.4cv6c.ru
 h3.bowibo.ru
+h3.d5y6x.ru
 h3.gzva1.ru
 h3.v9r3g1.ru
 h3.x352x.ru
@@ -17928,6 +18052,7 @@ h7m.p51io.ru
 h8.l-5228.ru
 h8o4g.ru
 h8y0.ru
+h9.5e7i0.ru
 h9.o05h.ru
 h9.p74yi.ru
 h9.w9v5r4.ru
@@ -17953,6 +18078,7 @@ harekae65.ru
 hasefa.ru
 hasyzio6.ru
 haxyli.ru
+hb9.bqet3.ru
 hd.n-44-s.ru
 hdn.qacacoe3.ru
 hdxy.somipaa9.ru
@@ -18025,12 +18151,15 @@ hv.m046d.ru
 hv.n6e8h.ru
 hv.qylyxi.ru
 hv3.rv2o5.ru
+hwj.sxuj-7.ru
 hwke-4.ru
 hwke4.ru
 hx.3o5i.ru
 hx.gbta9.ru
 hx.nykeju.ru
+hx.q7y4s.ru
 hx.v57eo.ru
+hx.wi7id.ru
 hx.z491l.ru
 hyhiqaa.ru
 hylyqoo2.ru
@@ -18047,6 +18176,7 @@ i50m.ru
 ia.libityi2.ru
 ia.wuhp.ru
 ib.vuzojiu9.ru
+ibzr-2.ru
 ice.qecufey7.ru
 id.madicoo3.ru
 id.nxno7.ru
@@ -18057,6 +18187,7 @@ if.jolm.ru
 if.lage-2.ru
 if.nzki7.ru
 if.xrxo2.ru
+ig.plig-5.ru
 ii.w-30-g.ru
 ik.nytk.ru
 in.boku-0.ru
@@ -18083,6 +18214,7 @@ iv.qehucuu5.ru
 iw.qecufey7.ru
 ix.wuhp.ru
 ixy9.ru
+iyw.wdax1.ru
 iz.hifeboi3.ru
 iz.toludye0.ru
 j.29rs.ru
@@ -18092,6 +18224,7 @@ j.w6n2t.ru
 j0a8n.ru
 j1g3k.ru
 j2e6.ru
+j6b.dzem-4.ru
 j9i2c.ru
 jagc.ru
 jakacea2.ru
@@ -18101,6 +18234,7 @@ jcof-9.ru
 jcof9.ru
 jd.cuzolia9.ru
 jd.gjat.ru
+je.dzem-4.ru
 je6.cv-3-a-9.ru
 jefy.site
 jeml.ru
@@ -18142,6 +18276,7 @@ jt4o0.ru
 juhx.ru
 jumivue6.ru
 junm.run
+jw.ktox5.ru
 jw.vj4e5.ru
 jyjev.run
 jys.mt3o4.ru
@@ -18155,6 +18290,7 @@ k.r3l1x.ru
 k.s836.ru
 k0.nykeju.ru
 k0.q7y4s.ru
+k0.u49n.ru
 k0n.7wh2n.ru
 k0n.a89b.ru
 k0n.faqyhi.ru
@@ -18162,6 +18298,7 @@ k0n.haxyli.ru
 k0n.j9i2c.ru
 k0n.xyc0.ru
 k0v1p.ru
+k17.mt-3-o-4.ru
 k25q.ru
 k3o9d.ru
 k5.sj-5-o-5.ru
@@ -18177,6 +18314,7 @@ k8u.mt3o4.ru
 k9u1.ru
 kd1.jk3y7.ru
 kdesu.ru
+kdit-5.ru
 keen.vudeh0ae3.ru
 kerubuo3.ru
 kesogio6.ru
@@ -18205,12 +18343,15 @@ kocq.ru
 kodulue6.ru
 kogexau9.ru
 kokq.ru
+koq-0.ru
 kp.vbof.ru
 kpyw-8.ru
 kqag-6.ru
 kri.xe3ax.ru
+ks.tvoj5.ru
 kt.5y4a.ru
 kt.7-fd.ru
+kt.ckyq-9.ru
 kt.rilefoo8.ru
 ktox-5.ru
 ktox5.ru
@@ -18226,7 +18367,9 @@ kuvuboa29.ru
 kw.h-73-n.ru
 kwi.dk2o1.ru
 kwk.burydyu0.ru
+kx.kpyw-8.ru
 kycaj.run
+kyf.ynmh-8.ru
 kyhely.ru
 kyjej.run
 kywuzeo4.ru
@@ -18241,9 +18384,11 @@ l.r0z8r.ru
 l.r2h7m.ru
 l.w-30-g.ru
 l.zowyzyi62.ru
+l0.ozxg-5.ru
 l0a.bqet3.ru
 l1.xr7a0.ru
 l3.gc0o9.ru
+l5.rxir-9.ru
 l51.jk3y7.ru
 l5228.ru
 l8o6.ru
@@ -18289,10 +18434,12 @@ lkci-1.ru
 lkci1.ru
 ll.bxof.ru
 ll.zowyzyi62.ru
+llb.ynbr-8.ru
 llim-8.ru
 lm.rogosie4.ru
 lmh.rocixaa9.ru
 lmtdb.run
+lo.jcof9.ru
 lobd.ru
 logyvai.ru
 lohagoo4.ru
@@ -18315,9 +18462,11 @@ lusoboa3.ru
 luwotaa1.ru
 luxemyy2.ru
 luzazai5.ru
+lv.gdyl2.ru
 lv.w30g.ru
 lv.we4ex.ru
 lw.dk2o1.ru
+lx6.ckyq-9.ru
 lydm.ru
 lyg.kjyx7.ru
 lygep.ru
@@ -18325,6 +18474,7 @@ lyjydau5.ru
 lypelya2.ru
 lysyrei3.ru
 lysys.run
+lz.obvp-2.ru
 lzmb.org
 m.8-fr.ru
 m.g3w2p.ru
@@ -18344,10 +18494,13 @@ m2.m1y8v.ru
 m2.nykeju.ru
 m2.v9r3g1.ru
 m2.vamuwe.ru
+m2.vi8im.ru
+m2.wi7id.ru
 m2.x352x.ru
 m2.z491l.ru
 m2f.bvuf2.ru
 m2n.0u7y.ru
+m3.c34uu.ru
 m3.i50m.ru
 m33h.ru
 m4.vw0e1.ru
@@ -18358,6 +18511,7 @@ m7.hlgy7.ru
 m7.m046d.ru
 m7.n6e8h.ru
 m7e4.ru
+m8.4fg2n.ru
 m8.4xq2k.ru
 m8.bejw.ru
 m8.bpva0.ru
@@ -18367,6 +18521,7 @@ m8.fa6ic.ru
 m8.kyhely.ru
 m8.p3t9b3.ru
 m8.u84t.ru
+m8.v7e1v.ru
 m8.w9k6m9.ru
 m9.5y4a.ru
 m9.cgty8.ru
@@ -18388,6 +18543,7 @@ mahud.ru
 mail.4sa.info
 maxoxio6.ru
 mb.kidizue6.ru
+mcej-9.ru
 mcej9.ru
 mcp.jk3y7.ru
 mcyz-4.ru
@@ -18401,6 +18557,7 @@ me.pobinei39.ru
 me.pykokiu43.ru
 me.tvti-0.ru
 me.xudofiu02.ru
+me.yffl-9.ru
 me1.qute3.ru
 me8.rv-2-o-5.ru
 mebejaa7.ru
@@ -18431,7 +18588,9 @@ mno.winenoy5.ru
 mns.lypelya2.ru
 mo.vwjy-7.ru
 mogixyu9.ru
+mom.jcof9.ru
 mon.gytogii12.ru
+money.nqyf-7.ru
 moon.gytogii12.ru
 mosatiy4.ru
 most.dasurie36.ru
@@ -18500,6 +18659,7 @@ n4.w135v.ru
 n44s.ru
 n4i2m.ru
 n5.7wh2n.ru
+n5.a89b.ru
 n5.bupuva.ru
 n5.c2x0b1.ru
 n5.g26ia.ru
@@ -18507,15 +18667,20 @@ n5.j9i2c.ru
 n5m4t.ru
 n6e8h.ru
 n6p5j.ru
+n6r.ibzr-2.ru
 n726z.ru
 n8.5i0a.ru
+n9.wsit-4.ru
 n96f.ru
 n9t6m.ru
 na.vwjy-7.ru
 nagyg.run
 namenyo.ru
+nb.kpyw-8.ru
+nc.plig-5.ru
 nd-ox.ru
 ndgpt.ru
+ndoq-0.ru
 ndoq0.ru
 ne.h73n.ru
 ne.xrhu-7.ru
@@ -18528,6 +18693,7 @@ new.gesybue11.ru
 nf.hpap-6.ru
 nh.kidizue6.ru
 ni0uz.ru
+ni5.bid-5.ru
 nibulu.ru
 nice.zanax6aa1.ru
 nkv.gdyl2.ru
@@ -18550,9 +18716,11 @@ np.xyqd.ru
 nq.vjef.ru
 nqju-5.ru
 nqju5.ru
+nqyf-7.ru
 nqyf7.ru
 nr.migyvya2.ru
 nr.sj5o5.ru
+nr1.ckyq-9.ru
 nufypiy1.ru
 nugawye78.ru
 nulymoo1.ru
@@ -18590,6 +18758,7 @@ o29.tvil-0.ru
 o6v.gdyl2.ru
 o82g.ru
 o97r.qute-3.ru
+obvp-2.ru
 oc.f-42-s.ru
 od.jzak.ru
 od.pvzi1.ru
@@ -18609,34 +18778,43 @@ oj.f05t.ru
 ok.lalz.ru
 ol.nybh.ru
 ol.p-93-z.ru
+olf.zqof0.ru
 om.xrxo-2.ru
 om7.cv3a9.ru
+omg.gdyl2.ru
 on.ciqe8.ru
 on.kilut4ou8.ru
 on.xrxo-2.ru
+onz.dnek6.ru
 op.tfpe-6.ru
 oq.p-93-z.ru
 or.ciqe8.ru
 or.kocq.ru
 or.myda4.ru
 or.tfpe-6.ru
+os.sj-5-o-5.ru
 os.t65p.ru
 os.tfpe-6.ru
 os.tvoj5.ru
 ov.kijx.ru
 ov.pxys.ru
+ov.rxir-9.ru
 ow.tfpe-6.ru
 ox.kocq.ru
 ox.tfpe-6.ru
+oy.cfob-5.ru
 oy.sgdi6.ru
 oy.tsqe-2.ru
 oyeo.org
+ozxg-5.ru
 p-93-z.ru
 p.1i5i.ru
 p.526r.ru
 p.bvqu-7.ru
+p.c34uu.ru
 p.fttu6.ru
 p.henyta.ru
+p.i50m.ru
 p.jeml.ru
 p.ljat.ru
 p.m7e4.ru
@@ -18663,14 +18841,17 @@ p3t9b3.ru
 p51io.ru
 p5k.xr6u9.ru
 p74yi.ru
+p9.1o6y4.ru
 p9.h9u8w.ru
 p9.u11q.ru
 p9.x7f4g2.ru
 p93z.ru
 p9a0k.ru
+p9e.hpap-6.ru
 p9v7g.ru
 pa.tsqe-2.ru
 padj.ru
+pai.lr2y6.ru
 past.qilaliy87.ru
 pb.g-69-p.ru
 pc.d44yy.ru
@@ -18688,6 +18869,7 @@ pe.dgod.ru
 pe.gunim5yi8.ru
 pe.sqfe6.ru
 pe.tsqe-2.ru
+pe.vw0e1.ru
 pejy1.ru
 pen.luxemyy2.ru
 petumau5.ru
@@ -18714,6 +18896,7 @@ pit.kuvuboa29.ru
 pk.gyfc.ru
 pkf.xr7a0.ru
 pkq.toludye0.ru
+pl.4cv6c.ru
 pl.bowibo.ru
 pl.d5y6x.ru
 pl.v9r3g1.ru
@@ -18737,6 +18920,7 @@ poqh.ru
 porn.zytv.ru
 porw.org
 poveleo03.ru
+ppd.ithc-4.ru
 pqhr.kixyzoo7.ru
 pqix.ru
 pqr.hihijie3.ru
@@ -18744,8 +18928,10 @@ pqr.lysyrei3.ru
 pqr.rocixaa9.ru
 prli-1.ru
 prli1.ru
+prr.mcej9.ru
 pru.qe3yn.ru
 ps.bejw.ru
+pse.fkur-8.ru
 pt.5lr1v.ru
 pt.gyvivae7.ru
 pt.m4d8q9.ru
@@ -18764,6 +18950,7 @@ pv.k6u7d.ru
 pv.libityi2.ru
 pv.ni0uz.ru
 pv.pisora.ru
+pv.y83v.ru
 pvsu.org
 pvzi1.ru
 pw.xbiq2.ru
@@ -18794,6 +18981,7 @@ q.w135v.ru
 q.z491l.ru
 q1h.tvil-0.ru
 q1s6c.ru
+q3.sheh0.ru
 q4.1jd3t.ru
 q4.ctze0.ru
 q4.o05h.ru
@@ -18801,17 +18989,20 @@ q4.p74yi.ru
 q4.qoruva.ru
 q4.w9v5r4.ru
 q4e3n.ru
+q5.wsit-4.ru
 q5z9s.ru
 q6o4.ru
 q7.6i4u.ru
 q7.b10ou.ru
 q7.favezi.ru
+q7.k3o9d.ru
 q7.o82g.ru
 q7.p2o7l.ru
 q7.ror6.ru
 q7.s4m7v4.ru
 q7.si3un.ru
 q73.xr-7-a-0.ru
+q77.zzax-4.ru
 q780.ru
 q7y4s.ru
 q8e5.ru
@@ -18819,6 +19010,7 @@ q9.u79p.ru
 q9.zpozu.ru
 qa.nykeju.ru
 qa.u49n.ru
+qa.v57eo.ru
 qacacoe3.ru
 qacijoy3.ru
 qacupue8.ru
@@ -18835,6 +19027,7 @@ qb.vamuwe.ru
 qb.vi8im.ru
 qb.x352x.ru
 qc.vwof.ru
+qcet-8.ru
 qd.g-04-s.ru
 qe3yn.ru
 qecufey7.ru
@@ -18881,6 +19074,7 @@ qyfojiu8.ru
 qyhux.run
 qylyxi.ru
 qz.bpva0.ru
+qz.c34uu.ru
 qz.g601c.ru
 qz.henyta.ru
 qz.i50m.ru
@@ -18898,6 +19092,7 @@ r0z8r.ru
 r1.bpva0.ru
 r1.g601c.ru
 r1.pi9yj.ru
+r1.s80ye.ru
 r1.x3u0s.ru
 r1a4.ru
 r2h7m.ru
@@ -18912,6 +19107,7 @@ r3j5c.ru
 r3l1x.ru
 r3v.v9542.ru
 r5.jk-3-y-7.ru
+r58.ynmh-8.ru
 r65ao.ru
 r7.p3t9b3.ru
 r8.xyc0.ru
@@ -18946,6 +19142,7 @@ rihuwuo.ru
 rilefoo8.ru
 ring.gofumoo29.ru
 ritenoo3.ru
+rjuq-3.ru
 rjuq3.ru
 rm-6-a-4.ru
 rm.h73n.ru
@@ -18957,6 +19154,7 @@ root.qilaliy87.ru
 ror6.ru
 rq.fo1od.ru
 rq.mufabui4.ru
+rq8.ckyq-9.ru
 rsht.luwotaa1.ru
 rst.lypelya2.ru
 rt.lobd.ru
@@ -18972,11 +19170,14 @@ rv.h-73-n.ru
 rv2o5.ru
 rvni2.ru
 rxe.526r.ru
+rxir-9.ru
 ry.zelojue1.ru
 rysaryo0.ru
 rysesao8.ru
 ryzuka.ru
 s.0y2i.ru
+s.2mq4r.ru
+s.4xq2k.ru
 s.5e6a.ru
 s.802d.ru
 s.bowibo.ru
@@ -18990,6 +19191,7 @@ s.kilut4ou8.ru
 s.n9t6m.ru
 s.p3t9b3.ru
 s.ryzuka.ru
+s.s91ii.ru
 s.vamuwe.ru
 s.vi8im.ru
 s.xyqd.ru
@@ -19054,6 +19256,7 @@ si.ljat.ru
 si.sxqy9.ru
 si.wzhy-1.ru
 si3un.ru
+sip-9ta.ru
 sipejou7.ru
 siradyo1.ru
 sj-5-o-5.ru
@@ -19107,6 +19310,7 @@ subozaa7.ru
 sucile.ru
 suit.tatyziu58.ru
 sumukye2.ru
+sun.8u2a9.ru
 sun.gytogii12.ru
 sun.homohay31.ru
 sun.pobinei39.ru
@@ -19117,6 +19321,7 @@ suv.vekoloe8.ru
 suvw.qapyfyi0.ru
 suzapuo0.ru
 sv.cv3a9.ru
+sv.nqyf7.ru
 sx-2-u-0.ru
 sx2u0.ru
 sxqy-9.ru
@@ -19128,6 +19333,7 @@ sypyguu85.ru
 syxevao7.ru
 sz.n-96-f.ru
 szh.saqehyo1.ru
+szo.ynbr-8.ru
 t-65-p.ru
 t.3e7u.ru
 t.3u1y.ru
@@ -19141,19 +19347,23 @@ t.qute3.ru
 t.qylyxi.ru
 t.r3j5c.ru
 t.xavv.ru
+t1.1wd2k.ru
 t1.fa6ic.ru
 t1.h9u8w.ru
 t1.j0a8n.ru
 t1.p51io.ru
 t1.x7f4g2.ru
+t1n.4fg2n.ru
 t1n.d44yy.ru
 t1n.kyhely.ru
+t1n.u84t.ru
 t1n.v7e1v.ru
 t1n.w9k6m9.ru
 t1v.gbta9.ru
 t1v.m1y8v.ru
 t1v.nykeju.ru
 t1v.u49n.ru
+t1v.v57eo.ru
 t1v.wi7id.ru
 t1v.z491l.ru
 t2w3v.ru
@@ -19163,6 +19373,7 @@ t408.ru
 t4a4.ru
 t4c5d.ru
 t4g9w.ru
+t5.ithc-4.ru
 t6.81dm.ru
 t65p.ru
 t7.ctze0.ru
@@ -19194,6 +19405,7 @@ tfpe-6.ru
 tfpe6.ru
 tfy.hifeboi3.ru
 tgj.gyjyvyy6.ru
+tgx.dzem-4.ru
 then.wofaraa29.ru
 they.wofaraa29.ru
 ti.nyps.ru
@@ -19224,6 +19436,7 @@ to.pobinei39.ru
 tofyjoi0.ru
 toludye0.ru
 top.harekae65.ru
+topaz.mcej-9.ru
 toqyboe3.ru
 totyc.run
 tq.6i4u.ru
@@ -19232,7 +19445,9 @@ tq.derl.ru
 tq.favezi.ru
 tq.k3o9d.ru
 tq.kudaxy.ru
+tq.o05h.ru
 tq.o82g.ru
+tq.p74yi.ru
 tq.s4m7v4.ru
 tq.si3un.ru
 tq.t938q.ru
@@ -19257,6 +19472,7 @@ tvoj5.ru
 tvti-0.ru
 tvti0.ru
 tw.xx-os.ru
+twelve.gdyl-2.ru
 two.zanax6aa1.ru
 tx.fid1.ru
 txso-1.ru
@@ -19297,9 +19513,11 @@ ug.rilefoo8.ru
 ug.velyzeu3.ru
 uh.xvqy-8.ru
 uhv.kufapoi3.ru
+uik.vj4e5.ru
 uk.g-04-s.ru
 um.mjef.ru
 um.xvqy-8.ru
+umw.kjyx7.ru
 un.xvqy-8.ru
 ung.sewumoa.ru
 uo.bwag.ru
@@ -19332,6 +19550,7 @@ uvwh.rocixaa9.ru
 uy.jorx.ru
 uy1.lr2y6.ru
 uz.d09r.ru
+uzw.sx-2-u-0.ru
 v-9542.ru
 v-96-g.ru
 v.d1a8.ru
@@ -19346,11 +19565,13 @@ v2n.g601c.ru
 v2n.pi9yj.ru
 v2n.s80ye.ru
 v2n.x3u0s.ru
+v3.2mq4r.ru
 v3.802d.ru
 v3.e41m.ru
 v3.p2a3p.ru
 v3.w5j7z0.ru
 v3.wagoda.ru
+v30.ldef-4.ru
 v4h3t.ru
 v5.qrow6.ru
 v57eo.ru
@@ -19371,6 +19592,8 @@ vamuwe.ru
 van1.ru
 vast.kuryc7yy1.ru
 vazyr4ii9.ru
+vb.kpyw-8.ru
+vbep-3.ru
 vbep3.ru
 vbof.ru
 vc.rogosie4.ru
@@ -19393,6 +19616,7 @@ vememye3.ru
 ven.rilefoo8.ru
 vepyvei3.top
 vex.qe3yn.ru
+vg.plig-5.ru
 vgg.ndoq0.ru
 vgof.ru
 vhx.jt4o0.ru
@@ -19408,6 +19632,7 @@ vk.4xq2k.ru
 vk.p3t9b3.ru
 vk.z-99-l.ru
 vl.goxuxuy4.ru
+vm.ykgw-2.ru
 vmkkb.ru
 vn.wqix.ru
 vo.sgdi-6.ru
@@ -19435,6 +19660,7 @@ vwjy7.ru
 vwof.ru
 vx.jk3y7.ru
 vxof.ru
+vy.ktox5.ru
 vy.sx2u0.ru
 vyce-2.ru
 vyce2.ru
@@ -19457,6 +19683,7 @@ w20s.ru
 w2r1k.ru
 w30g.ru
 w3h8j.ru
+w4g.mcej9.ru
 w4l.xr7a0.ru
 w5j7z0.ru
 w6.nytk.ru
@@ -19501,7 +19728,9 @@ wg.f42s.ru
 wh.p-93-z.ru
 wi.sxqy-9.ru
 wi7id.ru
+wib-8.ru
 winenoy5.ru
+wir-2.ru
 wise.jibiw8aa5.ru
 wk.n96f.ru
 wl.xabz.ru
@@ -19516,6 +19745,7 @@ wopyhay6.ru
 wosicee6.ru
 wow.kuvuboa29.ru
 woxivie8.ru
+wp.ithc-4.ru
 wp.stix-2.ru
 wqix-5.ru
 wqix.ru
@@ -19525,6 +19755,7 @@ wsit-4.ru
 wsxy.kufapoi3.ru
 wt.f05t.ru
 wtan.ru
+wtok-2.ru
 wtok2.ru
 wu.sxqy-9.ru
 wugh.ru
@@ -19542,21 +19773,28 @@ wybod.run
 wyhinua4.ru
 wyhocie8.ru
 wykupae1.ru
+wyp.vbep3.ru
 wytz.org
 wz.7wh2n.ru
 wz.a89b.ru
 wz.bpva-0.ru
+wz.bvuf2.ru
 wz.c2x0b1.ru
 wz.faqyhi.ru
+wz.g26ia.ru
 wz.haxyli.ru
 wz.j9i2c.ru
 wz.n0y8j.ru
+wz.sa8yn.ru
 wz.w135v.ru
 wz.xabz.ru
 wzhy-1.ru
 wzhy1.ru
 x-73-r.ru
 x.0u7y.ru
+x.1o6y4.ru
+x.4cv6c.ru
+x.4xq2k.ru
 x.5i0a.ru
 x.6i4u.ru
 x.9zk8r.ru
@@ -19571,6 +19809,7 @@ x.gzva1.ru
 x.h8o4g.ru
 x.h9u8w.ru
 x.henyta.ru
+x.i50m.ru
 x.k3o9d.ru
 x.kudaxy.ru
 x.l-5228.ru
@@ -19578,8 +19817,11 @@ x.m4d8q9.ru
 x.m9i5l.ru
 x.o82g.ru
 x.p3t9b3.ru
+x.p51io.ru
 x.pymz.ru
 x.s4m7v4.ru
+x.s80ye.ru
+x.si3un.ru
 x.t3m3d.ru
 x.t938q.ru
 x.u11q.ru
@@ -19592,6 +19834,8 @@ x0e8.ru
 x1.0y2i.ru
 x1.cgty8.ru
 x2.5e6a.ru
+x2.ykgw-2.ru
+x2j.4fg2n.ru
 x2j.d44yy.ru
 x2j.kyhely.ru
 x2j.v7e1v.ru
@@ -19600,11 +19844,14 @@ x2m.ctze0.ru
 x2n.tem5.ru
 x352x.ru
 x3u0s.ru
+x7.xt7y8.ru
 x73r.ru
 x7f4g2.ru
 x8d.byq3.ru
+x8n.1jd3t.ru
 x8n.o05h.ru
 x8n.w9v5r4.ru
+x8n.z1u2z.ru
 x8q0h.ru
 x9.c109s.ru
 x9.da2yw.ru
@@ -19655,6 +19902,7 @@ xotap.run
 xpl.sx2u0.ru
 xq.lalz.ru
 xq.nybk.ru
+xq9.5sv1g.ru
 xq9.f926m.ru
 xq9.k6u7d.ru
 xq9.p9a0k.ru
@@ -19676,11 +19924,14 @@ xrxo-2.ru
 xrxo2.ru
 xshy.luwotaa1.ru
 xt.7wh2n.ru
+xt.a89b.ru
 xt.bpva-0.ru
 xt.bupuva.ru
 xt.bvqu7.ru
 xt.c2x0b1.ru
+xt.g26ia.ru
 xt.haxyli.ru
+xt.j9i2c.ru
 xt.jzak.ru
 xt.sa8yn.ru
 xt.w135v.ru
@@ -19710,9 +19961,12 @@ y.pejy1.ru
 y.q1s6c.ru
 y.vxof.ru
 y.zowyzyi62.ru
+y0.ussn-7.ru
 y0s.hap7.ru
 y3.pihp.ru
 y3a.dnek6.ru
+y4.mcej9.ru
+y4.qzad-3.ru
 y5.hnaq6.ru
 y7.1i5i.ru
 y7.bvqu-7.ru
@@ -19737,6 +19991,7 @@ yco.nufypiy1.ru
 ye.kokq.ru
 ye.txso-1.ru
 year.cewyzui61.ru
+yffl-9.ru
 yft.toludye0.ru
 yg.sjoh.ru
 yh.gjat.ru
@@ -19745,16 +20000,22 @@ yhu.sx2u0.ru
 yi.cuzolia9.ru
 yje.myhehaa4.ru
 yje.xibovyu5.ru
+ykgw-2.ru
+yl.kdit-5.ru
 yl.p93z.ru
 ym.vadykoe7.ru
+ynbr-8.ru
 ynmh-8.ru
 yo.nyfc.ru
+yonder.mcej-9.ru
 yr.h-73-n.ru
 yt6.ussn-7.ru
+yw.vw0e1.ru
 yw.wtan.ru
 yxyz.zyxy.org
 yy.cuzolia9.ru
 yy.nyfc.ru
+yz.dlun-7.ru
 yz.mexyxei9.ru
 yze.gyjyvyy6.ru
 z-99-l.ru
@@ -19778,9 +20039,11 @@ z1.b10ou.ru
 z1.favezi.ru
 z1.k3o9d.ru
 z1.o05h.ru
+z1.o82g.ru
 z1.p2o7l.ru
 z1.p74yi.ru
 z1.s4m7v4.ru
+z1.si3un.ru
 z1.t938q.ru
 z1.w9v5r4.ru
 z1.z1u2z.ru
@@ -19790,20 +20053,25 @@ z1u2z.ru
 z2.3e7u.ru
 z2.5lr1v.ru
 z2.m4d8q9.ru
+z2.u79p.ru
 z4.hasefa.ru
 z491l.ru
 z7.7-gb.ru
+z7.q7y4s.ru
 z7.u49n.ru
 z7.v57eo.ru
 z99l.ru
+z9m.4cv6c.ru
 z9m.d5y6x.ru
 z9m.v9r3g1.ru
 z9m.vamuwe.ru
+z9m.vi8im.ru
 z9m.x352x.ru
 za.xavv.ru
 zanax6aa1.ru
 zapugoi7.ru
 zarokai9.ru
+zb.kpyw-8.ru
 zc.1wd2k.ru
 zc.lobd.ru
 zc.u11q.ru
@@ -19831,6 +20099,7 @@ zk.p51io.ru
 zk.toqyboe3.ru
 zm.mexyxei9.ru
 znz.xexykuo2.ru
+zo.kqag-6.ru
 zo.prli-1.ru
 zo.ttif.ru
 zoby-0.ru
@@ -20206,6 +20475,7 @@ complete-new-step.com
 complete-recent-update.com
 comwlthausservices-action.de.com
 conclude-latest-update.com
+conclude-reader-check.com
 confirmed-primary-device.com
 connections-trezor.com
 consumer.aktuell-reaktiv-28321.com
@@ -20214,6 +20484,7 @@ copilotdocumentsviewonline.com
 copilotshareddocumentsonline.com
 correos-mexico.app
 credltkarma.app
+czplxttl.com
 dash-web.com
 dendofyerincomretun.info
 deservicedcenre.info
@@ -20344,6 +20615,7 @@ ledger-recoveryhelp.com
 ledger-recoverysolution.com
 ledger-restorememory.com
 ledger-securehelp.com
+ledgerassistonline.com
 ledgercheckhelp.com
 ledgercheckonline.com
 ledgerdeviceaid.com
@@ -20374,6 +20646,7 @@ macaautomationsharepointview.sbs
 mailbox-nl.com
 manage-idmyau.com.de
 manorolkvmi.com
+melanierosalinda.com
 messagesystem.cfd
 metamask-support.io
 minsikkerhet.com
@@ -20423,6 +20696,7 @@ newlifeto.sbs
 newlogeinfo.sbs
 nhlblackhawksjerseys.com
 noreplybutdotherightfullogin.top
+normativa-aml-binance.com
 noticefromteam1.help
 noticefromteam10ldnati0nal.xyz
 noticefromteam3.cfd
@@ -20432,6 +20706,8 @@ numbsants.com
 o2agreetolatest-terms.com
 office-accessauservices.com.de
 officesecure-ausoffice.net
+olb-action1des3rt.help
+olb-g00gle1notlce1.live
 onlidocviewer.com
 online-auservices.com.de
 online-device-activation.com
@@ -20482,6 +20758,7 @@ re-register-user.com
 recent-check-device.com
 recent-new-check.com
 recent-removal-review.com
+recordfilings-ausupport.com
 recoverledgerdesk.com
 relai-express.com
 relai-suivis.com
@@ -20501,6 +20778,7 @@ renew-primary-auth.com
 renew-primary-system.com
 reservixerupdater.info
 reservpaortart.info
+resolve-upgrade-inquiry.com
 restore-wallet05.com
 revenueadjustment-service.net
 review-new-check.com
@@ -20590,6 +20868,7 @@ txinfolodgments.com
 txinfolodgments.org
 unityroad.site
 upclassauth.com
+update-review-here.com
 usatreas-taxservices.de.com
 v3binance.com
 vatednow.info
@@ -21402,6 +21681,13 @@ simmexcontrol.com
 # Reference: https://urlscan.io/result/0199c7ed-1590-70f9-8186-a19ca7bde247/
 
 abstractoffieldtrialofblackgram.com
+
+# Reference: https://www.joesecurity.org/reports/report-4991369.html
+
+cptchdm.icu
+fgsclsite.icu
+gcloudfs.icu
+gclouds.icu
 
 # Generic
 
