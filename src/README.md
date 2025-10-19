@@ -250,7 +250,7 @@
 [NOK ]         0 src/blacklist/redwarden.txt
 [ OK ]         8 src/blacklist/robloxcore.txt
 [ OK ]        26 src/blacklist/rogue_dns.txt
-[ OK ]   120,394 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
+[ OK ]   122,148 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
 [ OK ]    20,925 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]     2,169 src/blacklist/savvyseahorse_tds.txt
 [ OK ]        15 src/blacklist/scareware.txt
@@ -294,16 +294,16 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,522,196
-Filter Duplicates   : 2,580,233
-External Whitelist  : 2,453,389
-Filter Whitelist    : 2,453,326
-Import Blacklist    : 2,453,907
-Compressed          : 2,120,496
+Total Blacklist     : 3,523,950
+Filter Duplicates   : 2,580,232
+External Whitelist  : 2,453,388
+Filter Whitelist    : 2,453,324
+Import Blacklist    : 2,453,905
+Compressed          : 2,120,495
 
    LENGTH     COUNT
         2 1,581,224
-        3   450,726
+        3   450,725
         4    67,590
         5    18,030
         6     2,169
@@ -325,7 +325,7 @@ Compressed          : 2,120,496
        37         1
        43         1
 
-Total Blocklist     : 2,120,496
+Total Blocklist     : 2,120,495
 
 ~~~
 
