@@ -14,7 +14,7 @@
 [ OK ]    25,848 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       940 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
-[ OK ]    61,860 src/blacklist/KADhosts.txt
+[ OK ]    62,189 src/blacklist/KADhosts.txt
 [ OK ]         4 src/blacklist/LanikSJ_popads-domains.txt
 [ OK ]       332 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]     7,115 src/blacklist/Spam404_adblock-list.txt
@@ -30,7 +30,7 @@
 [ OK ]     4,421 src/blacklist/android_hiddad.txt
 [ OK ]        14 src/blacklist/araneida.txt
 [NOK ]         0 src/blacklist/arl.txt
-[ OK ]    29,819 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    29,821 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]         4 src/blacklist/bad_proxy.txt
 [ OK ]     1,108 src/blacklist/bad_script.txt
 [ OK ]     3,284 src/blacklist/bad_service.txt
@@ -269,7 +269,7 @@
 [ OK ]        23 src/blacklist/telekopye_scamtool.txt
 [ OK ]     3,132 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]     1,921 src/blacklist/upx_tds.txt
-[ OK ]       559 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       561 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,304 src/blacklist/validin-phish-feed-1.txt
 [ OK ]    93,631 src/blacklist/validin-phish-feed-2.txt
 [ OK ]   119,099 src/blacklist/validin-phish-feed-3.txt
@@ -294,16 +294,16 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,530,405
-Filter Duplicates   : 2,579,735
-External Whitelist  : 2,452,894
-Filter Whitelist    : 2,452,828
-Import Blacklist    : 2,453,409
-Compressed          : 2,120,083
+Total Blacklist     : 3,530,738
+Filter Duplicates   : 2,579,738
+External Whitelist  : 2,452,897
+Filter Whitelist    : 2,452,835
+Import Blacklist    : 2,453,416
+Compressed          : 2,120,078
 
    LENGTH     COUNT
-        2 1,581,393
-        3   450,183
+        2 1,581,396
+        3   450,175
         4    67,567
         5    18,015
         6     2,170
@@ -325,7 +325,7 @@ Compressed          : 2,120,083
        37         1
        43         1
 
-Total Blocklist     : 2,120,083
+Total Blocklist     : 2,120,078
 
 ~~~
 
