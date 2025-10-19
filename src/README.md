@@ -30,7 +30,7 @@
 [ OK ]     4,421 src/blacklist/android_hiddad.txt
 [ OK ]        14 src/blacklist/araneida.txt
 [NOK ]         0 src/blacklist/arl.txt
-[ OK ]    29,817 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    29,819 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]         4 src/blacklist/bad_proxy.txt
 [ OK ]     1,108 src/blacklist/bad_script.txt
 [ OK ]     3,284 src/blacklist/bad_service.txt
@@ -250,7 +250,7 @@
 [NOK ]         0 src/blacklist/redwarden.txt
 [ OK ]         8 src/blacklist/robloxcore.txt
 [ OK ]        26 src/blacklist/rogue_dns.txt
-[ OK ]   122,148 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
+[ OK ]   128,616 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
 [ OK ]    20,925 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]     2,169 src/blacklist/savvyseahorse_tds.txt
 [ OK ]        15 src/blacklist/scareware.txt
@@ -294,22 +294,22 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,523,935
-Filter Duplicates   : 2,580,252
-External Whitelist  : 2,453,408
-Filter Whitelist    : 2,453,344
-Import Blacklist    : 2,453,925
-Compressed          : 2,120,515
+Total Blacklist     : 3,530,405
+Filter Duplicates   : 2,579,735
+External Whitelist  : 2,452,894
+Filter Whitelist    : 2,452,828
+Import Blacklist    : 2,453,409
+Compressed          : 2,120,083
 
    LENGTH     COUNT
-        2 1,581,223
-        3   450,746
-        4    67,590
-        5    18,030
-        6     2,169
-        7       535
+        2 1,581,393
+        3   450,183
+        4    67,567
+        5    18,015
+        6     2,170
+        7       534
         8       135
-        9        35
+        9        34
        10        21
        11         7
        12         3
@@ -325,7 +325,7 @@ Compressed          : 2,120,515
        37         1
        43         1
 
-Total Blocklist     : 2,120,515
+Total Blocklist     : 2,120,083
 
 ~~~
 
