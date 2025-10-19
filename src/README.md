@@ -30,7 +30,7 @@
 [ OK ]     4,421 src/blacklist/android_hiddad.txt
 [ OK ]        14 src/blacklist/araneida.txt
 [NOK ]         0 src/blacklist/arl.txt
-[ OK ]    29,823 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    29,824 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]         4 src/blacklist/bad_proxy.txt
 [ OK ]     1,108 src/blacklist/bad_script.txt
 [ OK ]     3,284 src/blacklist/bad_service.txt
@@ -228,7 +228,7 @@
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]        15 src/blacklist/nighthawk.txt
 [ OK ]        10 src/blacklist/nimplant.txt
-[ OK ]    47,390 src/blacklist/oisd_small.txt
+[ OK ]    47,464 src/blacklist/oisd_small.txt
 [ OK ]        14 src/blacklist/openxcore.txt
 [ OK ]        48 src/blacklist/parrot_tds.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
@@ -294,15 +294,15 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,530,741
-Filter Duplicates   : 2,579,741
-External Whitelist  : 2,452,900
-Filter Whitelist    : 2,452,837
-Import Blacklist    : 2,453,418
-Compressed          : 2,120,090
+Total Blacklist     : 3,530,816
+Filter Duplicates   : 2,579,829
+External Whitelist  : 2,452,988
+Filter Whitelist    : 2,452,923
+Import Blacklist    : 2,453,504
+Compressed          : 2,120,177
 
    LENGTH     COUNT
-        2 1,581,395
+        2 1,581,482
         3   450,188
         4    67,567
         5    18,015
@@ -325,7 +325,7 @@ Compressed          : 2,120,090
        37         1
        43         1
 
-Total Blocklist     : 2,120,090
+Total Blocklist     : 2,120,177
 
 ~~~
 
