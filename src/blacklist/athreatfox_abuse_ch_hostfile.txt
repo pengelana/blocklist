@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-19 06:48:49 UTC                        #
+# Last updated: 2025-10-19 07:07:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	72563.i327147.ru
+127.0.0.1	080.i327147.ru
+127.0.0.1	beam.wir2.ru
 127.0.0.1	3998107.i327147.ru
 127.0.0.1	e-cross.gl.at.ply.gg
 127.0.0.1	redirect.dedicated-coords.lol
@@ -29856,8 +29859,4 @@
 127.0.0.1	check.hosam.icu
 127.0.0.1	account.st4b4n.fr
 127.0.0.1	office.socalmediazone.com
-127.0.0.1	www.x6se.buzz
-127.0.0.1	ec2-16-163-161-107.ap-east-1.compute.amazonaws.com
-127.0.0.1	ht.bzmajiang.cn
-127.0.0.1	check.saguf.icu
-# Number of entries: 29854
+# Number of entries: 29853

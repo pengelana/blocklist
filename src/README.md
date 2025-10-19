@@ -30,7 +30,7 @@
 [ OK ]     4,421 src/blacklist/android_hiddad.txt
 [ OK ]        14 src/blacklist/araneida.txt
 [NOK ]         0 src/blacklist/arl.txt
-[ OK ]    29,817 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    29,816 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]         4 src/blacklist/bad_proxy.txt
 [ OK ]     1,108 src/blacklist/bad_script.txt
 [ OK ]     3,284 src/blacklist/bad_service.txt
@@ -269,7 +269,7 @@
 [ OK ]        23 src/blacklist/telekopye_scamtool.txt
 [ OK ]     3,132 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]     1,921 src/blacklist/upx_tds.txt
-[ OK ]       554 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       556 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,304 src/blacklist/validin-phish-feed-1.txt
 [ OK ]    93,631 src/blacklist/validin-phish-feed-2.txt
 [ OK ]   119,099 src/blacklist/validin-phish-feed-3.txt
@@ -294,18 +294,18 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,523,949
+Total Blacklist     : 3,523,950
 Filter Duplicates   : 2,580,251
 External Whitelist  : 2,453,407
-Filter Whitelist    : 2,453,345
-Import Blacklist    : 2,453,926
+Filter Whitelist    : 2,453,344
+Import Blacklist    : 2,453,925
 Compressed          : 2,120,505
 
    LENGTH     COUNT
-        2 1,581,226
-        3   450,732
+        2 1,581,224
+        3   450,735
         4    67,590
-        5    18,031
+        5    18,030
         6     2,169
         7       535
         8       135
