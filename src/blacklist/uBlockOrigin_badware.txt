@@ -6253,6 +6253,7 @@ $doc,ipaddress=185.216.143.121
 ||kawaiilabs.org^$all
 ||degenlabs.org^$all
 ||anyplacehere.online^$all
+||infintytwee.online^$all
 ||infintytweet.me^$all
 ||infintytweet.com^$all
 ||anyplacehere.art^$all
@@ -6391,3 +6392,9 @@ $doc,ipaddress=185.216.143.121
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/215496
 ||marktplaats.ch^$doc
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/216011
+||dogado.net/stadlholz/$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/30533
+||blockcheck.pages.dev^$all
