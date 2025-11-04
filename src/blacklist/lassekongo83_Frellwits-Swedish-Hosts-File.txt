@@ -1,7 +1,7 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-10-01 06:49:55 CEST
+# last updated:   2025-11-03 03:49:00 CET
 # entries:        1151
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
@@ -197,6 +197,7 @@
 127.0.0.1 bam.bonad.io
 127.0.0.1 banner.bet365partners.com
 127.0.0.1 banners.instaforex.com
+127.0.0.1 banners.jldigital.se
 127.0.0.1 banners.wsnonline.dk
 127.0.0.1 bannersnack.com
 127.0.0.1 bb-pbc.mainroll.com
@@ -397,6 +398,7 @@
 127.0.0.1 data.adnuntius.com
 127.0.0.1 data.gblcdn.com
 127.0.0.1 dc.schibsted.io
+127.0.0.1 dcl-cdn.digitalcaramel.com
 127.0.0.1 deals.innocode.no
 127.0.0.1 delivered-by-madington.com
 127.0.0.1 delivery.adnuntius.com
@@ -684,6 +686,7 @@
 127.0.0.1 pixel.watch
 127.0.0.1 pixel-profile-cloud.eniro.com
 127.0.0.1 pixel-sync.sitescout.com
+127.0.0.1 pl.connatix.com
 127.0.0.1 pl18523163.highcpmrevenuenetwork.com
 127.0.0.1 platform.bidgear.com
 127.0.0.1 platform.iteratehq.com
@@ -703,8 +706,6 @@
 127.0.0.1 publish.ne.cision.com
 127.0.0.1 publish-int.se
 127.0.0.1 pushcrew.com
-127.0.0.1 pushnice.com
-127.0.0.1 pushwhy.com
 127.0.0.1 push-notifications.top
 127.0.0.1 pxl.host
 127.0.0.1 r.existenz.se
@@ -733,7 +734,6 @@
 127.0.0.1 richmediastudio.com
 127.0.0.1 richmetrics.com
 127.0.0.1 ridsport.adhost.se
-127.0.0.1 rotarb.bid
 127.0.0.1 rotator.riedta.com
 127.0.0.1 route.carambo.la
 127.0.0.1 royapp.com
@@ -921,6 +921,7 @@
 127.0.0.1 tourn.co
 127.0.0.1 tourn.se
 127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 tr.apsisforms.com
 127.0.0.1 track.adform.net
 127.0.0.1 track.adtraction.com
 127.0.0.1 track.postkodlotteriet.se
@@ -1063,10 +1064,6 @@
 127.0.0.1 tracking.viivilla.se
 127.0.0.1 tracking.visitorsvoice.com
 127.0.0.1 tracking.vlt.se
-127.0.0.1 tracking.vnen.se
-127.0.0.1 tracking.viivilla.se
-127.0.0.1 tracking.visitorsvoice.com
-127.0.0.1 tracking.vlt.se
 127.0.0.1 tracking.vn.se
 127.0.0.1 tracking.ystadsallehanda.se
 127.0.0.1 tracking.etidning.fagersta-posten.se
@@ -1107,7 +1104,6 @@
 127.0.0.1 webstats.100procent.com
 127.0.0.1 web-analytics.ica.se
 127.0.0.1 web-sdk.smartlook.com
-127.0.0.1 west.statisticplatform.com
 127.0.0.1 widget.cdn.citygate.se
 127.0.0.1 widget.citygate.se
 127.0.0.1 widget.lifeinside.io
