@@ -1,3 +1,18 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1971
+||smaad.net^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1964
+||youborafds01.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1953
+||playhydrax.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/211477
+||udc.yahoo.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1941
+||p.typekit.net^
+! https://github.com/AdguardTeam/AdguardFilters/issues/211591
+||alicdn.com^
+||aliexpress-media.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1939
+||monetag.com^
 ! https://github.com/AdguardTeam/AdguardFilters/commit/a55eb73eb0439f7d95a7981457172f0f059569ff#commitcomment-163113893
 ||usefathom.com^
 ||bentonow.com^
@@ -856,26 +871,6 @@ webtrends.com
 host-tracker.com
 ! fixing redirects in Yandex apps
 clck.yandex.ru
-! https://github.com/AdguardTeam/AdguardFilters/issues/24120
-||litix.io^
-! https://github.com/AdguardTeam/AdguardFilters/issues/24174
-onecount.net
-! https://github.com/AdguardTeam/AdguardFilters/issues/22963
-skimresources.com
-! https://github.com/AdguardTeam/AdguardDNS/issues/300
-tag.aticdn.net
-! Fixing Nvidia Shield Tv issue
-pingdom.net
-! Fixing Spotify redirect
-adj.st
-! https://github.com/AdguardTeam/AdguardDNS/issues/278
-ezoic.net
-! https://github.com/AdguardTeam/AdguardDeam/AdguardFilters/issues/24204
-host-tracker.com
-! fixing redirects in Yandex apps
-clck.yandex.ru
-! https://github.com/AdguardTeam/AdguardFilters/issues/24120
-||litix.io^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/24174
 onecount.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/22963
