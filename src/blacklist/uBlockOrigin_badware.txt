@@ -6197,7 +6197,8 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 ||uniqlo-nz.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/30744
-! https://www.virustotal.com/gui/url/6261bce1c1953a6e53a6e539f4f69732097de8329cad29f0f98e3d1d545d5f0830dc0
+! https://www.virustotal.com/gui/url/6261bce1c1953a6e5in/uAssets/issues/30744
+! https://www.virustotal.com/gui/url/6261bce1c1953a6e539f4f69732097de8329cad29f0f98e3d1d545d5f0830dc0
 ||git44share.quest^$all
 
 ! https://survey.dawn .com/MetaMask-Help.html - phishing
@@ -6208,3 +6209,13 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 !#if env_safari
 /\.[a-z][a-z][a-z]-adguard\.pro\//$all
 !#endif
+||expleboted.com^$all
+||hoplariumped.com^$all
+||dsu-adguard.pro^$all
+||ennatcaraposin.com^$all
+||antitrojanwalls.live^$all
+||prizecloud.sa.com^$all
+||myshielstore.xyz^$all
+
+! https://bsky.7743832.cfd/208170178992 phishing
+||7743832.cfd^$all
