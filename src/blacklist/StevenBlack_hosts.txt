@@ -1303,7 +1303,6 @@
 0.0.0.0 ads.samsungads.com
 0.0.0.0 config.samsungads.com
 0.0.0.0 events.samsungads.com
-0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 vdterms.samsungcloudsolution.com
 0.0.0.0 oempprd.samsungcloudsolution.net
 0.0.0.0 invitation.samsungiotcloud.com
@@ -2668,7 +2667,7 @@
 
 # Added November 25, 2023
 0.0.0.0 bucket.cdnwebcloud.com
-0.0.0.0 c23811lesyndication.com
+0.0.0.0 c23811bc8d067cdb4f00f6af2c918f3d.safeframe.googlesyndication.com
 0.0.0.0 cadmus.script.ac
 0.0.0.0 cdn.topsrvimp.com
 0.0.0.0 cookies.nextmillmedia.com
@@ -3086,10 +3085,6 @@
 # Added November 15, 2025
 0.0.0.0 enstat.xbext.com
 0.0.0.0 enappstat.xbext.com
-
-# Added November 18, 2025
-0.0.0.0 cochico.ca
-0.0.0.0 account.cochico.ca
 
 # Added November 24, 2025
 0.0.0.0 zpr.io
