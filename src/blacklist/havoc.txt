@@ -5562,6 +5562,13 @@ http://91.217.90.45
 91.86.43.83:4444
 95.179.171.93:443
 
+# Reference: https://x.com/malwrhunterteam/status/1996170563547803700
+# Reference: https://www.virustotal.com/gui/file/d3f3d508a2b35ce83a591d4723d06de6e3b85d6fbc998ff20a7a83cbcda0cf0a/detection
+
+update-msoftware.com
+panel.update-msoftware.com
+service.update-msoftware.com
+
 # Generic
 
 /Havoc/payload/
