@@ -1,6 +1,8 @@
 # Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
+# Aliases: duperunner, dupehike
+
 # Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-05-20-IOCs-for-AdaptixC2-activity.txt
 # Reference: https://app.validin.com/detail?find=7c6372580a9e78e8caff7ba50ef859aa&type=hash&ref_id=9f05271ed4b#tab=host_pairs (# 2025-05-22)
 
@@ -817,3 +819,12 @@ http://54.46.18.227
 8.136.48.237:8091
 8.219.171.47:3306
 80.253.249.102:4444
+
+# Reference: https://www.seqrite.com/blog/9512-2/ (# duperunner, # dupehike)
+# Reference: https://www.virustotal.com/gui/file/3ce5ab897b7f33bc1b9036abc8e7d2812b385fbab404dad686afaf9fb83fe07a/detection
+# Reference: https://www.virustotal.com/gui/file/432974205e1ce4c1d2c0e6bf6ebfafd90f6c19451eec0485ac46beaf65247763/detection
+# Reference: https://www.virustotal.com/gui/file/48b9f78899b8a3daaeb9cbf7245350a6222cbf0468cd5c2bab954c8dbbce3995/detection
+
+http://46.149.71.230
+195.2.70.190:443
+46.149.71.230:443
