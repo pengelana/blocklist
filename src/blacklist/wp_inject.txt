@@ -6802,3 +6802,8 @@ agitted.shop
 sundard.shop
 contrar.agitted.shop
 denough.sundard.shop
+
+# Reference: https://blog.sucuri.net/2025/12/wordpress-auto-login-backdoor-disguised-as-javascript-data-file.html
+
+/wp-admin/js/mr_skk/data.php
+/wp-admin/js/mr_skk/
