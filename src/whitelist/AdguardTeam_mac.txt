@@ -17,5 +17,14 @@ check.svyaznoy.ru
 www.re-store.ru
 // Temporary, see https://github.com/AdguardTeam/CoreLibs/issues/1097
 www.antonioli.eu
-// // Temporary, see https://github.com/AdguardTeam/CoreLibs/issues/1506
+// Temporary, see https://github.com/AdguardTeam/CoreLibs/issues/1506
 raindrop.io
+// ChatGPT Atlas login issues https://github.com/AdguardTeam/CoreLibs/issues/2043
+auth.openai.com$app=com.openai.atlas
+sentinel.openai.com$app=com.openai.atlas
+chatgpt.com$app=com.openai.atlas
+browser-intake-datadoghq.com$app=com.openai.atlas
+featureassets.org$app=com.openai.atlas
+prodregistryv2.org$app=com.openai.atlas
+oaistatic.com$app=com.openai.atlas
+chat.openai.com$app=com.openai.atlas
