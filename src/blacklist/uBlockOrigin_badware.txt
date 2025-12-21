@@ -680,12 +680,7 @@ howtoremove.guide###gray_de
 ||mfilecloud.com^$all
 ||xsharenode.com^$all
 ||basesfiles.com^$all
-||one-click.cc^$all
-||descarga.pw^$doc
 ||mediafire.com/folder/ofa1qju50ffaz/$doc
-||mediafire.com/folder/hm0b7x2593fh1/$doc
-||mediafire.com/folder/86rkvkl7eswi2/$doc
-||mediafire.com/folder/4fsmxnec5zkpl/$doc
 ||mediafire.com/folder/hh6g372sijmjr/$doc
 ||www.youtube.com/@pengwincheat/$doc
 ||www.youtube.com/@melonitysoft/$doc
@@ -706,16 +701,12 @@ howtoremove.guide###gray_de
 ||sites.google.com/view/robiccv|$doc
 ||sites.google.com/view/easylaunch|$doc
 ||gamefree.vip^$doc
-||gocrazy.gg^$doc
 ||upload.advgroup.ru/mvWwiE4h$all
 ||games-blacksoft.com^$doc
 ||freefiles-upload.com^$doc
 ||projecthygieia.com^$all
 ||fusionhacks.cc^$doc
-||phantomcorestudios.net^$doc
 ||mysoft.rest^$all
-||syntaxwave.lol^$doc
-||gitzdownloadkm.cyou^$doc
 ||lunexmods.cc^$doc
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/69036
@@ -2894,6 +2885,8 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||cryptomusk.io^$all
 ||sunperp.icu^$doc
 ||aster-dex.run^$doc
+||polymarket.digital^$doc
+||optimism-lab.network^$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/25492
 ||foundations-x2024.*^$doc,to=foundations-x2024.*
 ||foundations-x2024.cloud^$all
@@ -5005,7 +4998,7 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 
 ! https://unit42.paloaltonetworks.com/rare-phishing-page-delivery-header-refresh/
 ||tracker.club-os.com^
-||onelink.me/*&af_web_dp=$doc
+!||onelink.me/*&af_web_dp=$doc
 ||guide-orientation.tn/go_page.php?$doc
 ! https://github.com/uBlockOrigin/uAssets/issues/26798
 !#if env_mobile
@@ -6201,8 +6194,6 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 ||ff-exchange.help^$doc
 ||cnangelly.online^$doc
 ||changely.at^$doc
-||changeenow.atangelly.online^$doc
-||changely.at^$doc
 ||changeenow.at^$doc
 ||simpleswap.at^$doc
 ||charigelly.org^$doc
@@ -6276,12 +6267,9 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 ! https://github.com/uBlockOrigin/uAssets/issues/31063
 ||webexodus.created.app^$doc
 ||guidance.ghost.io^$doc
-||started-trzor.framer.ai^$doc
 ||yupoo-megamillions.ru^$doc
 ||yupoo-powerball.ru^$doc
 ||trezorsuite.wasmer.app^$doc
-||trazore-suites.framer.ai^$doc
-||trezzrsuite.framer.ai^$doc
 ||curve-flnance.com^$doc
 ||curve.sbs^$doc
 ||suite-trezor.click^$doc
@@ -6447,11 +6435,8 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 ||tfjg-rjgu-egji-zjgi-orjg-rngj.netlify.app^$all
 ||ldgerlive.us^$all
 ||trezorsuite.at^$all
-||home-leger-desktop.framer.ai^$all
-||get-trezzore.framer.ai^$all
 ||get-treezr-suit-en.framer.media^$all
 ||app-ledger-desktop.wasmer.app^$all
-||us-ledgredesktop.framer.ai^$all
 ||ledgerapp.created.app^$all
 ||ledgersso.created.app^$all
 ||ledger-wallet.gitlab.io^$all
@@ -6463,19 +6448,11 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 ||c066b573.smrta.pages.dev^$all
 ||ad.exodus.build^$all
 ||webapp.ghost.io^$all
-||eng-treezorsute.framer.ai^$all
-||started-trezo.framer.ai^$all
-||live-desktop-leidgr.framer.ai^$all
 ||webassetsapp.ghost.io^$all
-||live-desktop-ledgr.framer.ai^$all
 ||ledgercom.m-teach.com^$all
 ||engsuites.ghost.io^$all
-||home-tzersuite.framer.ai^$all
-||suites-en.framer.ai^$all
-||hub-desktop-ladgr.framer.ai^$all
 ||createwebsite.ghost.io^$all
 ||guide-ledegr.framer.media^$all
-||appsuites.framer.ai^$all
 ||apptreezorsuite.github.io^$all
 ! https://github.com/uBlockOrigin/uAssets/issues/31223
 ||sushi-swap.org^$all
@@ -6510,3 +6487,26 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 ||welatera.com^$all
 ||logonatera.it.com^$all
 ||barclaycordus.top^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31237
+||izzuo.it.com^$all
+! https://github.com/uBlockOrigin/uAssets/issues/31243
+||ads.goolge.site^$all
+||paytrace-app.co.com^$all
+||scotia-connect.co.com^$all
+||scotanomect.cc^$all
+||scotlacomp.cc^$all
+||sparrowwallef.com^$all
+||u-tronscan.com^$all
+||amehuns.cc^$all
+||stinglebom.cc^$all
+||hyper-liquid.to^$all
+||orca-finance.org^$all
+||changenow-swap.org^$all
+||changenow-exchange.org^$all
+||simplswap.org^$all
+||official-ledgrlive.com^$all
+||jup-dex.org^$all
+||shop-bitboxswiss.de^$all
+||bifboxswiss.de^$all
+||srvclouds.com^$all
