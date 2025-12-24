@@ -1,6 +1,7 @@
 # Domains
 
 ~~~
+[ OK ]   220,029 src/blacklist/217heidai_adblockdns.txt
 [NOK ]         0 src/blacklist/365stealer_phishtool.txt
 [ OK ]         5 src/blacklist/404_tds.txt
 [ OK ]       898 src/blacklist/AWAvenue-Ads-Rule.txt
@@ -30,7 +31,7 @@
 [ OK ]     4,421 src/blacklist/android_hiddad.txt
 [ OK ]        14 src/blacklist/araneida.txt
 [NOK ]         0 src/blacklist/arl.txt
-[ OK ]    51,767 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    51,768 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]         4 src/blacklist/bad_proxy.txt
 [ OK ]     1,109 src/blacklist/bad_script.txt
 [ OK ]     3,327 src/blacklist/bad_service.txt
@@ -284,22 +285,22 @@
 [ OK ]         2 src/blacklist/xsender_spamtool.txt
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 
-Total Blacklist     : 3,623,296
-Filter Duplicates   : 2,661,176
-External Whitelist  : 2,534,989
-Filter Whitelist    : 2,534,925
-Import Blacklist    : 2,535,533
-Compressed          : 2,178,425
+Total Blacklist     : 3,843,326
+Filter Duplicates   : 2,674,014
+External Whitelist  : 2,547,704
+Filter Whitelist    : 2,547,638
+Import Blacklist    : 2,548,245
+Compressed          : 2,190,866
 
    LENGTH     COUNT
-        2 1,649,338
-        3   451,936
-        4    56,383
-        5    17,536
-        6     2,388
-        7       588
-        8       147
-        9        61
+        2 1,651,495
+        3   458,626
+        4    59,890
+        5    17,634
+        6     2,389
+        7       581
+        8       144
+        9        59
        10        26
        11         7
        12         2
@@ -310,7 +311,7 @@ Compressed          : 2,178,425
        18         3
        19         3
 
-Total Blocklist     : 2,178,425
+Total Blocklist     : 2,190,866
 
 ~~~
 
@@ -372,6 +373,7 @@ https://v.firebog.net/hosts/RPiList-Malware.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 https://v.firebog.net/hosts/Prigent-Crypto.txt
+https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 ~~~
 
 # Whitelist
