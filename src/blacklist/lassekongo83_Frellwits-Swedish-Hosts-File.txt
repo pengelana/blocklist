@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-11-03 03:49:00 CET
-# entries:        1151
+# last updated:   2026-01-04 06:09:51 CET
+# entries:        1154
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -21,7 +21,6 @@
 127.0.0.1 a.zxcvads.com
 127.0.0.1 ab.fastighetsvarlden.se
 127.0.0.1 acceptable.a-ads.com
-127.0.0.1 accesslnk.com
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.impactify.io
@@ -699,6 +698,7 @@
 127.0.0.1 prd-collector-platform.ex.co
 127.0.0.1 premium.analys.cloud
 127.0.0.1 prg.smartadserver.com
+127.0.0.1 proad-cdn.relevant-digital.com
 127.0.0.1 protagcdn.com
 127.0.0.1 proxyas.com
 127.0.0.1 pubads.g.doubleclick.net
@@ -715,6 +715,7 @@
 127.0.0.1 redistats.com
 127.0.0.1 region1.google-analytics.com
 127.0.0.1 regstat.se
+127.0.0.1 relevant-digital.com
 127.0.0.1 rentia.se
 127.0.0.1 rentify.se
 127.0.0.1 rentler.se
@@ -817,7 +818,6 @@
 127.0.0.1 sr-client-cfg.eu.amplitude.com
 127.0.0.1 ssl.webserviceaward.com
 127.0.0.1 ssp.api.tappx.com
-127.0.0.1 ssp-nj.webtradehub.com
 127.0.0.1 st.adrecord.com
 127.0.0.1 stat.alltforforaldrar.se
 127.0.0.1 stat.blogg.se
@@ -881,6 +881,7 @@
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.richaudience.com
 127.0.0.1 synchrobox.adswizz.com
+127.0.0.1 sync.3fmediagroup.com
 127.0.0.1 system-notify.app
 127.0.0.1 s-eu-1.pushpushgo.com
 127.0.0.1 s.go-mpulse.net
@@ -913,6 +914,7 @@
 127.0.0.1 telemetric.dk
 127.0.0.1 telemetry.bambuser.io
 127.0.0.1 telemetry.seenthis.io
+127.0.0.1 ti.tradetracker.net
 127.0.0.1 tm.tradetracker.net
 127.0.0.1 to.getnitropack.com
 127.0.0.1 tools.ascontentcloud.com
@@ -1059,10 +1061,6 @@
 127.0.0.1 tracking.ut.se
 127.0.0.1 tracking.varldenshistoria.se
 127.0.0.1 tracking.vastgotabladet.se
-127.0.0.1 tracking.vaxjobladet.se
-127.0.0.1 tracking.vetlandaposten.se
-127.0.0.1 tracking.viivilla.se
-127.0.0.1 tracking.visitorsvose
 127.0.0.1 tracking.vaxjobladet.se
 127.0.0.1 tracking.vetlandaposten.se
 127.0.0.1 tracking.viivilla.se
