@@ -83,6 +83,8 @@ trueidentity.com
 lifelock.com
 login.kt.com
 // Government domains
+mos.ru
+gov.ru
 anaf.ro
 inspectiamuncii.ro
 gov.au
@@ -101,6 +103,10 @@ prestigecu.org
 go.kr
 gov.kr
 gov.pl
+// https://github.com/AdguardTeam/HttpsExclusions/issues/701
+account.idocs.kz
+identity.idocs.kz
+workflow.idocs.kz
 // https://learn.microsoft.com/en-us/entra/identity/authentication/passkey-authenticator-faq
 cable.ua5v.com
 enclave.ua5v.com

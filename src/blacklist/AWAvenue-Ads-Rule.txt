@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 898
+!Total lines: 901
 !Version: 1.6.9-release
-!Update time: 2025-12-21 13:53:35 UTC+8
-!Update content: fix  #190
+!Update time: 2026-01-15 22:37:28 UTC+8
+!Update content: remove ”bugly.qq.com“
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -137,6 +137,7 @@
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
 ||adtrack.quark.cn^
+||adtracker.medproad.com^
 ||adv-api.shenshiads.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
@@ -267,7 +268,6 @@
 ||browser.events.data.msn.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
 ||bsrv.qq.com^
-||bugly.qq.com^
 ||business-api.tiktok.com^
 ||c.bidtoolads.com^
 ||c.etoolads.cn^
@@ -528,6 +528,7 @@
 ||mazu.m.qq.com^
 ||mbdlog.iqiyi.com^
 ||mcs.zijieapi.com^
+||medproad.com^
 ||metrics.data.hicloud.com^
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
@@ -631,6 +632,7 @@
 ||proxy.advp.apple.com^
 ||public.gdtimg.com^
 ||q.i.gdt.qq.com^
+||qcwx.medproad.com^
 ||qmlog.baertt.com^
 ||qn-cdnfile1pcdn.msstatic.com^
 ||qqdata.ab.qq.com^
@@ -683,10 +685,6 @@
 ||sdkconfig.ad.xiaomi.com^
 ||sdkconfig.play.aiseet.atianqi.com^
 ||sdkconfig.video.qq.com^
-||sdkoptedge.chinanetcenter.com^
-||sdkreport.e.qq.com^
-||sdktmp.hubcloud.com.cn^
-|o.qq.com^
 ||sdkoptedge.chinanetcenter.com^
 ||sdkreport.e.qq.com^
 ||sdktmp.hubcloud.com.cn^
