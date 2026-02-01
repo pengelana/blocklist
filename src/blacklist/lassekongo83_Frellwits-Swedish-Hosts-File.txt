@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-01-04 06:09:51 CET
-# entries:        1154
+# last updated:   2026-02-01 08:01:49 CET
+# entries:        1151
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -890,7 +890,6 @@
 127.0.0.1 t.contentinsights.com
 127.0.0.1 t.elasticsuite.io
 127.0.0.1 t.fastcmp.com
-127.0.0.1 t.fml.rip
 127.0.0.1 t.gatorleads.co.uk
 127.0.0.1 t.myvisitors.se
 127.0.0.1 t.raptorsmartadvisor.com
@@ -1107,8 +1106,6 @@
 127.0.0.1 webstats.100procent.com
 127.0.0.1 web-analytics.ica.se
 127.0.0.1 web-sdk.smartlook.com
-127.0.0.1 widget.cdn.citygate.se
-127.0.0.1 widget.citygate.se
 127.0.0.1 widget.lifeinside.io
 127.0.0.1 widgets.ad.style
 127.0.0.1 widgets.getsitecontrol.com
