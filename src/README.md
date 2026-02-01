@@ -31,7 +31,7 @@
 [ OK ]     4,421 src/blacklist/android_hiddad.txt
 [ OK ]        14 src/blacklist/araneida.txt
 [NOK ]         0 src/blacklist/arl.txt
-[ OK ]    53,824 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    53,825 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]         4 src/blacklist/bad_proxy.txt
 [ OK ]     1,109 src/blacklist/bad_script.txt
 [ OK ]     3,329 src/blacklist/bad_service.txt
@@ -137,7 +137,7 @@
 [ OK ]         8 src/blacklist/deimos_c2.txt
 [ OK ]       328 src/blacklist/dnstunneling_t.txt
 [ OK ]        10 src/blacklist/domain_shadowing.txt
-[ OK ]     2,631 src/blacklist/durablenapkin_hosts.txt
+[ OK ]     2,633 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,172 src/blacklist/easylist_adservers_popup.txt
 [ OK ]        64 src/blacklist/ek_angler.txt
 [ OK ]        13 src/blacklist/ek_bottle.txt
@@ -223,7 +223,7 @@
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]         2 src/blacklist/perfaudcore.txt
 [ OK ]        37 src/blacklist/perswaysion.txt
-[ OK ]   154,373 src/blacklist/phishing_army_blocklist_extended.txt
+[ OK ]   154,421 src/blacklist/phishing_army_blocklist_extended.txt
 [NOK ]         0 src/blacklist/phonyc2.txt
 [NOK ]         0 src/blacklist/pinnaclecore.txt
 [ OK ]         7 src/blacklist/popup_t.txt
@@ -235,7 +235,7 @@
 [NOK ]         0 src/blacklist/python_byob.txt
 [ OK ]       141 src/blacklist/quidsup_notrack-malware.txt
 [NOK ]         0 src/blacklist/redguard.txt
-[ OK ]     1,155 src/blacklist/redirect_t.txt
+[ OK ]     1,156 src/blacklist/redirect_t.txt
 [NOK ]         0 src/blacklist/redwarden.txt
 [ OK ]         8 src/blacklist/robloxcore.txt
 [ OK ]        26 src/blacklist/rogue_dns.txt
@@ -259,7 +259,7 @@
 [ OK ]        23 src/blacklist/telekopye_scamtool.txt
 [ OK ]     3,068 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]     1,921 src/blacklist/upx_tds.txt
-[ OK ]       554 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       556 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,304 src/blacklist/validin-phish-feed-1.txt
 [ OK ]    93,630 src/blacklist/validin-phish-feed-2.txt
 [ OK ]   119,097 src/blacklist/validin-phish-feed-3.txt
@@ -286,17 +286,17 @@
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 [NOK ]         0 src/blacklist/zoro_c2.txt
 
-Total Blacklist     : 4,069,420
-Filter Duplicates   : 2,778,848
-External Whitelist  : 2,651,831
-Filter Whitelist    : 2,651,764
-Import Blacklist    : 2,652,374
-Compressed          : 2,285,495
+Total Blacklist     : 4,069,474
+Filter Duplicates   : 2,778,803
+External Whitelist  : 2,651,786
+Filter Whitelist    : 2,651,719
+Import Blacklist    : 2,652,329
+Compressed          : 2,285,494
 
    LENGTH     COUNT
-        2 1,698,004
-        3   492,107
-        4    73,236
+        2 1,698,011
+        3   492,097
+        4    73,238
         5    18,825
         6     2,547
         7       568
@@ -312,7 +312,7 @@ Compressed          : 2,285,495
        18         3
        19         3
 
-Total Blocklist     : 2,285,495
+Total Blocklist     : 2,285,494
 
 ~~~
 
