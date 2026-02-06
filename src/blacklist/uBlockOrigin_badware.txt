@@ -6223,7 +6223,14 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 ||changenow-swap.org^$all
 ||changenow-exchange.org^$all
 ||simplswap.org^$all
-||official-ray-dium.cyou^$all
+||official-.com/uBlockOrigin/uAssets/issues/31163
+||coinomi.co.com^$all
+||trust-download.co.com^$all
+||app-phantom.co.com^$all
+||app-atomic.co.com^$all
+! https://github.com/uBlockOrigin/uAssets/issues/31177
+||first-horizon.co.com^$all
+||ray-dium.cyou^$all
 ! https://github.com/uBlockOrigin/uAssets/issues/31218
 ||trezosuiteapp.vercel.app^$all
 ||tfjg-rjgu-egji-zjgi-orjg-rngj.netlify.app^$all
@@ -6356,3 +6363,17 @@ comix.to##+js(json-edit-fetch-response, .result.items.*[?.content*="'+'"], props
 ! https://github.com/uBlockOrigin/uAssets/issues/31696
 ! https://www.virustotal.com/gui/file/f0cec368e0d0c430716e2df6d72ad7f567dd729f8b7223504eb902ac7e9260ba
 ||mpchc.net^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31731
+! https://www.virustotal.com/gui/url/adb9235105a5f16ed33071d4afdb684b8fe21f69a6b623bca09b4210606b3da0
+||subscriptionprocess.im^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/31733
+||acc-verification.world^$all
+||l1ve-com.444774.shop^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/224080
+! https://www.virustotal.com/gui/url/bfd319106c625dd4f1438c9750927e2fc0b26037f6cf748f73796f1f16bc7004
+||rblx-copier.vercel.app^$all
+||youtube.com/watch?v=ZsAUT2PmbZk$all
+||youtube.com/@rblxtoolz$all
