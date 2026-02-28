@@ -2568,6 +2568,7 @@ cracksmid.com##div[style=""] > center > center
 ||core.windows.net/js/script7.js
 ||core.windows.net/*/js/js5.js
 ||core.windows.net/*/js/js6.js
+||core.windows.net/crypto-js.min.js
 ||ipwho.is^$xhr,domain=web.core.windows.net
 ||web.core.windows.net/beep.mp3
 ||web.core.windows.net/eng.mp3
@@ -2591,7 +2592,7 @@ cracksmid.com##div[style=""] > center > center
 ||azurewebsites.net/alertmicrosoft.mp3
 ||azureedge.net/*/esc.js
 ||azureedge.net/*/flscn.js
-/text_tel.js$domain=app|dev|fit|me|page|github.io
+/text_tel.js$domain=app|dev|fit|me|page|site|github.io
 ||github.io/my-new-app/text.js$1p
 /a0ler0tm0s.mp3$domain=dev|online|shop
 ||github.io/iossupport/$doc
@@ -2599,6 +2600,7 @@ cracksmid.com##div[style=""] > center > center
 ||github.io/*/js/esc.js
 ||github.io/*/js/flscn.js
 ||github.io/*/media/beep.mp3
+||azurefd.net/media/beep.mp3
 !
 ! https://github.com/uBlockOrigin/uAssets/issues/29718
 z13.web.core.windows.net##+js(aeld, DOMContentLoaded, fullscreenEnabled)
@@ -5217,6 +5219,15 @@ rapidkil.com.au##+js(aost, XMLHttpRequest, /wp-content)
 ||glousism.co.in^$all
 ! https://www.reddit.com/r/antivirus/comments/1imiwam/should_i_be_worried/
 ||tryrichleads.top^$all
+! https://www.reddit.com/r/antivirus/comments/1rbascl/i_made_a_typo_in_a_government_html_address_now_i/
+||sentinelbotcore.co.in^$all
+! https://www.reddit.com/r/antivirus/comments/1re2ox3/im_kinda_dumb_with_technology_in_general_should_i/
+||kexornero.co.in^$all
+!#if !ext_ubol
+/^https?:\/\/[a-z0-9]{10,}\.[a-z]{9,}\.co\.in\//$all,to=co.in
+!#endif
+! https://www.reddit.com/r/antivirus/comments/1rg9tbc/wife_computer_suddenly/
+||vironexta.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26722
 ||maxsecurityultimate.com^$all

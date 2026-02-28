@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-02-01 08:01:49 CET
-# entries:        1151
+# last updated:   2026-02-13 07:30:13 CET
+# entries:        1152
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -195,6 +195,7 @@
 127.0.0.1 backend.qimtek.se
 127.0.0.1 bam.bonad.io
 127.0.0.1 banner.bet365partners.com
+127.0.0.1 banneradder.se
 127.0.0.1 banners.instaforex.com
 127.0.0.1 banners.jldigital.se
 127.0.0.1 banners.wsnonline.dk
@@ -1062,7 +1063,6 @@
 127.0.0.1 tracking.vastgotabladet.se
 127.0.0.1 tracking.vaxjobladet.se
 127.0.0.1 tracking.vetlandaposten.se
-127ing.vetlandaposten.se
 127.0.0.1 tracking.viivilla.se
 127.0.0.1 tracking.visitorsvoice.com
 127.0.0.1 tracking.vlt.se

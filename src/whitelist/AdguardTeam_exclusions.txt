@@ -1,3 +1,23 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2031
+||blossoms.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/224298
+! Blocked by CNAME popcashjs.b-cdn.net
+||consent.cookiefirst.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2023
+||netcore.co.in^
+||tw.netcore.co.in^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2021
+||fd.cleantalk.org^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/2011
+||log.go.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1992
+||redirectingat.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1987
+||data.service.paypal.com^
+! https://github.com/hagezi/dns-blocklists/issues/8005
+||connectif.cloud^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1978
+||trackjs.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1971
 ||smaad.net^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1964
@@ -145,6 +165,7 @@
 /(?:^\|\|?|^)(192\.168\.?[\d\.*]+)\|{0,1}$/
 !
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1690
+||api-ao.adison.co^
 ||api-ao-list.adison.co^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1645
 ||tangerine.io^
@@ -848,26 +869,6 @@
 ||analytics.twitter.com^
 ! Fixing proofpoint.com
 ||proofpoint.com^
-! https://github.com/AdguardTeam/AdguardFilters/issues/99952
-||zmctrack.net^
-||znctrack.net^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/33
-||localbitcoins.com^
-! https://forum.adguard.com/index.php?threads/30479/
-||bigmir.net^
-! https://github.com/AdguardTeam/AdguardFilters/issues/27858
-||linksynergy.com^
-! https://github.com/AdguardTeam/AdguardFilters/issues/27863
-||markitondemand.com^
-! https://forum.adguard.com/index.php?threads/go-tinder-com.30013/
-||bnc.lt^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/28
-||jango.com^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/26
-||app.link^
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/20
-webtrends.com
-! https://github.com/AdguardT
 ! https://github.com/AdguardTeam/AdguardFilters/issues/99952
 ||zmctrack.net^
 ||znctrack.net^

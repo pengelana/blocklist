@@ -26,6 +26,10 @@
 @@||geo3.ggpht.com^$important
 @@||yt3.ggpht.com^$important
 @@||drive.google.com^$important
+@@||g.co^$important
+@@||gemini.google.com^$important
+@@||translate.google.com^$important
+@@||googleapis.l.google.com^$important
 ! CNAME googletagmanager.com
 @@||www-googletagmanager.l.google.com^$important
 @@||googletagmanager.com^$important
@@ -45,6 +49,8 @@
 @@||i.ytimg.com^$important
 @@||i1.ytimg.com^$important
 @@||s.ytimg.com^$important
+@@||play.googleapis.com^$important
+@@||googlevideo.com^$important
 ! For Youtube history
 @@||s.youtube.com^$important
 ! Plex
@@ -141,6 +147,10 @@
 @@||twimg.com^$important
 @@||twitter.com^$important
 @@||t.co^$important
+! Required for links on the mobile app
+@@||analytics.twitter.com^$important
+! Required for images
+@@||twimg.com^$important
 ! Optimizely | VarageSale app (iOS)
 @@||optimizely.com^$important
 @@||cdn.optimizely.com^$important
@@ -305,6 +315,18 @@
 @@||dl.delivery.mp.microsoft.com^$important
 @@||1drv.com^$important
 @@||aspnetcdn.com^$important
+@@||www.msftncsi.com^$important
+@@||officeclient.microsoft.com^$important
+@@||dl.delivery.mp.microsoft.com^$important
+@@||geo-prod.do.dsp.mp.microsoft.com^$important
+@@||displaycatalog.mp.microsoft.com^$important
+@@||sls.update.microsoft.com.akadns.net^$important
+@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^$important
+@@||clientconfig.passport.net^$important
+@@||v10.events.data.microsoft.com^$important
+@@||v20.events.data.microsoft.com^$important
+@@||client-s.gateway.messenger.live.com^$important
+@@||arc.msn.com^$important
 ! For Xbox live achievements
 @@||v20.vortex-win.data.microsoft.com^$important
 @@||v10.vortex-win.data.microsoft.com^$important
@@ -322,6 +344,10 @@
 @@|g.live.com^$important
 @@|g.msn.com^$important
 ! Netflix
+@@||nflximg.com^$important
+@@||llnwd.net^$important
+@@||appboot.netflix.com^$important
+@@||uiboot.netflix.com^$important
 @@||api-global.netflix.com^$important
 @@||ichnaea.netflix.com^$important
 @@||appboot.netflix.com^$important
@@ -339,6 +365,10 @@
 @@||ap.spotify.com^$important
 @@||audio-ake.spotify.com.edgesuite.net^$important
 @@||audio4-ak.spotify.com.edgesuite.net^$important
+! Spotify + Apple Music
+@@||googleusercontent.com^$domain=spotify.com$important
+@@||itunes.apple.com^$important
+@@||s.mzstatic.com^$important
 ! Sonos
 @@||msmetrics.ws.sonos.com^$important
 ! Amazon Prime Video and Amazon CDN
@@ -350,7 +380,21 @@
 @@||device-metrics-us-2.amazon.com^$important
 @@||images-amazon.com^$important
 @@||amazonaws.com^$important
+! Amazon
+@@||mobileanalytics.us-east-1.amazonaws.com^$important
+@@||cognito-identity.us-east-1.amazonaws.com^$important
+@@||unagi-na.amazon.com^$important
+@@||ocsp.rootg2.amazontrust.com^$important
+@@||det-ta-g7g.amazon.com^$important
+@@||todo-ta-g7g.amazon.com^$important
+@@||device-messaging-na.amazon.com^$important
+@@||vs3-eu-west-1.amazonaws.com^$important
+@@||us-east-1.amazonaws.com^$important
+@@||device-metrics-us-2.amazon.com^$important
+@@||sqs.us-east-1.amazonaws.com^$important
 ! Apple
+@@||mesu.apple.com^$important
+@@||appleid.apple.com^$important
 @@||gdmf.apple.com.akadns.net^$important
 @@||apple.com^$important
 @@||itunes.com^$important
@@ -427,6 +471,11 @@
 @@||fe-lb.tranquilli.org^$important
 ! Reddit
 @@||reddit.com^$important
+! With help from https://www.reddit.com/r/pihole/comments/aan57o/how_to_whitelist_reddit/
+@@||accounts.reddit.com^$important
+@@||i.reddit.com^$important
+@@||redd.it^$important
+@@||cdn.embedly.com^$important
 ! Telegraph
 @@||telegra.ph^$important
 ! Glasswire
@@ -439,7 +488,7 @@
 ! Solidshare
 @@||solidshare.net^$important
 ! Repackme
-@@||repack.me^$important
+@@||*.repack.me^$important
 @@||repackmepoymi.cf^$important
 ! Stacksocial
 @@||stacksocial.com^$important
@@ -478,6 +527,13 @@
 ! Mercado Livre
 @@||mercadolivre.com.br^$important
 @@||mercadopago.com.br^$important
+! Netshoes
+@@||netshoes.com.br^$important
+@@||marketingcloudapis.com^$important,third-party,app=br.com.netshoes.app
+@@||marketingcloudapis.com^$important,third-party
+! Firewalla
+@@||firewalla.com^$important
+@@||my.firewalla.com^$important
 ! Others
 @@||cdnp2.stackassets.com^$important
 @@||snap.licdn.com^$important
@@ -501,14 +557,14 @@
 @@||cedexis.net^$important
 @@||omni.com.br^$important
 @@||ias.biz.com.br^$important
-@@||netshoes.com.br^$important
 @@||majorgeeks.com^$important
 @@||greatis.com^$important
 @@||dl.gl-inet.com^$important
-@@||firewalla.com^$important
 @@||gl-inet.com^$important
 @@||app.tagsell.com.br^$important
 @@||app.tagsell.com.br/login^$important
+@@||criadoresdofuturo.com.br^$important
+@@||link.criadoresdofuturo.com.br^$important
 @@||app.internetbanking.caixa.gov.br^$important
 @@||caixa.gov.br^$important
 @@||tagsell.com.br^$important
@@ -541,6 +597,8 @@
 @@||tracking.epicgames.com^$important
 ! Riot League of Lengends launch
 @@||ekg.riotgames.com^$important
+! Required for the PS5
+@@||telemetry-console.api.playstation.com^$important
 ! Required for watching espn
 @@||livepassdl.conviva.com
 @@||conviva.com^$important
@@ -752,6 +810,7 @@
 @@||events.gfe.nvidia.com^$important
 @@||gfwsl.geforce.com^$important
 @@||img.nvidiagrid.net^$important
+@@||ota-downloads.nvidia.com^$important
 ! Fixes shadowplay
 @@||gfe.nvidia.com^$important
 ! Nvidia games not showing in list
@@ -820,6 +879,7 @@
 @@||.evowise.com^$important
 ! Torrent tracker
 @@||tracker.trackerfix.com^$important
+@@||gratistorrent.com^$important
 ! Newsletter host
 @@||revue.com^$important
 ! DirectTV Now
@@ -1382,6 +1442,9 @@
 @@||hbbtv01p.anixe.net^$important
 ! https://github.com/notracking/hosts-blocklists/issues/555
 @@||sgqcvfjvr.onet.pl^$important
+! Keepsolid
+@@||keepsolid.com^$important
+@@||id.keepsolid.com^$important
 ! Linkedin
 @@||linkedin.com^$important
 @@||media-expl1.licdn.com^$important
@@ -2145,58 +2208,6 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||mobile.events.data.trafficmanager.net^$important
 @@||eu.events.data.trafficmanager.net^$important
 ! Outlook - link to new outlook e-Mail address
-@@||eimportant
-! Samsung own stats are sent here, but it checks the cert
-@@||atlas.samsung.com^$important
-! https://github.com/AdguardTeam/AdguardForAndroid/issues/1867
-@@||generalmotorscorporation.sc.omtrdc.net^$important
-@@||api.gm.com^$important
-@@||gmmobileservices.gm.com^$important
-@@||acompli.net^$important
-! https://github.com/AdguardTeam/CoreLibs/issues/1032 (acompli.net Outlook)
-! Specific Exclusions for Applications
-! https://github.com/AdguardTeam/AdguardForAndroid/issues/3052
-! Mamba:
-@@||api.mobile-api.ru$app=ru.mamba.client^$important
-! Tunnelbear:
-@@||tunnelbear.com$app=com.tunnelbear.android^$important
-@@||amazonaws.com$app=com.tunnelbear.android^$important
-! VK:
-@@||vk.com^$important
-@@||pp.userapi.com^$important
-@@||google.com$app=com.vkontakte.android^$important
-@@||vk.com$app=com.vkontakte.android^$important
-@@||vkuservideo.net$app=com.vkontakte.android^$important
-@@||vk-cdn.net$app=com.vkontakte.android^$important
-! Twitter
-@@||cdn.syndication.twimg.com^$important
-@@||cdn.syndication.twitter.com^$important
-@@||syndication.twimg.com^$important
-@@||pbs.twimg.com^$important
-! Disney+ Asia will show a No Internet Connection banner
-@@||bifrost-api.hotstar.com^$important
-! Epic Games Launcher
-@@||eulatracking-public-service-*.ol.epicgames.com^$important
-! Chick-Fil-A App
-@@||*.tmetrix.my.chick-fil-a.com^$important
-! Imgur
-@@||js.media-lab.ai^$important
-! Google Photos
-@@||people-pa.googleapis.com^$important
-! Outlook:
-@@||azureedge.net$app=com.microsoft.office.outlook^$important
-@@||acompli.net$app=com.microsoft.office.outlook^$important
-@@||microsoft.com$app=com.microsoft.office.outlook^$important
-! https://github.com/notracking/hosts-blocklists/issues/436
-@@||safelinks.protection.outlook.com^$important
-@@||.safelinks.protection.outlook.com^$important
-! Outlook mobile app
-! https://github.com/hagezi/dns-blocklists/issues/233
-@@||mobile.events.data.microsoft.com^$important
-@@||eu-mobile.events.data.microsoft.com^$important
-@@||mobile.events.data.trafficmanager.net^$important
-@@||eu.events.data.trafficmanager.net^$important
-! Outlook - link to new outlook e-Mail address
 @@||eu-office.events.data.microsoft.com^$important
 @@||eu.aria.events.data.trafficmanager.net^$important
 ! For "Your Phone/Browser Companion" to work in Win
@@ -2550,13 +2561,6 @@ dr49lng3n1n2s.cloudfront.net^$important
 @@||mirrorcache-au.opensuse.org^$important
 @@||mirrorcache-us.opensuse.org^$important
 @@||mirrorcache-br.opensuse.org^$important
-@@||mirrorcache-br-2.opensuse.org^$important
-@@||cache.opensuse.net.br^$important
-@@||mirrorcache.opensuse.org^$important
-@@||news.opensuse.org^$important
-@@||ftp.gwdg.de^$important
-@@||build.opensuse.org^$important
-@@||software.omportant
 @@||mirrorcache-br-2.opensuse.org^$important
 @@||cache.opensuse.net.br^$important
 @@||mirrorcache.opensuse.org^$important
