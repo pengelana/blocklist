@@ -1,7 +1,7 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-02-13 07:30:13 CET
+# last updated:   2026-03-13 10:01:18 CET
 # entries:        1152
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
@@ -457,6 +457,7 @@
 127.0.0.1 extern.prisjakt.nu
 127.0.0.1 external.reseguiden.se
 127.0.0.1 ezodn.com
+127.0.0.1 ezoicanalytics.com
 127.0.0.1 f.convertkit.com
 127.0.0.1 faro-collector-prod-eu-west-0.grafana.net
 127.0.0.1 fastlane.rubiconproject.com
@@ -650,7 +651,6 @@
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 nichehuset.dk
 127.0.0.1 nitroscripts.com
-127.0.0.1 norranstats.azurewebsites.net
 127.0.0.1 norstatsurveys.com
 127.0.0.1 npario-inc.net
 127.0.0.1 ntrfr.expekt.se
