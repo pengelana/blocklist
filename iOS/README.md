@@ -28,5 +28,6 @@
 
 ## Plain DNS
 
-| No | Name               | Type      | Config                                                      |
-| 1  | tiar.app (port 53) | Plain DNS | [download](https://tiar.app/c/tiar.app-signed.mobileconfig) |
+| No | Name                               | Type      | Config                                                            |
+| -- | ---------------------------------- | -----     | ----------------------------------------------------------------- |
+| 1  | tiar.app (port 53)                 | Plain DNS | [download](https://tiar.app/c/tiar.app-signed.mobileconfig)       |
