@@ -24,11 +24,9 @@
 | 15 | doh.tiar.app-signed.mobileconfig   | DNS over HTTPS/HTTP3 | [download](https://tiar.app/c/doh.tiar.app-signed.mobileconfig)   |
 | 16 | doh.tiarap.org-signed.mobileconfig | DNS over HTTPS/HTTP3 | [download](https://tiar.app/c/doh.tiarap.org-signed.mobileconfig) |
 | 17 | dot.tiar.app-signed.mobileconfig   | DNS over TLS         | [download](https://tiar.app/c/dot.tiar.app-signed.mobileconfig)   |
+--->
 
 ## Plain DNS
 
-| No | Name                               | Type      | Config                                                        |
-| -- | ---------------------------------- | --------- | ------------------------------------------------------------- |
-| 1  | tiarap_dns-signed.mobileconfig     | Plain DNS | [download](https://tiar.app/c/tiarap_dns-signed.mobileconfig) |
---->
-
+| No | Name               | Type      | Config                                                      |
+| 1  | tiar.app (port 53) | Plain DNS | [download](https://tiar.app/c/tiar.app-signed.mobileconfig) |
