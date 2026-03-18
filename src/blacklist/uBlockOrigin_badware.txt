@@ -6336,3 +6336,34 @@ ublockdns.com##main>section>div:first-child::before:style(content: 'Not related 
 ! https://github.com/uBlockOrigin/uAssets/issues/32197
 ||cyrexmods.cc^$all
 ||cyrexmods.to^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/32206
+||audiveris.com^$doc
+
+! phishing emails - https://storage.googleapis.com/hmdbox/hmd_v2.html
+||storage.googleapis.com/hmdbox/$doc
+||hmdv2.gogomailbali.eu.org^$doc
+||hybridglobalnet.com^$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/32238
+||vtg.lol^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/227007
+! https://www.virustotal.com/gui/url/e668590b514e62f8af33200c3ef36e33bd7dcf9b4360bf5a7b99768bece566fd
+! https://www.virustotal.com/gui/file/c7bd726cbf743c593195ea0945907e9ee15d5c9ad7b7abbf69490fa34e7016dc
+||tranyasy.com.cn^$all
+||aps-wps.com.cn^$all
+
+! https://youtube.com/watch?v=I17MsVXACto
+! https://www.virustotal.com/gui/file/c734d74e40d436cadcc972e542d151d1dcbb44fc3f429ad2ada0ad8a8da4aa64
+! https://www.virustotal.com/gui/file/f5181886084854b0ea6eadcc3fc7194bb7245aa30a424f9ef5e5e74760417037
+||anysoft.click^$all
+
+! https://www.reddit.com/r/firefox/comments/1rumsyj/how_do_i_get_rid_of_these_popups/
+||zeof-defender.pro^$all
+
+! https://www.reddit.com/r/antivirus/comments/1rr7jx4/clicked_on_an_ad_download_button_that_forwarded/
+||laptopprivacyado.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/32240
+||hydrax.live^$all
