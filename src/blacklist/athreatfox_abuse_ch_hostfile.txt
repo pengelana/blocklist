@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-03-22 18:34:24 UTC                        #
+# Last updated: 2026-03-22 18:39:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	svc1sync.signalflowmetrics.in.net
 127.0.0.1	191da.snap-echo.in.net
 127.0.0.1	transmitpass.snap-echo.in.net
 127.0.0.1	c02az6tr.lakeweb.digital
@@ -63328,4 +63329,4 @@
 127.0.0.1	vh.vwof.ru
 127.0.0.1	e1.s951.ru
 127.0.0.1	pn.vwof.ru
-# Number of entries: 63322
+# Number of entries: 63323
