@@ -135,7 +135,7 @@
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
 [ OK ]    22,549 src/blacklist/cyberhost_uk_malware.txt
 [ OK ]         8 src/blacklist/deimos_c2.txt
-[ OK ]       330 src/blacklist/dnstunneling_t.txt
+[ OK ]       329 src/blacklist/dnstunneling_t.txt
 [ OK ]        10 src/blacklist/domain_shadowing.txt
 [ OK ]     2,281 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,183 src/blacklist/easylist_adservers_popup.txt
@@ -240,7 +240,7 @@
 [ OK ]         8 src/blacklist/robloxcore.txt
 [ OK ]        26 src/blacklist/rogue_dns.txt
 [ OK ]   130,893 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]    19,705 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]    19,759 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]     2,169 src/blacklist/savvyseahorse_tds.txt
 [ OK ]        15 src/blacklist/scareware.txt
 [NOK ]         0 src/blacklist/shellcodec2.txt
@@ -287,19 +287,19 @@
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 [NOK ]         0 src/blacklist/zoro_c2.txt
 
-Total Blacklist     : 4,547,090
-Filter Duplicates   : 3,218,480
-External Whitelist  : 3,090,730
-Filter Whitelist    : 3,090,658
-Import Blacklist    : 3,091,333
-Compressed          : 2,672,786
+Total Blacklist     : 4,547,143
+Filter Duplicates   : 3,218,490
+External Whitelist  : 3,090,740
+Filter Whitelist    : 3,090,668
+Import Blacklist    : 3,091,343
+Compressed          : 2,672,989
 
    LENGTH     COUNT
-        2 1,990,799
-        3   544,916
-        4   109,287
-        5    24,075
-        6     2,899
+        2 1,990,808
+        3   544,974
+        4   109,416
+        5    24,080
+        6     2,901
         7       608
         8       115
         9        42
@@ -313,7 +313,7 @@ Compressed          : 2,672,786
        18         3
        19         1
 
-Total Blocklist     : 2,672,786
+Total Blocklist     : 2,672,989
 
 ~~~
 
