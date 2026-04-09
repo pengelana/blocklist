@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2026 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Aliases: magecart
@@ -7495,6 +7495,7 @@ justdo.cyou
 kampaign.fun
 komby.uno
 komodor.sbs
+kopet.pics
 kopper.uno
 krown.buzz
 lampz.fun
@@ -8102,6 +8103,10 @@ google-manager.com
 google-portal.com
 google-server.com
 google-work.com
+static-create.com
+static-js.com
+static-migrate.com
+static-portal.com
 
 # Reference: https://twitter.com/unmaskparasites/status/1572635560153612288
 # Reference: https://www.virustotal.com/gui/ip-address/94.131.107.62/relations
@@ -10491,6 +10496,7 @@ statsmetrica.co
 statsmeter.co
 
 # Reference: https://blog.sucuri.net/2024/04/magento-shoplift-ecommerce-malware-targets-both-wordpress-magento-cms.html
+# Reference: https://www.virustotal.com/gui/ip-address/188.40.193.97/relations
 # Reference: https://www.virustotal.com/gui/ip-address/195.93.173.80/relations
 # Reference: https://www.virustotal.com/gui/ip-address/37.220.31.58/relations
 # Reference: https://www.virustotal.com/gui/ip-address/38.180.100.104/relations
@@ -10499,6 +10505,8 @@ statsmeter.co
 
 195.93.173.80:8001
 38.180.17.55:8001
+bootstrapcmd.com
+bootstrapgui.com
 bulkmailsms.com
 cloudlayerinsights.com
 fixer-api.com
@@ -11393,6 +11401,7 @@ ssl-google-analytics.com
 statefiarm.com
 static1-jquery.com
 static11-jquery.com
+static12-jquery.com
 static2-jquery.com
 static3-jquery.com
 static4-jquery.com
@@ -11404,6 +11413,7 @@ staticlitycis.com
 traffic-check.com
 v3-bigcommerce.com
 websiteanalytics.top
+wp-stats.info
 apple.com-ticket.info
 cdn.jquery.host
 controls.wpenginepowered.com
@@ -11411,6 +11421,8 @@ ns1.cloudflare-js5.com
 ns2.cloudflare-js5.com
 ns1.static11-jquery.com
 ns2.static11-jquery.com
+ns1.static12-jquery.com
+ns2.static12-jquery.com
 ns1.static5-jquery.com
 ns1.static6-jquery.com
 ns2.static5-jquery.com
@@ -12646,10 +12658,26 @@ cdn.svetmob.click
 
 # Reference: https://blog.sucuri.net/2024/08/prestashop-gtag-websocket-skimmer.html
 # Reference: https://www.virustotal.com/gui/ip-address/176.113.115.198/relations
+# Reference: https://www.virustotal.com/gui/file/5b15dde0557c4c53c7d827c56992304514b4371cebd391741445415866e4b413/detection
+# Reference: https://www.virustotal.com/gui/file/e4e65d0fb1587e4361b60cb08cfea9cc9a979f7c10c59417a08980ff11d4b917/detection
+# BANNER_0_HASH-HOST=f80e49c1ca5331c09295eba7b534e7d4
+# HEADER_HASH-HOST=e5e25deb2cd12fda24f9
 
+govpoll.icu
 iconstaff.top
+jslibrariescdn.com
+regiftee.com
+webanalytics-cdn.cfd
+webanalytics-cdn.cyou
+webanalytics-cdn.icu
+webanalytics-cdn.sbs
 cd.iconstaff.top
 cdn.iconstaff.top
+east.jslibrariescdn.com
+north.jslibrariescdn.com
+north-east.jslibrariescdn.com
+south.jslibrariescdn.com
+west.jslibrariescdn.com
 
 # Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-08-23-v10673/1914
 
@@ -13047,10 +13075,12 @@ jgueurystatic.xyz
 9analytics.ink
 9circle.today
 advsto.store
+albion.click
 alfabe.club
 analytz.info
 antiqshp.work
 ashops.cc
+bbqinn.my
 beautymania.tattoo
 betam.app
 bishop.help
@@ -13060,9 +13090,11 @@ bybeby.bio
 ccdiq.pro
 cdccom.vip
 celimax.digital
+co-eco.store
 coworkin.art
 crowdspace.shop
 dccome.app
+ddeart.cc
 directs.bond
 discoveryrover.info
 dofabrics.asia
@@ -13088,6 +13120,7 @@ humn.pro
 ibmpc.cc
 itracking.autos
 jackst.site
+jetex.pics
 jetstat.info
 jfkai.live
 kcjosef.fun
@@ -13099,6 +13132,7 @@ livedirect.my
 lonefrst.today
 megastat.shop
 metamanager.shop
+ministat.shop
 monstr.cv
 musmash.one
 nextai.cam
@@ -13125,6 +13159,7 @@ tagscart.shop
 tagsmanager.shop
 tagspot.store
 terap.app
+turbostat.shop
 ultrabit.shop
 ultrabyte.shop
 ultracart.shop
@@ -13135,24 +13170,32 @@ ultrasys.shop
 uniquemask.homes
 unis.my
 vectors.guru
+vmail.wiki
 vset.life
+vsign.biz
 vspec.info
 vsys.digital
 vtag.world
 vtags.life
 vtasks.shop
+vteam.top
 vtec.live
 vvwv.dev
 webstat.help
 wikistat.wiki
 wwwi.click
+xpertbit.shop
+xreplx.my
 xtras.work
 xtreme.boats
 xztv.me
 yamis.bio
+yellowtag.shop
 yesok.life
 yestat.website
 yesyes.rest
+ynotme.bar
+zalzas.cc
 zend.quest
 zerotag.cc
 zivert.top
@@ -13805,6 +13848,7 @@ artifyau.com
 brandiffy.com
 brandmynxt.com
 brandoraup.com
+canevaslab.com
 chartmyiq.com
 chartproset.com
 codeslucky.com
@@ -13853,6 +13897,7 @@ mktwiz.fun
 pixeloramy.com
 pixelprosstudio.com
 quantifymy.com
+qwickdns.com
 salesflowe.com
 salesuplab.com
 saveanon.com
@@ -13877,6 +13922,7 @@ thejupitersystems.com
 trasoltng.com
 trendifymy.com
 trendisall.com
+trendisnet.com
 trendkeed.com
 trendlab360.com
 trendlq.com
@@ -14243,11 +14289,13 @@ cdnjsdvcss.com
 cdnoaistatcs.icu
 chatjsdvcss.com
 chatjssvcss.com
+chelyad.icu
 cspreport.org
 csscdnhub.com
 debdpkgseclib.com
 epscsp.shop
 fastcdnjs.com
+flowcss.icu
 goljsdofls.com
 goljsdofma.org
 goljsdofmain.com
@@ -14256,7 +14304,9 @@ instaholldatalib.com
 logicwploo.com
 logicwploop.com
 logwplmap.com
+malicsla.icu
 manuchat.icu
+plesclist.icu
 reportcsp.com
 reportjquery.com
 reportjquery.shop
@@ -14270,6 +14320,8 @@ stylewpcall.com
 stylewpcoll.com
 stylewpoll.com
 syrvival.icu
+theftl.icu
+titansl.icu
 toolsmanuanalyzer.live
 
 # Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-09-19-v10698/1991
@@ -15712,11 +15764,18 @@ webjs-cms.online
 
 # Reference: https://app.validin.com/detail?find=185.196.11.100&type=ip4&ref_id=23ca33e4924#tab=resolutions (# 2025-05-01)
 # Reference: https://app.validin.com/detail?find=a427293b9f24f4147c5e52ba63638401&type=hash&ref_id=23ca33e4924#tab=host_pairs (# 2025-05-01)
+# CERT_FINGERPRINT_SHA256-HOST=480b7ae6795713255b94245086cf17e1a5b5340ff5d4eddc3c8e7b7e050e6d8f
+# CERT_FINGERPRINT_SHA256-HOST=97b0019005ee14927525495d3649872fb489cdd0820e6971b6ab08df3eb6716c
 
 accueildisclosure.com
 communityhelper.store
+googletgmanager.net
+monitoringrealip.cc
 optionhoraire.com
 showroomadmin.wiki
+westminster-royal.info
+magento.monitoringrealip.cc
+shop.monitoringrealip.cc
 
 # Reference: https://app.validin.com/detail?type=ip&find=45.88.3.0%2F24#tab=resolutions (# 2025-04-11)
 
@@ -16464,6 +16523,10 @@ onlinesupportmatrix.support
 onlinesupportmatrix.xyz
 onlinesupportmatrix․support
 requiresys.icu
+rshardware.online
+supportstreamonline.com
+typeglp.com
+w0rld.store
 
 # Reference: https://x.com/sdcyberresearch/status/2001277909835591854
 # BANNER_0_HASH-HOST=98e438289789a00d0f1bfede7412f25f
@@ -16485,6 +16548,261 @@ u2speed.site
 virtustat.shop
 vw-cars.top
 wvxmas.top
+
+# Reference: https://x.com/sdcyberresearch/status/2005621112898548175
+
+analyticsamazing.info
+basestatos.com
+bitbaystats.com
+bootstatseven.com
+bootstrap-sdn.com
+cdn-htojar.com
+claritycrown.com
+clearprint.tech
+cloudframestat.com
+cloudlstatics.com
+fbfromstat.com
+ftp-opencart.com
+googledriveanalytice.com
+googlemanageranalytic.com
+gtm-analyticsdn.com
+hotanalytic.com
+iframemetric.com
+jquarystatistic.com
+jquery-boots.com
+jquery-hoster.com
+jquery-minical.com
+jquery-stupify.com
+jquery-tech.com
+jstreecommon.com
+ninebasec.com
+primestatics.com
+rtc-forms.com
+rtc-info.com
+sdn-jquary.com
+sdn-optima.com
+sdn-starstair.com
+sdn-veryfy.com
+shfeeds.com
+ssa-conections.com
+staticsinfo.com
+statisticmanager.com
+statistoinf.info
+stiticlouds.com
+supluyers.com
+tryanalitics.com
+jquery.googlemanageranalytic.com
+
+# Reference: https://x.com/sdcyberresearch/status/2008553327550726534
+
+peachseo.com
+
+# Reference: https://x.com/sdcyberresearch/status/2010694446652809581
+
+cdn-typekit.com
+i.cdn-typekit.com
+
+# Reference: https://www.silentpush.com/blog/magecart/
+# ETAG-HOST=W/"67bd5f3d-264"
+
+cdn-cookie.com
+cdn-gstatic.com
+detail-best.com
+hacptcha.com
+ipifly.com
+newasest.com
+omappepi.com
+lasorie.com
+ftp.cdn-cookie.com
+ftp.cdn-gstatic.com
+ftp.detail-best.com
+ftp.google-manager.com
+ftp.hacptcha.com
+ftp.ipifly.com
+ftp.newasest.com
+ftp.omappepi.com
+mail.cdn-cookie.com
+mail.cdn-gstatic.com
+mail.detail-best.com
+mail.hacptcha.com
+mail.ipifly.com
+mail.newasest.com
+mail.omappepi.com
+
+# Reference: https://x.com/sdcyberresearch/status/2011404135757651976
+
+fastlistcss.icu
+gooliststyle.icu
+
+# Reference: https://sansec.io/research/keylogger-major-us-bank-employees
+
+artrabol.com
+domain-csp.com
+js-analyzer.com
+js-csp.com
+js-tag.com
+jslibrary.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.212.166.10/relations
+
+jsconstant.com
+
+# Reference: https://x.com/sdcyberresearch/status/2013205078119682419
+# BANNER_0_HASH-HOST=a1fbc2a3c8c5c0279b9ced011b8c2c9e
+# BANNER_0_HASH-HOST=78f37cab92545793474f9f800c98f87e
+# BANNER_0_HASH-HOST=ec53943d3cf13f05fc3451158505d463
+
+admistr.com
+admistr.info
+adsbridge.fun
+adsbridge.site
+adsbridge.space
+clickgator.info
+clickopath.info
+crmclicks.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/94.159.113.60/relations
+
+cloudflare-static4.com
+cloudflare-static4.net
+cloudflare-static7.com
+cloudflare-static7.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.158.127.153/relations
+
+cloudflare-static11.com
+cloudflare-static12.com
+cloudflare-static12.net
+cloudflare-static14.com
+cloudflare-static14.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/172.67.185.101/relations
+
+goog-in.icu
+
+# Reference: https://www.virustotal.com/gui/ip-address/193.163.7.197/relations
+
+cdn-cookies.com
+cdncomplete.com
+cdncookie.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.196.9.152/relations
+# BANNER_0_HASH-HOST=c58634db9b1afe46014c1be6ae110004
+# CERT_FINGERPRINT_SHA256-HOST=8d12a609e619bc1ce9fe9335a5d1dbda217a12d4f996b1d7da09ad04701a7368
+
+deynicaminiz.site
+filedocumentonline.com
+ftm-lottery.net
+goodleestat.online
+googlestgmanager.xyz
+skillsworks.top
+socket-io.ws
+w2ed.icu
+wijetmedio.site
+
+# Reference: https://x.com/unmaskparasites/status/2021677496715108417
+
+rocketplugin.com
+api.rocketplugin.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/146.19.213.254/relations
+
+braintreeapi.shop
+braintreeapi.top
+detroitaxle.shop
+
+# Reference: https://x.com/sdcyberresearch/status/2026266049755164860
+# Reference: https://www.virustotal.com/gui/ip-address/38.180.80.50/relations
+
+chatliveapp.com
+chatliveplus.com
+eventchatsupport.com
+javascripttestlibrary.com
+livechathub.org
+livechatlite.com
+liverespond.online
+apicheck.chatliveplus.com
+blog.chatliveplus.com
+chat.eventchatsupport.com
+calendar.livechatlite.com
+mail.chatliveplus.com
+online.eventchatsupport.com
+portal.livechatlite.com
+status.livechatlite.com
+system.eventchatsupport.com
+webdisk.chatliveplus.com
+
+# Reference: https://www.linkedin.com/posts/sansec_all-your-cheese-are-belong-to-us-we-just-activity-7432081690745024512-4qFA
+
+api-middle-connect.com
+cdn.api-middle-connect.com
+cloud.api-middle-connect.com
+
+# Reference: https://x.com/sdcyberresearch/status/2026985724935889148
+# Reference: https://www.virustotal.com/gui/ip-address/192.236.209.185/relations
+
+api-woocommerce.com
+cdnjs-cloud.com
+cdnjs-cloudflare.com
+leads-zdassets.com
+path-bootstrapcdn.com
+widget-trustpilot.com
+widget-zopim.com
+
+# Reference: https://x.com/sdcyberresearch/status/2028457016478281931
+
+cdn-cloudauth.net
+zip-check.online
+
+# Reference: https://www.virustotal.com/gui/ip-address/158.94.208.223/relations
+
+woostaticcdn.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/2.59.218.161/relations
+
+seotagmanager.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/150.241.203.71/relations
+
+woocommerce.ink
+
+# Reference: https://x.com/sdcyberresearch/status/2031383113314574389
+# Reference: https://www.virustotal.com/gui/ip-address/195.123.210.32/relations
+
+cdn-jsapi.net
+cndjsvar.com
+trackpixs.com
+
+# Reference: https://sansec.io/research/sessionreaper
+
+sagecrafft.com
+worcksbot.com
+tecnokauf.ru/accesson20.html
+/gsfa1faewf.txt
+
+# Reference: https://www.virustotal.com/gui/ip-address/94.159.113.173/relations
+
+cpdomain.info
+
+# Reference: https://x.com/sdcyberresearch/status/2034661252673274097
+
+/storage/users/bolshie-xyu.js
+/users/bolshie-xyu.js
+/bolshie-xyu.js
+
+# Reference: https://sansec.io/research/webrtc-skimmer
+
+202.181.177.177:3479
+
+# Reference: https://www.linkedin.com/posts/%F0%9D%9F%B2%F0%9D%9F%B1-%F0%9D%9F%B3%F0%9D%9F%B5-%F0%9D%9F%AE%F0%9D%9F%AD%F0%9D%9F%B0-stores-hacked-in-the-share-7444372406468726784-YmeX
+
+lanhd6549tdhse.top
+
+# Reference: https://x.com/sdcyberresearch/status/2041467751928131592
+
+http://213.177.179.8
+213.177.179.8:22
+213.177.179.8:443
 
 # Generic
 

@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2026 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Aliases: JSFiretruck
@@ -9149,13 +9149,399 @@ d3sf0irfhr5o320gc8s0di1mkfokc8i7a.oast.me
 /oxygensmoke.ps1
 
 # Reference: https://x.com/smica83/status/2002494238450384923
+# Reference: https://x.com/smica83/status/2014369093323735329
+# Reference: https://www.virustotal.com/gui/file/0af619a225830fa2c5b47fcb53b6efa296b08349db1a28bdd489428bb2c9e87c/detection
 # Reference: https://www.virustotal.com/gui/file/274407caf5f51c9f2d39d593b3de75aaf09953df1fd67fe1d6503a4cb2c996c0/detection
 # Reference: https://www.virustotal.com/gui/file/bc1fa32164ea48f4b0a0bf0f614887b9bd642ca1c5c783f6c1bc1e4425617766/detection
 
+/gr4jja/bumpypraised.ps1
 /kraja/hailzampone.ps1
 /kraja/landformbrowsing.ps1
+/bumpypraised.ps1
 /hailzampone.ps1
 /landformbrowsing.ps1
+
+# Reference: https://x.com/BlinkzSec/status/2006510161280553155
+
+/citrix-exploit/
+/CVE-2020-0796-RCE-POC/
+/CVE-2023-3519/
+/CVE-2025-24813-Scanner/
+
+# Reference: https://www.silentpush.com/blog/magecart/
+
+/1-197056a9.js
+/cplnfwtlrkb.js
+
+# Reference: https://x.com/1ZRR4H/status/2012568441840931141
+
+/access_backdoor.txt
+/attack_all_polish_clinics.sh
+/attack_confluence.sh
+/attack_dashboard.sh
+/attack_dns.sh
+/attack_dovecot.sh
+/attack_email_infra.sh
+/attack_internal_services.sh
+/attack_linux_servers.sh
+/attack_pgadmin.sh
+/attack_planka.sh
+/attack_plesk.sh
+/attack_port80.sh
+/attack_portainer.sh
+/attack_progress.log
+/attack_shodan_results.sh
+/attack_sonarqube.sh
+/attack_ssh_ftp.sh
+/attack_tareas_smartkea.sh
+/attack_thai_rdp.sh
+/attack_tomcat.sh
+/attack_traefik.sh
+/attack_webserver.sh
+/attack_windows_servers.sh
+/auto_attack.sh
+/auto_monitor_attack.sh
+/automated_attack_system.sh
+/backdoor_deploy.sh
+/bypass_firewall.sh
+/check_printnightmare.sh
+/check_web_vulns.sh
+/check_zerologon.sh
+/continuous_attack.sh
+/continuous_attack_daemon.sh
+/cpanel_exploit.sh
+/cpanel_shell.sh
+/create_phishing.sh
+/cve_medical_exploits.sh
+/deploy_immediate_shell.sh
+/dicom_attack.sh
+/docker_direct_attack.sh
+/docker_exploit.rc
+/double_attack.sh
+/emergency_colombia_attack.sh
+/emergency_polish_attack.sh
+/enhanced_surgical_attack.sh
+/evil_dll.c
+/exploit_confluence.sh
+/exploit_fortinet.sh
+/exploit_jira.sh
+/exploit_live_portainer.sh
+/exploit_pgadmin_guest.sh
+/exploit_planka_api.sh
+/exploit_portainer.sh
+/exploit_real_vulns.sh
+/exploit_smartkea.sh
+/exploit_spring4shell.sh
+/exploit_traefik_docker.sh
+/expose_internal_services.sh
+/external_attack_options.sh
+/final_attack_plan.sh
+/final_postgres_attack.sh
+/final_traefik_attack.sh
+/find_medical_vulns.sh
+/jenkins_attack.groovy
+/jenkins_attack.sh
+/known_medical_exploits.sh
+/manual_exploit.sh
+/mass_portainer_attack.sh
+/mass_rdp_brute.sh
+/medical_cves.txt
+/monitor_attack.sh
+/msuite_exploit.sh
+/mwdbank_main_attack.sh
+/nuclear_exploit.sh
+/nuclear_exploitation.sh
+/oracle_attack.sh
+/persistence_backdoor.sh
+/persistent_mass_attack.sh
+/pgadmin_attack.sh
+/poland_attack.sh
+/poland_fast_attack.sh
+/poland_final_attack.sh
+/polish_clinic_attack.sh
+/portainer_attack.sh
+/portainer_bruteforce_final.sh
+/portainer_bypass.sh
+/portainer_final_attack.sh
+/postgres_exploit.py
+/pro_exploit.sh
+/rdp_bruteforce.sh
+/real_attack.sh
+/real_credential_attack.sh
+/real_exploits.sh
+/s7_attack.sh
+/scada_attack.sh
+/service_exploits.sh
+/smb_exploit.sh
+/sonarqube_exploits.sh
+/spider_attack.sh
+/ssh_brute.sh
+/ssh_polish_attack.sh
+/surgical_poland_attack.sh
+/surgical_strike.sh
+/test_shell_access.sh
+/thai_hospital_attack.sh
+/traefik_api_exploit.sh
+/traefik_config_attack.sh
+/traefik_hijack.sh
+/traefik_proxy_attack.sh
+/traefik_real_attack.sh
+/traefik_routing_hack.sh
+/ultimate_attack.sh
+/urgent_portainer_attack.sh
+/verify_exploit.sh
+/vue_login_attack.sh
+/vulnerable_targets.txt
+/win_backdoor.ps1
+/wordpress_attack.sh
+/wordpress_exploit_auto.sh
+/wp_admin_exploit.sh
+/zimbra_attack.sh
+/zimbra_final_attack.sh
+
+# Reference: https://x.com/smica83/status/2019105662270406852
+# Reference: https://www.virustotal.com/gui/file/25db9e8f7fa51bd00434cd0ed5ada9981d0fadc4147b56719c45206ea2568c2a/detection
+
+/smersh/huggerhealth.ps1
+/smersh/puzzledsymbol.ps1
+/huggerhealth.ps1
+/puzzledsymbol.ps1
+
+# Reference: https://x.com/smica83/status/2019371013012877631
+# Reference: https://www.virustotal.com/gui/file/279144a2a073b654093ff45c991ed72e746a868a93993be661ba5c712a97a2a9/detection
+
+/Dossto4ka/ambiguoustog.ps1
+/ambiguoustog.ps1
+
+# Reference: https://www.virustotal.com/gui/file/f9b963235b954c521096256a10d8e8dce0092c9ca054e78dce3cac63756d0976/detection
+
+/RdstgcDe/upwawsfrg.php
+/upwawsfrg.php
+
+# Reference: https://x.com/smica83/status/2022708743968891035
+# Reference: https://www.virustotal.com/gui/file/5830c290b366e970c5ea25db9727a8b5df8d3cc62aa7e7756e9eb688d43d78e6/detection
+
+/.tzfuckua/tz.hta
+/.tzfuckua/
+
+# Reference: https://x.com/marius_benthin/status/2023380271584698522
+# Reference: https://www.virustotal.com/gui/file/83e131a2761d6f3a5636cf329182242a927a618174dd440989dc9286be4edeac/detection
+
+/FvXnR/msinit
+
+# Reference: https://x.com/smica83/status/2024436587925295316
+# Reference: https://tria.ge/260219-pykhgsfx4e/behavioral1
+# Reference: https://www.virustotal.com/gui/file/b999354f59d775130e8f62e9fadf47da75dd0b5d8c2957cedf89a2bb23d79026/detection
+
+/pm/jb/jb.ps1
+/jb.ps1
+
+# Reference: https://x.com/smica83/status/2025980750017769491
+# Reference: https://x.com/smica83/status/2029677809296200041
+# Reference: https://www.virustotal.com/gui/file/cff92fae1e6f42acac0a7a206b25469a6fb1414b36306cb74cb2a1f2529cc6d6/detection
+
+/datemed/slappicnic.ps1
+/kkraag/golfproceedings.ps1
+/kkraag/tactilelivestock.ps1
+/golfproceedings.ps1
+/slappicnic.ps1
+/tactilelivestock.ps1
+/kkraag/
+
+# Reference: https://x.com/smica83/status/2026756509057614283
+# Reference: https://www.virustotal.com/gui/file/d2ca7d6de6f442d32226ae80271829e9ec78994b5d38f0fc5f382c4659ed29bc/detection
+
+/u5kv/barbarousoldie.ps1
+/u5kv/beanfamiliarity.ps1
+/u5kv/lackadaisicalgold.ps1
+/barbarousoldie.ps1
+/beanfamiliarity.ps1
+/lackadaisicalgold.ps1
+
+# Reference: https://x.com/smica83/status/2029992617144934578
+# Reference: https://www.virustotal.com/gui/file/6371f599f652fe2126886c487718173008a14bf830d1a1f707201cfcc2e7f552/detection
+
+/gorshmed/banvitro.ps1
+/banvitro.ps1
+
+# Reference: https://x.com/smica83/status/2029993722880913484
+# Reference: https://www.virustotal.com/gui/file/14cfadb8c0154dc1174b0b9af74765f769fad524d17eb2ec494ce02c9a221c8d/detection
+
+/sp11rt4m/puppetsafeguard.ps1
+/puppetsafeguard.ps1
+/sp11rt4m/
+
+# Reference: https://x.com/BlinkzSec/status/2030109037803556972
+
+/inject_tracking.ps1
+
+# Reference: https://x.com/smica83/status/2032038115250979244
+# Reference: https://www.virustotal.com/gui/file/ec7f0d5da376591878b9bcd908e06e7d0e90176ecd99e41577167e29e47d40e4/detection
+
+/kakrarg/sneakerassembly.ps1
+/sneakerassembly.ps1
+
+# Reference: https://www.virustotal.com/gui/file/6ba8cad8cbd71ddcbf2708fa838f566985a8976d680886d89da949b0c29141d6/detection
+
+/payload?userid=
+
+# Reference: https://x.com/smica83/status/2033901928229278070
+# Reference: https://www.virustotal.com/gui/file/19908832f56b96678064ce686c8982e4c46c9a3ef4b489b114843087eec97daa/detection
+
+/mirmLAT/departuredishwasher.ps1
+/departuredishwasher.ps1
+
+# Reference: https://x.com/smica83/status/2034374314657542395
+# Reference: https://www.virustotal.com/gui/file/16b8310d44a5a0c96539cca1eb04396020337e7a6f9b97ebc5ee12739b87f13a/detection
+
+/k4sss4/clothchap.ps1
+/k4sss4/
+/clothchap.ps1
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9448
+
+/mbx/dJe73b4F2/Lb3D42fYi.php
+/mbx/dJe73b4F2/dE2h1bs5.php
+/mbx/dJe73b4F2/
+/dJe73b4F2/Lb3D42fYi.php
+/dJe73b4F2/
+/dE2h1bs5.php
+/Lb3D42fYi.php
+
+# Reference: https://x.com/SansLimit3/status/2034575676355780910
+
+/react2shell.py
+
+# Reference: https://x.com/JAMESWT_WT/status/2035361402433511738
+
+/ffffffffffffiouooiuiuoeoiufoiuiou.html
+
+# Reference: https://x.com/smica83/status/2037466834656477265
+# Reference: https://www.virustotal.com/gui/file/4647707f5c01c2e8135d2bf95860422144d29fa36d83543a34a283b44a27e1b7/detection
+
+/lekci/acknowledgmentreasoning.hta
+/lekci/goataccent.hta
+/acknowledgmentreasoning.hta
+/goataccent.hta
+
+# Reference: https://x.com/smica83/status/2037480084026634530
+# Reference: https://www.virustotal.com/gui/file/81d93004a02a455af01b0f709e34d5134108ec350f9391dc0f91a00a54998590/detection
+
+/dctrpr/agentdiesel.hta
+/dctrpr/basketpast.hta
+/dctrpr/slippersuppity.hta
+/agentdiesel.hta
+/basketpast.hta
+/slippersuppity.hta
+
+# Reference: https://x.com/smica83/status/2037493544059830380
+# Reference: https://www.virustotal.com/gui/file/7689fe3be975ad8d33e0b81b540990d858209e215cd0faccd8ffa82102dd5bd0/detection
+
+/Dohovirr/libraryobjection.hta
+/Dohovirr/malletlord.hta
+/Dohovirr/wisdomassistance.hta
+/libraryobjection.hta
+/malletlord.hta
+/wisdomassistance.hta
+
+# Reference: https://x.com/ShadowOpCode/status/2037543482730901965
+
+/8pPkEV7JLg-ahX0hhA/index.html
+/8pPkEV7JLg-ahX0hhA/
+
+# Reference: https://x.com/ShadowOpCode/status/2037534360371368108
+
+/zFr74mwA-Y5xOEL8/index.html
+/zFr74mwA-Y5xOEL8/
+
+# Reference: https://x.com/1ZRR4H/status/2037591212987724247
+
+/bot_loader.py
+/cve_exploit_mass.py
+/cve_scanner.py
+/interactive_cnc.py
+/interactive_cnc_v2.py
+/synology_exploit.py
+/telnet_pwn_2026.py
+/test_cnc.py
+/xor_brute.py
+
+# Reference: https://x.com/smica83/status/2037909401973960881
+
+/uvrvk/damerehabilitate.hta
+/uvrvk/inversequickest.hta
+/uvrvk/labeldisconnection.hta
+/damerehabilitate.hta
+/inversequickest.hta
+/labeldisconnection.hta
+
+# Reference: https://x.com/malwrhunterteam/status/2039324644134531475
+# Reference: https://www.virustotal.com/gui/file/7b347cdcf37ef16e9ea43c495630e4736cfb1f25afa152cccdf5a31065e870f0/detection
+
+/453dbc45ac5b8fd9.js
+
+# Reference: https://x.com/1ZRR4H/status/2039587805450420534
+
+/cve-2024-11613.py
+/cve-2025-2005.py
+/cve-2025-3776.py
+/cve-2026-3459.py
+/cve_2026_4257.py
+/cve_2026_4257_batch.py
+/deep_exploit.py
+/exploit.sh
+/exploit2.py
+/exploited.txt
+/jndiexploit.zip
+/logback-exploit.xml
+/manual_exploit.py
+/phase2_exploit.py
+/rebind_exploit.html.bak
+
+# Refereence: https://www.virustotal.com/gui/file/154193e63ac4a577d609d0b8ef99417d8c2fd6c62bf307d6a733f29c295322b5/detection
+
+/b36377d8827a83fe.js
+
+# Reference: https://x.com/miltinh0c/status/2041113314164400144
+
+d33f51dyacx7bd.cloudfront.net
+
+# Reference: https://www.virustotal.com/gui/file/006b176eefdce14666b80c77cf3efb08068e34b0f7d858a7d7355990ec9a5b9f/detection
+
+effectivegatecpm.com
+d2te4mctjc5fpu.cloudfront.net
+drvdb9rcebidk.cloudfront.net
+
+# Reference: https://x.com/smica83/status/2041247019721781650
+# Reference: https://www.virustotal.com/gui/file/2a0af4ecd6bf09b3fefd1c0c5a2e973bd6aee7877934cf80d3fb5c8bf0108810/detection
+# Reference: https://www.virustotal.com/gui/file/5b314814e08ac5d6cd6e0c3e73c284293c7c24d5ab9da8cc0c9de2a0839f9db5/detection
+# Reference: https://www.virustotal.com/gui/file/66c063b5112c25c57ccd9ae20280ba746b9f4db660cba03cc7fbed08b3efcd78/detection
+# Reference: https://www.virustotal.com/gui/file/9935ba4462fbbbe35c6cc878fc2bb062a9f0d6b4b5e3be32d25c060588373343/detection
+
+/SSzch/devilishsalty.hta
+/SSzch/mineralgoddess.hta
+/SSzch/operatingdescribe.hta
+/SSzch/roosterscare.hta
+/SSzch/
+/devilishsalty.hta
+/mineralgoddess.hta
+/operatingdescribe.hta
+/roosterscare.hta
+
+# Reference: https://x.com/smica83/status/2041798500216603002
+# Reference: https://www.virustotal.com/gui/file/6bf08a076e1698fe4ea8686d7b17570ac1c1d550eb05efa6b732a3d941d55161/detection
+# Reference: https://www.virustotal.com/gui/file/9a53a81bc2b8ce77beb387c24718a751ab3e7b3e4ef986eeed42d44894b0e83c/detection
+
+/gs321RR/horrorreamer.hta
+/oD1Zv/gluedig.hta
+/gs321RR/
+/oD1Zv/
+/gluedig.hta
+/horrorreamer.hta
+
+# Reference: https://x.com/BreakGlassIntel/status/2041931593699488183
+
+/b1dcae2d1df7766a915a43b9fd9f00f8d791e04c.php
 
 # Generic
 

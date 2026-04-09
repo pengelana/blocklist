@@ -420,7 +420,6 @@ howtoremove.guide###gray_de
 /?cid=*&dom=$doc
 /?type=*&button=2&clickid=$doc
 ^device_model=*&p1=https$doc
-||5.61.55.143^
 .biz/sw/w1s.js|$script,3p
 /click.php?key=*&cpc=0&$doc
 ||37.1.213.100^
@@ -692,9 +691,7 @@ howtoremove.guide###gray_de
 ||projecthygieia.com^$all
 ||fusionhacks.cc^$doc
 ||mysoft.rest^$all
-||lunexmods.cc^$doc
-||lunexmods.io^$doc
-||soft-hub.site^$doc
+||iridia.me^$doc
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/69036
 .systems/signup?ad_domain=$doc,popup
@@ -2472,6 +2469,7 @@ cracksmid.com##div[style=""] > center > center
 ^Anph=(0101)-$doc
 /^https:\/\/[a-z]{5,20}-[0-9a-z]{16}\.z03\.azurefd\.net\/[0-9A-Za-z]+0[0-9A-Za-z]+\/index\.html/$doc,match-case,domain=z03.azurefd.net
 ||azurefd.net/?bcda=$doc
+?Kuph=1-$doc
 !
 ! https://github.com/uBlockOrigin/uBlock-discussions/discussions/302#discussioncomment-10338866
 ||pages.dev/*/Fm7-alert.wav
@@ -2525,6 +2523,8 @@ cracksmid.com##div[style=""] > center > center
 .online/js/script6.js
 .online/js/script7.js
 .online/media/webs.mp4
+.xyz/js/esc.js
+.xyz/js/noir.js
 ||amplifyapp.com/*/js/esc.js
 ||amplifyapp.com/*/js/flscn.js
 ||core.windows.net/takashi.mp3
@@ -2585,6 +2585,8 @@ cracksmid.com##div[style=""] > center > center
 ||azurefd.net/js/customone.js
 ||azurefd.net/js/customtwo.js
 ||azurefd.net/media/msc.mp3
+||amazonaws.com/_Fm7-alert.mp3
+||on-forge.com/win*/alert-en.wav
 !
 ! https://github.com/uBlockOrigin/uAssets/issues/29718
 z13.web.core.windows.net##+js(aeld, DOMContentLoaded, fullscreenEnabled)
@@ -4535,7 +4537,7 @@ app##center#yangchen > iframe#external-frame[src="https://im136.mom/"]:not([clas
 ||chamsocthekhachang-$doc
 ||nang-cap-$doc
 ||hdsaison-$doc,to=cc|vip|~hdsaison.com.vn
-||dichvucong.$doc,to=~gov.vn
+||dichvucong.$doc,to=~dcs.vn|~gov.vn
 ||tikimall.$doc,to=tikimall.*|~tiki.vn
 ||taikhoanvps.com.vn^$all
 ||motaikhoanchungkhoanvps.com^$all
@@ -5196,6 +5198,8 @@ rapidkil.com.au##+js(aost, XMLHttpRequest, /wp-content)
 !#endif
 ! https://www.reddit.com/r/antivirus/comments/1rg9tbc/wife_computer_suddenly/
 ||vironexta.com^$all
+! https://www.youtube.com/watch?v=lyIlrDQs1YQ
+||fusionchainedge.com^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/26722
 ||maxsecurityultimate.com^$all
@@ -5277,11 +5281,6 @@ rapidkil.com.au##+js(aost, XMLHttpRequest, /wp-content)
 ! https://www.virustotal.com/gui/url/dd2c16c95013aa1a20b35b50301b1116d582be01d346dc048a894b480fbbee59
 ||paytoll*.top/ezdrivema^$all
 
-! https://www.reddit.com/r/Scams/comments/1iuso58/need_help_identifying_a_text/
-||hhcollect.co^$all
-||pay-hh.com^$all
-||harriscollect.net^$all
-
 ! https://www.reddit.com/r/Scams/comments/1itgp4n/unpaid_toll_booth_scam/
 ! https://www.reddit.com/r/Scams/comments/1ivvd8u/httpsminnesotaezpasscom_and/
 ! https://www.reddit.com/r/Scams/comments/1ivruom/my_grandma_sent_a_copy_of_her_bank_check_to_a/
@@ -5310,6 +5309,8 @@ rapidkil.com.au##+js(aost, XMLHttpRequest, /wp-content)
 !#if ext_ubol
 /^https:\/\/(?:[a-z]{3,5}|[ej][ac])\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9A-Za-z]{10}|\d{8}|[0-9a-f]{32})\.html$/$doc,match-case,to=art|autos|baby|best|boats|buzz|cards|cfd|click|cyou|eu|fit|fun|guru|hair|homes|ink|lat|lol|mom|my|pics|qpon|quest|rest|sale|sbs|skin|today|top|wiki|work|world|xyz
 /^https:\/\/(?:[a-z]{4,5}|[ej][ac])\.[a-z]{4,10}\.[a-z]{2,6}\/item-(?:[0-9A-Za-z]{10}|\d{8}|[0-9a-f]{32})\.html$/$doc,match-case,to=biz|blog|cc|cloud|club|info|life|live|me|one|online|shop|site|space|store
+! https://github.com/AdguardTeam/AdguardFilters/commit/e1f80e3244eff4c1688c30947655ebc6f72b47cc
+/^https:\/\/([a-vx-z][a-z]{2,}\.)?[0-9a-z-]{3,}\.(com|net|org)\/index\.php\?main_page=product_info(&stl=\d)?&(cPath|products_id)=/$doc
 !#endif
 
 ! https://www.reddit.com/r/Scams/comments/1iyqpsn/new_digital_fearscam_unlocked_zoom_phishing/
@@ -5784,6 +5785,7 @@ pages.dev##html[lang="ja"] > body > .main-container > #landing.auth-container
 pages.dev##html[lang="ja"] > body.flex.items-center.min-h-screen > div.w-full.max-w-md.mx-auto > form#login-form
 pages.dev##html:not([class]) > body.gradient-bg.min-h-screen.flex.items-center.justify-center > div.glass-card.max-w-md.w-full.text-center > form#loginForm.flex.flex-col
 /^https:\/\/blockchecker[0-9]\.pages\.dev\//$doc,to=pages.dev
+/^https:\/\/xblock[0-9]+\.pages\.dev\//$doc,to=pages.dev
 ||xcheckx.pages.dev^$all
 ||gocheck.pages.dev^$all
 ||blocchecker*.pages.dev^$all
@@ -5791,6 +5793,7 @@ pages.dev##html:not([class]) > body.gradient-bg.min-h-screen.flex.items-center.j
 ||xblocklist*.pages.dev^$all
 ||xsuki*.pages.dev^$all
 ||bxchx.pages.dev^$all
+||xblockchecker*.pages.dev^$all
 
 ! https://blog.lastpass.com/posts/possible-cryptochameleon-social-engineering-campaign-targeting-lastpass-customers-and-more
 *$doc,ipaddress=82.27.2.198
@@ -5819,6 +5822,11 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 ||voting-express-tl.$doc
 ||sportifymore.ct.ws^$all
 ||voting-express-tl.ct.ws^$all
+! https://www.reddit.com/r/cybersecurity_help/comments/1sa1udm/possible_hacker_please_help/
+! https://www.virustotal.com/gui/url/3537483454104b6ca3c17317a42640606ddd0ee69965fbdc04c9bbcd0e2ee39f
+||spotifyprimeszones-sl.ct.ws^$all
+||spotifyprimeszones-$doc
+||spotify*.ct.ws^$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/30713
 ! https://www.reddit.com/r/SteamScams/comments/1k911so/esl_pro_league_vote_scam/
@@ -6187,9 +6195,6 @@ sport.elwatannews.com##+js(aost, Array.prototype.indexOf, isWin)
 ! https://github.com/uBlockOrigin/uAssets/issues/31596
 ||wploits.com^$all
 
-! https://github.com/uBlockOrigin/uAssets/issues/31644
-comix.to##+js(json-edit-fetch-response, .result.items.*[?.content*="'+'"], propsToMatch, /comments)
-
 ! https://github.com/uBlockOrigin/uAssets/issues/31697
 ! https://info.eisys.co.jp/cien/de28df8064d7974d
 ||paid-task.com^$all
@@ -6270,7 +6275,7 @@ ublockorigin.app###main::before:style(content: 'This is not the official uBlock 
 ||hmdv2.gogomailbali.eu.org^$doc
 ||hybridglobalnet.com^$doc
 /^https?:\/\/[a-z]+\d\.gogomailbali(\.it)?\.eu\.org\/#\?act=/$doc,match-case,to=eu.org
-/^https:\/\/storage\.googleapis\.com\/[a-z]{5,}\/[a-z]+_v\d\.html\#\?act=/$doc,match-case,to=storage.googleapis.com
+/^https:\/\/storage\.googleapis\.com\/[a-z]{5,}\/[a-z]+_v\d\.html#\?act=/$doc,match-case,to=storage.googleapis.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/32238
 ||vtg.lol^$all
@@ -6294,3 +6299,109 @@ ublockorigin.app###main::before:style(content: 'This is not the official uBlock 
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227466
 ||dyiket.com^$doc
+
+! https://www.reddit.com/r/uBlockOrigin/comments/1s2x6i3/ubo_on_firefox_vs_chrome/
+||ourdateideas.com/wp-logo.svg
+
+! https://github.com/uBlockOrigin/uAssets/issues/32334
+||plus.rustfacepunch.com^$all
+
+! https://www.virustotal.com/gui/url/8764b4533420b416e4718b0d5190cb7219b88da55814d0f6f746b20de63e0028
+||studio-blender.com^$all
+
+! https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka
+##div.card > div#cbRow.checkbox-row[onclick="startVerify()"]
+||update-check.com^$all
+
+! https://www.reddit.com/r/phishing/comments/1s5lp3i/warning_new_fake_website_offering_fake_keepassxc/
+||keepass-xc.com^$all
+
+! https://www.reddit.com/r/Scams/comments/1s74mr8/canada_canadamilksettlementcom_scam_phishing_site/
+! https://www.virustotal.com/gui/url/6eec894827df73a622a055d26ca80dcb0d5e6510531941759ff30bbb5b5ca756
+##body > div.captcha-container > div.captcha-card
+||canadamilksettlement.com^$all
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/228103
+||bp-sogou.com.cn^$all
+||win-sogou.com^$all
+||x-sogou.com^$all
+||qishmusic.com.cn^$all
+||apps-sougoupinyin.com^$all
+||ai-sogou.com.cn^$all
+||soougou.com.cn^$all
+||pc-sogou.com.cn^$all
+||sogoushurf.com^$all
+-sogou.com.cn^$doc,to=com.cn
+-sogou.com^$doc,to=com
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/228390
+||chrome-hl.hl.cn^$all
+||qeeyou.cn^$all
+||googgle-chrrome.hl.cn^$all
+||bangyoul.cn^$all
+||laiwujiaoyu.com^$all
+||leigodnn.com^$all
+||leigod.net^$all
+||leigodco.com^$all
+||google-ch-chrome.com.cn^$all
+||of-tencent.com^$all
+||meeting-tencent.org^$all
+||zh-tenxun.com^$all
+||apps-tencent.com^$all
+||qishuiie.com^$all
+||qishuiit.com^$all
+||qishui-yinle.hl.cn^$all
+||ggooglle-chrrome.com.cn^$all
+||cnzh-google-apps.hl.cn^$all
+||google-zhcn-chrome.com.cn^$all
+||apps-chrome-zh.hl.cn^$all
+||zh-googlle-chrome.hl.cn^$all
+||todeskapp.com^$all
+||todesk-zh.hl.cn^$all
+||todesk.ac.cn^$all
+||todesk.im^$all
+||youku.earth^$all
+||youkuhonor.com^$all
+||youku.tv^$all
+||www-office-wps.com.cn^$all
+||offiio-wps.com.cn^$all
+||wps.ac.cn^$all
+||cn-wps-zh.com.cn^$all
+||tuba.toolg.cn^$all
+||m-i4.cn^$all
+||aisi-i4.com^$all
+||aisi.nx.cn^$all
+||zsi4.com^$all
+||aisipc.net^$all
+||as-i4.com.cn^$all
+||office-wps-hl.hl.cn^$all
+||todeskappa.com.cn^$all
+||apd-todesk.com.cn^$all
+||360cncn.com^$all
+||qishui.team^$all
+||wps-cnzh.com^$all
+||dlworker.top^$all
+||360edge.cn^$all
+||app-google-zh.hl.cn^$all
+||zhcn-googele.hl.cn^$all
+||qishuui.com.cn^$all
+||ms.kuugo.cc^$all
+||baiduwangpan.cc^$all
+||chrome-gooogle-zh.hl.cn^$all
+||apps-google-hl.hl.cn^$all
+||google-chrrome-zh.hl.cn^$all
+
+! https://urlscan.io/result/019d565b-bc34-701b-9e99-226c20300095/
+||testio.ecartdev.com^
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/228470
+||applot-jp.com^$all
+
+! https://censys.com/blog/technique-based-approach-hunting-web-delivered-malware/
+||orcanmedikal.com.tr^$doc
+
+! https://dontusetelega.lol/analysis
+! https://habr.com/en/articles/1014144/
+! https://kod.ru/telega-fork-telegram
+||telega.info^$all
+||telega.me^$all
