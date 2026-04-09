@@ -144,7 +144,7 @@
 [ OK ]       973 src/blacklist/craiu_list.txt
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
-[ OK ]    29,853 src/blacklist/cyberhost_uk_malware.txt
+[ OK ]    29,855 src/blacklist/cyberhost_uk_malware.txt
 [ OK ]        15 src/blacklist/cyberstrikeai.txt
 [ OK ]         8 src/blacklist/deimos_c2.txt
 [ OK ]       330 src/blacklist/dnstunneling_t.txt
@@ -266,7 +266,7 @@
 [NOK ]         0 src/blacklist/spiderlabs_responder.txt
 [ OK ]    18,111 src/blacklist/stamparm_blackbook.txt
 [ OK ]   767,097 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]    71,577 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]    71,578 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]        90 src/blacklist/supershell_c2.txt
 [ OK ]         1 src/blacklist/supremebot.txt
 [ OK ]        56 src/blacklist/sutra_tds.txt
@@ -302,17 +302,17 @@
 [ OK ]         1 src/blacklist/xtramailer_spamtool.txt
 [NOK ]         0 src/blacklist/zoro_c2.txt
 
-Total Blacklist     : 4,699,586
-Filter Duplicates   : 3,318,787
-External Whitelist  : 3,190,953
-Filter Whitelist    : 3,190,881
-Import Blacklist    : 3,191,556
-Compressed          : 2,774,558
+Total Blacklist     : 4,699,589
+Filter Duplicates   : 3,318,790
+External Whitelist  : 3,190,956
+Filter Whitelist    : 3,190,883
+Import Blacklist    : 3,191,558
+Compressed          : 2,774,588
 
    LENGTH     COUNT
         2 2,066,553
-        3   565,380
-        4   113,603
+        3   565,409
+        4   113,604
         5    25,128
         6     3,061
         7       622
@@ -328,7 +328,7 @@ Compressed          : 2,774,558
        18         3
        19         1
 
-Total Blocklist     : 2,774,558
+Total Blocklist     : 2,774,588
 
 ~~~
 
