@@ -1,0 +1,88 @@
+# Copyright (c) 2014-2026 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Aliases: pcpcat, shellforce, deadcatx3, canisterworm, hacked trivy, hacked litellm, checkmarx KICS, proxypcp
+
+# Reference: https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise
+# Reference: https://www.virustotal.com/gui/file/18a24f83e807479438dcab7a1804c51a00dafc1d526698a66e0640d1e5dd671a/detection
+
+http://45.148.10.216
+http://45.148.10.235
+45.148.10.216:443
+45.148.10.235:443
+aquasecurtiy.org
+scan.aquasecurtiy.org
+
+# Reference: https://www.aikido.dev/blog/teampcp-deploys-worm-npm-trivy-compromise
+
+tdtqy-oyaaa-aaaae-af2dq-cai.raw.icp0.io
+
+# Reference: https://www.aikido.dev/blog/teampcp-stage-payload-canisterworm-iran
+
+championships-peoples-point-cassette.trycloudflare.com
+investigation-launches-hearings-copying.trycloudflare.com
+souls-entire-defined-routes.trycloudflare.com
+
+# Reference: https://x.com/TheEnergyStory/status/2038238773721325996
+# Reference: https://www.wiz.io/blog/teampcp-attack-kics-github-action
+# Reference: https://www.virustotal.com/gui/file/7290353a3bc2b18e9ea574d3294b09e28edaa6b038285bb101cf09760f187dcd/detection
+# Reference: https://www.virustotal.com/gui/file/a985b3fab403ad6fbb5cc15a44912224aead9518ac6b970c0a6c303989e61556/detection
+
+http://45.148.10.212
+45.148.10.212:8080
+checkmarx.zone
+/telemetry/checkmarx.json
+
+# Reference: https://x.com/ramimacisabird/status/2036426565102227803
+# Reference: https://github.com/BerriAI/litellm/issues/24512
+# Reference: https://urlscan.io/result/019d2fd2-572f-71bb-b022-81514b905c18/
+# Reference: https://urlscan.io/result/019d2fd6-05be-700a-959c-2b52b47ab66c/
+
+http://46.151.182.203
+46.151.182.203:443
+46.151.182.203:8080
+litellm.cloud
+manpages.wtf
+manpages-wtf.pages.dev
+model.litellm.cloud
+models.litellm.cloud
+
+# Reference: https://x.com/ramimacisabird/status/2037435600714752237
+# META-HOST/IP=::"og:description"::"Dominate with the most powerful IP stresser and IP booter in 2025. Instant Layer 4 & Layer 7 attacks, advanced bypasses, and unmatched concurrency. The #1 choice for stress testing."
+# TITLE-HOST/IP=CNC Stress - Best IP Stresser & Strongest IP Booter 2025
+
+http://196.251.100.254
+http://217.114.42.70
+http://83.142.209.203
+196.251.100.254:443
+217.114.42.70:443
+83.142.209.203:8080
+83.142.209.203:8090
+83.142.209.203:8888
+196-251-100-254.cprapid.com
+cnc-stress.com
+2q.cnc-stress.com
+mail.cnc-stress.com
+
+# Reference: https://x.com/1ZRR4H/status/2037560507389854008
+
+http://83.142.209.204
+83.142.209.204:8080
+
+# Reference: https://x.com/LloydLabs/status/2038262591705743847
+# Reference: https://www.virustotal.com/gui/file/099b9d1682e9261627c675e2175e6a7bd153babe8e1481b5d867369ced7d0d1d/detection
+# Reference: https://www.virustotal.com/gui/file/fe636a015294afb18ac46a2795b78c9b0fadf0e4e68cf982b5710953e397101b/detection
+
+http://43.228.157.123
+
+# Reference: https://ctrlaltintel.com/research/ProxyPCP/
+
+http://108.129.153.172
+108.129.153.172:7443
+108.129.153.172:7777
+108.129.153.172:8888
+67.217.57.240:1337
+67.217.57.240:666
+67.217.57.240:8081
+67.217.57.240:888
+security-verify.91.214.78.178.nip.io

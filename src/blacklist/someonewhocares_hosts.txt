@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 17 Apr 2026 at 22:10:00 GMT
+# Last updated: Mon, 20 Apr 2026 at 04:32:32 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1407,6 +1407,7 @@ ff02::3		ip6-allhosts
 
 # sites with known trojans, phishing, or other malware
 127.0.0.1 0.nextyourcontent.com
+127.0.0.1 00000.uno
 127.0.0.1 05tz2e9.com
 127.0.0.1 1-bmo-client-login.com
 127.0.0.1 1-directshipmtdhlsexpress-order.help
@@ -2345,6 +2346,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 lemnode.fr
 127.0.0.1 lemondde.fr
 127.0.0.1 lemovnde.fr
+127.0.0.1 leojblog.com
 127.0.0.1 leomonde.fr
 127.0.0.1 leparirien.fr
 127.0.0.1 leparisein.fr

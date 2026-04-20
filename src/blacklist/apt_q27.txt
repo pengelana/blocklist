@@ -1,0 +1,53 @@
+# Copyright (c) 2014-2026 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Aliases: apt-q-27, dragon breath, golden eye dog
+
+# Reference: https://news.sophos.com/en-us/2023/05/03/doubled-dll-sideloading-dragon-breath/
+# Reference: https://github.com/sophoslabs/IoCs/blob/master/double-dragon-breath-iocs.csv
+
+http://206.233.128.103
+206.233.128.103:443
+nsjdhmdjs.com
+potatouu.com
+123.nsjdhmdjs.com
+2.nsjdhmdjs.com
+2.potatouu.com
+a.pic447.com
+ac2.nsjdhmdjs.com
+d.pic447.com
+l.pic447.com
+l2.pic447.com
+t.pic447.com
+v.pic447.com
+v2.pic447.com
+w.pic447.com
+
+# Reference: https://x.com/malwrhunterteam/status/1995568662284022243
+# Reference: https://www.virustotal.com/gui/file/873ea83b3507d8391b1b66f0f3d57cefff4307463b018eec09abbff601c83d30/detection
+# Reference: https://www.virustotal.com/gui/file/b941c271b016f482137022b3da58e5aae4c989f37d351497e6f9a967dd6bfd20/detection
+
+185.135.79.196:5188
+datareportnew.s3.ap-northeast-2.amazonaws.com
+goldeyeuu.io
+uu.goldeyeuu.io
+
+# Reference: https://x.com/WabiSabi777_/status/2009238999190392969
+# Reference: https://www.virustotal.com/gui/file/01268d68f1726a31e881515bd70139bf9e3e235fa3a899b0aa9e52db4a7c0547/detection
+
+185.135.79.200:5188
+wk.goldeyeuu.io
+
+# Reference: https://x.com/smica83/status/2012523844196544813
+# Reference: https://tria.ge/260117-sjqyhafw7g/behavioral1
+
+links3s.s3.ap-east-1.amazonaws.com
+s3work08.s3.ap-east-1.amazonaws.com
+
+# Reference: https://x.com/malwrhunterteam/status/2002322293091901684
+# Reference: https://cyberpress.org/apt-q-27-evades-corporate-defenses/
+# Reference: https://www.virustotal.com/gui/file/14d374ea0604f70e6f39306efd948e7962fdd21cdb3e187ba461312027ebd3f5/detection
+
+143.92.57.46:15628
+yy-service.s3.ap-northeast-2.amazonaws.com
+yyupdats.s3.ap-southeast-1.amazonaws.com

@@ -1,0 +1,40 @@
+# Copyright (c) 2014-2026 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://x.com/P4nd3m1cb0y/status/2011084475002679475
+# Reference: https://research.checkpoint.com/2026/voidlink-the-cloud-native-malware-framework/
+# Reference: https://www.linkedin.com/posts/michael-rippey_the-developers-of-voidlink-recently-analyzed-ugcPost-7417118533320392704-gtZU
+
+159.75.233.220:443
+8.149.128.10:443
+8.149.128.10:8891
+
+# Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-03-10-IOCs-for-VoidLink-activity.txt?utm_campaign=tti_voidlinkcluster
+
+1.12.64.161:443
+1.12.64.161:8080
+112.74.39.165:443
+112.74.39.165:8080
+112.74.39.165:8089
+112.74.39.165:8099
+116.62.172.147:443
+116.62.172.147:8080
+116.62.172.147:8082
+116.62.172.147:8083
+116.62.172.147:8084
+121.37.219.253:443
+121.89.84.19:8080
+121.89.84.19:8081
+121.89.84.19:8082
+121.89.84.19:8084
+142.171.114.190:8000
+142.171.114.190:8080
+142.171.114.190:8084
+142.171.114.190:8085
+142.171.114.190:8088
+159.75.233.220:8001
+159.75.233.220:8080
+8.149.128.10:7777
+8.149.128.10:8080
+8.149.128.10:8083
+8.149.128.10:8888
