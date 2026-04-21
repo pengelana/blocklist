@@ -1,0 +1,56 @@
+# Copyright (c) 2014-2026 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://x.com/k3yp0d/status/1980385378600374403
+# Reference: https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace
+# Reference: https://www.virustotal.com/gui/file/f85889124aa9c86788f57c06d14b624f3c17b69a0c56bd309b971f5662d31c1f/detection
+
+http://140.82.52.31
+
+# Reference: https://x.com/tuckner/status/2016633154010812445
+# Reference: https://annex.security/blog/worms-lurking/
+# Reference: https://www.virustotal.com/gui/file/ebcea1802ca2337faf66741da09305b6f41f9aa6df6a0601a7d2872aceb836b7/detection
+
+http://107.191.62.170
+http://108.61.208.161
+http://217.69.11.57
+108.61.208.161:8080
+217.69.11.57:5000
+217.69.11.57:8080
+
+# Reference: https://www.virustotal.com/gui/file/ab66b1f859181d36fd7f0c3a5b6d9f0d85829f12367bd86687b2cc690a5e3e67/detection
+
+91.92.243.47:8080
+
+# Reference: https://socket.dev/blog/open-vsx-transitive-glassworm-campaign
+
+http://70.34.242.255
+70.34.242.255:8082
+
+# Reference: https://x.com/malwrhunterteam/status/2039439398383583584
+# Reference: https://www.virustotal.com/gui/file/92ab54d8ddfe5a408bb519d720fd58b0745c405991e41ec420f9132cdce57e2f/detection
+# Reference: https://www.virustotal.com/gui/file/eb2db389d64987855fa5db905bbcb7b100f9d6c1699eaf5d846a98680feae1df/detection
+
+http://157.245.154.189
+http://207.244.230.254
+http://60.208.108.50
+http://82.112.220.6
+103.79.79.21:4444
+103.79.79.21:8899
+157.245.154.189:22
+175.198.83.251:8443
+207.244.230.254:443
+207.244.230.254:8443
+34.44.36.81:443
+34.44.36.81:8080
+34.44.36.81:8443
+34.44.36.81:8888
+45.32.114.213:443
+45.32.114.213:8080
+45.32.114.213:8443
+45.32.114.213:8888
+60.208.108.50:443
+60.208.108.50:8888
+82.112.220.6:443
+82.112.220.6:8443
+inection.n-e.kr
