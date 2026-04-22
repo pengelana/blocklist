@@ -649,7 +649,7 @@
 [ OK ]         1 src/blacklist/maltrail/malware/apt_kasablanka.txt
 [ OK ]        59 src/blacklist/maltrail/malware/apt_ke3chang.txt
 [ OK ]        92 src/blacklist/maltrail/malware/apt_keyboy.txt
-[ OK ]    19,226 src/blacklist/maltrail/malware/apt_kimsuky.txt
+[ OK ]    19,229 src/blacklist/maltrail/malware/apt_kimsuky.txt
 [ OK ]       577 src/blacklist/maltrail/malware/apt_kun3.txt
 [ OK ]     3,568 src/blacklist/maltrail/malware/apt_lazarus.txt
 [ OK ]        18 src/blacklist/maltrail/malware/apt_lazyscripter.txt
@@ -786,7 +786,7 @@
 [ OK ]        19 src/blacklist/maltrail/malware/apt_unc2190.txt
 [ OK ]         4 src/blacklist/maltrail/malware/apt_unc2447.txt
 [ OK ]       225 src/blacklist/maltrail/malware/apt_unc2452.txt
-[ OK ]       301 src/blacklist/maltrail/malware/apt_unc2465.txt
+[ OK ]       302 src/blacklist/maltrail/malware/apt_unc2465.txt
 [ OK ]        54 src/blacklist/maltrail/malware/apt_unc2529.txt
 [ OK ]         1 src/blacklist/maltrail/malware/apt_unc2565.txt
 [ OK ]        76 src/blacklist/maltrail/malware/apt_unc2596.txt
@@ -1958,7 +1958,7 @@
 [ OK ]        49 src/blacklist/maltrail/malware/metamorfo.txt
 [ OK ]       186 src/blacklist/maltrail/malware/mewsei.txt
 [NOK ]         0 src/blacklist/maltrail/malware/micrommatta.txt
-[ OK ]       339 src/blacklist/maltrail/malware/microstealer.txt
+[ OK ]       340 src/blacklist/maltrail/malware/microstealer.txt
 [NOK ]         0 src/blacklist/maltrail/malware/midas.txt
 [ OK ]         2 src/blacklist/maltrail/malware/midie.txt
 [ OK ]         1 src/blacklist/maltrail/malware/mielit.txt
@@ -2135,7 +2135,7 @@
 [ OK ]         1 src/blacklist/maltrail/malware/oddball.txt
 [ OK ]         1 src/blacklist/maltrail/malware/odyssey.txt
 [ OK ]         3 src/blacklist/maltrail/malware/offendium.txt
-[ OK ]     1,442 src/blacklist/maltrail/malware/offloader.txt
+[ OK ]     1,443 src/blacklist/maltrail/malware/offloader.txt
 [ OK ]        47 src/blacklist/maltrail/malware/oficla.txt
 [ OK ]         2 src/blacklist/maltrail/malware/olymploader.txt
 [ OK ]         7 src/blacklist/maltrail/malware/olympus.txt
@@ -2416,7 +2416,7 @@
 [ OK ]         2 src/blacklist/maltrail/malware/reductor.txt
 [ OK ]        33 src/blacklist/maltrail/malware/ref3927.txt
 [ OK ]        82 src/blacklist/maltrail/malware/ref7707.txt
-[ OK ]     6,371 src/blacklist/maltrail/malware/remcos.txt
+[ OK ]     6,372 src/blacklist/maltrail/malware/remcos.txt
 [NOK ]         0 src/blacklist/maltrail/malware/remexirat.txt
 [ OK ]        10 src/blacklist/maltrail/malware/remotexrat.txt
 [ OK ]        65 src/blacklist/maltrail/malware/renocide.txt
@@ -3066,16 +3066,16 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,052 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 6,033,204
-Filter Duplicates   : 3,788,430
-External Whitelist  : 3,658,434
-Filter Whitelist    : 3,658,360
-Import Blacklist    : 3,659,030
-Compressed          : 3,208,117
+Total Blacklist     : 6,033,211
+Filter Duplicates   : 3,788,437
+External Whitelist  : 3,658,441
+Filter Whitelist    : 3,658,367
+Import Blacklist    : 3,659,037
+Compressed          : 3,208,124
 
    LENGTH     COUNT
-        2 2,410,156
-        3   639,204
+        2 2,410,159
+        3   639,208
         4   128,444
         5    26,224
         6     3,193
@@ -3092,7 +3092,7 @@ Compressed          : 3,208,117
        18         5
        19         1
 
-Total Blocklist     : 3,208,117
+Total Blocklist     : 3,208,124
 
 ~~~
 
