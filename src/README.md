@@ -25,7 +25,7 @@
 [ OK ]       973 src/blacklist/craiu_list.txt
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
-[ OK ]    35,381 src/blacklist/cyberhost_uk_malware.txt
+[ OK ]    35,382 src/blacklist/cyberhost_uk_malware.txt
 [ OK ]       330 src/blacklist/dnstunneling_t.txt
 [ OK ]     2,273 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,188 src/blacklist/easylist_adservers_popup.txt
@@ -88,7 +88,7 @@
 [ OK ]        27 src/blacklist/maltrail/malicious/ek_grandsoft.txt
 [ OK ]         4 src/blacklist/maltrail/malicious/ek_greenflash.txt
 [ OK ]        11 src/blacklist/maltrail/malicious/ek_kaixin.txt
-[ OK ]       680 src/blacklist/maltrail/malicious/ek_landupdate808.txt
+[ OK ]       687 src/blacklist/maltrail/malicious/ek_landupdate808.txt
 [ OK ]     7,143 src/blacklist/maltrail/malicious/ek_magnitude.txt
 [ OK ]         6 src/blacklist/maltrail/malicious/ek_neutrino.txt
 [ OK ]         4 src/blacklist/maltrail/malicious/ek_nuclear.txt
@@ -652,7 +652,7 @@
 [ OK ]        92 src/blacklist/maltrail/malware/apt_keyboy.txt
 [ OK ]    19,384 src/blacklist/maltrail/malware/apt_kimsuky.txt
 [ OK ]       577 src/blacklist/maltrail/malware/apt_kun3.txt
-[ OK ]     3,587 src/blacklist/maltrail/malware/apt_lazarus.txt
+[ OK ]     3,590 src/blacklist/maltrail/malware/apt_lazarus.txt
 [ OK ]        18 src/blacklist/maltrail/malware/apt_lazyscripter.txt
 [ OK ]         7 src/blacklist/maltrail/malware/apt_leafminer.txt
 [ OK ]       250 src/blacklist/maltrail/malware/apt_librarianghouls.txt
@@ -3019,7 +3019,6 @@
 [ OK ]         1 src/blacklist/maltrail/suspicious/dprk_silivaccine.txt
 [ OK ]       421 src/blacklist/maltrail/suspicious/free_web_hosting.txt
 [ OK ]        24 src/blacklist/maltrail/suspicious/i2p.txt
-[ OK ]       293 src/blacklist/maltrail/suspicious/ipinfo.txt
 [ OK ]       182 src/blacklist/maltrail/suspicious/meshagent.txt
 [ OK ]     5,597 src/blacklist/maltrail/suspicious/nezha_rmmtool.txt
 [ OK ]        54 src/blacklist/maltrail/suspicious/onion.txt
@@ -3050,7 +3049,7 @@
 [ OK ]   796,412 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    72,017 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,075 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       409 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       410 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,302 src/blacklist/validin-phish-feed/validin-phish-feed-1.txt
 [ OK ]    93,357 src/blacklist/validin-phish-feed/validin-phish-feed-2.txt
 [ OK ]   119,092 src/blacklist/validin-phish-feed/validin-phish-feed-3.txt
@@ -3069,20 +3068,20 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,052 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 6,042,669
-Filter Duplicates   : 3,795,257
-External Whitelist  : 3,665,258
-Filter Whitelist    : 3,665,185
-Import Blacklist    : 3,665,855
-Compressed          : 3,214,138
+Total Blacklist     : 6,042,388
+Filter Duplicates   : 3,794,997
+External Whitelist  : 3,665,020
+Filter Whitelist    : 3,664,947
+Import Blacklist    : 3,665,617
+Compressed          : 3,213,914
 
    LENGTH     COUNT
-        2 2,413,263
-        3   641,190
-        4   129,166
+        2 2,413,111
+        3   641,121
+        4   129,164
         5    26,370
         6     3,244
-        7       667
+        7       666
         8       143
         9        44
        10        22
@@ -3095,7 +3094,7 @@ Compressed          : 3,214,138
        18         5
        19         1
 
-Total Blocklist     : 3,214,138
+Total Blocklist     : 3,213,914
 
 ~~~
 
