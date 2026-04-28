@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-04-28 06:58:37 UTC                        #
+# Last updated: 2026-04-28 07:20:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gravit4fluxbox.alphafluxnode.garden
+127.0.0.1	solarpointnet.alphafluxnode.garden
+127.0.0.1	lunar2waveunit.alphafluxnode.garden
+127.0.0.1	tempohostlink.alphafluxnode.garden
 127.0.0.1	radiant7path.orbitmeshunit.garden
 127.0.0.1	smartmesh1sys.orbitmeshunit.garden
 127.0.0.1	blue3zonepath.orbitmeshunit.garden
@@ -60512,4 +60516,4 @@
 127.0.0.1	iit.tweethost.com
 127.0.0.1	iit.teba-forexport.com
 127.0.0.1	portal.dmg-tech.com
-# Number of entries: 60506
+# Number of entries: 60510
