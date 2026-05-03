@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202605030117
+! Version: 202605030608
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
 ! Entries: 57931
-! Last modified: 2026-05-03T01:17:15+0000
+! Last modified: 2026-05-03T06:08:43+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -22,12 +22,12 @@
 ||000491b06a.com^
 ||000c34b44b.1c3139f0ca.com^
 ||000webhostapp.com^
+||0012e30263.com^
 ||0014b04291.com^
 ||0033ee9caa.14474f114f.com^
 ||00427011ae.com^
 ||00609c257b.com^
 ||00c6c88efd.e5ad8b54ee.com^
-||00cae06d30.720df8c8c9.com^
 ||00e2120672.com^
 ||00ef400e98.3a1ebd5d26.com^
 ||00k456wyh.com^
@@ -49,8 +49,10 @@
 ||0225083fd4.26664d7709.com^
 ||023hysj.com^
 ||024e3caef2.com^
+||02672653a1.com^
 ||029519cbdc.com^
 ||02exl1ql2l.com^
+||031dcf857c.com^
 ||039858f297.com^
 ||03d756a534.com^
 ||03h6fpes.xyz^
@@ -62,7 +64,6 @@
 ||04b9055b2a.com^
 ||05086715f4.com^
 ||054ii.com^
-||055479b29b.9a57160d5c.com^
 ||05867500b2.7a28c1843f.com^
 ||058d79990c.com^
 ||0592.mobi^
@@ -123,7 +124,6 @@
 ||0e4a4c9e4e.com^
 ||0e7mnbmbb.com^
 ||0e9knynfb.com^
-||0eab70c429.a567dda4c2.com^
 ||0edd2cf0d3.4514559af9.com^
 ||0etmx4b4o.com^
 ||0f857e584a.com^
@@ -336,7 +336,6 @@
 ||19o8hzj117.com^
 ||1a0b76c793.com^
 ||1a8f9rq9c.de^
-||1a9cb1c203.7d7a497317.com^
 ||1aacb6bb9f.com^
 ||1adi9wenq.com^
 ||1af24010cb.com^
@@ -349,7 +348,6 @@
 ||1b79f1c808.com^
 ||1b87094b09.com^
 ||1bc1au5l.xyz^
-||1bcaa290ff.a23debcead.com^
 ||1be953d1cc.com^
 ||1betandgonow.com^
 ||1bm3n8sld.de^
@@ -813,7 +811,6 @@
 ||36a657286a.2e001e2b2b.com^
 ||36a7b00c00.com^
 ||36bd0d2ae3.caf44f3d39.com^
-||3709c398e2.7878ba0587.com^
 ||372ae6b830.com^
 ||37b3eaaf9a.com^
 ||37bf116186.com^
@@ -824,8 +821,8 @@
 ||3807bf7acf.com^
 ||38167473.xyz^
 ||382be190f4.com^
-||38710f41e0.9334fb3562.com^
 ||3875c07b61.a94a20f718.com^
+||388826bd9d.com^
 ||3890e014d2.com^
 ||38a6848c49.com^
 ||38ds89f8.de^
@@ -850,9 +847,9 @@
 ||3cbxqifhd.com^
 ||3cd03be731.com^
 ||3cd1290174.3d6a6c3707.com^
+||3cedc8df37.com^
 ||3ckz.com^
 ||3d721db5a7.com^
-||3d781321bc.5ec1d56c09.com^
 ||3da400e3ed.1f2c6ca393.com^
 ||3dedca7f84.com^
 ||3dle4u60y7.com^
@@ -953,7 +950,6 @@
 ||448176042f.com^
 ||4498a6bb1e.com^
 ||44a9364fea.com^
-||44b6d66394.a2e5b82fea.com^
 ||44cd912290.com^
 ||44fc0648ef.6cde8b5544.com^
 ||44ipavmq2n.com^
@@ -972,7 +968,6 @@
 ||468.vologdainfo.ru^
 ||4690y10pvpq8.com^
 ||46a30abd78.com^
-||46e543879f.4d15ae6889.com^
 ||46q8oxohlt.com^
 ||46y7erj0mw.com^
 ||47235645.xyz^
@@ -980,6 +975,7 @@
 ||47757e9455.com^
 ||478789.everydayporn.co^
 ||479d24d9fd.com^
+||47ae11ce2f.com^
 ||47c50e31a9.com^
 ||47cb693fa6.com^
 ||485bd96db9.7d9d50ada1.com^
@@ -1013,6 +1009,7 @@
 ||4co7mbsb.de^
 ||4cxup4kp3c.com^
 ||4cz7ypl3.xyz^
+||4d15ae6889.com^
 ||4d45i6p0g.com^
 ||4d9f09z8c.com^
 ||4dc005d17a.com^
@@ -1124,7 +1121,6 @@
 ||55c0c98b4d.e0bb9b01ec.com^
 ||55yy56n7p2ug15lrwz.cfd^
 ||5608c7633c.com^
-||5636bc7886.02672653a1.com^
 ||564executors.com^
 ||565ddd0acd.4c4a520279.com^
 ||5692y28yxgtwmj7qkc9tnnlmrg5iyu.cfd^
@@ -1151,6 +1147,7 @@
 ||59haloar.net^
 ||59xx2yr9i.com^
 ||59zzkdt8pj.com^
+||5a1c7720ea.com^
 ||5a5751fd6a.com^
 ||5ac36d146b.com^
 ||5adde1db4b.com^
@@ -1178,6 +1175,7 @@
 ||5dycay3rr.com^
 ||5e56217cd5.396d8aaa17.com^
 ||5e9cb65c2c.com^
+||5ec1d56c09.com^
 ||5edf1d2qv.com^
 ||5f-hj8-5d2g.dnsdf.com^
 ||5f1qyi04vz.com^
@@ -1331,7 +1329,6 @@
 ||6b8051dfcc.com^
 ||6b8emvi3ya.com^
 ||6b902da043.com^
-||6b9a2dfd98.5a1c7720ea.com^
 ||6b9wbbjf5s.com^
 ||6bgaput9ullc.com^
 ||6by30.com^
@@ -1343,7 +1340,7 @@
 ||6c641lgikp.top^
 ||6c71340b42.4b0541a1c9.com^
 ||6c7cd0e530.a970dc123c.com^
-||6c800efb18.f8f311a27a.com^
+||6c9eed1c74.com^
 ||6cf0e7801e8cd.clicknplay.to^
 ||6cfc27c30d.com^
 ||6cjdya3djn.com^
@@ -1431,6 +1428,8 @@
 ||71692fai4cc0.com^
 ||71df446534.com^
 ||71lf6z67h6.com^
+||720df8c8c9.com^
+||721474ff09.com^
 ||7250xdj0x.com^
 ||728e89c437.1270533dea.com^
 ||72hdgb5o.de^
@@ -1452,6 +1451,7 @@
 ||73vzmvg2bi.com^
 ||7416e71cb8.com^
 ||743fdf5467.com^
+||7470c4cda5.com^
 ||74a54ccd8d.56ac3c29f3.com^
 ||74d963ww.xyz^
 ||74x4er4kpl8pxek327.cfd^
@@ -1465,7 +1465,6 @@
 ||75wdm82a69.com^
 ||760a131226.com^
 ||762dd8340d.com^
-||76317c6456.f8d348c0aa.com^
 ||7649s7szsu.com^
 ||765f76kcx.com^
 ||766935bca8.com^
@@ -1486,6 +1485,7 @@
 ||782c161d89.com^
 ||784d1dcf4a.com^
 ||78587924.xyz^
+||7878ba0587.com^
 ||7898a9d175.com^
 ||78bk5iji.de^
 ||78f201e862.com^
@@ -1520,6 +1520,7 @@
 ||7bfst8xxtc.com^
 ||7bpeople.com^
 ||7c13b412e9.com^
+||7c1569a605.com^
 ||7c23586009.com^
 ||7c37119d9d.2533555ba6.com^
 ||7c52629d53.com^
@@ -1532,6 +1533,7 @@
 ||7d44c6ba4d.com^
 ||7d6958cb00.com^
 ||7d77f23c90.com^
+||7d7a497317.com^
 ||7d93f9d2f5.com^
 ||7ddqvun8i1.com^
 ||7de1da816b.com^
@@ -1601,7 +1603,6 @@
 ||80a16e63df.com^
 ||80d6a785a7.4f1e5419a2.com^
 ||80ee887d8f.com^
-||80fb1b35c2.47ae11ce2f.com^
 ||80juqing.com^
 ||80ms6831o.com^
 ||80xmedia.com^
@@ -1616,6 +1617,7 @@
 ||82d36b5fc4.com^
 ||82e9ac3c1.com^
 ||8330bccb63.com^
+||8381a73c4d.com^
 ||83933bb4b2.com^
 ||83b016defa.com^
 ||83c62d9964.com^
@@ -1646,7 +1648,6 @@
 ||8800zenica.com^
 ||880a6212c5.com^
 ||88362zubo95838.com^
-||885fff80b5.6c9eed1c74.com^
 ||888promos.com^
 ||889dbee9c9.com^
 ||88a5ce7125.com^
@@ -1670,12 +1671,12 @@
 ||8b2d434767.b0f31fd873.com^
 ||8b317a773b.com^
 ||8b62ddc457.c046100d82.com^
-||8b7ab78d6c.721474ff09.com^
 ||8ba30863a3.com^
 ||8bb993b111.540729f005.com^
 ||8bd6421c3f.com^
 ||8bfc9cbcbe.com^
 ||8bnouo6r6.com^
+||8c0afb75cd.com^
 ||8c217a925a.339fee097c.com^
 ||8c3fcf6b0d.com^
 ||8c66b76e9b.com^
@@ -1754,7 +1755,6 @@
 ||907900f0d0.a08b551f9a.com^
 ||908df012d9bb72e6d26b41054588d758.com^
 ||90d92b6a4e.com^
-||90f6059129.8c0afb75cd.com^
 ||90q0tq3bwo.com^
 ||90qxskdmn9.com^
 ||9112rj8wo.com^
@@ -1769,11 +1769,11 @@
 ||92orb.com^
 ||92p3c8lgqt.com^
 ||92yp.com^
+||9334fb3562.com^
 ||9365e2dd1f.com^
 ||936781cc1a.com^
 ||93692zubo66936.com^
 ||93a72bfca9.com^
-||93a83c07e9.7c1569a605.com^
 ||93d9db1a89.0b9d9c14f8.com^
 ||93gtx4pc2w.com^
 ||93txjw4rt2.com^
@@ -1795,7 +1795,6 @@
 ||96d2c00b3e.com^
 ||96e7bee058.com^
 ||96ed2s9r.xyz^
-||96f31a396f.d29776df3a.com^
 ||96zddjwn2.com^
 ||973e5a5a22.com^
 ||976caebe7b.com^
@@ -1822,6 +1821,7 @@
 ||99ef859a06.com^
 ||99f7022009.com^
 ||9a4v0clpi.com^
+||9a57160d5c.com^
 ||9a8f641701.com^
 ||9ab8ff816c.com^
 ||9ad9d37bec.5c2b54416a.com^
@@ -1829,7 +1829,6 @@
 ||9b4069b2fa.com^
 ||9b5168f52e.419afac32e.com^
 ||9c1e54fbf4.com^
-||9c2d7cdbd5.388826bd9d.com^
 ||9c36d51a22.com^
 ||9c431580d3.com^
 ||9c786ff5cd.com^
@@ -1849,7 +1848,6 @@
 ||9dmnv9z0gtoh.com^
 ||9e031f589f.com^
 ||9e0917xf7x.com^
-||9e11c3902a.fd1f580172.com^
 ||9e11ec3a56.com^
 ||9e1b47e1b9.com^
 ||9e83087e91.com^
@@ -2105,10 +2103,12 @@
 ||a2.hotpornfile.org^
 ||a2.xinhuanet.com^
 ||a2255d1d36.com^
+||a23debcead.com^
 ||a2424xe80.com^
 ||a25c71de26.62cf6d39c1.com^
 ||a273656d15.com^
 ||a29f24b2a6.com^
+||a2e5b82fea.com^
 ||a2gp.diveinthebluesky.biz^
 ||a2pfs5k90i.com^
 ||a2put.chinaz.com^
@@ -2124,7 +2124,6 @@
 ||a3c3c7c303.48cd631c5c.com^
 ||a3c72512d5.com^
 ||a3f2635e13.ce391f4444.com^
-||a3f3edf924.7470c4cda5.com^
 ||a3yqjsrczwwp.com^
 ||a4.hotpornfile.org^
 ||a415b0d4b1.8da1db73e4.com^
@@ -2141,6 +2140,7 @@
 ||a4xvv2g18l.com^
 ||a51f200d7e.com^
 ||a51wzxssu.com^
+||a567dda4c2.com^
 ||a5ddb5cd30.com^
 ||a613.redbluffdailynews.com^
 ||a61bc11442.com^
@@ -2246,6 +2246,7 @@
 ||ab.servogram.io^
 ||ab.thepornstar.com^
 ||ab045d5856.com^
+||ab0c2e9694.com^
 ||ab0fbb66ba.com^
 ||ab208fce17.13b1e60d7e.com^
 ||ab427mcx.xyz^
@@ -10007,7 +10008,6 @@
 ||c09cc9353f.com^
 ||c0c84de6d4.com^
 ||c0cd2idcl5.com^
-||c0dd0fe201.ab0c2e9694.com^
 ||c0me-get-s0me.net^
 ||c0n.tubestash.com^
 ||c0nmelm3y2.com^
@@ -10059,6 +10059,7 @@
 ||c4ru5li2sa.com^
 ||c526b6ac88.com^
 ||c55d4b9929.com^
+||c5a7249e28.com^
 ||c5acd666f8.com^
 ||c5mwwyqfvi.com^
 ||c6.friok.com^
@@ -10082,9 +10083,9 @@
 ||c84c10fe3d.com^
 ||c8841fd6e9.com^
 ||c8aae076f1.com^
-||c8d9e11a82.031dcf857c.com^
 ||c8q27tqnaw.com^
 ||c8y.crazyporn.xxx^
+||c91a5db997.com^
 ||c92a8a2de1.a0d3dd0c89.com^
 ||c950.chronicle.com^
 ||c998f1483b.com^
@@ -13574,7 +13575,6 @@
 ||d140sbu1b1m3h0.cloudfront.net^
 ||d141wsrw9m4as6.cloudfront.net^
 ||d142i1hxvwe38g.cloudfront.net^
-||d143db9441.dc188045ef.com^
 ||d145ghnzqbsasr.cloudfront.net^
 ||d147t1kg3swfdd.cloudfront.net^
 ||d14821r0t3377v.cloudfront.net^
@@ -14059,6 +14059,7 @@
 ||d28wlxclbkz49x.cloudfront.net^
 ||d28xpw6kh69p7p.cloudfront.net^
 ||d2906506rwyvg2.cloudfront.net^
+||d29776df3a.com^
 ||d29bsjuqfmjd63.cloudfront.net^
 ||d29dbajta0the9.cloudfront.net^
 ||d29dzo8owxlzou.cloudfront.net^
@@ -14758,6 +14759,7 @@
 ||d8d0bc1aa3.fec98ad2c4.com^
 ||d8dcj5iif1uz.cloudfront.net^
 ||d8dkar87wogoy.cloudfront.net^
+||d8ff1e73bd.com^
 ||d8hdm94ldw8yr.cloudfront.net^
 ||d8lzzy93g.com^
 ||d8oh0sebl8.com^
@@ -15111,6 +15113,7 @@
 ||dc.letv.com^
 ||dc036be5b9.com^
 ||dc08i221b0n8a.cloudfront.net^
+||dc188045ef.com^
 ||dc5ig2fc8lg83.cloudfront.net^
 ||dc5k8fg5ioc8s.cloudfront.net^
 ||dc7dad4603.com^
@@ -15214,7 +15217,6 @@
 ||de2nsnw1i3egd.cloudfront.net^
 ||de3hzpms0kfq9.cloudfront.net^
 ||de5zarwna0j2q.cloudfront.net^
-||de8bd72412.3cedc8df37.com^
 ||dea21aeefc.com^
 ||dea9webxhb7gu.cloudfront.net^
 ||deabrrtkyiibk.site^
@@ -15623,7 +15625,6 @@
 ||deycppnevpjax.online^
 ||deymalaise.com^
 ||df.tanx.com^
-||df035428b5.d8ff1e73bd.com^
 ||df0pmigc8xs70.cloudfront.net^
 ||df6pt2obl092n.cloudfront.net^
 ||df75dd25ba.9b5efc2b0e.com^
@@ -17263,7 +17264,6 @@
 ||e67f6fea84.com^
 ||e67repidwnfu7gcha.com^
 ||e695de9aef.com^
-||e6b4cfdb36.8381a73c4d.com^
 ||e6c84e5378.com^
 ||e709b26fc0.f9abdf7da0.com^
 ||e75liqii98.com^
@@ -17399,7 +17399,6 @@
 ||eaylmi.icu^
 ||eazqiicorbzpm.site^
 ||eb5882aef0.com^
-||eb6908f715.fae299940f.com^
 ||ebakvswalujjf.com^
 ||ebatndolrzsxc.space^
 ||ebayadservices.com^
@@ -17558,7 +17557,6 @@
 ||ee.sportacentrs.com^
 ||ee2b93a3a4.com^
 ||ee30f51e20.com^
-||eea253f1df.c5a7249e28.com^
 ||eeaeghdfwnjnz.site^
 ||eealrrwurmesx.space^
 ||eeawcdhxtjmkb.site^
@@ -19179,7 +19177,6 @@
 ||f680e0bdca.com^
 ||f6jd4k4xgo.com^
 ||f703.twincities.com^
-||f72c70be39.c91a5db997.com^
 ||f761efe176.com^
 ||f775.thehour.com^
 ||f792df8437.com^
@@ -19193,6 +19190,8 @@
 ||f864fdc049.com^
 ||f866.troyrecord.com^
 ||f8c2gftcsj.com^
+||f8d348c0aa.com^
+||f8f311a27a.com^
 ||f8utp9hqco37j65p21km.cfd^
 ||f921e4caa3.com^
 ||f92l2orpu3.com^
@@ -19234,6 +19233,7 @@
 ||fadsipz.com^
 ||fadskis.com^
 ||fadslimz.com^
+||fae299940f.com^
 ||faeknuuqt.com^
 ||fafxuylrwwnxg.online^
 ||fagaldplaided.cyou^
@@ -19476,7 +19476,7 @@
 ||fcwdsidinixoz.website^
 ||fcxxffvjrztgz.space^
 ||fd.bawag.at^
-||fd01ce9a02.0012e30263.com^
+||fd1f580172.com^
 ||fd2722b11f.com^
 ||fd2k1fa6oe.com^
 ||fdbdzwnpffxcg.space^
@@ -26994,7 +26994,6 @@
 ||js.mybidadm.com^
 ||js.nkrffokcf.com^
 ||js.onclckpp.com^
-||js.onclckpsh.com^
 ||js.onclckvd.com^
 ||js.onclmng.com^
 ||js.pulseinsights.com^
@@ -34903,6 +34902,7 @@
 ||onclckip.com^
 ||onclckmetrics.com^
 ||onclckmn.com^
+||onclckpsh.com^
 ||onclcktg.com^
 ||onclickads.net^
 ||onclickalgo.com^

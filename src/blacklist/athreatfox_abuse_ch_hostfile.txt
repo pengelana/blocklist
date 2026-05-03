@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-05-03 05:59:22 UTC                        #
+# Last updated: 2026-05-03 06:24:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	macro.goldenleafway.lat
+127.0.0.1	alpha.goldenleafway.lat
+127.0.0.1	fast.tari8lax.lat
+127.0.0.1	nx44.silverwoodhub.lat
+127.0.0.1	pure.tari8lax.lat
 127.0.0.1	neon.silverwoodhub.lat
 127.0.0.1	blue.tari8lax.lat
 127.0.0.1	ultra.silverwoodhub.lat
@@ -61305,11 +61310,4 @@
 127.0.0.1	m5x8r.432b47.ru
 127.0.0.1	z83n.0fv1.online
 127.0.0.1	0k.5x7u.ru
-127.0.0.1	rl.q3lo.ru
-127.0.0.1	v1kpa.0fv1.online
-127.0.0.1	q7dz.432b47.ru
-127.0.0.1	sd.77-6.ru
-127.0.0.1	anyone-recover.gl.at.ply.gg
-127.0.0.1	until-slope.gl.at.ply.gg
-127.0.0.1	minecraftmemesmp-55927.portmap.host
-# Number of entries: 61306
+# Number of entries: 61304
