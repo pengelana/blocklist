@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-05-04 05:57:57 UTC                        #
+# Last updated: 2026-05-04 06:04:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mode.pixelstep.surf
+127.0.0.1	star.rapidreef.surf
 127.0.0.1	skip.pixelstep.surf
 127.0.0.1	sky.rapidreef.surf
 127.0.0.1	gear.boldpulse.surf
@@ -61427,4 +61429,4 @@
 127.0.0.1	rownip.mailredirect.ooo
 127.0.0.1	lupend.duckdns.org
 127.0.0.1	programming-variation.gl.at.ply.gg
-# Number of entries: 61421
+# Number of entries: 61423
