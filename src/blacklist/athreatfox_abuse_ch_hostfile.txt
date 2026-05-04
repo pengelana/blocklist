@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-05-04 06:04:27 UTC                        #
+# Last updated: 2026-05-04 06:47:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	view.logicreef.surf
+127.0.0.1	fast.darktrace.surf
+127.0.0.1	blue.logicreef.surf
+127.0.0.1	run.darktrace.surf
+127.0.0.1	star.logicreef.surf
+127.0.0.1	fire.darktrace.surf
+127.0.0.1	sky.logicreef.surf
+127.0.0.1	high.rapidreef.surf
+127.0.0.1	airy.rapidreef.surf
+127.0.0.1	gear.pixelstep.surf
+127.0.0.1	snap.pixelstep.surf
+127.0.0.1	dash.pixelstep.surf
+127.0.0.1	blue.rapidreef.surf
 127.0.0.1	mode.pixelstep.surf
 127.0.0.1	star.rapidreef.surf
 127.0.0.1	skip.pixelstep.surf
@@ -61418,15 +61431,4 @@
 127.0.0.1	biossysinternal.com
 127.0.0.1	widgetservicecenter.com
 127.0.0.1	bedenefuneralhome.com
-127.0.0.1	rownip.schneidstore.com
-127.0.0.1	rownipbackup.ga
-127.0.0.1	rownipbackup.tk
-127.0.0.1	u864246.nvpn.so
-127.0.0.1	lupend.ga
-127.0.0.1	lupendbackup.duckdns.org
-127.0.0.1	lupendbackup.ga
-127.0.0.1	rownip.lupends.com
-127.0.0.1	rownip.mailredirect.ooo
-127.0.0.1	lupend.duckdns.org
-127.0.0.1	programming-variation.gl.at.ply.gg
-# Number of entries: 61423
+# Number of entries: 61425

@@ -20,12 +20,12 @@
 [ OK ]     8,140 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,769 src/blacklist/StevenBlack_hosts.txt
 [ OK ]    81,828 src/blacklist/StevenBlack_master_hosts.txt
-[ OK ]    61,203 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    61,205 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]     1,741 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]       973 src/blacklist/craiu_list.txt
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
-[ OK ]    36,830 src/blacklist/cyberhost_uk_malware.txt
+[ OK ]    36,834 src/blacklist/cyberhost_uk_malware.txt
 [ OK ]       332 src/blacklist/dnstunneling_t.txt
 [ OK ]     2,274 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,188 src/blacklist/easylist_adservers_popup.txt
@@ -3050,19 +3050,20 @@
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]     7,693 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]    79,473 src/blacklist/phishdestroy_destroylist_hosts.txt
+[ OK ]   318,728 src/blacklist/phishdestroy_destroylist_community_active_domains.txt
+[ OK ]    79,473 src/blacklist/phishdestroy_destroylist_primary_active_domains.txt
 [ OK ]   145,872 src/blacklist/phishing_army_blocklist_extended.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       138 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]     1,179 src/blacklist/redirect_t.txt
-[ OK ]   130,801 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]    63,660 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   130,775 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
+[ OK ]    42,088 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    12,719 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,111 src/blacklist/stamparm_blackbook.txt
 [ OK ]   810,985 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    72,441 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,080 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       838 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       833 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,302 src/blacklist/validin-phish-feed/validin-phish-feed-1.txt
 [ OK ]    93,357 src/blacklist/validin-phish-feed/validin-phish-feed-2.txt
 [ OK ]   119,091 src/blacklist/validin-phish-feed/validin-phish-feed-3.txt
@@ -3082,23 +3083,23 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,052 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 6,122,356
-Filter Duplicates   : 3,919,317
-External Whitelist  : 3,789,340
-Filter Whitelist    : 3,789,263
-Import Blacklist    : 3,789,933
-Compressed          : 3,326,507
+Total Blacklist     : 6,419,487
+Filter Duplicates   : 4,134,796
+External Whitelist  : 4,001,703
+Filter Whitelist    : 4,001,624
+Import Blacklist    : 4,002,294
+Compressed          : 3,442,053
 
    LENGTH     COUNT
-        2 2,483,892
-        3   680,110
-        4   131,565
-        5    26,709
-        6     3,286
-        7       678
-        8       150
-        9        49
-       10        24
+        2 2,546,471
+        3   740,535
+        4   131,361
+        5    19,540
+        6     3,266
+        7       604
+        8       159
+        9        50
+       10        23
        11        10
        12         5
        13         4
@@ -3113,7 +3114,7 @@ Compressed          : 3,326,507
        25         1
        30         2
 
-Total Blocklist     : 3,326,507
+Total Blocklist     : 3,442,053
 
 ~~~
 
@@ -3176,7 +3177,8 @@ https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 https://v.firebog.net/hosts/Prigent-Crypto.txt
 https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/formats/primary_active/hosts.txt
+https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/formats/primary_active/domains.txt
+https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/formats/community_active/domains.txt
 ~~~
 
 # Whitelist
