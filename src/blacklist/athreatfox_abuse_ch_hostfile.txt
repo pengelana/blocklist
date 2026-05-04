@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-05-04 06:47:35 UTC                        #
+# Last updated: 2026-05-04 06:58:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kick.darktrace.surf
+127.0.0.1	www.xoilacca.tv
+127.0.0.1	airy.logicreef.surf
+127.0.0.1	jump.darktrace.surf
 127.0.0.1	view.logicreef.surf
 127.0.0.1	fast.darktrace.surf
 127.0.0.1	blue.logicreef.surf
@@ -61425,10 +61429,4 @@
 127.0.0.1	a09ee3dc53f6a9f461a45bac946c5a09ee3dca09ee3dc53f6a9.pages.dev
 127.0.0.1	ceptj8d40dcb4cb2.top
 127.0.0.1	thesmartboater.com
-127.0.0.1	intelupates.com
-127.0.0.1	windowsdns.com
-127.0.0.1	amsisupport.com
-127.0.0.1	biossysinternal.com
-127.0.0.1	widgetservicecenter.com
-127.0.0.1	bedenefuneralhome.com
-# Number of entries: 61425
+# Number of entries: 61423
