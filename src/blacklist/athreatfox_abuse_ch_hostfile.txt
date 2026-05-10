@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-05-10 08:27:49 UTC                        #
+# Last updated: 2026-05-10 08:36:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	banb3.wetshardauth.lat
+127.0.0.1	vmlistview.softnetworkset.pics
+127.0.0.1	honestshape.wetshardauth.lat
 127.0.0.1	sshproserv.softnetworkset.pics
 127.0.0.1	vel-fluxix.didoprotecauth.lat
 127.0.0.1	tcpconpath.softnetworkset.pics
@@ -61795,5 +61798,4 @@
 127.0.0.1	epq8.t1decrystai.ru
 127.0.0.1	vnvqj.t1decrystai.ru
 127.0.0.1	rift.cioudharbor.ru
-127.0.0.1	vale.cioudharbor.ru
-# Number of entries: 61790
+# Number of entries: 61792
