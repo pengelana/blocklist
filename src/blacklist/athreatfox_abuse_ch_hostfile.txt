@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-05-12 10:07:48 UTC                        #
+# Last updated: 2026-05-12 11:21:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	netvector.wiki
+127.0.0.1	datapulse.wiki
+127.0.0.1	dashcorpcloud.co
+127.0.0.1	thijsbroekhuizen.nl
 127.0.0.1	master-system-data-core-wiki.wiki
 127.0.0.1	warframe-builder.com
 127.0.0.1	www.googletagmanager.com
@@ -61725,6 +61729,4 @@
 127.0.0.1	adeyqa.net
 127.0.0.1	quasar.ydns.eu
 127.0.0.1	rajasas35safael1.duckdns.org
-127.0.0.1	productos.luxurestudiio.it.com
-127.0.0.1	6ewct49g.duckdns.org
-# Number of entries: 61721
+# Number of entries: 61723
