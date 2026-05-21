@@ -20,13 +20,13 @@
 [ OK ]     8,140 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,774 src/blacklist/StevenBlack_hosts.txt
 [ OK ]    84,228 src/blacklist/StevenBlack_master_hosts.txt
-[ OK ]    60,775 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    60,773 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   199,132 src/blacklist/badmojr_1Hosts_Lite_domains.txt
 [ OK ]     1,741 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]       973 src/blacklist/craiu_list.txt
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
-[ OK ]    39,539 src/blacklist/cyberhost_uk_malware.txt
+[ OK ]    39,576 src/blacklist/cyberhost_uk_malware.txt
 [ OK ]       332 src/blacklist/dnstunneling_t.txt
 [ OK ]     2,258 src/blacklist/durablenapkin_hosts.txt
 [ OK ]     3,214 src/blacklist/easylist_adservers_popup.txt
@@ -3104,18 +3104,18 @@
 [ OK ]    57,602 src/blacklist/validin-phish-feed/validin-phish-feed-phishydnstxt-9.txt
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,051 src/blacklist/validin-phish-feed/validin-phish-feed.txt
-[ OK ]     7,643 src/blacklist/xRuffKez_tif_domains.txt
+[ OK ]     7,648 src/blacklist/xRuffKez_tif_domains.txt
 
-Total Blacklist     : 6,487,998
-Filter Duplicates   : 4,050,113
-External Whitelist  : 3,919,724
-Filter Whitelist    : 3,919,643
-Import Blacklist    : 3,920,312
-Compressed          : 3,359,348
+Total Blacklist     : 6,488,038
+Filter Duplicates   : 4,050,140
+External Whitelist  : 3,919,751
+Filter Whitelist    : 3,919,670
+Import Blacklist    : 3,920,340
+Compressed          : 3,359,345
 
    LENGTH     COUNT
-        2 2,516,692
-        3   672,643
+        2 2,516,712
+        3   672,620
         4   136,466
         5    28,753
         6     3,600
@@ -3132,7 +3132,7 @@ Compressed          : 3,359,348
        18         5
        19         1
 
-Total Blocklist     : 3,359,348
+Total Blocklist     : 3,359,345
 
 ~~~
 
