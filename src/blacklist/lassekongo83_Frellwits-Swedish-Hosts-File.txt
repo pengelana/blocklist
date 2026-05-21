@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-05-16 05:49:52 CEST
-# entries:        1153
+# last updated:   2026-05-21 05:52:59 CEST
+# entries:        1154
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -210,6 +210,7 @@
 127.0.0.1 betrad.com
 127.0.0.1 bettingstugan.se
 127.0.0.1 bid.g.doubleclick.net
+127.0.0.1 bidder-cdn.fra1.cdn.digitaloceanspaces.com
 127.0.0.1 bilpolicydi.bytelab.dk
 127.0.0.1 biowebb-data.s3.amazonaws.com
 127.0.0.1 bitstarz.com
