@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-05-22 02:33:03 UTC                        #
+# Last updated: 2026-05-22 04:04:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	quantumvelocitylabs.christmas
+127.0.0.1	sls.in.net
+127.0.0.1	lasagna-bakingpro.christmas
+127.0.0.1	stack-control-plane.christmas
 127.0.0.1	runtime-processing-node.christmas
 127.0.0.1	telemetrymesh.christmas
 127.0.0.1	byte-network-hub.christmas
@@ -60919,14 +60923,4 @@
 127.0.0.1	birch.ele-6-tricmul-1-ed.ru
 127.0.0.1	adler.ele-6-tricmul-1-ed.ru
 127.0.0.1	bach.netit-0-c-0-rec.ru
-127.0.0.1	wolfe.netit-0-c-0-rec.ru
-127.0.0.1	hain3.netit-0-c-0-rec.ru
-127.0.0.1	rune.netit-0-c-0-rec.ru
-127.0.0.1	klee5.co0peratre4er.ru
-127.0.0.1	rauch.co0peratre4er.ru
-127.0.0.1	glanz.co0peratre4er.ru
-127.0.0.1	fjord.co0peratre4er.ru
-127.0.0.1	dune.ele6tricmul1ed.ru
-127.0.0.1	weiss.ele6tricmul1ed.ru
-127.0.0.1	tau.ele6tricmul1ed.ru
-# Number of entries: 60923
+# Number of entries: 60917
