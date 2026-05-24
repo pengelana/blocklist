@@ -26,7 +26,7 @@
 [ OK ]       973 src/blacklist/craiu_list.txt
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
-[ OK ]   104,167 src/blacklist/crux_judol.txt
+[ OK ]   105,062 src/blacklist/crux_judol.txt
 [ OK ]    39,844 src/blacklist/cyberhost_uk_malware.txt
 [ OK ]       332 src/blacklist/dnstunneling_t.txt
 [ OK ]     2,264 src/blacklist/durablenapkin_hosts.txt
@@ -3110,20 +3110,20 @@
 [ OK ]    57,602 src/blacklist/validin-phish-feed/validin-phish-feed-phishydnstxt-9.txt
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,051 src/blacklist/validin-phish-feed/validin-phish-feed.txt
-[ OK ]     2,292 src/blacklist/xRuffKez_tif_domains.txt
+[ OK ]     2,306 src/blacklist/xRuffKez_tif_domains.txt
 
-Total Blacklist     : 6,619,369
-Filter Duplicates   : 4,174,874
-External Whitelist  : 4,044,462
-Filter Whitelist    : 4,044,380
-Import Blacklist    : 4,045,050
-Compressed          : 3,481,921
+Total Blacklist     : 6,620,278
+Filter Duplicates   : 4,175,772
+External Whitelist  : 4,045,360
+Filter Whitelist    : 4,045,278
+Import Blacklist    : 4,045,948
+Compressed          : 3,482,762
 
    LENGTH     COUNT
-        2 2,598,759
-        3   710,540
-        4   139,473
-        5    28,711
+        2 2,599,157
+        3   710,929
+        4   139,526
+        5    28,712
         6     3,453
         7       741
         8       154
@@ -3138,7 +3138,7 @@ Compressed          : 3,481,921
        18         5
        19         1
 
-Total Blocklist     : 3,481,921
+Total Blocklist     : 3,482,762
 
 ~~~
 

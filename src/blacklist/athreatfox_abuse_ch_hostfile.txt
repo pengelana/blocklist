@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-05-24 05:05:36 UTC                        #
+# Last updated: 2026-05-24 05:16:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	twgdna.digital360.hu
+127.0.0.1	hypebeast.co.com
+127.0.0.1	dbpw.cn.com
 127.0.0.1	wljj.sa.com
 127.0.0.1	keukengemaal.nl
 127.0.0.1	lrnjen.dharmaralstudio.com
@@ -60305,7 +60308,4 @@
 127.0.0.1	glade.br1ghtstone.ru
 127.0.0.1	birch.br1ghtstone.ru
 127.0.0.1	kamm2.br1ghtstone.ru
-127.0.0.1	wolke.br1ghtstone.ru
-127.0.0.1	glanz.l1necloud.ru
-127.0.0.1	tal1.l1necloud.ru
 # Number of entries: 60302
