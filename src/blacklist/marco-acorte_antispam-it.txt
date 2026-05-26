@@ -4,10 +4,10 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Total Domains: 1585
+# Total Domains: 1588
 # Total Emails: 207
-# Total IPs: 194724
-# Last Update: 260521T101712+0200
+# Total IPs: 194721
+# Last Update: 260526T094208+0200
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -16,6 +16,9 @@
 # This work is licensed under a GNU General Public License v3.0.
 # ======================================================================================================
 
+0.0.0.0    centroitalfin.org
+0.0.0.0    okinfo.eu
+0.0.0.0    stopinfo.eu
 0.0.0.0    iberelectra.pt
 0.0.0.0    tectaproje.com
 0.0.0.0    centroitalfin.net
