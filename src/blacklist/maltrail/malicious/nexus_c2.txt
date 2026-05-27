@@ -5,6 +5,8 @@
 
 # Reference: https://blog.talosintelligence.com/uat-10608-inside-a-large-scale-automated-credential-harvesting-operation-targeting-web-applications/
 # Reference: https://github.com/Cisco-Talos/IOCs/blob/main/2026/04/uat-10608.txt
+# Reference: https://x.com/ReversingLabs/status/2059311116354793849
+# Reference: https://www.reversinglabs.com/blog/hunting-megalodon-fossils
 
 144.172.102.88:8080
 144.172.112.136:8080
@@ -17,6 +19,8 @@
 # TITLE-HOST/IP=NEXUS Listener v3
 
 144.172.116.48:8080
+172.86.72.239:8080
 178.128.41.3:8080
 216.126.225.20:8080
+45.61.134.158:8080
 77.237.237.74:8080
