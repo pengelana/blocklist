@@ -3087,7 +3087,7 @@
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]    57,601 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]   145,571 src/blacklist/phishing_army_blocklist_extended.txt
+[ OK ]   145,370 src/blacklist/phishing_army_blocklist_extended.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       129 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]     1,188 src/blacklist/redirect_t.txt
@@ -3117,18 +3117,18 @@
 [ OK ]    57,602 src/blacklist/validin-phish-feed/validin-phish-feed-phishydnstxt-9.txt
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,051 src/blacklist/validin-phish-feed/validin-phish-feed.txt
-[ OK ]    34,834 src/blacklist/xRuffKez_tif_domains.txt
+[ OK ]    34,886 src/blacklist/xRuffKez_tif_domains.txt
 
-Total Blacklist     : 5,617,598
-Filter Duplicates   : 3,500,395
-External Whitelist  : 3,374,058
-Filter Whitelist    : 3,373,978
-Import Blacklist    : 3,374,667
-Compressed          : 2,848,832
+Total Blacklist     : 5,617,449
+Filter Duplicates   : 3,500,330
+External Whitelist  : 3,373,993
+Filter Whitelist    : 3,373,913
+Import Blacklist    : 3,374,602
+Compressed          : 2,848,769
 
    LENGTH     COUNT
-        2 2,122,010
-        3   568,232
+        2 2,121,920
+        3   568,259
         4   129,217
         5    26,286
         6     2,419
@@ -3145,7 +3145,7 @@ Compressed          : 2,848,832
        18         5
        19         1
 
-Total Blocklist     : 2,848,832
+Total Blocklist     : 2,848,769
 
 ~~~
 
