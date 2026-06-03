@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-06-03 06:11:56 UTC                        #
+# Last updated: 2026-06-03 06:40:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	laohe4.myvnc.com
 127.0.0.1	filezilla.cc
 127.0.0.1	dust.packetflow.cc
 127.0.0.1	vdsina.vg
@@ -9005,6 +9006,7 @@
 127.0.0.1	mole-yxzzxy.xyz
 127.0.0.1	lqush.sena9vix.surf
 127.0.0.1	watc-forma.sena9vix.surf
+127.0.0.1	frr.ambil-disini.web.id
 127.0.0.1	frr.rubensbruno.adv.br
 127.0.0.1	tal-fluxor.sena9vix.surf
 127.0.0.1	tztuq.lami4qor.surf
@@ -48848,4 +48850,4 @@
 127.0.0.1	www.xlvi.livecdnem.com
 127.0.0.1	flame.adv0cal1egat.ru
 127.0.0.1	shadow.adv0cal1egat.ru
-# Number of entries: 48842
+# Number of entries: 48844
