@@ -1,7 +1,7 @@
 # Domains
 
 ~~~
-[ OK ]   197,442 src/blacklist/217heidai_adblockdns.txt
+[ OK ]   178,120 src/blacklist/217heidai_adblockdns.txt
 [ OK ]       906 src/blacklist/AWAvenue-Ads-Rule.txt
 [ OK ]     9,972 src/blacklist/AdguardTeam_disguised_ads_justdomains.txt
 [ OK ]    23,167 src/blacklist/AdguardTeam_disguised_clickthroughs_justdomains.txt
@@ -10,7 +10,7 @@
 [ OK ]   100,061 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ] 1,307,175 src/blacklist/AlexRabbit_ADios_hosts.txt
 [ OK ]       920 src/blacklist/AssoEchap_hosts.txt
-[ OK ]   180,683 src/blacklist/Cats-Team_dns.txt
+[ OK ]   180,744 src/blacklist/Cats-Team_dns.txt
 [ OK ]    11,617 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       656 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
@@ -22,7 +22,7 @@
 [ OK ]     8,140 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,776 src/blacklist/StevenBlack_hosts.txt
 [ OK ]    83,597 src/blacklist/StevenBlack_master_hosts.txt
-[ OK ]    48,532 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    48,550 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   198,293 src/blacklist/badmojr_1Hosts_Lite_domains.txt
 [ OK ]     1,746 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]         1 src/blacklist/clickfix_t.txt
@@ -38,15 +38,16 @@
 [ OK ]     3,225 src/blacklist/easylist_adservers_popup.txt
 [ OK ]     2,046 src/blacklist/ethanr_Mandiant_APT1_Report_Appendix_D.txt
 [ OK ]        60 src/blacklist/fakenews_t.txt
-[ OK ]   160,664 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]   160,711 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]    16,288 src/blacklist/firebog_Prigent-Crypto.txt
 [ OK ]    42,543 src/blacklist/firebog_net_Easyprivacy.txt
 [ OK ]     4,270 src/blacklist/firebog_net_Prigent_Ads.txt
+[ OK ]   999,488 src/blacklist/firebog_net_RPiList-Malware.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
-[ OK ]    15,749 src/blacklist/hagezi_fake.txt
-[ OK ]   340,114 src/blacklist/hagezi_multi.txt
-[ OK ]    49,694 src/blacklist/hagezi_popup.txt
+[ OK ]    15,680 src/blacklist/hagezi_fake.txt
+[ OK ]   278,982 src/blacklist/hagezi_multi.txt
+[ OK ]    49,606 src/blacklist/hagezi_popup.txt
 [ OK ]       312 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]    15,055 src/blacklist/hostfiles_frogeye_fr_firstparty-trackers-hosts.txt
 [ OK ]       753 src/blacklist/hpthreatresearch_domains.txt
@@ -3106,20 +3107,20 @@
 [ OK ]     1,591 src/blacklist/marco-acorte_antispam-it.txt
 [ OK ]     2,339 src/blacklist/matomo_org_spammers.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
-[ OK ]    59,083 src/blacklist/oisd_small.txt
+[ OK ]    59,076 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   144,952 src/blacklist/phishing_army_blocklist_extended.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       129 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]     1,188 src/blacklist/redirect_t.txt
 [ OK ]   130,797 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]    71,196 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]    71,647 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    12,825 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,111 src/blacklist/stamparm_blackbook.txt
 [ OK ]   836,535 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]    73,079 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]    73,081 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,843 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       527 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       526 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,302 src/blacklist/validin-phish-feed/validin-phish-feed-1.txt
 [ OK ]    93,357 src/blacklist/validin-phish-feed/validin-phish-feed-2.txt
 [ OK ]   119,091 src/blacklist/validin-phish-feed/validin-phish-feed-3.txt
@@ -3138,35 +3139,35 @@
 [ OK ]    57,602 src/blacklist/validin-phish-feed/validin-phish-feed-phishydnstxt-9.txt
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,051 src/blacklist/validin-phish-feed/validin-phish-feed.txt
-[ OK ]       696 src/blacklist/xRuffKez_tif_domains.txt
+[ OK ]       723 src/blacklist/xRuffKez_tif_domains.txt
 
-Total Blacklist     : 6,954,807
-Filter Duplicates   : 3,969,155
-External Whitelist  : 3,836,685
-Filter Whitelist    : 3,836,600
-Import Blacklist    : 3,837,246
-Compressed          : 3,264,882
+Total Blacklist     : 7,874,282
+Filter Duplicates   : 4,642,945
+External Whitelist  : 4,506,501
+Filter Whitelist    : 4,506,410
+Import Blacklist    : 4,507,045
+Compressed          : 3,907,148
 
    LENGTH     COUNT
-        2 2,509,212
-        3   592,148
-        4   133,614
-        5    26,839
-        6     2,405
-        7       494
-        8       102
-        9        38
-       10        10
-       11         5
-       12         1
-       13         2
-       14         2
+        2 2,992,904
+        3   735,817
+        4   144,371
+        5    29,665
+        6     3,447
+        7       695
+        8       152
+        9        52
+       10        18
+       11         8
+       12         3
+       13         3
+       14         3
        16         2
        17         2
        18         5
        19         1
 
-Total Blocklist     : 3,264,882
+Total Blocklist     : 3,907,148
 
 ~~~
 
