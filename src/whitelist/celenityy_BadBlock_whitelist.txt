@@ -1,5 +1,5 @@
 # Title: ✋ BadBlock - Whitelist (Wildcards no *)
-# Version: 04June2026v1
+# Version: 06June2026v1
 # Expires: 1 hour
 # Description: Unblock the good!
 # Homepage: https://badblock.celenity.dev
@@ -265,6 +265,7 @@ archive-01.torproject.org
 archive.torproject.org
 assets.celenity.dev
 assets.ironfoxoss.org
+aus.waterfox.com
 aus1.torproject.org
 aus2.torproject.org
 brave-browser-apt-beta.s3.brave.com
@@ -324,6 +325,7 @@ updates-cdn.brave.com
 updates-cdn.bravesoftware.com
 updates.brave.com
 updates.bravesoftware.com
+updates.helium.computer
 updates.zen-browser.app
 versions.brave.com
 www.cromite.org
@@ -6006,6 +6008,7 @@ admin-stage.balrog.nonprod.cloudops.mozgcp.net
 ads-track-digest256.dummytracker.org
 amo-test-1048344596.us-west-2.elb.amazonaws.com
 analytics-track-digest256.dummytracker.org
+archive.mozilla-backup.org
 archive.mozilla.org
 attachments.prod.remote-settings.prod.webservices.mozgcp.net
 aus-api.mozilla.org
@@ -6013,6 +6016,7 @@ aus.thunderbird.net
 aus3.mozilla.org
 aus4-admin.mozilla.org
 aus4.mozilla.org
+aus5.mozilla-backup.org
 aus5.mozilla.org
 autoconfig.thunderbird.net
 autograph.services.mozaws.net
@@ -6032,6 +6036,7 @@ blocked.cdn.mozilla.net
 blocklist.addons.mozilla.org
 blocklists.settings.services.mozilla.com
 ciscobinary.openh264.org
+content-signature-2-cdn.mozilla-backup.org
 content-signature-2.cdn.mozilla.net
 content-signature-chains.nonprod.webservices.mozgcp.net
 content-signature-chains.prod.autograph.services.mozaws.net
@@ -6043,10 +6048,13 @@ download-installer-origin.cdn.mozilla.net
 download-installer.cdn.mozilla.net
 download-origin.cdn.mozilla.net
 download.cdn.mozilla.net
+download.mozilla-backup.org
 download.mozilla.org
 extension-finder.thunderbird.net
 fennec-catalog-cdn.prod.mozaws.net
 firefox-settings-attachments.cdn.mozilla.net
+firefox-settings-attachments.mozilla-backup.org
+firefox-settings.mozilla-backup.org
 firefox.etp
 firefox.settings.services.allizom.org
 firefox.settings.services.mozilla.com
@@ -6112,6 +6120,7 @@ update.mozilla.org
 updater.allizom.org
 updates.mozilla.org
 updates.push.services.mozilla.com
+versioncheck-addons.mozilla-backup.org
 versioncheck-bg.addons.mozilla.org
 versioncheck-bg.addons.thunderbird.net
 versioncheck-dev.allizom.org
