@@ -42,7 +42,6 @@
 [ OK ]    16,288 src/blacklist/firebog_Prigent-Crypto.txt
 [ OK ]    42,543 src/blacklist/firebog_net_Easyprivacy.txt
 [ OK ]     4,270 src/blacklist/firebog_net_Prigent_Ads.txt
-[ OK ]   999,488 src/blacklist/firebog_net_RPiList-Malware.txt
 [ OK ]       355 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
 [ OK ]    15,680 src/blacklist/hagezi_fake.txt
@@ -3139,35 +3138,35 @@
 [ OK ]    57,602 src/blacklist/validin-phish-feed/validin-phish-feed-phishydnstxt-9.txt
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,051 src/blacklist/validin-phish-feed/validin-phish-feed.txt
-[ OK ]       723 src/blacklist/xRuffKez_tif_domains.txt
+[ OK ]       726 src/blacklist/xRuffKez_tif_domains.txt
 
-Total Blacklist     : 7,874,282
-Filter Duplicates   : 4,642,945
-External Whitelist  : 4,506,501
-Filter Whitelist    : 4,506,410
-Import Blacklist    : 4,507,045
-Compressed          : 3,907,148
+Total Blacklist     : 6,874,797
+Filter Duplicates   : 3,971,688
+External Whitelist  : 3,839,224
+Filter Whitelist    : 3,839,139
+Import Blacklist    : 3,839,785
+Compressed          : 3,269,994
 
    LENGTH     COUNT
-        2 2,992,904
-        3   735,817
-        4   144,371
-        5    29,665
-        6     3,447
-        7       695
-        8       152
-        9        52
-       10        18
-       11         8
-       12         3
-       13         3
-       14         3
+        2 2,508,930
+        3   597,174
+        4   133,869
+        5    26,918
+        6     2,435
+        7       497
+        8       102
+        9        39
+       10        10
+       11         5
+       12         1
+       13         2
+       14         2
        16         2
        17         2
        18         5
        19         1
 
-Total Blocklist     : 3,907,148
+Total Blocklist     : 3,269,994
 
 ~~~
 
