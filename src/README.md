@@ -380,7 +380,7 @@
 [ OK ]     5,635 src/blacklist/maltrail/malware/android_hydra.txt
 [ OK ]         1 src/blacklist/maltrail/malware/android_ibanking.txt
 [ OK ]         2 src/blacklist/maltrail/malware/android_iconosys.txt
-[ OK ]     3,490 src/blacklist/maltrail/malware/android_joker.txt
+[ OK ]     3,491 src/blacklist/maltrail/malware/android_joker.txt
 [ OK ]         1 src/blacklist/maltrail/malware/android_jsmshider.txt
 [NOK ]         0 src/blacklist/maltrail/malware/android_kbuster.txt
 [ OK ]         2 src/blacklist/maltrail/malware/android_kemoge.txt
@@ -3140,9 +3140,9 @@
 [ OK ]    89,051 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 [ OK ]       726 src/blacklist/xRuffKez_tif_domains.txt
 
-Total Blacklist     : 6,874,797
-Filter Duplicates   : 3,971,688
-External Whitelist  : 3,839,224
+Total Blacklist     : 6,874,798
+Filter Duplicates   : 3,971,689
+External Whitelist  : 3,839,225
 Filter Whitelist    : 3,839,139
 Import Blacklist    : 3,839,785
 Compressed          : 3,269,994
