@@ -22,7 +22,7 @@
 [ OK ]     8,140 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,781 src/blacklist/StevenBlack_hosts.txt
 [ OK ]    84,970 src/blacklist/StevenBlack_master_hosts.txt
-[ OK ]    44,474 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    44,476 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   200,063 src/blacklist/badmojr_1Hosts_Lite_domains.txt
 [ OK ]     1,746 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]         1 src/blacklist/clickfix_t.txt
@@ -35,7 +35,7 @@
 [ OK ]     2,732 src/blacklist/disconnect_me_simple_malvertising.txt.txt
 [ OK ]       336 src/blacklist/dnstunneling_t.txt
 [ OK ]     2,216 src/blacklist/durablenapkin_hosts.txt
-[ OK ]     3,227 src/blacklist/easylist_adservers_popup.txt
+[ OK ]     3,228 src/blacklist/easylist_adservers_popup.txt
 [ OK ]   602,849 src/blacklist/eikarna_AdZeroList_hosts-uncompressed.txt
 [ OK ]     2,046 src/blacklist/ethanr_Mandiant_APT1_Report_Appendix_D.txt
 [ OK ]        60 src/blacklist/fakenews_t.txt
@@ -57,7 +57,6 @@
 [NOK ]         0 src/blacklist/ioclist.domain.raw.txt
 [ OK ]         2 src/blacklist/ioclist.hostname.raw.txt
 [ OK ]       399 src/blacklist/jameswt_t.txt
-[ OK ]    18,254 src/blacklist/jarelllama_scams_light.txt
 [ OK ]     3,801 src/blacklist/judol_t.txt
 [ OK ]     1,152 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
 [NOK ]         0 src/blacklist/maltrail/malicious/365stealer_phishtool.txt
@@ -3120,8 +3119,8 @@
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       129 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]     1,191 src/blacklist/redirect_t.txt
-[ OK ]   130,795 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
-[ OK ]    77,310 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
+[ OK ]   130,771 src/blacklist/romainmarcoux_full-domains-aa.txt.txt
+[ OK ]    52,932 src/blacklist/romainmarcoux_full-domains-ab.txt.txt
 [ OK ]    12,847 src/blacklist/someonewhocares_hosts.txt
 [ OK ]    18,111 src/blacklist/stamparm_blackbook.txt
 [ OK ]   846,220 src/blacklist/stamparm_maltrail-malware-domains.txt
@@ -3148,18 +3147,18 @@
 [ OK ]    89,020 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 [ OK ]     1,731 src/blacklist/xRuffKez_tif_domains.txt
 
-Total Blacklist     : 7,867,960
-Filter Duplicates   : 4,294,473
-External Whitelist  : 4,161,640
-Filter Whitelist    : 4,161,551
-Import Blacklist    : 4,162,195
-Compressed          : 3,580,172
+Total Blacklist     : 7,825,307
+Filter Duplicates   : 4,280,142
+External Whitelist  : 4,147,341
+Filter Whitelist    : 4,147,262
+Import Blacklist    : 4,147,907
+Compressed          : 3,568,493
 
    LENGTH     COUNT
-        2 2,810,452
-        3   605,068
-        4   133,165
-        5    27,532
+        2 2,800,658
+        3   603,743
+        4   132,614
+        5    27,523
         6     3,159
         7       613
         8       105
@@ -3174,7 +3173,7 @@ Compressed          : 3,580,172
        18         5
        19         1
 
-Total Blocklist     : 3,580,172
+Total Blocklist     : 3,568,493
 
 ~~~
 
@@ -3207,7 +3206,6 @@ https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government
 https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
 https://raw.githubusercontent.com/craiu/iocs/main/log4shell/log4j_blocklist.txt
 https://threatfox.abuse.ch/downloads/hostfile/
-https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/refs/heads/main/lists/wildcard_domains/scams_light.txt
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 https://small.oisd.nl/
