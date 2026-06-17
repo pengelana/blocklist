@@ -22,7 +22,7 @@
 [ OK ]     8,140 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,781 src/blacklist/StevenBlack_hosts.txt
 [ OK ]    84,970 src/blacklist/StevenBlack_master_hosts.txt
-[ OK ]    44,115 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    44,114 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   200,567 src/blacklist/badmojr_1Hosts_Lite_domains.txt
 [ OK ]     1,746 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]         1 src/blacklist/clickfix_t.txt
@@ -30,7 +30,7 @@
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
 [ OK ]   126,254 src/blacklist/crux_judol.txt
-[ OK ]    43,573 src/blacklist/cyberhost_uk_malware.txt
+[ OK ]    43,574 src/blacklist/cyberhost_uk_malware.txt
 [ OK ]     2,697 src/blacklist/disconnect_me_simple_ad.txt
 [ OK ]     2,732 src/blacklist/disconnect_me_simple_malvertising.txt.txt
 [ OK ]       337 src/blacklist/dnstunneling_t.txt
@@ -3129,7 +3129,7 @@
 [ OK ]   848,499 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    74,288 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,847 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       585 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       584 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,287 src/blacklist/validin-phish-feed/validin-phish-feed-1.txt
 [ OK ]    93,355 src/blacklist/validin-phish-feed/validin-phish-feed-2.txt
 [ OK ]   119,056 src/blacklist/validin-phish-feed/validin-phish-feed-3.txt
@@ -3151,20 +3151,20 @@
 [ OK ]    89,020 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 [NOK ]         0 src/blacklist/xRuffKez_tif_domains.txt
 
-Total Blacklist     : 7,949,577
-Filter Duplicates   : 4,276,876
-External Whitelist  : 4,144,107
-Filter Whitelist    : 4,144,028
-Import Blacklist    : 4,144,675
-Compressed          : 3,549,933
+Total Blacklist     : 7,949,576
+Filter Duplicates   : 4,276,878
+External Whitelist  : 4,112,388
+Filter Whitelist    : 4,112,309
+Import Blacklist    : 4,112,956
+Compressed          : 3,529,764
 
    LENGTH     COUNT
-        2 2,775,235
-        3   609,046
-        4   134,828
-        5    27,286
-        6     2,793
-        7       574
+        2 2,749,454
+        3   614,669
+        4   134,784
+        5    27,301
+        6     2,807
+        7       578
         8       102
         9        38
        10        10
@@ -3177,7 +3177,7 @@ Compressed          : 3,549,933
        18         5
        19         1
 
-Total Blocklist     : 3,549,933
+Total Blocklist     : 3,529,764
 
 ~~~
 
