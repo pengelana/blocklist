@@ -6272,3 +6272,7 @@ top##body > center + .A + .post
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/233853
 ||karedeutschland.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/33380
+||daskljtitaskastvv.pro^$all,reason=malicious
+||beroniw.com^$all,reason=malicious
