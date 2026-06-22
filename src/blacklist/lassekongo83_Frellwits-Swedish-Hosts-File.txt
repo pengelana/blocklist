@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-06-01 10:43:37 CEST
-# entries:        1152
+# last updated:   2026-06-22 05:58:25 CEST
+# entries:        1153
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -367,6 +367,7 @@
 127.0.0.1 collector-pxrf8vapwa.px-cloud.net
 127.0.0.1 collect-metrics.aquro.com
 127.0.0.1 comeonconnect-api.omarsys.com
+127.0.0.1 commercial-cms-prod.aller.se
 127.0.0.1 connectad.io
 127.0.0.1 connectio.s3.amazonaws.com
 127.0.0.1 content.adten.eu
