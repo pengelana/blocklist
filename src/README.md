@@ -23,7 +23,7 @@
 [ OK ]     8,140 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,786 src/blacklist/StevenBlack_hosts.txt
 [ OK ]    82,752 src/blacklist/StevenBlack_master_hosts.txt
-[ OK ]    43,566 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    43,562 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   203,556 src/blacklist/badmojr_1Hosts_Lite_domains.txt
 [ OK ]     1,746 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]         1 src/blacklist/clickfix_t.txt
@@ -838,7 +838,7 @@
 [ OK ]       141 src/blacklist/maltrail/malware/apt_unc5952.txt
 [NOK ]         0 src/blacklist/maltrail/malware/apt_unc6293.txt
 [ OK ]        26 src/blacklist/maltrail/malware/apt_unc6353.txt
-[ OK ]     7,859 src/blacklist/maltrail/malware/apt_unc6691.txt
+[ OK ]     7,895 src/blacklist/maltrail/malware/apt_unc6691.txt
 [ OK ]         5 src/blacklist/maltrail/malware/apt_unc6692.txt
 [NOK ]         0 src/blacklist/maltrail/malware/apt_unc961.txt
 [ OK ]     1,241 src/blacklist/maltrail/malware/apt_unclassified.txt
@@ -1509,7 +1509,7 @@
 [ OK ]         2 src/blacklist/maltrail/malware/fahis.txt
 [ OK ]         3 src/blacklist/maltrail/malware/fakben.txt
 [ OK ]         3 src/blacklist/maltrail/malware/fakeadobe.txt
-[ OK ]    48,997 src/blacklist/maltrail/malware/fakeapp.txt
+[ OK ]    48,998 src/blacklist/maltrail/malware/fakeapp.txt
 [ OK ]       828 src/blacklist/maltrail/malware/fakeav.txt
 [ OK ]       383 src/blacklist/maltrail/malware/fakebat.txt
 [ OK ]         4 src/blacklist/maltrail/malware/fakeran.txt
@@ -3151,7 +3151,7 @@
 [ OK ]   872,205 src/blacklist/stamparm_maltrail-malware-domains.txt
 [ OK ]    74,536 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     2,850 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       393 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]       394 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,285 src/blacklist/validin-phish-feed/validin-phish-feed-1.txt
 [ OK ]    93,359 src/blacklist/validin-phish-feed/validin-phish-feed-2.txt
 [ OK ]   119,040 src/blacklist/validin-phish-feed/validin-phish-feed-3.txt
@@ -3172,18 +3172,18 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,020 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 8,070,565
-Filter Duplicates   : 4,564,089
-External Whitelist  : 4,393,534
-Filter Whitelist    : 4,393,445
-Import Blacklist    : 4,394,095
-Compressed          : 3,658,184
+Total Blacklist     : 8,070,599
+Filter Duplicates   : 4,564,125
+External Whitelist  : 4,393,570
+Filter Whitelist    : 4,393,480
+Import Blacklist    : 4,394,130
+Compressed          : 3,658,221
 
    LENGTH     COUNT
-        2 2,870,263
-        3   623,988
-        4   137,386
-        5    23,519
+        2 2,870,287
+        3   623,999
+        4   137,387
+        5    23,520
         6     2,326
         7       539
         8        97
@@ -3198,7 +3198,7 @@ Compressed          : 3,658,184
        18         5
        19         1
 
-Total Blocklist     : 3,658,184
+Total Blocklist     : 3,658,221
 
 ~~~
 
