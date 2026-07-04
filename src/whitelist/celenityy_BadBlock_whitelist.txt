@@ -1,5 +1,5 @@
 # Title: ✋ BadBlock - Whitelist (Wildcards no *)
-# Version: 06June2026v1
+# Version: 02July2026v1
 # Expires: 1 hour
 # Description: Unblock the good!
 # Homepage: https://badblock.celenity.dev
@@ -211,6 +211,9 @@ sandbox.itunes.apple.com
 se-edge.itunes-apple.com.akadns.net
 se-edge.itunes.apple.com
 se-edge.itunes.apple.com.edgekey.net
+se2-cdn.itunes-apple.com.akadns.net
+se2.itunes.apple.com
+se2.itunes.apple.com.edgesuite.net
 search-cdn.itunes-apple.com.akadns.net
 search.itunes.apple.com
 sequoia.cdn-apple.com
@@ -263,6 +266,7 @@ wps.apple.com
 wps.v.aaplimg.com
 archive-01.torproject.org
 archive.torproject.org
+artifacts.ironfoxoss.org
 assets.celenity.dev
 assets.ironfoxoss.org
 aus.waterfox.com
@@ -1890,6 +1894,7 @@ aka.ms
 amplitude-studios.us12.list-manage.com
 amzn.eu
 amzn.to
+apkudo.navattic.com
 apple.news
 autolinkmaker.itunes.apple.com
 awstrack.me
@@ -1922,6 +1927,7 @@ click.victoriassecret.com
 click.virt.s4.exacttarget.com
 clicks.cameo.com
 clicks.cameo.com.cdn.cloudflare.net
+clicks.eventbrite.com
 clicks.mozilla.org
 cmail19.com
 cname.createsend.com
@@ -3368,6 +3374,7 @@ ams-analytics-usr01.controld.com
 analytics.hatenadiary.com
 api.mynt.xyz
 api.radar.io
+app.growave.io
 aramark.co1.qualtrics.com
 ardownload.adobe.com
 ardownload.adobe.com.edgesuite.net
@@ -3443,6 +3450,7 @@ colab.research.google.com
 collection.sciencemuseumgroup.org.uk
 collector-otp-prod.camsys-apps.com
 collector-otp-qa.camsys-apps.com
+collector.se
 community-comcastxfinity.sprinklr.com
 community.qualtrics.com
 consent.google.ac
@@ -3714,6 +3722,7 @@ download.oracle.com
 download.oracle.com.edgekey.net
 downloads.plex.tv
 ds-edelivery.oracle.com.edgekey.net
+eardance.earjoy.cn
 eba.eset.com
 eba.gtm.eset.com
 ecp.eset.systems
@@ -3938,6 +3947,7 @@ omt.garmin.com
 omt.garmin.com.cdn.cloudflare.net
 open-vsx.org
 openvsxorg.blob.core.windows.net
+order.online
 oshkosh.qualtrics.com
 oshkoshcorporation.qualtrics.com
 ouhsc.qualtrics.com
@@ -3960,6 +3970,7 @@ protonapps.com
 proxy-detection.eset.com
 qau1.au1.qualtrics.com
 qmulbusiness.eu.qualtrics.com
+qrcodes.pro
 quoting.devolutions.com
 r.edtd.eset.com
 racgp.au1.qualtrics.com
@@ -3997,6 +4008,7 @@ snu.lge.com
 socialize.gigya.com.edgekey.net
 ssl-download.adobe.com.edgekey.net
 stat.columbia.edu
+static.growave.io
 statistics.kavakci.dev
 stats.labs.apnic.net
 steamcdn-a.akamaihd.net
@@ -4084,6 +4096,7 @@ wvu.qualtrics.com
 www.alipayplus.com
 www.asuswrt-merlin.net
 www.cmswire.com
+www.collector.se
 www.hugedomains.com
 www.mynt.xyz
 www.newsbreak.com

@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-07-02 05:43:28 CEST
-# entries:        1154
+# last updated:   2026-07-03 07:08:23 CEST
+# entries:        1149
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -37,7 +37,6 @@
 127.0.0.1 adhost.se
 127.0.0.1 adnami.io
 127.0.0.1 adnami2.io
-127.0.0.1 adncdnend.azureedge.net
 127.0.0.1 adnuntius.com
 127.0.0.1 adonstudio.com
 127.0.0.1 adpeepshosted.com
@@ -333,7 +332,6 @@
 127.0.0.1 cdn.pushmaster-cdn.xyz
 127.0.0.1 cdn.relevant-digital.com
 127.0.0.1 cdn.stat-track.com
-127.0.0.1 cdn.vip-hd-movies.xyz
 127.0.0.1 cdn.zx-adnet.com
 127.0.0.1 cdp-eu.customer.io
 127.0.0.1 ce15487c31ed84e82d0694948a8889f7e3b1685d54.nuid.imrworldwide.com
@@ -413,7 +411,6 @@
 127.0.0.1 di.insplanet.com
 127.0.0.1 digidip.net
 127.0.0.1 digitalaudience.io
-127.0.0.1 digitalfeedback.euro.confirmit.com
 127.0.0.1 digitaliseringsinitiativet.se
 127.0.0.1 dinapengar.compricer.se
 127.0.0.1 dl.episerver.net
@@ -599,7 +596,6 @@
 127.0.0.1 logs.spilgames.com
 127.0.0.1 logx.optimizely.com
 127.0.0.1 log-api.newrelic.com
-127.0.0.1 longchampstockholm.com.se
 127.0.0.1 look.ufinkln.com
 127.0.0.1 ls.dycdn.net
 127.0.0.1 lwadm.com
@@ -887,7 +883,6 @@
 127.0.0.1 sync.richaudience.com
 127.0.0.1 synchrobox.adswizz.com
 127.0.0.1 sync.3fmediagroup.com
-127.0.0.1 system-notify.app
 127.0.0.1 s-eu-1.pushpushgo.com
 127.0.0.1 s.go-mpulse.net
 127.0.0.1 s.vi-serve.com
