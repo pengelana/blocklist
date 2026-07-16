@@ -2487,6 +2487,7 @@ cracksmid.com##div[style=""] > center > center
 /^https:\/\/[a-z]{5,20}-[0-9a-z]{16}\.z03\.azurefd\.net\/[0-9A-Za-z]+0[0-9A-Za-z]+\/index\.html/$doc,match-case,domain=z03.azurefd.net
 ||azurefd.net/?bcda=$doc
 ?Kuph=1-$doc
+||web.core.windows.net/?111=$doc
 !://main.d*.amplifyapp.com/?$doc
 ||ondigitalocean.app/Win0codejInfouycinfcode/$doc
 ondigitalocean.app##body#mycanvas.map[style="cursor:none"]
@@ -2622,6 +2623,7 @@ z13.web.core.windows.net##+js(aeld, DOMContentLoaded, fullscreenEnabled)
 /api.php?s=*&_v=$script
 /api.php?k=*&d=$xhr,redirect=noop.txt
 ||authorization-cdn-press-enter.info^
+||auth-code-verif.beer^
 monster###bw-rc-host[style="position: fixed !important; inset: 0px !important; z-index: 2147483647 !important;"]
 .monster/index*.php?flow_id=$doc
 
@@ -6293,8 +6295,11 @@ top##body > center + .A + .post
 ||invite-track.click^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/33444
-||ledger-lives-desktop.io^$all
+! https://github.com/uBlockOrigin/uAssets/issues/33711
+||com-softwares.com^$all
+||ledger-live*-*.io^$all
 ||legder.*.us.com^$all
+||ledgertp.com^$all
 /\/checking\.php\?t=[a-zA-Z0-9%]+$/$doc,match-case
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/234669

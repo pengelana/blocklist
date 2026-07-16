@@ -4,10 +4,10 @@
 # Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam 
 # campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.
 # 
-# Total Domains: 1602
+# Total Domains: 1605
 # Total Emails: 211
-# Total IPs: 322045
-# Last Update: 260708T081629+0200
+# Total IPs: 322067
+# Last Update: 260716T083537+0200
 # 
 # Project website: https://github.com/marco-acorte/antispam-it/ 
 # 
@@ -16,6 +16,9 @@
 # This work is licensed under a GNU General Public License v3.0.
 # ======================================================================================================
 
+0.0.0.0    boysmells.com
+0.0.0.0    blockhaus-news.com
+0.0.0.0    theblockhaus.io
 0.0.0.0    school-of-rock.de
 0.0.0.0    waelderakademie.de
 0.0.0.0    starclub-zittau.de
