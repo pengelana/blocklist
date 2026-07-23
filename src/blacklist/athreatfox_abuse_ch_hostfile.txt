@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-07-23 17:29:43 UTC                        #
+# Last updated: 2026-07-23 17:44:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	moss1logicgate.stigmaflowlink.garden
+127.0.0.1	richpathgate.chromacorebit.garden
 127.0.0.1	fadesyncbox.chromacorebit.garden
 127.0.0.1	hue3meshway.chromacorebit.garden
 127.0.0.1	tint6logicnet.chromacorebit.garden
@@ -45833,4 +45835,4 @@
 127.0.0.1	lmn990112-54741.portmap.host
 127.0.0.1	luvxc1de.duckdns.org
 127.0.0.1	hl2k-32291.portmap.host
-# Number of entries: 45827
+# Number of entries: 45829
