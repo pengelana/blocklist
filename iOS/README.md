@@ -6,7 +6,7 @@
 | -- | ---------------------------------- | -----                                   | ----------------------------------------------------------------- |
 | 1  | bye.ad _(prefer)_                    | DNS over HTTPS/HTTP3                    | [download](https://tiar.app/c/doh-bye.ad-signed.mobileconfig)     |
 | 2  | bye.ad                             | DNS over TLS                            | [download](https://tiar.app/c/dot-bye.ad-signed.mobileconfig)     |
-| 3 | doh.tiarap.org-signed.mobileconfig  | DoH/DoH3 - Encrypted Client Hello (ECH) | [download](https://tiar.app/c/doh-tiarap.org-signed.mobileconfig) |
+| 3  | tiarap.org                         | DoH/DoH3 - Encrypted Client Hello (ECH) | [download](https://tiar.app/c/doh-tiarap.org-signed.mobileconfig) |
 <!---
 | 1  | doh-bye.ad-signed.mobileconfig     | DNS over HTTPS/HTTP3                    | [download](https://tiar.app/c/doh-bye.ad-signed.mobileconfig)     |
 | 2  | dot-bye.ad-signed.mobileconfig     | DNS over TLS                            | [download](https://tiar.app/c/dot-bye.ad-signed.mobileconfig)     |
