@@ -1,5 +1,5 @@
 # Source: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
-# Updated: 2026-07-25T21:00:03+00:00
+# Updated: 2026-07-26T21:00:37+00:00
 
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 79423.analytics.edgekey.net
@@ -25,6 +25,7 @@ arc.msn.com
 asadcdn.com
 assets.adobedtm.com
 attestation.xboxlive.com
+auth.split.io
 b-api.facebook.com
 b-graph.facebook.com
 bigzipfiles.facebook.com
@@ -185,6 +186,7 @@ scontent-ort2-1.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
 script.ioam.de
+sdk.split.io
 services.sonarr.tv
 settings-win.data.microsoft.com
 signal.org
