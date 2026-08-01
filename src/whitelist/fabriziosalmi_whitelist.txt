@@ -1,31 +1,49 @@
+# Domains removed from the published blacklist.
+#
+# This file is the last thing between an upstream mistake and a user's broken
+# machine. It has earned that: it caught amazonaws.com, gravatar.com, vk.com and
+# t.co when a parser change started turning Adblock rule-cancellations into
+# blocks.
+#
+# Most entries match nothing on a given day. That means dormant, not useless: an
+# entry does its job on the day an upstream list starts publishing that domain.
+# Nothing here is pruned for being quiet.
+#
+# Format: one domain per line. Everything after '#' is a comment.
+# The dated notes were recorded by scripts/whitelist_report.py and are a snapshot
+# of which source the entry was holding back on that date, not a live claim.
+#
+# To see the current picture:  python3 scripts/whitelist_report.py
+# To propose an addition:      https://github.com/fabriziosalmi/blacklists/issues/new/choose
+
 17track.net
 1drv.com
-1fichier.com
+1fichier.com  # 2026-07-31: blocked by Anti-Piracy
 1und1.de
 2.android.pool.ntp.org
 2shared.com
 330046.group46.sites.hubspot.net
 330046g46.secure0032.hubspot.net
 3bmeteo.com
-4shared.com
+4shared.com  # 2026-07-31: blocked by Anti-Piracy
 56.com
 70i.net
-a.klaviyo.com
+a.klaviyo.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate, Ads and tracking extended
 a0.client-channel.google.com
 a1014.g.akamai.net
-a1843.g.akamai.net
-aax-eu.amazon.es
-aax-eu.amazon.it
-ab13.mktossl.com
+a1843.g.akamai.net  # 2026-07-31: blocked by 1Hosts (Lite)
+aax-eu.amazon.es  # 2026-07-31: blocked by ShadowWhisperer Ads, Ultimate, UT1 publicite
+aax-eu.amazon.it  # 2026-07-31: blocked by ShadowWhisperer Ads, Ultimate, UT1 publicite
+ab13.mktossl.com  # 2026-07-31: blocked by Tracking aggressive extended
 abajournal.com
 abc.com
 abc.net.au
 abcnews.go.com
-abeagle-public.buzzfeed.com
+abeagle-public.buzzfeed.com  # 2026-07-31: blocked by ShadowWhisperer Ads, Ads and tracking extended
 ablink.account.quizlet.com
 about.gitea.com
 about.me
-above.com
+above.com  # 2026-07-31: blocked by blocklist-domains, hostsVN adservers, hostsVN domains
 abpvn.com
 abuelos.com
 abuse.ch
@@ -40,14 +58,14 @@ accuweather.com
 acehardware.com
 aclu.org
 acquistionline.poste.it
-acr0.samsungcloudsolution.com
+acr0.samsungcloudsolution.com  # 2026-07-31: blocked by Ultimate
 acsechocaptiveportal.com
 activation.gfe.nvidia.com
 activecampaign.com
 activehosted.com
-activity.windows.com
+activity.windows.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate, Ads and tracking extended
 ad-magazin.de
-ad.nl
+ad.nl  # 2026-07-31: blocked by ShadowWhisperer Ads
 adaway.github.io
 adaway.org
 adblock.ee
@@ -66,10 +84,10 @@ adobe.com
 adobe.io
 adp.com
 advanceautoparts.com
-adwords.google.com
+adwords.google.com  # 2026-07-31: blocked by ShadowWhisperer Ads, Ultimate
 aeotec.com
 affaritaliani.it
-afs.googleusercontent.com
+afs.googleusercontent.com  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate
 afternic.com
 agenziaentrate.gov.it
 agoda.com
@@ -77,10 +95,10 @@ airbnb.co.uk
 airbnb.com
 aisp.tech26.de
 ajax.aspnetcdn.com
-ajax.cloudflare.com
+ajax.cloudflare.com  # 2026-07-31: blocked by Ad-Block HOSTS
 ajax.googleapis.com
 aka.ms
-akamai-san24.exacttarget.com.edgekey.net
+akamai-san24.exacttarget.com.edgekey.net  # 2026-07-31: blocked by Ads and tracking extended
 akamai.com
 albert.apple.com
 alexa.com
@@ -90,7 +108,7 @@ allegro.pl
 alternativeto.net
 alvarotrigo.com
 amazon.com
-amazonaws.com
+amazonaws.com  # 2026-07-31: blocked by uBO badware risks, Anti-Malware List (AdGuard Home)
 amazonvideo.com
 amd.com
 americanexpress.com
@@ -100,10 +118,10 @@ amp-api-edge.apps.apple.com
 amp-api-prd.bostonglobe.com
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
-amplitude.com
+amplitude.com  # 2026-07-31: blocked by blocklist-domains, NoTrack blocklist, ShadowWhisperer Tracking +3 more
 android.clients.google.com
 androidforums.com
-anime-loads.org
+anime-loads.org  # 2026-07-31: blocked by Anti-Piracy
 ansa.it
 ansible.com
 answers.com
@@ -111,14 +129,14 @@ answers.unity.com
 ap.spotify.com
 apache.org
 api-global.netflix.com
-api-iam.intercom.io
-api-unionid.meituan.com
+api-iam.intercom.io  # 2026-07-31: blocked by Tracking aggressive extended
+api-unionid.meituan.com  # 2026-07-31: blocked by 1Hosts (Lite)
 api-v4.trbo.com
 api.accuweather.com
 api.bufferapp.com
 api.chip-secured-download.de
-api.intercom.io
-api.ipify.org
+api.intercom.io  # 2026-07-31: blocked by Tracking aggressive extended
+api.ipify.org  # 2026-07-31: blocked by Ultimate, Tracking aggressive extended
 api.opinary.com
 api.passwordreset.microsoftonline.com
 api.revenuecat.com
@@ -127,7 +145,7 @@ api.tech26.de
 apis.google.com
 apis.live.net
 app-api.ted.com
-app.blackkitetech.com
+app.blackkitetech.com  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate
 app.crowdsec.net
 app.diagrams.net
 app.netdata.cloud
@@ -145,7 +163,7 @@ apresolve.spotify.com
 apt.sonarr.tv
 apu.edu.my
 aranzulla.it
-arc.msn.com
+arc.msn.com  # 2026-07-31: blocked by ShadowWhisperer Ads, Ultimate
 archive.icann.org
 archive.org
 areariservata.healthassistance.it
@@ -155,26 +173,26 @@ asana.com
 asics.com
 askubuntu.com
 asos.com
-assets.activity.windows.com
-assets.adobedtm.com
+assets.activity.windows.com  # 2026-07-31: blocked by Ultimate, Ads and tracking extended
+assets.adobedtm.com  # 2026-07-31: blocked by Ads and tracking extended, Tracking aggressive extended
 assets.alicdn.com
 assets.dwell.com
 assets.minutemediacdn.com
 assets.mmsrg.com
 assets.realclear.com
-asuracomic.net
+asuracomic.net  # 2026-07-31: blocked by UT1 malware
 asylumadvocacy.org
 atlassian.com
 atsn.ac.th
 atv-ext.amazon.com
 atv-ps.amazon.com
 audible.com
-audid-api.taobao.com
+audid-api.taobao.com  # 2026-07-31: blocked by hostsVN adservers, hostsVN domains, AdGuard DNS filter
 audio-ake.spotify.com.edgesuite.net
 audio4-ak.spotify.com.edgesuite.net
 audiolibri.org
 auth.native-instruments.com
-auto.netdirector.co.uk
+auto.netdirector.co.uk  # 2026-07-31: blocked by NoTrack blocklist
 autodesk.com
 autologon.microsoftazuread-sso.com
 autoscout24.it
@@ -189,7 +207,7 @@ ax.init.itunes.apple.com
 ax.itunes.apple.com
 ax.phobos.apple.com.edgesuite.net
 azure.microsoft.com
-b.stats.paypal.com
+b.stats.paypal.com  # 2026-07-31: blocked by blocklist-domains, hostsVN domains, Ultimate +1 more
 backblaze.com
 badmojr.github.io
 baihe.com
@@ -210,7 +228,7 @@ beneficiari.edenred.it
 bentasker.co.uk
 berkeley.edu
 bestbuy.com
-bestgore.fun
+bestgore.fun  # 2026-07-31: blocked by blocklist-domains
 betanews.com
 bgr.com
 bialystok.tvp.pl
@@ -220,15 +238,15 @@ billiger.de
 bing.net
 bit.ly
 bitbucket.org
-bitcanna.io
-blackkite.com
-blackkitetech.com
+bitcanna.io  # 2026-07-31: blocked by UT1 cryptojacking
+blackkite.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), Ultimate
+blackkitetech.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), Ultimate
 bleacherreport.com
 blocklist.kowabit.de
 blog.disqus.com
 blogger.com
-blogroll.livedoor.net
-blogspot.com
+blogroll.livedoor.net  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate
+blogspot.com  # 2026-07-31: blocked by blocklist-domains
 bloomberg.com
 bluehost.com
 board.jdownloader.org
@@ -246,63 +264,63 @@ brakrock.be
 breitbart.com
 brightcove.map.fastly.net
 britannica.com
-browser.events.data.microsoft.com
-browser.pipe.aria.microsoft.com
+browser.events.data.microsoft.com  # 2026-07-31: blocked by Ultimate, Ads and tracking extended
+browser.pipe.aria.microsoft.com  # 2026-07-31: blocked by NoTrack blocklist, StevenBlack hosts (base), 1Hosts (Lite) +3 more
 browserhow.com
-bufferapp.com
+bufferapp.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
 builtwith.com
 businessfinder.nj.com
 businessinsider.com
 buzzfeed.com
 bydgoszcz.tvp.pl
-c-ctrip.com
-c.apple.com
-c.bing.com
+c-ctrip.com  # 2026-07-31: blocked by NoTrack blocklist
+c.apple.com  # 2026-07-31: blocked by blocklist-domains, UT1 publicite
+c.bing.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), hostsVN adservers +3 more
 c.disquscdn.com
-c.msn.com
+c.msn.com  # 2026-07-31: blocked by NoTrack blocklist, ShadowWhisperer Tracking, AdGuard DNS filter +2 more
 c.paypal.com
 c.s-microsoft.com
 ca-lb.ultimedia.com
 calciomercato.com
 camera.it
 campaignmanager.netdirector.co.uk
-capi.connatix.com
+capi.connatix.com  # 2026-07-31: blocked by hostsVN domains, EasyPrivacy, Ads and tracking extended
 captive.apple.com
 car.saturn.de
 cart.cloud.it
 cassaprevipmba.webmutua.com
 catch.net.tw
-cbsi.com
-cbsinteractive.hb.omtrdc.net
+cbsi.com  # 2026-07-31: blocked by blocklist-domains, UT1 publicite, Ads and tracking extended
+cbsinteractive.hb.omtrdc.net  # 2026-07-31: blocked by First-party trackers, Multi-party trackers, 1Hosts (Lite) +1 more
 cbslocal.com
 cbsnews.com
 ccf.admeen.org
 ccleaner.com
 ccs.login.microsoftonline.com
 cd-dmgz.bamgrid.com
-cd.connatix.com
-cda.pl
+cd.connatix.com  # 2026-07-31: blocked by hostsVN domains, Ads and tracking extended
+cda.pl  # 2026-07-31: blocked by blocklist-domains
 cdc.gov
 cdn-kaltura-dscd.edgekey.net
 cdn.bitmovin.com
-cdn.cookielaw.org
+cdn.cookielaw.org  # 2026-07-31: blocked by StevenBlack hosts (base)
 cdn.datatables.net
-cdn.discordapp.com
+cdn.discordapp.com  # 2026-07-31: blocked by uBO badware risks
 cdn.edgesuite.net
 cdn.elev.io
 cdn.embedly.com
 cdn.fluidplayer.com
 cdn.fontawesome.com
-cdn.jsdelivr.net
+cdn.jsdelivr.net  # 2026-07-31: blocked by uBO badware risks
 cdn.jwplayer.com
-cdn.mediavoice.com
+cdn.mediavoice.com  # 2026-07-31: blocked by 1Hosts (Lite), Ads and tracking extended
 cdn.onenote.net
-cdn.opecloud.com
-cdn.optimizely.com
+cdn.opecloud.com  # 2026-07-31: blocked by Ultimate
+cdn.optimizely.com  # 2026-07-31: blocked by Ultimate, Ads and tracking extended
 cdn.otstatic.com
 cdn.phishtank.com
 cdn.plyr.io
-cdn.privacy-mgmt.com
+cdn.privacy-mgmt.com  # 2026-07-31: blocked by Tracking aggressive extended
 cdn.radiantmediatechs.com
 cdn.rawgit.com
 cdn.rebuyengine.com
@@ -317,32 +335,32 @@ cdn1-s-ha-e17t.mdhcdn.com
 cdn1-s-ha-e18.mdhcdn.com
 cdn1.hubspot.net
 cdn2.hubspot.net
-cdn2.optimizely.com
-cdn3.optimizely.com
+cdn2.optimizely.com  # 2026-07-31: blocked by Ads and tracking extended
+cdn3.optimizely.com  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate, Ads and tracking extended
 cdnapisec.kaltura.com
 cdnbunny.org
 cdnjs.cloudflare.co
 cdnjs.cloudflare.com
-cdns.gigya.com
-cdp.cloud.unity3d.com
-cds.connatix.com
+cdns.gigya.com  # 2026-07-31: blocked by Tracking aggressive extended
+cdp.cloud.unity3d.com  # 2026-07-31: blocked by Ad-Block HOSTS, NoTrack blocklist, ShadowWhisperer Tracking +5 more
+cds.connatix.com  # 2026-07-31: blocked by hostsVN domains, Ads and tracking extended
 cdws.eu-west-1.amazonaws.com
 cert.mgt.xboxlive.com
-cf.iadsdk.apple.com
+cf.iadsdk.apple.com  # 2026-07-31: blocked by NoTrack blocklist, 1Hosts (Lite), hostsVN domains +2 more
 cfvod.kaltura.com
 chase.com
 chicago.cbslocal.com
 china-gadgets.de
 chip.com.tr
 chnu.edu.ua
-chomikuj.pl
+chomikuj.pl  # 2026-07-31: blocked by blocklist-domains, Anti-Piracy
 chrome.google.com
-cint.com
+cint.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), hostsVN adservers +1 more
 cisco.com
 classmates.com
-cldup.com
-click.cptrack.de
-click.discord.com
+cldup.com  # 2026-07-31: blocked by blocklist-domains
+click.cptrack.de  # 2026-07-31: blocked by 1Hosts (Lite), UT1 publicite
+click.discord.com  # 2026-07-31: blocked by blocklist-domains, UT1 publicite
 click.e.change.org
 client.dropbox.com
 clientconfig.passport.net
@@ -355,8 +373,9 @@ clients5.google.com
 clients6.google.com
 clientservices.googleapis.com
 cloud-news.ionos.com
+cloudflare-dns.com  # 2026-07-31: blocked by Tracking aggressive extended
 cloudflare.com
-cmp.tvspielfilm.de
+cmp.tvspielfilm.de  # 2026-07-31: blocked by ShadowWhisperer Tracking
 cname.vercel-dns.com
 cnbc.com
 cnn.com
@@ -373,8 +392,8 @@ codemasters.helpshift.com
 codeorigin.jquery.com
 codepen.io
 coininsider.com
-collector.lightstep.com
-collegehumor.com
+collector.lightstep.com  # 2026-07-31: blocked by Ads and tracking extended
+collegehumor.com  # 2026-07-31: blocked by blocklist-domains
 columbia.com
 columbia.edu
 commondatastorage.googleapis.com
@@ -389,19 +408,19 @@ comune.palermo.it
 comune.roma.it
 comune.torino.it
 config-vvs.glomex.com
-config.uca.cloud.unity3d.com
-connect.facebook.com
-connect.facebook.net
+config.uca.cloud.unity3d.com  # 2026-07-31: blocked by NoTrack blocklist, ShadowWhisperer Tracking, StevenBlack hosts (base) +4 more
+connect.facebook.com  # 2026-07-31: blocked by Ultimate
+connect.facebook.net  # 2026-07-31: blocked by Ultimate
 connectivitycheck.gstatic.com
 consent.dk
-consent.faz.net
+consent.faz.net  # 2026-07-31: blocked by ShadowWhisperer Tracking
 console.cloud.google.com
 content-media.bonial.biz
-content.aimatch.com
+content.aimatch.com  # 2026-07-31: blocked by blocklist-domains, 1Hosts (Lite), Ultimate
 content.cptrack.de
-content.ibanking-services.com
+content.ibanking-services.com  # 2026-07-31: blocked by Multi-party only trackers, Multi-party trackers
 content.jwplatform.com
-continuum.dds.microsoft.com
+continuum.dds.microsoft.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Tracking aggressive extended
 corriere.it
 corrieredellosport.it
 corteidh.or.cr
@@ -413,24 +432,24 @@ cracovia.pl
 crateandbarrel.com
 crsreports.congress.gov
 crunchbase.com
-cs.dds.microsoft.com
+cs.dds.microsoft.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ads and tracking extended
 cs.liiift.io
 cse.google.com
-cstat.apple.com
-ct.pinterest.com
+cstat.apple.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate, Ads and tracking extended
+ct.pinterest.com  # 2026-07-31: blocked by NoTrack blocklist, ShadowWhisperer Tracking, 1Hosts (Lite) +5 more
 ctldl.windowsupdate.com
 customerarea.aruba.it
 cvs.com
-cws-iad1.conviva.com
-cws-sjc2.conviva.com
-cws.conviva.com
+cws-iad1.conviva.com  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate, Ads and tracking extended
+cws-sjc2.conviva.com  # 2026-07-31: blocked by Ads and tracking extended
+cws.conviva.com  # 2026-07-31: blocked by StevenBlack hosts (base), 1Hosts (Lite), hostsVN adservers +4 more
 cyclingnews.it
 d.ifengimg.com
 d231vab146qzfb.cloudfront.net
-d25xi40x97liuc.cloudfront.net
+d25xi40x97liuc.cloudfront.net  # 2026-07-31: blocked by 1Hosts (Lite)
 d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
-d3tracking.rbc.com
+d3tracking.rbc.com  # 2026-07-31: blocked by Multi-party only trackers, Multi-party trackers
 dailycaller.com
 dailymail.co.uk
 dailymotion.com
@@ -438,9 +457,9 @@ dan.com
 daserste.de
 dash.cloudflare.com
 dash.infinityfree.com
-data-191b2429e8.rtl.de
+data-191b2429e8.rtl.de  # 2026-07-31: blocked by AdGuard DNS filter
 data.iana.org
-datafilehost.com
+datafilehost.com  # 2026-07-31: blocked by Anti-Piracy
 dataplicity.com
 datatables.net
 datei.to
@@ -449,10 +468,10 @@ dazn.com
 db.local.clamav.net
 dbl.oisd.nl
 dblmobile.oisd.nl
-dc.services.visualstudio.com
-dcf.espn.com
-dcfdata.espn.com
-dd.tidal.com
+dc.services.visualstudio.com  # 2026-07-31: blocked by NoTrack blocklist, Multi-party only trackers, Multi-party trackers +4 more
+dcf.espn.com  # 2026-07-31: blocked by AdGuard DNS filter
+dcfdata.espn.com  # 2026-07-31: blocked by AdGuard DNS filter
+dd.tidal.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
 dd.tidal.com.first-party-js.datadome.co
 de.aukey.com
 de.dhgate.com
@@ -474,12 +493,12 @@ detectportal.firefox.com
 dev.botframework.com
 dev.virtualearth.net
 developers.google.com
-device-api.urbanairship.com
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
+device-api.urbanairship.com  # 2026-07-31: blocked by StevenBlack hosts (base), Ultimate, Ads and tracking extended
+device-metrics-us-2.amazon.com  # 2026-07-31: blocked by NoTrack blocklist, ShadowWhisperer Tracking, StevenBlack hosts (base) +6 more
+device-metrics-us.amazon.com  # 2026-07-31: blocked by NoTrack blocklist, ShadowWhisperer Tracking, StevenBlack hosts (base) +6 more
 device-provisioning.googleapis.com
 device.auth.xboxlive.com
-devices.carnivalmobile.com
+devices.carnivalmobile.com  # 2026-07-31: blocked by Ultimate, Ads and tracking extended
 dhl.com
 di-wuhqj6gc.leasewebultracdn.com
 di.com.pl
@@ -500,17 +519,17 @@ discordstatus.com
 discovermagazine.com
 disney-portal.my.onetrust.com
 disney.com
-disney.demdex.net
-disneyholidays.fr
-disneyplus.bn5x.net
+disney.demdex.net  # 2026-07-31: blocked by Multi-party trackers, 1Hosts (Lite), Ultimate +1 more
+disneyholidays.fr  # 2026-07-31: blocked by blocklist-domains, Ultimate, UT1 malware
+disneyplus.bn5x.net  # 2026-07-31: blocked by UT1 publicite
 disneyplus.com
-disneyplus.com.ssl.sc.omtrdc.net
+disneyplus.com.ssl.sc.omtrdc.net  # 2026-07-31: blocked by Ultimate, Ads and tracking extended
 displaycatalog.mp.microsoft.com
 disqus.com
 dl.delivery.mp.microsoft.com
 dl.dropbox.com
 dl.dropboxusercontent.com
-dl.free.fr
+dl.free.fr  # 2026-07-31: blocked by Anti-Piracy
 dlvr.it
 dmqdd6hw24ucf.cloudfront.net
 dn.se
@@ -529,13 +548,13 @@ doodle.com
 download.cnet.com
 download.sonarr.tv
 dp-gw-na.amazon.com
-dpm.demdex.net
-drift.com
-driftt.com
+dpm.demdex.net  # 2026-07-31: blocked by Multi-party trackers, hostsVN domains, Ultimate +1 more
+drift.com  # 2026-07-31: blocked by NoTrack blocklist, Tracking aggressive extended
+driftt.com  # 2026-07-31: blocked by NoTrack blocklist, Ultimate, AdGuard DNS filter +1 more
 drive.google.com
-dropbox.com
+dropbox.com  # 2026-07-31: blocked by uBO badware risks
 dss.map.fastly.net
-dtioykqj1u8de.cloudfront.net
+dtioykqj1u8de.cloudfront.net  # 2026-07-31: blocked by uBO badware risks, Ultimate
 dualstack.brightcove.map.fastly.net
 duckduckgo.com
 duolingo.com
@@ -543,7 +562,7 @@ dvf2rc3rx4ypk.cloudfront.net
 dyndns.variomedia.de
 dynu.net
 dynupdate.no-ip.com
-e.reddit.com
+e.reddit.com  # 2026-07-31: blocked by NoTrack blocklist, Ultimate
 e12563.a.akamaiedge.net
 e3489.cd.akamaiedge.net
 e673.dscx.akamaiedge.net
@@ -551,22 +570,22 @@ ea.com
 easylist-downloads.adblockplus.org
 ebay.co.uk
 ebay.com
-ec-ns.sascdn.com
+ec-ns.sascdn.com  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate, Ads and tracking extended
 ecchr.eu
 ecn.dev.virtualearth.net
-ecommerce.iap.unity3d.com
+ecommerce.iap.unity3d.com  # 2026-07-31: blocked by ShadowWhisperer Ads, 1Hosts (Lite), Ultimate
 economist.com
 ecosia.de
 ecosia.org
-edge-irl1.demdex.net
+edge-irl1.demdex.net  # 2026-07-31: blocked by Ultimate, Ads and tracking extended
 edge-weighted.api.brightcove.com
 edge.api.brightcove.com
 eds.xboxlive.com
 edx.org
 eff.org
-ekomi.com
+ekomi.com  # 2026-07-31: blocked by NoTrack blocklist
 elsevier.com
-email-link.adtidy.org
+email-link.adtidy.org  # 2026-07-31: blocked by blocklist-domains
 embed.dugout.com
 embed.flowplayer.org
 en.bab.la
@@ -579,11 +598,11 @@ entrepreneur.com
 eonline.com
 epic.org
 equalitynow.org
-ero-labs.online
+ero-labs.online  # 2026-07-31: blocked by blocklist-domains
 espn.com
 espn.go.com
 esteri.it
-et.tidal.com
+et.tidal.com  # 2026-07-31: blocked by EasyPrivacy
 eterna.de
 eu-central-1.console.aws.amazon.com
 eu-north-1.console.aws.amazon.com
@@ -614,19 +633,19 @@ faz.sevenval-fit.com
 fda.gov
 fe-lb.tranquilli.org
 federugby.it
-feedbackws.icloud.com
-feedburner.google.com
+feedbackws.icloud.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), Ultimate +2 more
+feedburner.google.com  # 2026-07-31: blocked by ShadowWhisperer Ads, Ultimate, Ultimate Hosts Blacklist (domains2)
 feedly.com
 feedproxy.google.com
 feeds2.feedburner.com
-festyy.com
+festyy.com  # 2026-07-31: blocked by Ultimate, oisd small
 fiddle.jshell.net
 fidh.org
 fif.com
-filefactory.com
+filefactory.com  # 2026-07-31: blocked by blocklist-domains, Anti-Piracy
 files.im
 filesmonster.com
-filmweb.pl
+filmweb.pl  # 2026-07-31: blocked by blocklist-domains
 filmyhd.net
 filters.adtidy.org
 finanziamenti.agosweb.it
@@ -636,27 +655,27 @@ firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks.googleapis.com
 firebaseinappmessaging.googleapis.com
 firebaseinstallations.googleapis.com
-firebasestorage.googleapis.com
-fls-eu.amazon.ae
-fls-eu.amazon.co.uk
-fls-eu.amazon.com
-fls-eu.amazon.de
-fls-eu.amazon.es
-fls-eu.amazon.fr
-fls-eu.amazon.in
-fls-eu.amazon.it
-fls-eu.amazon.nl
-fls-eu.amazon.sa
-fls-eu.amazon.se
-fls-fe.amazon.co.jp
-fls-fe.amazon.com
-fls-fe.amazon.com.au
-fls-fe.amazon.sg
-fls-na.amazon.ca
-fls-na.amazon.com
-fls-na.amazon.com.br
-fls-na.amazon.com.mx
-flvto.biz
+firebasestorage.googleapis.com  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2)
+fls-eu.amazon.ae  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
+fls-eu.amazon.co.uk  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), Ultimate
+fls-eu.amazon.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), Ultimate +1 more
+fls-eu.amazon.de  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), Ultimate
+fls-eu.amazon.es  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
+fls-eu.amazon.fr  # 2026-07-31: blocked by Ultimate
+fls-eu.amazon.in  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), Ultimate
+fls-eu.amazon.it  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
+fls-eu.amazon.nl  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), Ultimate
+fls-eu.amazon.sa  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
+fls-eu.amazon.se  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
+fls-fe.amazon.co.jp  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), Ultimate
+fls-fe.amazon.com  # 2026-07-31: blocked by Ultimate, Ultimate Hosts Blacklist (domains2)
+fls-fe.amazon.com.au  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
+fls-fe.amazon.sg  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
+fls-na.amazon.ca  # 2026-07-31: blocked by Multi-party only trackers, Multi-party trackers, ShadowWhisperer Tracking +2 more
+fls-na.amazon.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate, Ultimate Hosts Blacklist (domains2) +1 more
+fls-na.amazon.com.br  # 2026-07-31: blocked by Multi-party only trackers, Multi-party trackers, ShadowWhisperer Tracking +1 more
+fls-na.amazon.com.mx  # 2026-07-31: blocked by Multi-party only trackers, Multi-party trackers, ShadowWhisperer Tracking +1 more
+flvto.biz  # 2026-07-31: blocked by ShadowWhisperer Malware
 fm.aruba.it
 fm.tuba.pl
 fonts.google.com
@@ -675,7 +694,7 @@ forum.proxmox.com
 forum.xda-developers.com
 forums.appleinsider.com
 forums.geforce.com
-forums.ilounge.com
+forums.ilounge.com  # 2026-07-31: blocked by Ultimate
 forums.linuxmint.com
 forums.macrumors.com
 forums.mozillazine.org
@@ -684,38 +703,38 @@ forums.sonarr.tv
 forums.techguy.org
 forums.whirlpool.net.au
 foxnews.com
-fp.msedge.net
+fp.msedge.net  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), Ultimate +1 more
 fr-lb.ultimedia.com
 freebsd.org
 freenet.de
-freeroms.com
+freeroms.com  # 2026-07-31: blocked by Anti-Malware List (hosts), Anti-Piracy, Anti-Malware List (AdGuard Home)
 fritz.com
 frys.com
 ft.com
 ftp.chocolatey.org
 ftp.heanet.ie
 ftp.iij.ad.jp
-funnyordie.com
+funnyordie.com  # 2026-07-31: blocked by blocklist-domains
 funtrivia.com
 fy.v.vrv.co
 g.co
-g.live.com
-g.msn.com
+g.live.com  # 2026-07-31: blocked by Multi-party only trackers, Multi-party trackers
+g.msn.com  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2), EasyPrivacy
 gap.com
-gateway.scarf.sh
+gateway.scarf.sh  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2), Ads and tracking extended
 gawker.com
 gazeta.pl
 gazzetta.it
 gdmf.apple.com.akadns.net
-geller-pa.googleapis.com
+geller-pa.googleapis.com  # 2026-07-31: blocked by Ultimate
 geminisound.com
-geo-prod.do.dsp.mp.microsoft.com
-geo3.ggpht.com
-geoim.bloomberght.com
+geo-prod.do.dsp.mp.microsoft.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
+geo3.ggpht.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
+geoim.bloomberght.com  # 2026-07-31: blocked by 1Hosts (Lite)
 geomobileservices-pa.googleapis.com
 georgetownlawjournal.org
 get.adobe.com
-get.contentpass.net
+get.contentpass.net  # 2026-07-31: blocked by 1Hosts (Lite)
 getadhell.com
 gfwsl.geforce.com
 ghcr.io
@@ -730,9 +749,9 @@ gitcdn.link
 gitcdn.xyz
 gitea.com
 gitee.com
-github.com
+github.com  # 2026-07-31: blocked by uBO badware risks
 github.developerdan.com
-github.io
+github.io  # 2026-07-31: blocked by uBO badware risks
 github.map.fastly.net
 githubapp.com
 gitlab.com
@@ -754,9 +773,9 @@ gmx.com
 gmx.de
 gmx.es
 gmx.net
-go.e2language.com
+go.e2language.com  # 2026-07-31: blocked by UT1 publicite
 go.microsoft.com
-go.pardot.com
+go.pardot.com  # 2026-07-31: blocked by First-party trackers, Multi-party trackers, Ultimate Hosts Blacklist (domains2) +3 more
 go.trouter.skype.com
 godaddy.com
 goo.gl
@@ -780,27 +799,27 @@ google.it
 googleapis.com
 googlechrome.github.io
 governo.it
-gowc.us
+gowc.us  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2)
 gp.se
-graph.facebook.com
+graph.facebook.com  # 2026-07-31: blocked by Ultimate
 graph.microsoft.com
-gravatar.com
+gravatar.com  # 2026-07-31: blocked by Tracking aggressive extended
 greasyfork.org
 group46.sites.hscoscdn40.net
 groupon.com
 groupon.de
 groupon.fr
 groupon.it
-groups.google.com
+groups.google.com  # 2026-07-31: blocked by uBO badware risks
 gs.apple.com
-gslb-2.demdex.net
+gslb-2.demdex.net  # 2026-07-31: blocked by Multi-party trackers, Ultimate, Ultimate Hosts Blacklist (domains2) +1 more
 gstatic.com
-gstaticadssl.l.google.com
+gstaticadssl.l.google.com  # 2026-07-31: blocked by ShadowWhisperer Ads, Ultimate Hosts Blacklist (domains2), Ads and tracking extended
 gtmetrix.com
 guardian.co.uk
 guru3d.com
 gutenberg.org
-h-charter.online-metrix.net
+h-charter.online-metrix.net  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2), Ads and tracking extended
 h5api.m.taobao.com
 harvard.edu
 harvardlawreview.org
@@ -813,10 +832,10 @@ heise.de
 help.ui.xboxlive.com
 heureka.sk
 hexun.com
-hgc-cf-cache-1.svonm.com
+hgc-cf-cache-1.svonm.com  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate
 hilton.com
 history.com
-hitfile.net
+hitfile.net  # 2026-07-31: blocked by Anti-Piracy
 hls.ted.com
 hm.com
 hole.cert.pl
@@ -837,7 +856,7 @@ hrln.org
 hrw.org
 hub.crowdsec.net
 hub.docker.com
-hubspot.com
+hubspot.com  # 2026-07-31: blocked by NoTrack blocklist, Ultimate Hosts Blacklist (domains2)
 hudoc.echr.coe.int
 huffpost.com
 hugedomains.com
@@ -854,18 +873,18 @@ i.shoosh.co
 i.wfcdn.de
 i.ytimg.com
 i0.gmx.net
-i1.wp.com
+i1.wp.com  # 2026-07-31: blocked by Ad-Block HOSTS
 i1.ytimg.com
 i2.paste.pics
-iadsdk.apple.com
-iadsdk.apple.com.akadns.net
+iadsdk.apple.com  # 2026-07-31: blocked by blocklist-domains, ShadowWhisperer Ads, 1Hosts (Lite) +7 more
+iadsdk.apple.com.akadns.net  # 2026-07-31: blocked by Ultimate, Ultimate Hosts Blacklist (domains2), Ads and tracking extended
 iampe.agenziaentrate.gov.it
 ibm.com
 ibtimes.com
-icanhazip.com
+icanhazip.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate, Tracking aggressive extended
 icann.org
-ichnaea.dradis.netflix.com
-ichnaea.netflix.com
+ichnaea.dradis.netflix.com  # 2026-07-31: blocked by Ultimate, AdGuard DNS filter
+ichnaea.netflix.com  # 2026-07-31: blocked by Multi-party trackers, ShadowWhisperer Tracking, Ultimate +2 more
 icj.org
 icloud.com
 icons8.com
@@ -875,7 +894,7 @@ identity.infocert.it
 idg.se
 idp-poste.poste.it
 ifbaiano.edu.br
-ifconfig.io
+ifconfig.io  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
 ifmo.ru
 iframely.net
 ign.com
@@ -897,7 +916,7 @@ ikea.pt
 ikea.uk
 ikea.us
 ilawyermarketing.com
-ilcorsaronero.link
+ilcorsaronero.link  # 2026-07-31: blocked by Streaming (custom)
 ilfattoquotidiano.it
 ilgiornale.it
 ilmattino.it
@@ -905,12 +924,12 @@ ilmessaggero.it
 ilmeteo.it
 ilpost.it
 ilsole24ore.com
-image-ard-de-cddc.at-o.net
-image.ard.de
+image-ard-de-cddc.at-o.net  # 2026-07-31: blocked by Ultimate, Ultimate Hosts Blacklist (domains2), Ads and tracking extended
+image.ard.de  # 2026-07-31: blocked by First-party only trackers, First-party trackers, Multi-party only trackers +4 more
 image.ccg.nintendo.net
 image.ibb.co
 image.mail.disneyplus.com
-imagebam.com
+imagebam.com  # 2026-07-31: blocked by blocklist-domains
 images.dmca.com
 images.dwell.com
 images.netdirector.co.uk
@@ -918,60 +937,60 @@ images.nvidiagrid.net
 images.salsify.com
 images2.imgbox.com
 images2.minutemediacdn.com
-imagizer.imageshack.com
-imasdk.googleapis.com
+imagizer.imageshack.com  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2)
+imasdk.googleapis.com  # 2026-07-31: blocked by blocklist-domains, EasyList
 imeipro.info
-img.connatix.com
+img.connatix.com  # 2026-07-31: blocked by hostsVN domains, Ultimate Hosts Blacklist (domains2), Ads and tracking extended
 img.myflixer.to
 img.ultimedia.com
 img.yana.asideas.de
-imgbox.com
+imgbox.com  # 2026-07-31: blocked by blocklist-domains
 imgix.net
 imgs.xkcd.com
 imgur.com
-in.appcenter.ms
-includes.ccdc02.com
+in.appcenter.ms  # 2026-07-31: blocked by Ad-Block HOSTS, ShadowWhisperer Tracking, 1Hosts (Lite) +2 more
+includes.ccdc02.com  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2)
 indeed.co.uk
 indeed.com
 indeed.de
 indeed.fr
 independent.co.uk
-info.ammex.com
-ingest.lightstep.com
+info.ammex.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
+ingest.lightstep.com  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2), Ads and tracking extended
 init-p01md-lb.push-apple.com.akadns.net
-ink1001.com
+ink1001.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate Hosts Blacklist (domains2), UT1 publicite
 innocenceproject.org
 inps.it
 inquisitr.com
-insomniagamingfestival.com
+insomniagamingfestival.com  # 2026-07-31: blocked by blocklist-domains
 instagram.c10r.facebook.com
 instagram.com
 instantmessaging-pa.googleapis.com
 intuit.com
 investorplace.com
-ip-api.com
-ipaddress.com
-ipchicken.com
-iphone-ld.apple.com
-iphone-ld.origin-apple.com.akadns.net
-ipinfo.io
+ip-api.com  # 2026-07-31: blocked by Ultimate, Ads and tracking extended
+ipaddress.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
+ipchicken.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
+iphone-ld.apple.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
+iphone-ld.origin-apple.com.akadns.net  # 2026-07-31: blocked by ShadowWhisperer Tracking
+ipinfo.io  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate, Tracking aggressive extended
 ipla.tv
 is.gd
 issuu.com
 istockphoto.com
 it.aliexpress.com
 it.euspert.com
-it.gravatar.com
-itad.linetv.tw
+it.gravatar.com  # 2026-07-31: blocked by Tracking aggressive extended
+itad.linetv.tw  # 2026-07-31: blocked by ShadowWhisperer Ads, AdGuard DNS filter
 itunes.apple.com
 itunes.com
 iutoic-dhaka.edu
-ix.de
+ix.de  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2)
 j.mp
 j.wfcdn.de
 jabcreations.com
 jcpenney.com
-jdownloader.org
+jdownloader.org  # 2026-07-31: blocked by blocklist-domains
 jobs.lifehacker.com
 joemonster.org
 joewein.net
@@ -979,10 +998,10 @@ joomla.org
 jquery.com
 jqueryscript.net
 js.klevu.com
-js.maxmind.com
-js.media-lab.ai
-js.monitor.azure.com
-js.pusher.com
+js.maxmind.com  # 2026-07-31: blocked by Tracking aggressive extended
+js.media-lab.ai  # 2026-07-31: blocked by Tracking aggressive extended
+js.monitor.azure.com  # 2026-07-31: blocked by Ultimate, Ultimate Hosts Blacklist (domains2), Ads and tracking extended
+js.pusher.com  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2)
 jsdelivr.net
 jsfiddle.net
 jstor.org
@@ -992,7 +1011,7 @@ justice.org
 justsecurity.org
 jwpsrv.com
 kamibox.de
-kanlayanee.ac.th
+kanlayanee.ac.th  # 2026-07-31: blocked by Threat Intelligence Feeds, Ultimate Hosts Blacklist (domains2)
 katowice.tvp.pl
 kernel.org
 keystone.mwbsys.com
@@ -1011,7 +1030,7 @@ kotaku.com
 krakow.tvp.pl
 kroger.com
 ku6.com
-l.instagram.com
+l.instagram.com  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2)
 la7.it
 ladyfootlocker.com
 laposte.net
@@ -1030,7 +1049,7 @@ lawgazette.co.uk
 lawsociety.org.uk
 lawyerist.com
 lbnew.consentmanager.net
-learn.cisecurity.org
+learn.cisecurity.org  # 2026-07-31: blocked by First-party only trackers, First-party trackers, Multi-party only trackers +1 more
 lefigaro.fr
 legal500.com
 legalaid.org
@@ -1043,15 +1062,15 @@ letsencrypt.org
 lexology.com
 libero.it
 libertyhumanrights.org.uk
-licenses.ashampoo.com
+licenses.ashampoo.com  # 2026-07-31: blocked by 1Hosts (Lite)
 licensing.xboxlive.com
 lifehacker.com
-limetorrents.lol
+limetorrents.lol  # 2026-07-31: blocked by blocklist-domains, Anti-Piracy
 limtu.ifmo.ru
 linkedin.com
 live.com
 livestream.com
-lnks.gd
+lnks.gd  # 2026-07-31: blocked by blocklist-domains, Ultimate Hosts Blacklist (domains2)
 loc.gov
 locale.roblox.com
 lodz.tvp.pl
@@ -1071,19 +1090,19 @@ lwn.net
 lynda.com
 m.gitee.com
 m.media-amazon.com
-m1.fwmrm.net
-m2.fwmrm.net
-mackeeper.com
+m1.fwmrm.net  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate Hosts Blacklist (domains2), Ads and tracking extended
+m2.fwmrm.net  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2), Ads and tracking extended
+mackeeper.com  # 2026-07-31: blocked by ShadowWhisperer Malware, Ultimate Hosts Blacklist (domains2)
 macys.com
 madsack-prod-cdn.video-api.arcpublishing.com
 magenta.tensorflow.org
 mail.com
 mail.google.com
-mailchimp.com
-mailerlite.com
+mailchimp.com  # 2026-07-31: blocked by NoTrack blocklist, Ultimate Hosts Blacklist (domains2)
+mailerlite.com  # 2026-07-31: blocked by NoTrack blocklist, ShadowWhisperer Ads, Ultimate Hosts Blacklist (domains2)
 mailtrap.io
 majesticseo.com
-majorgeeks.com
+majorgeeks.com  # 2026-07-31: blocked by uBO badware risks
 malware-filter.gitlab.io
 malwaredomainlist.com
 malwaredomains.usu.edu
@@ -1096,7 +1115,7 @@ mapbox.com
 margevicius.lt
 market.spotify.com
 marketwatch.com
-marvel-b1-cdn.bc0a.com
+marvel-b1-cdn.bc0a.com  # 2026-07-31: blocked by Ultimate Hosts Blacklist (domains2), Ads and tracking extended
 mas-ext.amazon.com
 mashable.com
 mask-api.icloud.com
@@ -1106,11 +1125,11 @@ mask.icloud.com
 mastercard.com
 mathworks.com
 maxcdn.bootstrapcdn.com
-maxmind.com
+maxmind.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Tracking aggressive extended
 maxpark.com
-maxthon.com
+maxthon.com  # 2026-07-31: blocked by blocklist-domains
 mayoclinic.org
-media-lab.ai
+media-lab.ai  # 2026-07-31: blocked by Ads and tracking extended
 media.architecturaldigest.com
 media.itsfogo.com
 media.licdn.com
@@ -1123,16 +1142,16 @@ mediamarkt.pl
 mediaset.it
 medium.com
 meet.jit.si
-mega.co.nz
-mega.nz
+mega.co.nz  # 2026-07-31: blocked by Anti-Piracy
+mega.nz  # 2026-07-31: blocked by Anti-Piracy
 mem.gfx.ms
 menshealth.com
 merriam-webster.com
 mesh.com
 messenger.com
 meta.plex.tv
-metal-tracker.com
-metricool.com
+metal-tracker.com  # 2026-07-31: blocked by Anti-Piracy
+metricool.com  # 2026-07-31: blocked by NoTrack blocklist, ShadowWhisperer Tracking
 miami.cbslocal.com
 microsoft.com
 microsoftedgewelcome.microsoft.com
@@ -1147,18 +1166,18 @@ mixi.jp
 mlb.com
 mls.com
 mobile-ap.spotify.com
-mobilecrashreporting.googleapis.com
+mobilecrashreporting.googleapis.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), Ultimate
 mongodb.com
 motorsport.com
-mozilla.cloudflare-dns.com
+mozilla.cloudflare-dns.com  # 2026-07-31: blocked by Tracking aggressive extended
 mozilla.org
 mozillazine.org
-mparticle.map.fastly.net
-mparticle.weather.com
+mparticle.map.fastly.net  # 2026-07-31: blocked by ShadowWhisperer Tracking
+mparticle.weather.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
 msh.amazon.co.uk
-msmetrics.ws.sonos.com
+msmetrics.ws.sonos.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, StevenBlack hosts (base), 1Hosts (Lite) +3 more
 msn.com
-mssl.fwmrm.net
+mssl.fwmrm.net  # 2026-07-31: blocked by Ultimate, Ads and tracking extended
 mssl.fwmrm.net.edgesuite.net
 multiplayer.it
 multiup.org
@@ -1166,13 +1185,13 @@ mut.ac.ke
 my.contabo.com
 my.ionos.it
 my.plexapp.com
-myabandonware.com
+myabandonware.com  # 2026-07-31: blocked by Anti-Piracy
 mycliplister.com
-myflixer.to
-myip.wtf
+myflixer.to  # 2026-07-31: blocked by Anti-Piracy, Streaming (custom), Scam Blocklist (wildcards)
+myip.wtf  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
 mypoints.com
 mysql.com
-mywot.com
+mywot.com  # 2026-07-31: blocked by blocklist-domains, StevenBlack hosts (base)
 mzstatic.com
 naacpldf.org
 nairaland.com
@@ -1196,9 +1215,9 @@ netflix.net
 new.contabo.com
 newegg.com
 newjobs.com
-news.ebc.net.tw
+news.ebc.net.tw  # 2026-07-31: blocked by blocklist-domains
 news.google.com
-news.iadsdk.apple.com
+news.iadsdk.apple.com  # 2026-07-31: blocked by NoTrack blocklist, 1Hosts (Lite), hostsVN domains +2 more
 news.ycombinator.com
 newsday.com
 newsmax.com
@@ -1214,7 +1233,7 @@ nike.com
 nine.plugins.plexapp.com
 nintendo.com
 nintendowifi.net
-nitroflare.com
+nitroflare.com  # 2026-07-31: blocked by Anti-Piracy
 nj.com
 nk.pl
 nnmstatic.win
@@ -1226,8 +1245,8 @@ npr.org
 ns1.dropbox.com
 ns2.dropbox.com
 nt3.ggpht.com
-nutaku.com
-nutaku.net
+nutaku.com  # 2026-07-31: blocked by blocklist-domains
+nutaku.net  # 2026-07-31: blocked by blocklist-domains
 ny.com
 ny1.com
 nydailynews.com
@@ -1255,7 +1274,7 @@ olivia-ai.org
 olx.it
 omroepbrabant.bbvms.com
 oneclient.sfx.ms
-onecollector.cloudapp.aria.akadns.net
+onecollector.cloudapp.aria.akadns.net  # 2026-07-31: blocked by ShadowWhisperer Tracking
 onedrive.com
 onedrive.live.com
 onenote.com
@@ -1279,7 +1298,7 @@ orca.pet
 osint.digitalside.it
 osnews.com
 otx.alienvault.com
-ouo.io
+ouo.io  # 2026-07-31: blocked by UT1 malware
 outlook.com
 outlook.live.com
 outlook.office.com
@@ -1287,8 +1306,8 @@ outlook.office365.com
 overseas.edu.lk
 ow.ly
 oxfam.org
-p.brid.tv
-p.imgur.com
+p.brid.tv  # 2026-07-31: blocked by 1Hosts (Lite)
+p.imgur.com  # 2026-07-31: blocked by hostsVN adservers, hostsVN domains, Ultimate +1 more
 p.jwpcdn.com
 p.nfltags.com
 p.shure.com
@@ -1302,13 +1321,13 @@ pando.com
 paper.li
 password.ionos.it
 pastebin.com
-pastie.org
+pastie.org  # 2026-07-31: blocked by blocklist-domains
 paypal.ca
 paypal.co.uk
 paypal.com
 paypal.map.fastly.net
 paypalobjects.com
-pcapredict.com
+pcapredict.com  # 2026-07-31: blocked by NoTrack blocklist, ShadowWhisperer Tracking
 pcwelt.de
 peeplink.in
 people-pa.googleapis.com
@@ -1323,7 +1342,7 @@ phishing.army
 phobos.apple.com
 php.net
 pi-hole.net
-pi.pardot.com
+pi.pardot.com  # 2026-07-31: blocked by First-party trackers, Multi-party trackers, ShadowWhisperer Tracking +2 more
 pianetagenoa1893.net
 picclick.com
 pilkanozna.pl
@@ -1339,39 +1358,39 @@ pix.sueddeutsche.de
 pixabay.com
 pixel.disco.skyshowtime.com
 pkobp.pl
-placehold.it
-plarium.com
+placehold.it  # 2026-07-31: blocked by Ultimate
+plarium.com  # 2026-07-31: blocked by blocklist-domains
 platform.instagram.com
 platform.openai.com
-play.aniview.com
-play.google.com
+play.aniview.com  # 2026-07-31: blocked by 1Hosts (Lite), hostsVN domains, Ads and tracking extended
+play.google.com  # 2026-07-31: blocked by uBO badware risks
 play.itunes.apple.com.edgesuite.net
 play.lego.com
-player-feedback-v1.glomex.com
-player.avplayer.com
+player-feedback-v1.glomex.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, AdGuard DNS filter
+player.avplayer.com  # 2026-07-31: blocked by 1Hosts (Lite), AdGuard DNS filter
 player.glomex.com
 player.pl
 player.vimeo.com
 players.brightcove.net
-playmoviesdfe-pa.googleapis.com
+playmoviesdfe-pa.googleapis.com  # 2026-07-31: blocked by Ultimate
 playstation.com
-playstation.com.ssl.d1.sc.omtrdc.net
+playstation.com.ssl.d1.sc.omtrdc.net  # 2026-07-31: blocked by Ultimate, Ads and tracking extended
 plesk.com
 plex.tv
-plugin.mediavoice.com
+plugin.mediavoice.com  # 2026-07-31: blocked by 1Hosts (Lite), AdGuard DNS filter, Ads and tracking extended
 plugins.longtailvideo.com
 plus.google.com
 pochta.ru
 polito.it
 poliziadistato.it
-polyfill.io
+polyfill.io  # 2026-07-31: blocked by uBO badware risks, Ultimate, Threat Intelligence Feeds +2 more
 portal.azure.com
 portale.agenziaentrate.gov.it
 poste.it
 posteid.poste.it
 postepay.poste.it
-postimage.org
-prd.jwpltx.com
+postimage.org  # 2026-07-31: blocked by blocklist-domains
+prd.jwpltx.com  # 2026-07-31: blocked by 1Hosts (Lite), hostsVN domains, Ultimate +1 more
 primevideo.com
 princeton.edu
 prisjakt.nu
@@ -1381,9 +1400,9 @@ privacyinternational.org
 prnt.sc
 probono.net
 prod.rewardsplatform.microsoft.com
-production-cmp.isgprivacy.cbsi.com
+production-cmp.isgprivacy.cbsi.com  # 2026-07-31: blocked by Multi-party only trackers, Multi-party trackers, Ads and tracking extended
 products.aspose.app
-promodj.com
+promodj.com  # 2026-07-31: blocked by blocklist-domains
 propublica.org
 prospekt.aldi-sued.de
 protezionecivile.it
@@ -1391,37 +1410,37 @@ protonmail.com
 proxmox.com
 proxy.novafusion.ea.com
 pscp.tv
-public-api.wordpress.com
+public-api.wordpress.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
 publicsuffix.org
-publitas.com
+publitas.com  # 2026-07-31: blocked by NoTrack blocklist
 publix.com
 pubsub.plex.bz
 pubsub.plex.tv
-push.services.mozilla.com
+push.services.mozilla.com  # 2026-07-31: blocked by ShadowWhisperer Ads
 pve.proxmox.com
 pvn.saturn.de
 qastack.com.de
 qt.io
-qualtrics.com
+qualtrics.com  # 2026-07-31: blocked by blocklist-domains, ShadowWhisperer Tracking, Tracking aggressive extended
 quickenloans.com
 quora.com
-radarsubmissions.apple.com
+radarsubmissions.apple.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
 radiostacja.pl
-rai-italia01.wt-eu02.net
+rai-italia01.wt-eu02.net  # 2026-07-31: blocked by First-party trackers, Multi-party trackers, 1Hosts (Lite) +2 more
 rai.it
 raisport.rai.it
 rakuten.co.jp
 ransomwaretracker.abuse.ch
-rapidgator.net
-rapidvideo.com
-rarbgmirrored.org
+rapidgator.net  # 2026-07-31: blocked by Anti-Piracy
+rapidvideo.com  # 2026-07-31: blocked by UT1 cryptojacking
+rarbgmirrored.org  # 2026-07-31: blocked by Anti-Piracy
 raw.githack.com
 raw.github.com
 raw.githubusercontent.com
 rawcdn.githack.com
 rawgit.com
-real-debrid.com
-realestate.nj.com
+real-debrid.com  # 2026-07-31: blocked by Anti-Piracy
+realestate.nj.com  # 2026-07-31: blocked by Ultimate
 realites.com.tn
 recaptcha.net
 redbubble.com
@@ -1443,13 +1462,13 @@ regione.toscana.it
 regione.veneto.it
 releases.flowplayer.org
 repo.andnixsh.com
-report-uri.com
+report-uri.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
 reprieve.org.uk
 repubblica.it
 res.cloudinary.com
 research.net
 reuters.com
-rgom10-asus-en.url.trendmicro.com
+rgom10-asus-en.url.trendmicro.com  # 2026-07-31: blocked by Ultimate
 riemannkollektion.com
 roku.com
 rottentomatoes.com
@@ -1458,33 +1477,33 @@ rugby.it
 rutube.ru
 rzeszow.tvp.pl
 s-passets-cache-ak0.pinimg.com
-s.pinimg.com
-s.shopify.com
+s.pinimg.com  # 2026-07-31: blocked by Tracking aggressive extended
+s.shopify.com  # 2026-07-31: blocked by Ultimate
 s.sony.net
 s.ss2.us
 s.team
 s.yimg.com
-s.youtube.com
+s.youtube.com  # 2026-07-31: blocked by blocklist-domains, ShadowWhisperer Tracking, Tracking aggressive extended
 s.ytimg.com
-s0-2mdn-net.l.google.com
-s0.2mdn.net
+s0-2mdn-net.l.google.com  # 2026-07-31: blocked by ShadowWhisperer Ads
+s0.2mdn.net  # 2026-07-31: blocked by blocklist-domains, Ultimate, Ads and tracking extended
 s1.symcb.com
-s2.static.cfgr3.com
+s2.static.cfgr3.com  # 2026-07-31: blocked by 1Hosts (Lite), AdGuard DNS filter
 s2.symcb.com
-s3-iad-ww.cf.videorolls.row.aiv-cdn.net
-s3.amazonaws.com
+s3-iad-ww.cf.videorolls.row.aiv-cdn.net  # 2026-07-31: blocked by Ultimate, AdGuard DNS filter
+s3.amazonaws.com  # 2026-07-31: blocked by uBO badware risks
 s3.us-west-1.wasabisys.com
 sa.symcb.com
 sacramento.cbslocal.com
-safebrowsing.google.com
-safebrowsing.googleapis.com
+safebrowsing.google.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
+safebrowsing.googleapis.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
 salesforce.com
 salute.gov.it
 samsung.com
 sanfrancisco.cbslocal.com
 satellitemap.space
 satkurier.pl
-save.tv
+save.tv  # 2026-07-31: blocked by Anti-Piracy
 sbc.io
 sc.anpr.interno.it
 scan.nextcloud.com
@@ -1498,9 +1517,9 @@ scotusblog.com
 scr.wfcdn.de
 screenshots.firefox.com
 scribd.com
-sdk-02.moengage.com
-sdk.privacy-center.org
-sdk.split.io
+sdk-02.moengage.com  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate, Ads and tracking extended
+sdk.privacy-center.org  # 2026-07-31: blocked by Ads and tracking extended
+sdk.split.io  # 2026-07-31: blocked by Ads and tracking extended
 search.google.com
 searchg2.crownpeak.net
 searchlab.eu
@@ -1509,31 +1528,31 @@ secure-appldnld.apple.com
 secure.avangate.com
 secure.booking.com
 secure.dshield.org
-secure.gravatar.com
-secure.livechatinc.com
+secure.gravatar.com  # 2026-07-31: blocked by Tracking aggressive extended
+secure.livechatinc.com  # 2026-07-31: blocked by Tracking aggressive extended
 secure.netflix.com
 secure.surveymonkey.com
 secure6.store.apple.com
 securel.longtailvideo.com
 securelogin.poste.it
-securemvt.apple.com
+securemvt.apple.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, 1Hosts (Lite), Ultimate +2 more
 secureplugins.longtailvideo.com
-self-events-data.trafficmanager.net
-self.events.data.microsoft.com
-semanticlocation-pa.googleapis.com
+self-events-data.trafficmanager.net  # 2026-07-31: blocked by Ultimate, Ads and tracking extended
+self.events.data.microsoft.com  # 2026-07-31: blocked by Ad-Block HOSTS, Ultimate, Ads and tracking extended
+semanticlocation-pa.googleapis.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
 senato.it
-sendspace.com
+sendspace.com  # 2026-07-31: blocked by Anti-Piracy
 sentencingproject.org
 services.brid.tv
 services.chipotle.com
 services.gfe.nvidia.com
 services.sonarr.tv
-servix.idnes.cz
+servix.idnes.cz  # 2026-07-31: blocked by Ultimate
 servizi2.inps.it
 serviziweb2.inps.it
-settings-win.data.microsoft.com
+settings-win.data.microsoft.com  # 2026-07-31: blocked by Ultimate
 sf-api-token-service.itunes.apple.com
-shalltry.com
+shalltry.com  # 2026-07-31: blocked by UT1 malware
 share-online.biz
 share.hsforms.com
 sharepoint.com
@@ -1551,23 +1570,23 @@ siemens.com
 signal.org
 signin.aws.amazon.com
 signup.azure.com
-sinastorage.com
+sinastorage.com  # 2026-07-31: blocked by ShadowWhisperer Malware
 siteassets.parastorage.com
 skyhook.sonarr.tv
 skysport.it
 slack.com
 slashdot.org
 slate.com
-slickdeals.net
-slike.indiatimes.com
+slickdeals.net  # 2026-07-31: blocked by UT1 publicite
+slike.indiatimes.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, hostsVN adservers, hostsVN domains +1 more
 small.oisd.nl
-smart.link
+smart.link  # 2026-07-31: blocked by NoTrack blocklist
 smartforms.ekomi.com
 smp-device-content.apple.com
 smtp.office365.com
 smugmug.com
 snapchat.com
-socialize.eu1.gigya.com
+socialize.eu1.gigya.com  # 2026-07-31: blocked by Tracking aggressive extended
 socpublic.com
 sodimac.cl
 sole24ore.com
@@ -1578,7 +1597,7 @@ soso.com
 soundcloud.com
 sp-ad-fa.audio.tidal.com
 sp-ao.shortpixel.ai
-spade.twitch.tv
+spade.twitch.tv  # 2026-07-31: blocked by AdGuard DNS filter, Ads and tracking extended
 spaziogames.it
 spb.ru
 spclient.wg.spotify.com
@@ -1590,13 +1609,13 @@ sport.onet.pl
 sport.pl
 sportmediaset.mediaset.it
 sports.latimes.com
-sportsbet.com.au
+sportsbet.com.au  # 2026-07-31: blocked by Gambling
 spotify.com
 springer.com
 squarespace.com
-src.litix.io
+src.litix.io  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate, Ads and tracking extended
 ssl.p.jwpcdn.com
-sslgen-tidal.datadome.co
+sslgen-tidal.datadome.co  # 2026-07-31: blocked by Ads and tracking extended
 sso.eu.edenred.io
 st.mycdn.me
 stablediffusionweb.com
@@ -1619,7 +1638,7 @@ static.gmlinteractive.com
 static.kickstarter.com
 static.licdn.com
 static.parastorage.com
-static.sahibinden.com
+static.sahibinden.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
 static.share-videos.se
 static.webclicks24.com
 static.wixstatic.com
@@ -1627,8 +1646,8 @@ static.www.odcdn.com.edgekey.net
 statics-marketingsites-neu-ms-com.akamaized.net
 staticweb.bankofamerica.com
 staticweb.ecglb.bac.com
-stats.gc.apple.com
-stats.glb.paypal.com
+stats.gc.apple.com  # 2026-07-31: blocked by NoTrack blocklist, Tracking aggressive extended
+stats.glb.paypal.com  # 2026-07-31: blocked by NoTrack blocklist, 1Hosts (Lite), Ultimate
 status.plex.tv
 steam-chat.com
 steambroadcast.akamaized.net
@@ -1643,25 +1662,25 @@ steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 steamvideo-a.akamaihd.net
 stopklatka.pl
-storage.googleapis.com
+storage.googleapis.com  # 2026-07-31: blocked by uBO badware risks
 storage.live.com
 store.steampowered.com
 streamsb.net
 strefa.fm
 stripe.com
 studio.youtube.com
-stylitics.com
+stylitics.com  # 2026-07-31: blocked by NoTrack blocklist, ShadowWhisperer Tracking
 stytch.com
 subito.it
 support.apple.com
 support.google.com
 support.honeywellaidc.com
-supportmetrics.apple.com
-surveymonkey.com
+supportmetrics.apple.com  # 2026-07-31: blocked by NoTrack blocklist, ShadowWhisperer Tracking, hostsVN adservers +6 more
+surveymonkey.com  # 2026-07-31: blocked by Scam Blocklist (wildcards)
 sweclockers.com
 swiftcourrier.com
 symantec.com
-syndication.twitter.com
+syndication.twitter.com  # 2026-07-31: blocked by Ultimate, Ads and tracking extended
 sysctl.org
 szczecin.tvp.pl
 t-online.at
@@ -1669,26 +1688,26 @@ t-online.de
 t.co
 t.ly
 t.me
-t.paypal.com
+t.paypal.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ads and tracking extended
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 t10.baidu.com
-tag.aticdn.net
-tag.dickssportinggoods.com
-tagger.opecloud.com
-tags.tiqcdn.com
+tag.aticdn.net  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
+tag.dickssportinggoods.com  # 2026-07-31: blocked by Ads and tracking extended
+tagger.opecloud.com  # 2026-07-31: blocked by blocklist-domains, 1Hosts (Lite), hostsVN adservers +4 more
+tags.tiqcdn.com  # 2026-07-31: blocked by blocklist-domains, Ultimate, Ads and tracking extended
 talentwunder.com
 tampa.cbslocal.com
 tampermonkey.net
 tarafdari.com
-target.clickfunnels.com
+target.clickfunnels.com  # 2026-07-31: blocked by UT1 publicite, Ads and tracking extended
 target.com
-target.microsoft.com
-tawk.to
+target.microsoft.com  # 2026-07-31: blocked by blocklist-domains, NoTrack blocklist, First-party only trackers +9 more
+tawk.to  # 2026-07-31: blocked by Tracking aggressive extended
 tcf.admeen.org
-tdn.da-services.ch
-te.technical-service.net
+tdn.da-services.ch  # 2026-07-31: blocked by 1Hosts (Lite)
+te.technical-service.net  # 2026-07-31: blocked by StevenBlack hosts (base), Ultimate
 teams.microsoft.com
 teamviewer.com
 techguy.org
@@ -1708,7 +1727,7 @@ tg.dev
 tgcom24.mediaset.it
 the.earth.li
 theantisocialengineer.com
-thechive.com
+thechive.com  # 2026-07-31: blocked by blocklist-domains
 thedailyrecord.com
 thedumbterminal.co.uk
 thefreethoughtproject.com
@@ -1718,9 +1737,9 @@ thejusticegap.com
 thelawyer.com
 themes.getbootstrap.com
 thenextweb.com
-thepiratebay.org
+thepiratebay.org  # 2026-07-31: blocked by Anti-Piracy, UT1 cryptojacking
 theregister.co.uk
-thetvdb.com
+thetvdb.com  # 2026-07-31: blocked by blocklist-domains
 theverge.com
 thumbs.videopress.com
 thumbs2.imgbox.com
@@ -1731,19 +1750,19 @@ time.windows.com
 times.com
 timesofindia.indiatimes.com
 tinypic.com
-tinyurl.com
+tinyurl.com  # 2026-07-31: blocked by uBO badware risks
 tiscali.it
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tlc.com
 tld-list.com
-tm.jsuol.com.br
+tm.jsuol.com.br  # 2026-07-31: blocked by ShadowWhisperer Tracking
 tmblr.co
 tmz.com
 tny.cz
 token.safebrowsing.apple
 tomshardware.com
-tools.pingdom.com
+tools.pingdom.com  # 2026-07-31: blocked by Tracking aggressive extended
 torrentfreak.com
 toysrus.com
 tra.scds.pmdstatic.net
@@ -1752,12 +1771,12 @@ track.aliexpress.com
 tracker.alpharatio.cc
 tracker.animebytes.tv
 tracker.avistaz.to
-tracker.beyond-hd.me
+tracker.beyond-hd.me  # 2026-07-31: blocked by Anti-Piracy
 tracker.gg
 tracker.scoober.com
 tracking-protection.cdn.mozilla.net
 tracking.dpd.de
-translate.google.com
+translate.google.com  # 2026-07-31: blocked by Tracking aggressive extended
 travel.latimes.com
 trenitalia.com
 tripadvisor.co.uk
@@ -1765,7 +1784,7 @@ tripadvisor.com
 tripadvisor.de
 tripadvisor.es
 tripadvisor.in
-tsatu.edu.ua
+tsatu.edu.ua  # 2026-07-31: blocked by Referrer spam list
 tuba.fm
 tumblr.com
 tunein.com
@@ -1786,35 +1805,35 @@ twitch.map.fastly.net
 twitch.okta.com
 twitch.tv
 twitchy.com
-twitchyhagg.is
+twitchyhagg.is  # 2026-07-31: blocked by Scam Blocklist (wildcards)
 twitpic.com
 twitter.co
 twitter.com
 twitterinc.com
 twitteroauth.com
-twttr.com
-tyk.io
+twttr.com  # 2026-07-31: blocked by blocklist-domains
+tyk.io  # 2026-07-31: blocked by ShadowWhisperer Tracking
 typeform.com
 uber.com
-ublock.org
+ublock.org  # 2026-07-31: blocked by blocklist-domains, Anti-Malware List (hosts), KADhosts +2 more
 ubuntu.com
 ubuntu101.co.za
 ubuntuforums.org
 uclalawreview.org
 udacity.com
 udemy.com
-uim.tifbs.net
+uim.tifbs.net  # 2026-07-31: blocked by EasyPrivacy
 un.org
-unagi.amazon.co.jp
-unagi.amazon.co.uk
-unagi.amazon.com
-unagi.amazon.com.au
-unagi.amazon.com.br
-unagi.amazon.de
-unagi.amazon.es
-unagi.amazon.fr
-unagi.amazon.in
-unagi.amazon.it
+unagi.amazon.co.jp  # 2026-07-31: blocked by Ultimate
+unagi.amazon.co.uk  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate
+unagi.amazon.com  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate, Ads and tracking extended
+unagi.amazon.com.au  # 2026-07-31: blocked by Ultimate
+unagi.amazon.com.br  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate
+unagi.amazon.de  # 2026-07-31: blocked by Ultimate
+unagi.amazon.es  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate
+unagi.amazon.fr  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate
+unagi.amazon.in  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate
+unagi.amazon.it  # 2026-07-31: blocked by 1Hosts (Lite), Ultimate
 unesco.com
 unesco.org
 unibo.it
@@ -1825,12 +1844,12 @@ unipd.it
 uniroma1.it
 unity.com
 unix.com
-unpkg.com
+unpkg.com  # 2026-07-31: blocked by uBO badware risks
 upgrade.scdn.com
-uploaded.net
-uploaded.to
-uptimerobot.com
-uptobox.com
+uploaded.net  # 2026-07-31: blocked by Anti-Piracy
+uploaded.to  # 2026-07-31: blocked by Anti-Piracy
+uptimerobot.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
+uptobox.com  # 2026-07-31: blocked by Anti-Piracy
 uptodatefinishconferenceroom.com
 urlhaus.abuse.ch
 us-east-1.console.aws.amazon.com
@@ -1838,15 +1857,15 @@ usatoday.com
 usatostore.bmw.it
 uscourts.gov
 use.fontawesome.com
-userlocation.googleapis.com
-userscloud.com
+userlocation.googleapis.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, Ultimate
+userscloud.com  # 2026-07-31: blocked by Anti-Piracy
 userscripts-mirror.org
 uts-api-cdn.itunes-apple.com.akadns.net
 uu.cc
 v.firebog.net
 v.pinimg.com
 v.shoosh.co
-v.shopify.com
+v.shopify.com  # 2026-07-31: blocked by hostsVN adservers, hostsVN domains, Ultimate +2 more
 valvesoftware.com
 vanividyalaya.edu.in
 variety.com
@@ -1854,11 +1873,11 @@ vb-ad-fa.video.tidal.com
 vera.org
 verisign.com
 vice.com
-vid.connatix.com
+vid.connatix.com  # 2026-07-31: blocked by hostsVN domains, Ads and tracking extended
 video-api-cdn.bostonglobe.arcpublishing.com
 video-api.bostonglobe.arcpublishing.com
-video-stats.l.google.com
-video.xxxjmp.com
+video-stats.l.google.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
+video.xxxjmp.com  # 2026-07-31: blocked by Ultimate
 videocopilot.net
 videolan.org
 videopress.com
@@ -1870,36 +1889,36 @@ virgilio.it
 visualstudio.com
 vitalia.pl
 vjs.zencdn.net
-vk.com
+vk.com  # 2026-07-31: blocked by Tracking aggressive extended
 vkontakte.ru
-vlscppe.microsoft.com
+vlscppe.microsoft.com  # 2026-07-31: blocked by Multi-party only trackers, Multi-party trackers, ShadowWhisperer Tracking
 vm-siracsso.comune.genova.it
-vms.bluebillywig.com
-vod.pl
+vms.bluebillywig.com  # 2026-07-31: blocked by Ads and tracking extended
+vod.pl  # 2026-07-31: blocked by blocklist-domains
 vod.tvp.pl
-voe.sx
+voe.sx  # 2026-07-31: blocked by Anti-Piracy
 void.gr
 vox.com
 wa.me
 wabetainfo.com
 wacom.com
 walgreens.com
-wallet.advcash.com
+wallet.advcash.com  # 2026-07-31: blocked by 1Hosts (Lite)
 walmart.com
 washington.cbslocal.com
 washingtonpost.com
 wcc.edu.in
 wcl.american.edu
-wcpstatic.microsoft.com
+wcpstatic.microsoft.com  # 2026-07-31: blocked by ShadowWhisperer Ads
 weather.com
 web-assets.stylitics.com
 web-assets.stylitics.com.cdn.cloudflare.net
 web.archive.org
 web.de
 web.dev
-web.facebook.com
+web.facebook.com  # 2026-07-31: blocked by Ultimate
 web.whatsapp.com
-webadvisorc.rest.gti.mcafee.com
+webadvisorc.rest.gti.mcafee.com  # 2026-07-31: blocked by Anti-Malware List (hosts), Anti-Malware List (AdGuard Home)
 webcache.googleusercontent.com
 webmail.laposte.net
 weeklyad.target.com
@@ -1907,7 +1926,7 @@ weeklyad.target.com.edgesuite.net
 wetransfer.com
 wetter.de
 wfcdn.de
-whatismyip.com
+whatismyip.com  # 2026-07-31: blocked by ShadowWhisperer Tracking
 whatsapp-plus.info
 whatsapp-plus.me
 whatsapp-plus.net
@@ -1922,32 +1941,32 @@ whispersystems.org
 who.is
 whois.domaintools.com
 widget-cdn.rpxnow.com
-widget.intercom.io
+widget.intercom.io  # 2026-07-31: blocked by Tracking aggressive extended
 widgets.opinary.com
-wieistmeineip.de
+wieistmeineip.de  # 2026-07-31: blocked by ShadowWhisperer Tracking, hostsVN adservers, hostsVN domains
 wikimedia.org
 wikipedia.org
 wikivoyage.org
 wiley.com
 win10.ipv6.microsoft.com
 windows.com
-windows.net
+windows.net  # 2026-07-31: blocked by uBO badware risks
 winhelp2002.mvps.org
 wired.com
 wirtualnemedia.pl
-wl.spotify.com
+wl.spotify.com  # 2026-07-31: blocked by blocklist-domains, First-party only trackers, First-party trackers +3 more
 wnba.com
-wns.windows.com
+wns.windows.com  # 2026-07-31: blocked by ShadowWhisperer Ads
 wordpress.com
 wordpress.org
 worldjusticeproject.org
 worldweather.wmo.int
 wp.com
 wpbeaches.com
-ws.sharethis.com
+ws.sharethis.com  # 2026-07-31: blocked by hostsVN domains, AdGuard DNS filter, Ads and tracking extended
 wtkr.com
 wunderground.com
-www-googletagmanager.l.google.com
+www-googletagmanager.l.google.com  # 2026-07-31: blocked by ShadowWhisperer Tracking, hostsVN adservers, hostsVN domains +2 more
 www.3bmeteo.com
 www.4px.com
 www.agenziaentrate.gov.it
@@ -1955,11 +1974,11 @@ www.amazon.com
 www.amazon.it
 www.apple.com
 www.aruba.it
-www.asadcdn.com
+www.asadcdn.com  # 2026-07-31: blocked by StevenBlack hosts (base), hostsVN domains, Ultimate
 www.audi.it
 www.bing.com
-www.blackkite.com
-www.blackkitetech.com
+www.blackkite.com  # 2026-07-31: blocked by Ultimate
+www.blackkitetech.com  # 2026-07-31: blocked by Ultimate
 www.booking.com
 www.botvrij.eu
 www.bplaced.net
@@ -1977,8 +1996,8 @@ www.fotor.com
 www.fragolalilla.it
 www.gaia.com
 www.google.com
-www.googletagmanager.com
-www.googletagservices.com
+www.googletagmanager.com  # 2026-07-31: blocked by StevenBlack hosts (base), hostsVN domains, Ultimate +1 more
+www.googletagservices.com  # 2026-07-31: blocked by blocklist-domains, 1Hosts (Lite), hostsVN domains +2 more
 www.heavens-above.com
 www.icloud.com
 www.infinityfree.com
@@ -2015,7 +2034,7 @@ www.twitchyhagg.is
 www.ultimedia.com
 www.vistaprint.it
 www.whatismyip.com
-www.youtube.com
+www.youtube.com  # 2026-07-31: blocked by uBO badware risks
 www.zooplus.it
 www2.lunapic.com
 wykop.pl
@@ -2029,30 +2048,30 @@ xing.com
 xkcd.com
 xkms.xboxlive.com
 xsts.auth.xboxlive.com
-yacy.net
+yacy.net  # 2026-07-31: blocked by ShadowWhisperer Malware
 yagiay.com
 yahoo.com
 yale.edu
 yalelawjournal.org
 yandex.com
 yep.com
-yospace.com
+yospace.com  # 2026-07-31: blocked by NoTrack blocklist, ShadowWhisperer Ads, Ads and tracking extended
 youknowwhataimean.com
 youtu.be
 youtube-nocookie.com
-youtube.com
+youtube.com  # 2026-07-31: blocked by uBO badware risks
 ypu.edu.tw
 yr.no
 yt3.ggpht.com
 yu.ac.kr
 yunfile.com
-zajefajna.com
+zajefajna.com  # 2026-07-31: blocked by Anti-Piracy
 zdnet.com
 zeelool.com
 zendesk.com
 zerodot1.gitlab.io
 zinspilot.de
-zippyshare.com
+zippyshare.com  # 2026-07-31: blocked by Anti-Piracy, Ultimate
 ziprecruiter.com
 zoom.us
 zoominfo.com
