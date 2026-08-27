@@ -2675,6 +2675,16 @@ strand-co.com##+js(acs, document.createElement, .onerror)
 ##body > .cf-root
 /^https:\/\/[a-z]{7,}\.(com|icu)\/[Tt]raffic\/api$/$script,match-case,3p,to=com|icu
 
+! https://x.com/vagifbn/status/2092722201526927548
+||weibonews.com^$all
+||biscottirbh.lol^$all
+##body > div.mw[role="main"] > .mc
+
+! https://x.com/urlyzeio/status/2092696064121802992
+||google-meet-call.com^$all
+||faceit-account.com^$all
+||kook.bar^$all
+
 ! !SECTION: ClickFix
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/12ng4o8/
@@ -6409,3 +6419,6 @@ top##body > center + .A + .post
 ! https://github.com/uBlockOrigin/uAssets/issues/34238
 ! https://www.virustotal.com/gui/file/8a4236a82e52ec75d4ed86e371383715b19036c8d2263825694dc24447aba257
 ||vencord.cc^$all
+
+! https://www.reddit.com/r/Scams/comments/1vzdot7/us_is_httpswwwhokaukcom_a_scam_site_that_steals/
+||hoka-uk.com^$all
