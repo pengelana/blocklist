@@ -2685,6 +2685,15 @@ strand-co.com##+js(acs, document.createElement, .onerror)
 ||faceit-account.com^$all
 ||kook.bar^$all
 
+! https://www.netskope.com/blog/etherhiding-in-the-browser-clickfix-chain-ends-in-amatera
+igualdad.iaa.csic.es##+js(acs, String.prototype.toLowerCase, Contract)
+||igualdad.iaa.csic.es/nochain-sw.js
+##html > #nochain-demo-frame:not(body)
+##html > #nc-cover:not(body)
+
+! https://x.com/joe4security/status/2092954759237869800
+||openai-backup.one^$all
+
 ! !SECTION: ClickFix
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/12ng4o8/
@@ -6422,3 +6431,6 @@ top##body > center + .A + .post
 
 ! https://www.reddit.com/r/Scams/comments/1vzdot7/us_is_httpswwwhokaukcom_a_scam_site_that_steals/
 ||hoka-uk.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/34267
+||nextsave.trenched.cfd^$doc
