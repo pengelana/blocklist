@@ -2568,7 +2568,7 @@ sgp1.cdn.digitaloceanspaces.com###frame[title="encrypted shop"][allowfullscreen]
 ! https://github.com/uBlockOrigin/uAssets/issues/29718
 z13.web.core.windows.net##+js(aeld, DOMContentLoaded, fullscreenEnabled)
 !
-web.core.windows.net##+js(aeld, beforeunload, workerBomb)
+web.core.windows.net##+js(aeld, beforeunload, /[Ww]orker/)
 ondigitalocean.app##+js(aeld, mousemove, loadSecret)
 ! https://github.com/uBlockOrigin/uAssets/issues/34120
 ||roykuashkimayo.$all
@@ -2701,6 +2701,10 @@ igualdad.iaa.csic.es##+js(acs, String.prototype.toLowerCase, Contract)
 
 ! https://x.com/joe4security/status/2092954759237869800
 ||openai-backup.one^$all
+
+! https://x.com/j_o_h_d_s/status/2094403513828684228
+cizitensports.com##+js(rmnt, script, randomUUID)
+###cf-challenge-root
 
 ! !SECTION: ClickFix
 
@@ -5165,14 +5169,21 @@ webflow.io##html.w-mod-js:not(.wf-active) > body:not([class]):not([id]) > a[clas
 ! https://www.virustotal.com/gui/url/a9ce943e3108ab00e2d2792c78d4cd5729c61e9fdb60bf39ec7d35ab46b6a4f2
 ! https://www.virustotal.com/gui/url/378dcbb81671d233b4654788ae7ebdbf409e7d0897e19e94292ca588661a0009
 ! https://www.reddit.com/r/antivirus/comments/1q1ic4y/copy_paste_cloudflare_are_they_ever_real/
+! https://www.reddit.com/r/IndiaTea/comments/1w364ze/poweshell_captcha_attack_on_glendale_tea_estate/
 rapidkil.com.au##+js(aost, XMLHttpRequest, /wp-content)
 ##html[data-scrapbook-source][data-scrapbook-create][data-scrapbook-title] > body.no-js > div.main-wrapper[role="main"] > div.main-content
+##html > #__cf_challenge_host__
 ||getfix.win^$all
 ||getalia.org^$all
 ||goveanrs.org^$all
 ||govearali.org^$all
+||claritydelivr.com^$all
+||dntds.shop^$all
+/^https:\/\/[a-z]+\.[a-z]+\/[a-z]+\?rnd=[a-z0-9][a-z0-9][a-z0-9][a-z0-9][a-z0-9][a-z0-9][a-z0-9][a-z0-9]&ts=[0-9]+$/$script,xhr,3p,match-case
 /jsrepo?rnd=$script,xhr,3p
+/teamrepo?rnd=$script,xhr,3p
 *$xhr,3p,method=get,to=org|shop|win,ipaddress=178.16.53.137
+*$script,3p,ipaddress=158.94.211.92
 ||icu^$doc,frame,ipaddress=94.154.35.152
 ||icu/captcha.html$doc,frame
 /captcha.html$doc,frame,ipaddress=94.154.35.152
@@ -6447,3 +6458,17 @@ top##body > center + .A + .post
 ||ggle-analytics.$all
 ||whale-alert.$all
 ||cookie-whitelist.$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/34311
+||vipsunglassesindia.in^$all
+||oakleysunglassesindia.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/34336
+||lieferanndo.de^$all
+||qemow.com^$all
+||bbcwebhosting.com^$all
+||ilyvo.com^$all
+||prof-noemie-sgzopjv.work^$all
+*$doc,ipaddress=64.190.63.136
+/go/*^ref=*&subid1=*&subid2=$doc
+^ofv_id=*&aff_pub_id=*&click_id=*&subid1=*&subid2=$doc
