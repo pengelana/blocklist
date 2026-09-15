@@ -1,5 +1,5 @@
-# Copyright (c) 2014-2026 Maltrail developers (https://github.com/stamparm/maltrail/)
-# See the file 'LICENSE' for copying permission
+# Copyright (c) 2014-present Maltrail developers (https://github.com/stamparm/trails/)
+# See the file 'LICENSE.md' for copying permission
 
 # Aliases: splinter
 
@@ -8714,6 +8714,16 @@ thtttttttt.lidiasdeli.com
 43.157.204.73:8889
 ashveil.org
 c2.ashveil.org
+
+# Reference: https://x.com/Hunters_Ledger/status/2097007691503656974
+# Reference: https://the-hunters-ledger.com/reports/sliver-c2-windows-postex-staging-193-233-202-17/
+# Reference: https://www.virustotal.com/gui/file/f03e1d0951f4d0744939a0cc7da7730ab367ec9420c1a77cc7f97dc0932de652/detection
+# Reference: https://www.virustotal.com/gui/file/bd61c2880920bbfb86c12df439dd1ca0258a10e532433698fd029aef2a5b33f2/detection
+
+http://193.233.202.17
+193.233.202.17:443
+193.233.202.17:8088
+/slv_beacon_sc.bin
 
 # Generic
 

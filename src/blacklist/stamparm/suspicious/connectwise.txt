@@ -1,5 +1,5 @@
-# Copyright (c) 2014-2026 Maltrail developers (https://github.com/stamparm/maltrail/)
-# See the file 'LICENSE' for copying permission
+# Copyright (c) 2014-present Maltrail developers (https://github.com/stamparm/trails/)
+# See the file 'LICENSE.md' for copying permission
 
 # Aliases: ScreenConnect
 # Note: Trail for detection of evil variants of ConnectWise remote-admin connections
@@ -7854,3 +7854,21 @@ http://217.60.241.142
 
 102.220.160.223:443
 zeroapp23.com
+
+# Reference: https://x.com/0xb1lal/status/2097068147303956740
+
+http://207.174.0.143
+
+# Reference: https://www.virustotal.com/gui/ip-address/151.241.154.16/relations
+# Reference: https://www.virustotal.com/gui/file/56a7f7a10e65c32a0d3a5b5d47c6c4c733a234b0e07c3cd9059325b221d2a116/detection
+# TITLE-HOST/IP=SILOVIK v2.1 - Global Command Center
+
+151.241.154.16:443
+151.241.154.16:8041
+comprehensive.click
+devquanta.xyz
+industryreco.xyz
+panel.industryreco.xyz
+sararch.xyz
+silovik.xyz
+zentorox.click

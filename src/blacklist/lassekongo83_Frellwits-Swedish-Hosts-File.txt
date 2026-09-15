@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-08-18 07:33:21 CEST
-# entries:        1157
+# last updated:   2026-09-11 06:59:09 CEST
+# entries:        1156
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -314,6 +314,7 @@
 127.0.0.1 cdn.usefathom.com
 127.0.0.1 cdn.userreport.com
 127.0.0.1 cdn.viglink.com
+127.0.0.1 cdn.visibilitykit.ai
 127.0.0.1 cdn.visitors.now
 127.0.0.1 cdn.webpushr.com
 127.0.0.1 cdn.wootric.com
@@ -478,7 +479,6 @@
 127.0.0.1 fms.360yield.com
 127.0.0.1 fp.mediaintelliview.com
 127.0.0.1 fpnpmcdn.net
-127.0.0.1 fraagesport.com
 127.0.0.1 franecki.net
 127.0.0.1 freegeoip.app
 127.0.0.1 freespee.com
@@ -892,7 +892,6 @@
 127.0.0.1 sync.3fmediagroup.com
 127.0.0.1 s-eu-1.pushpushgo.com
 127.0.0.1 s.go-mpulse.net
-127.0.0.1 s.vi-serve.com
 127.0.0.1 t.atmng.io
 127.0.0.1 t.contentinsights.com
 127.0.0.1 t.elasticsuite.io
