@@ -1049,6 +1049,12 @@ cracksmid.com##div[style=""] > center > center
 ||new.point-youtools.com^$all
 ! https://x.com/masaomi346/status/2098801311575933428
 ||datinglive-jp.com^$all
+! https://x.com/masaomi346/status/2099651288984436985
+||download.guomeizuo.com^$all
+! https://x.com/masaomi346/status/2099317771578527919
+||app.suckmongif.com^$all
+! https://x.com/masaomi346/status/2100236393331212469
+||rerrioara.live^$3p
 
 ! scam sites
 ||webuzz.me^$doc
@@ -2480,6 +2486,7 @@ sgp1.cdn.digitaloceanspaces.com###frame[title="encrypted shop"][allowfullscreen]
 ||azureedge.net/*/esc.js
 ||azureedge.net/*/flscn.js
 /text_tel.js$domain=amplifyapp.com|app|azurestaticapps.net|dev|fit|me|on-forge.com|page|site|github.io|herokuapp.com
+||amplifyapp.com/support.js|$1p
 ||netlify.app/text.js|$1p
 ||github.io/my-new-app/text.js$1p
 /a0ler0tm0s.mp3$domain=dev|online|shop
@@ -2631,6 +2638,8 @@ strand-co.com##+js(acs, document.createElement, .onerror)
 ||weibonews.com^$all
 ||biscottirbh.lol^$all
 ##body > div.mw[role="main"] > .mc
+! https://x.com/FabianoSolana/status/2100205142440304871
+||basednewsarticle.com^$all
 
 ! https://x.com/urlyzeio/status/2092696064121802992
 ||google-meet-call.com^$all
@@ -2654,8 +2663,9 @@ cizitensports.com##+js(rmnt, script, randomUUID)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/34356
 ##.wp-singular > iframe[srcdoc][allowfullscreen][allow*="clipboard-write"][style*="2147483647"]
-/^https:\/\/[a-z]{7,}\.sbs\/[a-z0-9]{8}\.js$/$script,3p,match-case,to=sbs
-||sbs^$domain=testmyspeed.com
+/^https:\/\/[a-z]{7,}\.[a-z]{3,4}\/[a-z0-9]{8}\.js$/$script,3p,match-case,to=club|sbs
+/\/[a-z0-9]{8}\.js$/$script,3p,match-case,domain=testmyspeed.com
+||nutmann.club^
 ||kusikowski.sbs^
 ||swewart.sbs^
 ||guiglen.sbs^
@@ -2663,6 +2673,8 @@ cizitensports.com##+js(rmnt, script, randomUUID)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/240231
 webrick.com##+js(acs, atob, Uint8Array)
 ##html > #bw-rc-host
+! https://www.reddit.com/r/computerviruses/comments/1wgxdf1/smart_virus_installation_or_something_malicious/
+aspireatlas.com##+js(rmnt, script, String.fromCharCode)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/34424
 ||keelhaulably.com^
@@ -2805,6 +2817,8 @@ pentest.blog##+js(acs, atob, new )
 ||vanced.pro^$all,domain=~revanced.app
 ||vancedmanager.$all,domain=~revanced.app
 ||revancedapps.$all,domain=~revanced.app
+! https://github.com/uBlockOrigin/uAssets/issues/29203
+||vanced.to^$doc
 ! LuckyPatcher - Official site: luckypatchers.com
 ! https://old.reddit.com/r/luckypatcher/comments/rawq9f/what_is_the_official_website/
 ! https://old.reddit.com/r/luckypatcher/comments/aln5tj/official_download_for_lucky_patcher/
@@ -6377,3 +6391,6 @@ top##body > center + .A + .post
 
 ! https://github.com/uBlockOrigin/uAssets/issues/34450
 ||mobel-wahls.shop^$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/34512
+||flingtrainer.io^$all

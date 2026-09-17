@@ -1,7 +1,7 @@
 # Domains
 
 ~~~
-[ OK ]   211,406 src/blacklist/217heidai_adblockdns.txt
+[ OK ]   214,451 src/blacklist/217heidai_adblockdns.txt
 [ OK ]       948 src/blacklist/AWAvenue-Ads-Rule.txt
 [ OK ]    11,735 src/blacklist/AdguardTeam_disguised_ads_justdomains.txt
 [ OK ]    30,576 src/blacklist/AdguardTeam_disguised_clickthroughs_justdomains.txt
@@ -9,20 +9,20 @@
 [ OK ]    19,948 src/blacklist/AdguardTeam_disguised_microsites_justdomains.txt
 [ OK ]   224,799 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ]       925 src/blacklist/AssoEchap_hosts.txt
-[ OK ]   198,573 src/blacklist/Cats-Team_dns.txt
-[ OK ]     8,868 src/blacklist/DNSBunker_CTI_domains.txt
+[ OK ]   199,129 src/blacklist/Cats-Team_dns.txt
+[ OK ]     9,319 src/blacklist/DNSBunker_CTI_domains.txt
 [ OK ]    11,763 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       476 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
-[ OK ]    43,600 src/blacklist/KADhosts.txt
+[ OK ]    45,835 src/blacklist/KADhosts.txt
 [ OK ]     1,643 src/blacklist/LanikSJ_getadmiral-domains.txt.txt
 [ OK ]         2 src/blacklist/LanikSJ_popads-domains.txt
 [ OK ]     1,125 src/blacklist/MajkiIT_polish-pihole-filters_hostfile.txt
 [ OK ]     7,115 src/blacklist/Spam404_adblock-list.txt
 [ OK ]     8,140 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,850 src/blacklist/StevenBlack_hosts.txt
-[ OK ]    78,136 src/blacklist/StevenBlack_master_hosts.txt
-[ OK ]    48,391 src/blacklist/athreatfox_abuse_ch_hostfile.txt
+[ OK ]    80,165 src/blacklist/StevenBlack_master_hosts.txt
+[ OK ]    46,272 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   202,868 src/blacklist/badmojr_1Hosts_Lite_domains.txt
 [ OK ]     1,747 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]         1 src/blacklist/clickfix_t.txt
@@ -33,19 +33,19 @@
 [ OK ]     2,697 src/blacklist/disconnect_me_simple_ad.txt
 [ OK ]     2,732 src/blacklist/disconnect_me_simple_malvertising.txt.txt
 [ OK ]       344 src/blacklist/dnstunneling_t.txt
-[ OK ]     2,253 src/blacklist/durablenapkin_hosts.txt
-[ OK ]     2,388 src/blacklist/easylist_adservers_popup.txt
+[ OK ]     2,218 src/blacklist/durablenapkin_hosts.txt
+[ OK ]     2,397 src/blacklist/easylist_adservers_popup.txt
 [ OK ]     2,046 src/blacklist/ethanr_Mandiant_APT1_Report_Appendix_D.txt
 [ OK ]        60 src/blacklist/fakenews_t.txt
-[ OK ]   178,725 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]   179,306 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]    11,490 src/blacklist/firebog_Prigent-Crypto.txt
-[ OK ]    43,029 src/blacklist/firebog_net_Easyprivacy.txt
-[ OK ]     4,270 src/blacklist/firebog_net_Prigent_Ads.txt
+[ OK ]    43,045 src/blacklist/firebog_net_Easyprivacy.txt
+[ OK ]     4,269 src/blacklist/firebog_net_Prigent_Ads.txt
 [ OK ]       356 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
-[ OK ]    16,728 src/blacklist/hagezi_fake.txt
-[ OK ]   180,765 src/blacklist/hagezi_multi.txt
-[ OK ]    48,783 src/blacklist/hagezi_popup.txt
+[ OK ]    17,103 src/blacklist/hagezi_fake.txt
+[ OK ]   197,602 src/blacklist/hagezi_multi.txt
+[ OK ]    50,085 src/blacklist/hagezi_popup.txt
 [ OK ]       311 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]    14,745 src/blacklist/hostfiles_frogeye_fr_firstparty-trackers-hosts.txt
 [ OK ]       753 src/blacklist/hpthreatresearch_domains.txt
@@ -57,23 +57,23 @@
 [ OK ]       399 src/blacklist/jameswt_t.txt
 [ OK ]     3,848 src/blacklist/judol_t.txt
 [ OK ]     1,156 src/blacklist/lassekongo83_Frellwits-Swedish-Hosts-File.txt
-[ OK ]       494 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
-[ OK ]    39,295 src/blacklist/malware_filter_phishing-filter-hosts.txt
+[ OK ]       490 src/blacklist/malware-filter_urlhaus-filter-hosts-online.txt
+[ OK ]    39,511 src/blacklist/malware_filter_phishing-filter-hosts.txt
 [ OK ]         6 src/blacklist/malwarebytes_t.txt
 [ OK ]        89 src/blacklist/malwarhunterteam_t.txt
-[ OK ]     1,618 src/blacklist/marco-acorte_antispam-it.txt
+[ OK ]     1,624 src/blacklist/marco-acorte_antispam-it.txt
 [ OK ]     2,348 src/blacklist/matomo_org_spammers.txt
 [ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]    25,267 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]   153,669 src/blacklist/phishing_army_blocklist_extended.txt
+[ OK ]   154,027 src/blacklist/phishing_army_blocklist_extended.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       125 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]     1,193 src/blacklist/redirect_t.txt
-[ OK ]   130,692 src/blacklist/romainmarcoux_malicious-domains/full-domains-aa.txt
-[ OK ]    52,674 src/blacklist/romainmarcoux_malicious-domains/full-domains-ab.txt
+[ OK ]   130,667 src/blacklist/romainmarcoux_malicious-domains/full-domains-aa.txt
+[ OK ]    30,945 src/blacklist/romainmarcoux_malicious-domains/full-domains-ab.txt
 [NOK ]         0 src/blacklist/romainmarcoux_malicious-domains/full-domains-ac.txt
-[ OK ]    13,069 src/blacklist/someonewhocares_hosts.txt
+[ OK ]    13,075 src/blacklist/someonewhocares_hosts.txt
 [NOK ]         0 src/blacklist/stamparm/malicious/365stealer_phishtool.txt
 [ OK ]         5 src/blacklist/stamparm/malicious/404_tds.txt
 [ OK ]        56 src/blacklist/stamparm/malicious/abcsoup.txt
@@ -98,13 +98,13 @@
 [NOK ]         0 src/blacklist/stamparm/malicious/cloakndagger_c2.txt
 [NOK ]         0 src/blacklist/stamparm/malicious/coreimpact.txt
 [ OK ]        27 src/blacklist/stamparm/malicious/covenant.txt
-[ OK ]       143 src/blacklist/stamparm/malicious/cyberstrikeai.txt
+[ OK ]       149 src/blacklist/stamparm/malicious/cyberstrikeai.txt
 [ OK ]         8 src/blacklist/stamparm/malicious/deimos_c2.txt
 [ OK ]        10 src/blacklist/stamparm/malicious/domain_shadowing.txt
 [ OK ]        64 src/blacklist/stamparm/malicious/ek_angler.txt
 [ OK ]        13 src/blacklist/stamparm/malicious/ek_bottle.txt
 [ OK ]         1 src/blacklist/stamparm/malicious/ek_capesand.txt
-[ OK ]    15,787 src/blacklist/stamparm/malicious/ek_clearfake-1.txt
+[ OK ]    16,146 src/blacklist/stamparm/malicious/ek_clearfake-1.txt
 [ OK ]   109,959 src/blacklist/stamparm/malicious/ek_clearfake.txt
 [ OK ]        84 src/blacklist/stamparm/malicious/ek_fallout.txt
 [ OK ]       242 src/blacklist/stamparm/malicious/ek_generic.txt
@@ -112,7 +112,7 @@
 [ OK ]        27 src/blacklist/stamparm/malicious/ek_grandsoft.txt
 [ OK ]         4 src/blacklist/stamparm/malicious/ek_greenflash.txt
 [ OK ]        11 src/blacklist/stamparm/malicious/ek_kaixin.txt
-[ OK ]     1,363 src/blacklist/stamparm/malicious/ek_landupdate808.txt
+[ OK ]     1,376 src/blacklist/stamparm/malicious/ek_landupdate808.txt
 [ OK ]     7,143 src/blacklist/stamparm/malicious/ek_magnitude.txt
 [ OK ]         6 src/blacklist/stamparm/malicious/ek_neutrino.txt
 [ OK ]         4 src/blacklist/stamparm/malicious/ek_nuclear.txt
@@ -128,7 +128,7 @@
 [ OK ]         3 src/blacklist/stamparm/malicious/ek_trillium.txt
 [ OK ]        30 src/blacklist/stamparm/malicious/ek_underminer.txt
 [ OK ]     2,247 src/blacklist/stamparm/malicious/ek_vextrio.txt
-[ OK ]     1,821 src/blacklist/stamparm/malicious/ek_zphp.txt
+[ OK ]     1,824 src/blacklist/stamparm/malicious/ek_zphp.txt
 [ OK ]         4 src/blacklist/stamparm/malicious/elf_reversessh.txt
 [ OK ]        48 src/blacklist/stamparm/malicious/errtraffic_tds.txt
 [ OK ]     1,449 src/blacklist/stamparm/malicious/evilginx.txt
@@ -149,7 +149,7 @@
 [ OK ]     4,582 src/blacklist/stamparm/malicious/keitaro_tds.txt
 [ OK ]        40 src/blacklist/stamparm/malicious/khepri_c2.txt
 [NOK ]         0 src/blacklist/stamparm/malicious/ligolo_tunnel.txt
-[ OK ]    14,966 src/blacklist/stamparm/malicious/magentocore.txt
+[ OK ]    14,978 src/blacklist/stamparm/malicious/magentocore.txt
 [NOK ]         0 src/blacklist/stamparm/malicious/medusa_c2.txt
 [ OK ]         2 src/blacklist/stamparm/malicious/merlin_c2.txt
 [ OK ]       128 src/blacklist/stamparm/malicious/metasploit.txt
@@ -198,7 +198,7 @@
 [NOK ]         0 src/blacklist/stamparm/malicious/villian_c2.txt
 [NOK ]         0 src/blacklist/stamparm/malicious/viper.txt
 [ OK ]     1,822 src/blacklist/stamparm/malicious/woof.txt
-[ OK ]     7,274 src/blacklist/stamparm/malicious/wp_inject.txt
+[ OK ]     7,284 src/blacklist/stamparm/malicious/wp_inject.txt
 [ OK ]         9 src/blacklist/stamparm/malicious/wraithnet.txt
 [NOK ]         0 src/blacklist/stamparm/malicious/xiebroc2.txt
 [ OK ]         7 src/blacklist/stamparm/malicious/z_tds.txt
@@ -206,7 +206,7 @@
 [NOK ]         0 src/blacklist/stamparm/malicious/zshell_c2.txt
 [NOK ]         0 src/blacklist/stamparm/malware/0bj3ctivity.txt
 [ OK ]         8 src/blacklist/stamparm/malware/0debug.txt
-[ OK ]     3,303 src/blacklist/stamparm/malware/0ktapus.txt
+[ OK ]     3,432 src/blacklist/stamparm/malware/0ktapus.txt
 [ OK ]         4 src/blacklist/stamparm/malware/0mega.txt
 [NOK ]         0 src/blacklist/stamparm/malware/0xthief.txt
 [NOK ]         0 src/blacklist/stamparm/malware/10fx.txt
@@ -218,7 +218,7 @@
 [NOK ]         0 src/blacklist/stamparm/malware/411.txt
 [ OK ]        10 src/blacklist/stamparm/malware/44caliber.txt
 [ OK ]         2 src/blacklist/stamparm/malware/4l4md4r_ransomware.txt
-[ OK ]         2 src/blacklist/stamparm/malware/751.txt
+[ OK ]         5 src/blacklist/stamparm/malware/751.txt
 [NOK ]         0 src/blacklist/stamparm/malware/8base.txt
 [ OK ]        11 src/blacklist/stamparm/malware/9002.txt
 [ OK ]         4 src/blacklist/stamparm/malware/a310.txt
@@ -363,7 +363,7 @@
 [ OK ]         5 src/blacklist/stamparm/malware/android_frogblight.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_frogonal.txt
 [NOK ]         0 src/blacklist/stamparm/malware/android_funkybot.txt
-[ OK ]     2,710 src/blacklist/stamparm/malware/android_fvncbot.txt
+[ OK ]     2,722 src/blacklist/stamparm/malware/android_fvncbot.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_gabas.txt
 [ OK ]        10 src/blacklist/stamparm/malware/android_geinimi.txt
 [ OK ]       355 src/blacklist/stamparm/malware/android_generic.txt
@@ -396,7 +396,7 @@
 [ OK ]     5,635 src/blacklist/stamparm/malware/android_hydra.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_ibanking.txt
 [ OK ]         2 src/blacklist/stamparm/malware/android_iconosys.txt
-[ OK ]     4,369 src/blacklist/stamparm/malware/android_joker.txt
+[ OK ]     4,379 src/blacklist/stamparm/malware/android_joker.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_jsmshider.txt
 [NOK ]         0 src/blacklist/stamparm/malware/android_kbuster.txt
 [ OK ]         2 src/blacklist/stamparm/malware/android_kemoge.txt
@@ -455,13 +455,13 @@
 [ OK ]         4 src/blacklist/stamparm/malware/android_ratmilad.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_ratseller.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_redalert.txt
-[ OK ]       562 src/blacklist/stamparm/malware/android_redhook.txt
+[ OK ]       569 src/blacklist/stamparm/malware/android_redhook.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_regon.txt
 [ OK ]        86 src/blacklist/stamparm/malware/android_remotecode.txt
 [ OK ]         4 src/blacklist/stamparm/malware/android_repane.txt
 [NOK ]         0 src/blacklist/stamparm/malware/android_residentbat.txt
 [ OK ]        47 src/blacklist/stamparm/malware/android_riltok.txt
-[ OK ]    16,723 src/blacklist/stamparm/malware/android_roamingmantis.txt
+[ OK ]    16,888 src/blacklist/stamparm/malware/android_roamingmantis.txt
 [ OK ]        12 src/blacklist/stamparm/malware/android_rocinante.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_roidsec.txt
 [ OK ]        19 src/blacklist/stamparm/malware/android_rokarolla.txt
@@ -502,6 +502,7 @@
 [ OK ]        99 src/blacklist/stamparm/malware/android_triada.txt
 [ OK ]         2 src/blacklist/stamparm/malware/android_uracto.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_usbcleaver.txt
+[NOK ]         0 src/blacklist/stamparm/malware/android_vankerat.txt
 [ OK ]       624 src/blacklist/stamparm/malware/android_vapor.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_viceleaker.txt
 [ OK ]        53 src/blacklist/stamparm/malware/android_vmvol.txt
@@ -689,7 +690,7 @@
 [ OK ]         1 src/blacklist/stamparm/malware/apt_kasablanka.txt
 [ OK ]        59 src/blacklist/stamparm/malware/apt_ke3chang.txt
 [ OK ]        92 src/blacklist/stamparm/malware/apt_keyboy.txt
-[ OK ]    26,788 src/blacklist/stamparm/malware/apt_kimsuky.txt
+[ OK ]    26,865 src/blacklist/stamparm/malware/apt_kimsuky.txt
 [ OK ]       577 src/blacklist/stamparm/malware/apt_kun3.txt
 [ OK ]     3,948 src/blacklist/stamparm/malware/apt_lazarus.txt
 [ OK ]        18 src/blacklist/stamparm/malware/apt_lazyscripter.txt
@@ -778,7 +779,7 @@
 [ OK ]        10 src/blacklist/stamparm/malware/apt_shamoon.txt
 [ OK ]         5 src/blacklist/stamparm/malware/apt_sharppanda.txt
 [ OK ]         2 src/blacklist/stamparm/malware/apt_shiqiang.txt
-[ OK ]     3,793 src/blacklist/stamparm/malware/apt_sidewinder.txt
+[ OK ]     3,802 src/blacklist/stamparm/malware/apt_sidewinder.txt
 [ OK ]        48 src/blacklist/stamparm/malware/apt_silence.txt
 [ OK ]         3 src/blacklist/stamparm/malware/apt_silencerlion.txt
 [ OK ]       251 src/blacklist/stamparm/malware/apt_silentlynx.txt
@@ -816,7 +817,7 @@
 [ OK ]        29 src/blacklist/stamparm/malware/apt_tinyscouts.txt
 [ OK ]        29 src/blacklist/stamparm/malware/apt_toddycat.txt
 [ OK ]       185 src/blacklist/stamparm/malware/apt_tortoiseshell.txt
-[ OK ]     6,775 src/blacklist/stamparm/malware/apt_transparenttribe.txt
+[ OK ]     6,776 src/blacklist/stamparm/malware/apt_transparenttribe.txt
 [ OK ]        18 src/blacklist/stamparm/malware/apt_triangulation.txt
 [ OK ]       336 src/blacklist/stamparm/malware/apt_turla.txt
 [ OK ]         8 src/blacklist/stamparm/malware/apt_tvrms.txt
@@ -952,12 +953,13 @@
 [ OK ]         2 src/blacklist/stamparm/malware/balamid.txt
 [ OK ]       168 src/blacklist/stamparm/malware/baldr.txt
 [ OK ]        19 src/blacklist/stamparm/malware/balkanrat.txt
+[ OK ]        12 src/blacklist/stamparm/malware/bambootoken.txt
 [ OK ]       549 src/blacklist/stamparm/malware/bamital.txt
 [ OK ]        88 src/blacklist/stamparm/malware/bananasulfate.txt
 [NOK ]         0 src/blacklist/stamparm/malware/bandit.txt
 [ OK ]        46 src/blacklist/stamparm/malware/bandook.txt
 [ OK ]         1 src/blacklist/stamparm/malware/bankapol.txt
-[ OK ]       182 src/blacklist/stamparm/malware/bankerclip.txt
+[ OK ]       183 src/blacklist/stamparm/malware/bankerclip.txt
 [ OK ]         2 src/blacklist/stamparm/malware/bankerflux.txt
 [ OK ]         1 src/blacklist/stamparm/malware/bankiacry.txt
 [ OK ]         6 src/blacklist/stamparm/malware/bankpatch.txt
@@ -1300,7 +1302,7 @@
 [ OK ]         9 src/blacklist/stamparm/malware/deprimon.txt
 [ OK ]         1 src/blacklist/stamparm/malware/derialock.txt
 [ OK ]        13 src/blacklist/stamparm/malware/dero_miner.txt
-[ OK ]         3 src/blacklist/stamparm/malware/desckvbrat.txt
+[ OK ]        11 src/blacklist/stamparm/malware/desckvbrat.txt
 [NOK ]         0 src/blacklist/stamparm/malware/desolator.txt
 [ OK ]         5 src/blacklist/stamparm/malware/destiny.txt
 [ OK ]         2 src/blacklist/stamparm/malware/destory.txt
@@ -1322,7 +1324,7 @@
 [ OK ]         1 src/blacklist/stamparm/malware/dior.txt
 [ OK ]       469 src/blacklist/stamparm/malware/dircrypt.txt
 [ OK ]        29 src/blacklist/stamparm/malware/dirtjump.txt
-[ OK ]        78 src/blacklist/stamparm/malware/discordgrabber.txt
+[ OK ]        79 src/blacklist/stamparm/malware/discordgrabber.txt
 [NOK ]         0 src/blacklist/stamparm/malware/diztakun.txt
 [ OK ]         1 src/blacklist/stamparm/malware/dmalocker.txt
 [ OK ]        30 src/blacklist/stamparm/malware/dmsniff.txt
@@ -1454,7 +1456,7 @@
 [NOK ]         0 src/blacklist/stamparm/malware/elf_manx.txt
 [ OK ]         1 src/blacklist/stamparm/malware/elf_mayhem.txt
 [ OK ]         8 src/blacklist/stamparm/malware/elf_melofee.txt
-[ OK ]     4,171 src/blacklist/stamparm/malware/elf_mirai.txt
+[ OK ]     4,172 src/blacklist/stamparm/malware/elf_mirai.txt
 [ OK ]         1 src/blacklist/stamparm/malware/elf_mokes.txt
 [ OK ]        22 src/blacklist/stamparm/malware/elf_moobot.txt
 [ OK ]         5 src/blacklist/stamparm/malware/elf_mumblehard.txt
@@ -1557,7 +1559,7 @@
 [ OK ]         2 src/blacklist/stamparm/malware/fahis.txt
 [ OK ]         3 src/blacklist/stamparm/malware/fakben.txt
 [ OK ]         3 src/blacklist/stamparm/malware/fakeadobe.txt
-[ OK ]    55,909 src/blacklist/stamparm/malware/fakeapp.txt
+[ OK ]    55,891 src/blacklist/stamparm/malware/fakeapp.txt
 [ OK ]       864 src/blacklist/stamparm/malware/fakeav.txt
 [ OK ]       383 src/blacklist/stamparm/malware/fakebat.txt
 [ OK ]         4 src/blacklist/stamparm/malware/fakeran.txt
@@ -1620,7 +1622,7 @@
 [ OK ]         3 src/blacklist/stamparm/malware/fusionloader.txt
 [ OK ]     6,973 src/blacklist/stamparm/malware/fynloski.txt
 [ OK ]        12 src/blacklist/stamparm/malware/fysna.txt
-[ OK ]        36 src/blacklist/stamparm/malware/gamania.txt
+[ OK ]        42 src/blacklist/stamparm/malware/gamania.txt
 [ OK ]        41 src/blacklist/stamparm/malware/gamapos.txt
 [ OK ]        37 src/blacklist/stamparm/malware/gandcrab.txt
 [ OK ]         1 src/blacklist/stamparm/malware/gaudox.txt
@@ -1634,7 +1636,7 @@
 [ OK ]        41 src/blacklist/stamparm/malware/generic_follina.txt
 [NOK ]         0 src/blacklist/stamparm/malware/generic_fortibleed.txt
 [ OK ]        19 src/blacklist/stamparm/malware/generic_log4shell.txt
-[ OK ]       338 src/blacklist/stamparm/malware/generic_miner.txt
+[ OK ]       339 src/blacklist/stamparm/malware/generic_miner.txt
 [ OK ]         5 src/blacklist/stamparm/malware/generic_proxynotshell.txt
 [ OK ]         8 src/blacklist/stamparm/malware/generic_ransomware.txt
 [ OK ]       630 src/blacklist/stamparm/malware/generic_stealer.txt
@@ -1815,7 +1817,7 @@
 [NOK ]         0 src/blacklist/stamparm/malware/innfirat.txt
 [NOK ]         0 src/blacklist/stamparm/malware/insomnia.txt
 [ OK ]   101,719 src/blacklist/stamparm/malware/interlock-1.txt
-[ OK ]    56,290 src/blacklist/stamparm/malware/interlock-2.txt
+[ OK ]    62,053 src/blacklist/stamparm/malware/interlock-2.txt
 [ OK ]    87,041 src/blacklist/stamparm/malware/interlock.txt
 [ OK ]         1 src/blacklist/stamparm/malware/interstellar.txt
 [ OK ]        63 src/blacklist/stamparm/malware/investimer.txt
@@ -2151,6 +2153,7 @@
 [ OK ]         2 src/blacklist/stamparm/malware/n2019cov.txt
 [NOK ]         0 src/blacklist/stamparm/malware/n3tw0rm.txt
 [NOK ]         0 src/blacklist/stamparm/malware/n3xtrat.txt
+[NOK ]         0 src/blacklist/stamparm/malware/nabucur_ransomware.txt
 [NOK ]         0 src/blacklist/stamparm/malware/nampohyu.txt
 [ OK ]     4,918 src/blacklist/stamparm/malware/nanocore.txt
 [ OK ]         6 src/blacklist/stamparm/malware/napolar.txt
@@ -2262,7 +2265,7 @@
 [ OK ]         1 src/blacklist/stamparm/malware/oddball.txt
 [ OK ]         1 src/blacklist/stamparm/malware/odyssey.txt
 [ OK ]         3 src/blacklist/stamparm/malware/offendium.txt
-[ OK ]     1,674 src/blacklist/stamparm/malware/offloader.txt
+[ OK ]     1,678 src/blacklist/stamparm/malware/offloader.txt
 [ OK ]        47 src/blacklist/stamparm/malware/oficla.txt
 [ OK ]         2 src/blacklist/stamparm/malware/olymploader.txt
 [ OK ]         7 src/blacklist/stamparm/malware/olympus.txt
@@ -2284,7 +2287,7 @@
 [ OK ]       167 src/blacklist/stamparm/malware/oski.txt
 [ OK ]         2 src/blacklist/stamparm/malware/ospreypr.txt
 [ OK ]         2 src/blacklist/stamparm/malware/ostap.txt
-[ OK ]    21,635 src/blacklist/stamparm/malware/osx_atomic.txt
+[ OK ]    22,187 src/blacklist/stamparm/malware/osx_atomic.txt
 [ OK ]        11 src/blacklist/stamparm/malware/osx_banshee.txt
 [ OK ]         2 src/blacklist/stamparm/malware/osx_bundlore.txt
 [ OK ]         2 src/blacklist/stamparm/malware/osx_cheana.txt
@@ -2340,7 +2343,7 @@
 [ OK ]         8 src/blacklist/stamparm/malware/osx_xcodespy.txt
 [ OK ]       257 src/blacklist/stamparm/malware/osx_xcsset.txt
 [ OK ]         9 src/blacklist/stamparm/malware/osx_zuru.txt
-[ OK ]       292 src/blacklist/stamparm/malware/overlord.txt
+[ OK ]       297 src/blacklist/stamparm/malware/overlord.txt
 [ OK ]         1 src/blacklist/stamparm/malware/ovidiy.txt
 [ OK ]         1 src/blacklist/stamparm/malware/owowa.txt
 [ OK ]         7 src/blacklist/stamparm/malware/oxtarat.txt
@@ -2426,7 +2429,7 @@
 [ OK ]         1 src/blacklist/stamparm/malware/poverty.txt
 [ OK ]         2 src/blacklist/stamparm/malware/powelike.txt
 [ OK ]         4 src/blacklist/stamparm/malware/powerpool.txt
-[ OK ]     6,747 src/blacklist/stamparm/malware/powershell_injector.txt
+[ OK ]     6,749 src/blacklist/stamparm/malware/powershell_injector.txt
 [NOK ]         0 src/blacklist/stamparm/malware/powershell_ransomware.txt
 [ OK ]         6 src/blacklist/stamparm/malware/powershell_smbghost.txt
 [NOK ]         0 src/blacklist/stamparm/malware/powerworm.txt
@@ -2501,7 +2504,7 @@
 [ OK ]       164 src/blacklist/stamparm/malware/quadream.txt
 [ OK ]        24 src/blacklist/stamparm/malware/quantloader.txt
 [ OK ]         4 src/blacklist/stamparm/malware/quantum_ransomware.txt
-[ OK ]     2,245 src/blacklist/stamparm/malware/quasarrat.txt
+[ OK ]     2,246 src/blacklist/stamparm/malware/quasarrat.txt
 [ OK ]         1 src/blacklist/stamparm/malware/qudox.txt
 [ OK ]         4 src/blacklist/stamparm/malware/questealer.txt
 [ OK ]         2 src/blacklist/stamparm/malware/quickbooks.txt
@@ -2562,6 +2565,7 @@
 [ OK ]         1 src/blacklist/stamparm/malware/reenviobot.txt
 [ OK ]        51 src/blacklist/stamparm/malware/ref3927.txt
 [ OK ]        82 src/blacklist/stamparm/malware/ref7707.txt
+[ OK ]        38 src/blacklist/stamparm/malware/ref9334.txt
 [ OK ]     6,969 src/blacklist/stamparm/malware/remcos.txt
 [NOK ]         0 src/blacklist/stamparm/malware/remexirat.txt
 [ OK ]        10 src/blacklist/stamparm/malware/remotexrat.txt
@@ -2571,9 +2575,9 @@
 [ OK ]       537 src/blacklist/stamparm/malware/revengerat.txt
 [ OK ]         3 src/blacklist/stamparm/malware/reveton.txt
 [ OK ]        19 src/blacklist/stamparm/malware/revetrat.txt
-[ OK ]       704 src/blacklist/stamparm/malware/revstealer.txt
+[ OK ]       711 src/blacklist/stamparm/malware/revstealer.txt
 [NOK ]         0 src/blacklist/stamparm/malware/reynolds.txt
-[ OK ]       974 src/blacklist/stamparm/malware/rhadamanthys.txt
+[ OK ]       976 src/blacklist/stamparm/malware/rhadamanthys.txt
 [NOK ]         0 src/blacklist/stamparm/malware/rhysida.txt
 [ OK ]         1 src/blacklist/stamparm/malware/rift.txt
 [ OK ]        10 src/blacklist/stamparm/malware/rilide.txt
@@ -2603,6 +2607,7 @@
 [NOK ]         0 src/blacklist/stamparm/malware/runforestrun.txt
 [NOK ]         0 src/blacklist/stamparm/malware/runsomewares.txt
 [NOK ]         0 src/blacklist/stamparm/malware/rust_injector.txt
+[NOK ]         0 src/blacklist/stamparm/malware/rustgate.txt
 [ OK ]        14 src/blacklist/stamparm/malware/rustock.txt
 [ OK ]        43 src/blacklist/stamparm/malware/rusty.txt
 [NOK ]         0 src/blacklist/stamparm/malware/rustylocker.txt
@@ -2617,12 +2622,12 @@
 [ OK ]         3 src/blacklist/stamparm/malware/sakdriver.txt
 [ OK ]        15 src/blacklist/stamparm/malware/sakula.txt
 [ OK ]         1 src/blacklist/stamparm/malware/sakurel.txt
-[ OK ]        23 src/blacklist/stamparm/malware/salat.txt
+[ OK ]        59 src/blacklist/stamparm/malware/salat.txt
 [ OK ]        61 src/blacklist/stamparm/malware/sality.txt
 [ OK ]         1 src/blacklist/stamparm/malware/samorat.txt
 [ OK ]        11 src/blacklist/stamparm/malware/samsam.txt
 [ OK ]         2 src/blacklist/stamparm/malware/sanny.txt
-[ OK ]        94 src/blacklist/stamparm/malware/santa.txt
+[ OK ]        95 src/blacklist/stamparm/malware/santa.txt
 [ OK ]         1 src/blacklist/stamparm/malware/sapphire.txt
 [NOK ]         0 src/blacklist/stamparm/malware/sarcoma.txt
 [ OK ]        74 src/blacklist/stamparm/malware/satacom.txt
@@ -2648,6 +2653,7 @@
 [NOK ]         0 src/blacklist/stamparm/malware/sensayq.txt
 [NOK ]         0 src/blacklist/stamparm/malware/seroxenrat.txt
 [ OK ]         3 src/blacklist/stamparm/malware/serpent.txt
+[NOK ]         0 src/blacklist/stamparm/malware/servorat.txt
 [ OK ]         4 src/blacklist/stamparm/malware/setcoderat.txt
 [ OK ]         2 src/blacklist/stamparm/malware/seth_ransomware.txt
 [ OK ]         4 src/blacklist/stamparm/malware/sethloader.txt
@@ -2835,6 +2841,7 @@
 [ OK ]       192 src/blacklist/stamparm/malware/spyeye.txt
 [ OK ]        65 src/blacklist/stamparm/malware/spygaterat.txt
 [ OK ]        22 src/blacklist/stamparm/malware/spypress.txt
+[ OK ]        18 src/blacklist/stamparm/malware/spywarehook.txt
 [ OK ]         3 src/blacklist/stamparm/malware/squidloader.txt
 [ OK ]        11 src/blacklist/stamparm/malware/squirrelwaffle.txt
 [NOK ]         0 src/blacklist/stamparm/malware/sqzrframework480.txt
@@ -3031,7 +3038,7 @@
 [NOK ]         0 src/blacklist/stamparm/malware/vexion.txt
 [NOK ]         0 src/blacklist/stamparm/malware/vexy_ransomware.txt
 [NOK ]         0 src/blacklist/stamparm/malware/vfokx.txt
-[ OK ]     6,846 src/blacklist/stamparm/malware/vidar.txt
+[ OK ]     6,847 src/blacklist/stamparm/malware/vidar.txt
 [ OK ]         7 src/blacklist/stamparm/malware/viknok.txt
 [ OK ]         1 src/blacklist/stamparm/malware/vikro.txt
 [ OK ]        10 src/blacklist/stamparm/malware/vilerat.txt
@@ -3079,6 +3086,7 @@
 [NOK ]         0 src/blacklist/stamparm/malware/weaxor_ransomware.txt
 [ OK ]         1 src/blacklist/stamparm/malware/webcobra.txt
 [ OK ]         2 src/blacklist/stamparm/malware/webffrat.txt
+[NOK ]         0 src/blacklist/stamparm/malware/webkrisa.txt
 [ OK ]         4 src/blacklist/stamparm/malware/wecorl.txt
 [ OK ]         1 src/blacklist/stamparm/malware/wecoym.txt
 [NOK ]         0 src/blacklist/stamparm/malware/wee.txt
@@ -3109,6 +3117,7 @@
 [ OK ]         2 src/blacklist/stamparm/malware/wolphv.txt
 [ OK ]        17 src/blacklist/stamparm/malware/woodyrat.txt
 [ OK ]         5 src/blacklist/stamparm/malware/woozlist.txt
+[ OK ]         1 src/blacklist/stamparm/malware/worstierat.txt
 [NOK ]         0 src/blacklist/stamparm/malware/wpbrutebot.txt
 [NOK ]         0 src/blacklist/stamparm/malware/wssdoor.txt
 [NOK ]         0 src/blacklist/stamparm/malware/wtracker.txt
@@ -3210,16 +3219,16 @@
 [ OK ]         1 src/blacklist/stamparm/suspicious/xenarmor.txt
 [ OK ]    18,111 src/blacklist/stamparm_blackbook.txt
 [ OK ]   968,546 src/blacklist/stamparm_maltrail-malware-domains.txt
-[ OK ]    75,624 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
-[ OK ]     2,800 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       389 src/blacklist/urhaus_abuse_hostfile.txt
+[ OK ]    75,946 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]     2,808 src/blacklist/uBlockOrigin_badware.txt
+[ OK ]       421 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,286 src/blacklist/validin-phish-feed/validin-phish-feed-1.txt
 [ OK ]    93,359 src/blacklist/validin-phish-feed/validin-phish-feed-2.txt
 [ OK ]   119,040 src/blacklist/validin-phish-feed/validin-phish-feed-3.txt
 [ OK ]   125,884 src/blacklist/validin-phish-feed/validin-phish-feed-4.txt
 [ OK ]   129,465 src/blacklist/validin-phish-feed/validin-phish-feed-5.txt
 [ OK ]   122,486 src/blacklist/validin-phish-feed/validin-phish-feed-6.txt
-[ OK ]    25,851 src/blacklist/validin-phish-feed/validin-phish-feed-7.txt
+[ OK ]    25,980 src/blacklist/validin-phish-feed/validin-phish-feed-7.txt
 [ OK ]     1,710 src/blacklist/validin-phish-feed/validin-phish-feed-crissmonovmcom.txt
 [ OK ]    74,574 src/blacklist/validin-phish-feed/validin-phish-feed-phishydnstxt-1.txt
 [ OK ]    69,031 src/blacklist/validin-phish-feed/validin-phish-feed-phishydnstxt-2.txt
@@ -3233,22 +3242,22 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,019 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 6,227,579
-Filter Duplicates   : 3,953,609
-External Whitelist  : 3,784,155
-Filter Whitelist    : 3,784,079
-Import Blacklist    : 3,784,772
-Compressed          : 3,187,188
+Total Blacklist     : 6,239,438
+Filter Duplicates   : 3,976,299
+External Whitelist  : 3,806,776
+Filter Whitelist    : 3,806,700
+Import Blacklist    : 3,807,393
+Compressed          : 3,209,505
 
    LENGTH     COUNT
-        2 2,257,320
-        3   673,509
-        4   221,327
-        5    31,570
-        6     2,726
-        7       569
-        8       104
-        9        36
+        2 2,268,251
+        3   684,935
+        4   221,243
+        5    31,609
+        6     2,739
+        7       566
+        8        98
+        9        37
        10        10
        11         7
        12         1
@@ -3259,7 +3268,7 @@ Compressed          : 3,187,188
        18         3
        19         1
 
-Total Blocklist     : 3,187,188
+Total Blocklist     : 3,209,505
 
 ~~~
 
