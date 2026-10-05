@@ -1055,6 +1055,16 @@ cracksmid.com##div[style=""] > center > center
 ||app.suckmongif.com^$all
 ! https://x.com/masaomi346/status/2100236393331212469
 ||rerrioara.live^$3p
+! https://x.com/masaomi346/status/2100846560636735828
+||gbelitesolutions.com^$all
+! https://x.com/masaomi346/status/2101817441022271734
+||app-download.kuashouban.com^$all
+! https://x.com/masaomi346/status/2103243191336284301
+||app.ebrafoster.com^$all
+! https://x.com/masaomi346/status/2104712860890976420
+||hasoadwaznqps.com^$all
+! https://x.com/masaomi346/status/2105440112989630614
+||d3so1q8pr29y0t.cloudfront.net^$all
 
 ! scam sites
 ||webuzz.me^$doc
@@ -2264,6 +2274,85 @@ cracksmid.com##div[style=""] > center > center
 ||disciplineavarice.com^$doc
 ||champion.kiitos-kiitoksia.com^$doc
 ||latterantithesis.com^$doc
+||fullth-loto.com^$doc
+||fast-mm.com^$doc
+||int-minint.com^$doc
+||jipso.jp^$doc
+||okanenokami.com^$doc
+||lovers-line.com^$doc
+||q0-b5u.com^$doc
+||qjmesdjrgznq.net^$doc
+||sherondeaau.com^$doc
+||shiarondea.com^$doc
+||shirondeau.com^$doc
+||sirondeauu.com^$doc
+||hitotsuma.net^$doc
+||lot.love-linkage.com^$doc
+||availautomobile.com^$doc
+||beneficial-blanket.com^$doc
+||browserbuilding.com^$doc
+||classicalchurch.com^$doc
+||departdelivery.com^$doc
+||exploitenterprise.com^$doc
+||finefixation.com^$doc
+||ability-acceptable.com^$doc
+||arcticlobe.com^$doc
+||basically-balk.com^$doc
+||brakenormally.com^$doc
+||dedicate-decade.com^$doc
+||dreamer-story.com^$doc
+||dubiousserene.com^$doc
+||exilestrict.com^$doc
+||fukutema.com^$doc
+||unmei-shinpi.jp^$doc
+||auto-run.info^$doc
+||box-ben.com^$doc
+||dom-dom.info^$doc
+||doune41758.biz^$doc
+||greatson1211.site^$doc
+||help-back.info^$doc
+||honem41147.biz^$doc
+||nova-argo.com^$doc
+||yjeija5121.biz^$doc
+||goo-riki.com$doc
+||menokurage.com^$doc
+||info777-6.com^$doc
+||kum.cloudpost-letter2185.com^$doc
+||kamiwatari.com^$doc
+||lotostics.com^$doc
+||dreamy-catch.com^$doc
+||dream-catch.net^$doc
+||yume-kanaee.com^$doc
+||anemone.blue^$doc
+||calm-connect.blue^$doc
+||your-connect.blue^$doc
+||eco-splp.com^$doc
+||ecosoc-gov.com^$doc
+||himitumatch.com^$doc
+||quickcheck-pay.com^$doc
+||su-hk.com^$doc
+||prime-vp.com^$doc
+||click-pay.net^$doc
+||ezpay-service.com^$doc
+||ytgfrgffgf.com^$doc
+||fizlee.jp^$doc
+||xexxngbeuz.net^$doc
+||lili-life-style.com^$doc
+||aquo.online^$doc
+||zuisaidou021926.com^$doc
+||ureluv.com^$doc
+||play.google.com/store/apps/details?id=com.ureluv.pwa^$doc
+||pri-vate.org^$doc
+||private-offer.com^$doc
+||huubm.jp^$doc
+||huuba.jp^$doc
+||famine-afeg.com^$doc
+||fabbe6r.com^$doc
+||faeww8j.com^$doc
+||fak1yt7.com^$doc
+||fapr3i.com^$doc
+||fawl4vx.com^$doc
+||tendresse.shop^$doc
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/142492
 ||webogram.ru^$all
@@ -2552,6 +2641,16 @@ monster###bw-rc-host[style="position: fixed !important; inset: 0px !important; z
 ||whirlpoploaderfast.com^
 ##body > .main-wrapper > .main-content > .intro > #checkbox-window
 
+! https://x.com/fr0gger_/status/2101505589964874104
+/\/t\.js\?site=[a-f0-9]{32}\b/$script,3p,match-case
+##body.wp-singular > div[id$="-overlay"] > div[id$="-container"] > div[class*="-container"] > div[id$="-checkbox-window"]
+!#if ext_ubol
+/\/t\.js\?site=[0-9-a-f]{19,}$/$script,3p,match-case
+!#endif
+!#if env_safari
+/\/t\.js\?site=[0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f][0-9-a-f]$/$script,3p,match-case
+!#endif
+
 ! https://www.malwarebytes.com/blog/threat-intel/2026/03/infiniti-stealer-a-new-macos-infostealer-using-clickfix-and-python-nuitka
 ##div.card > div#cbRow.checkbox-row[onclick="startVerify()"]
 
@@ -2573,6 +2672,8 @@ longhall.consulting##+js(rmnt, script, /document\.currentScript\.remove|0x0/)
 ||re-captcha.xyz^$all
 ||gtm-tools.xyz^$all
 ||cloudproxy.digital^$3p,xhr
+||browseid.codes^
+||ohhhhhmoney.com^$xhr,redirect=noop.txt
 ##html.canvas > body.wp-singular + div[popover="manual"]
 
 ! https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/
@@ -2682,6 +2783,54 @@ aspireatlas.com##+js(rmnt, script, String.fromCharCode)
 ! https://x.com/ypsehlig/status/2098515877784154334
 pentest.blog##+js(rmnt, script, (self);)
 pentest.blog##+js(acs, atob, new )
+
+! https://x.com/ex_raritas/status/2100689750462005752
+||soundcloudapp.com^$all
+##body[data-clipboard-code] > .main-wrapper
+
+! https://x.com/mugu_reporter/status/2100979282759606637
+||get-verification.to^$all
+||interseq.at^
+/captcha/api|$script,3p
+##html > .cfmd-shadow-host
+
+! https://x.com/SinorWorks/status/2100970981682524359
+! https://www.virustotal.com/gui/file/4315a23ca3c0fe5bfaccc42a7303b6886f1c33ec28a965ba9be880fbd70fcfda
+||guildpass.one^$doc,reason=malicious
+||guildbase.org^$doc,reason=malicious
+||guildkit.org^$doc,reason=malicious
+
+! https://x.com/masaomi346/status/2101331170030215192
+darumasushiantofagasta.cl##+js(aost, Function, /bxslider|wow/)
+||cloudflare-check.net^$all
+
+! https://x.com/tweetozof/status/2103601121793372164
+||lichsuvanhoa.net^$all
+||diabetescareth.com^$all
+||clickzona.net^$all
+||trackerredirect.online^$all
+||campaigntracker.icu^$all
+||entry-verifed-cdn.
+/^https:\/\/[a-z]{15,}\.[a-z]{3,}\/embed\.js\?v=\d+$/$script,3p,match-case,to=~com|~net|~org
+/^https:\/\/[a-z]{8,}\.[a-z]+\/[a-zA-Z][a-z]+_[Pp]roliv\/api\?ver=\d\.\d\.\d$/$script,3p,match-case
+/^https:\/\/[-a-z]{9,}\.net\/embed\/[a-f0-9]{16}\?embed=1&host=/$frame,3p,match-case,to=net
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/241462
+||way-to-ai.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/34646
+/checking?domain=*&captchashowed=$xhr,3p
+||ikeymate.co.nz^$all
+||59na.com^$all
+##body > .cf-page-wrap
+
+! https://www.malwarebytes.com/blog/news/2026/09/criminals-turn-placeholder-domain-into-clickfix-trap
+||third-party.com^$all
+##body > .main-wrapper > .main-content > .intro > .checkbox-window
+
+! https://x.com/masaomi346/status/2104557449722351921
+||raw.githubusercontent.com/om5678774/kt4567/main/landing2.txt
+||precisionproving.com^$3p
 
 ! !SECTION: ClickFix
 
@@ -4314,6 +4463,14 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ||gitconnect-online.web.app^$all
 ||officialgitechpage.web.app^$all
 
+! ledger
+! https://github.com/uBlockOrigin/uAssets/issues/30162
+-ledger.live^$doc
+||guardan.io^$all
+! https://github.com/uBlockOrigin/uAssets/issues/34559
+||check-products.org^$all
+||en-ledger.com^$all
+
 ! swan.com
 ! https://www.reddit.com/r/Scams/comments/1o1muxh/us_has_anyone_ever_heard_of_httpsswan9topassets/
 /^https?:\/\/(?:www\.)?swan[0-9]\.[ctv][cio]p?\//$doc,to=cc|top|vip
@@ -4974,7 +5131,6 @@ adrissa.com.co,americansoda.co.uk,casteloforte.com.br,centerfabril.com.br,forque
 
 ! https://github.com/hagezi/dns-blocklists/issues/4009
 ! https://github.com/rustdesk/rustdesk/discussions/9679
-||rustdesk.co.nz^$doc
 ||rustdesk.io^$doc
 ||rustdesk.pl^$doc
 ||rustdesk.secure-box.de^$doc
@@ -5549,10 +5705,6 @@ $doc,ipaddress=185.216.143.121
 ! https://github.com/uBlockOrigin/uAssets/issues/30149
 /^https?:\/\/gitcoin-[a-z]+\.com\//$all,reason="Blatant scammers who are not related to GitHub or Gitcoin whatsoever."
 /^https?:\/\/[a-z]+-gitcoin\.com\//$all,reason="Blatant scammers who are not related to GitHub or Gitcoin whatsoever."
-
-! https://github.com/uBlockOrigin/uAssets/issues/30162
--ledger.live^$doc
-||guardan.io^$all
 
 ! https://x.com/masaomi346/status/1971010622897914055
 /^https:\/\/[a-z]{5,10}\.[a-z]{5,10}\.[a-z]{3}\/y1\.html$/$doc,match-case,to=com|top|~weebly.com
@@ -6394,3 +6546,14 @@ top##body > center + .A + .post
 
 ! https://github.com/uBlockOrigin/uAssets/issues/34512
 ||flingtrainer.io^$all
+
+! https://www.reddit.com/r/Scams/comments/1wkoejl/us_simple_modern_impersonator_website/
+||simplemobgtnc.shop^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/34648
+||koboldcpp.com^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/34589
+msm-wroclaw.pl##+js(noeval-if, _0x)
+||bringmeday.icu^$all
+||bringmelove.icu^$all

@@ -1,5 +1,5 @@
 # Title: ✋ BadBlock - Whitelist (Wildcards no *)
-# Version: 22August2026v1
+# Version: 04October2026v1
 # Expires: 1 hour
 # Description: Unblock the good!
 # Homepage: https://badblock.celenity.dev
@@ -326,6 +326,7 @@ tools.google.com
 tools.l.google.com
 tor.bravesoftware.com
 update.googleapis.com
+update.librewolf.net
 update.vanadium.app
 updates-cdn.brave.com
 updates-cdn.bravesoftware.com
@@ -494,6 +495,7 @@ cp10.cloudflare.com
 cust.blueprintrf.com
 dalan.cust.blueprintrf.com
 deltawifi.com
+detectportal-fastly.firefox.com
 detectportal.firefox.com
 detectportal.prod.mozaws.net
 device-apaceast-h2.central.arubanetworks.com
@@ -524,6 +526,7 @@ euw1-elb.cloudguest.central.arubanetworks.com
 euw1.cloudguest.central.arubanetworks.com
 fedsso.yum.com
 files.aa.entertainment.viasat.com
+firefox-portal-detection.com
 fireoscaptiveportal.com
 flyfi.com
 foo.cust.blueprintrf.com
@@ -1939,6 +1942,8 @@ cname.createsend.com
 coherentpath.link
 cp.oldnavy.com
 ct.sendgrid.net
+data.m.starbucks.com
+data.m.starbucks.com.data.adobedc.net
 dlvr.it
 ds-global3.l7.search.ystg1.b.yahoo.com
 e.customeriomail.com
@@ -1988,6 +1993,7 @@ mailgun.org
 mailtrackemailout1.namecheap.com
 mjt.lu
 mx.technolutions.net
+my.manychat.com
 network.bazaarvoice.com
 notifications.google.com
 outgoing.nonprod.webservices.mozgcp.net
@@ -3751,6 +3757,7 @@ eu01.inspect.gtm.eset.com
 eu01.server.xdr.eset.systems
 eu02.protect.eset.com
 europe.analytics.controld.com
+events.cfa.sportscenter.espn.com
 federation.syd1.qualtrics.com
 feedburner.com
 forcesafesearch.google.com
@@ -3963,6 +3970,7 @@ pandapush-iad-prod.inscloudgate.net
 paulcarroty.gitlab.io
 paybills.mynt.xyz
 paybills.mynt.xyz-v1.edgekey.net
+paywall.sports.client.dtci.technology
 pico.eset.com
 pico.gtm.eset.com
 ping.eu
@@ -3970,6 +3978,7 @@ ping.nextdns.io
 ping.prod.colab.dev
 prestream.mov
 privacy.sexy
+promo.api.my.chick-fil-a.com
 protect.eset.com
 protonapps.com
 proxy-detection.eset.com
@@ -4011,6 +4020,8 @@ smusg.asia.qualtrics.com
 snu-dev.lge.com
 snu.lge.com
 socialize.gigya.com.edgekey.net
+sportscenter-cfa-api-cdn.espn.com
+sportscenter.fan.api.espn.com
 ssl-download.adobe.com.edgekey.net
 stat.columbia.edu
 static.growave.io
