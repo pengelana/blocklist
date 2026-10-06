@@ -1,7 +1,7 @@
 # Copyright (c) 2014-present Maltrail developers (https://github.com/stamparm/trails/)
 # See the file 'LICENSE.md' for copying permission
 
-# Aliases: splinter
+# Aliases: splinter, cve-2026-88771
 
 # Reference: https://github.com/BishopFox/sliver
 # Reference: https://www.virustotal.com/gui/file/1c9cc7108392ca716a522ccfc93c15724fb18bafe8350301c2ced04803aa4040/detection
@@ -8890,6 +8890,16 @@ http://27.102.128.140
 95.40.32.202:443
 98.124.93.134:67
 98.88.147.66:8888
+
+# Reference: https://x.com/PrevidianCyber/status/2107091061579649152
+# Reference: https://www.virustotal.com/gui/file/270818363029321786e16e2102c550a1edc7bd6fde172ed6c620ad1958c36ac8/detection
+# Reference: https://tria.ge/261002-pgfszahh36/behavioral1
+# Note: cve-2026-88771
+
+pylrk.cc
+f.pylrk.cc
+/HaKi2ufpiQ8AeVTZ/host
+/HaKi2ufpiQ8AeVTZ/
 
 # Generic
 
