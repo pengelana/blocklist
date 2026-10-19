@@ -1077,6 +1077,10 @@ cracksmid.com##div[style=""] > center > center
 ||dailyque.site^$all
 ! https://x.com/Nao_Nao1293/status/2109958967640342905
 ||calmnotice.site^$all
+! https://x.com/masaomi346/status/2111801710863851952
+||cdn.hgianignh.cfd/apks/$all
+! https://x.com/masaomi346/status/2111633497538658611
+||dramajp.com^$all
 
 ! scam sites
 ||webuzz.me^$doc
@@ -2851,6 +2855,11 @@ darumasushiantofagasta.cl##+js(aost, Function, /bxslider|wow/)
 ! https://x.com/masaomi346/status/2104557449722351921
 ||raw.githubusercontent.com/om5678774/kt4567/main/landing2.txt
 ||precisionproving.com^$3p
+
+! https://github.com/uBlockOrigin/uAssets/issues/34909
+||filedragonspire.com^$all
+/apph5/?enHash=$doc
+##html[data-page="macos-download"] > body[data-platform="macos"] > .app_wrap
 
 ! !SECTION: ClickFix
 
@@ -6580,3 +6589,6 @@ msm-wroclaw.pl##+js(noeval-if, _0x)
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/243746
 ||timbuk2.com.de^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/34913
+||sanal-nine.vercel.app^$doc
