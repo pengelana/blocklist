@@ -215,3 +215,6 @@ cert.vno.co.kr
 digisign.ro
 websign.ro
 certsign.ro
+// Suomi.fi e-Identification, the Finnish e-Government identification service
+// Login fails because the server requests the client certificate during TLS renegotiation, see https://github.com/AdguardTeam/AdguardForMac/issues/1825
+tunnistautuminen.suomi.fi
