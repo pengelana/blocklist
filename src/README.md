@@ -22,7 +22,6 @@
 [ OK ]     8,140 src/blacklist/Spam404_main-blacklist.txt
 [ OK ]     2,894 src/blacklist/StevenBlack_hosts.txt
 [ OK ]    76,734 src/blacklist/StevenBlack_master_hosts.txt
-[ OK ]    31,312 src/blacklist/athreatfox_abuse_ch_hostfile.txt
 [ OK ]   202,868 src/blacklist/badmojr_1Hosts_Lite_domains.txt
 [ OK ]     1,747 src/blacklist/bigdargon_hosts-VN.txt
 [ OK ]         1 src/blacklist/clickfix_t.txt
@@ -63,7 +62,6 @@
 [ OK ]        89 src/blacklist/malwarhunterteam_t.txt
 [ OK ]     1,624 src/blacklist/marco-acorte_antispam-it.txt
 [ OK ]     2,352 src/blacklist/matomo_org_spammers.txt
-[ OK ]        35 src/blacklist/nextdns_cname-cloaking-blocklist_domains.txt
 [ OK ]    59,217 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   152,118 src/blacklist/phishing_army_blocklist_extended.txt
@@ -3278,7 +3276,6 @@
 [ OK ]    18,111 src/blacklist/stamparm_blackbook.txt
 [ OK ]    77,046 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,349 src/blacklist/uBlockOrigin_badware.txt
-[ OK ]       469 src/blacklist/urhaus_abuse_hostfile.txt
 [ OK ]   108,286 src/blacklist/validin-phish-feed/validin-phish-feed-1.txt
 [ OK ]    93,358 src/blacklist/validin-phish-feed/validin-phish-feed-2.txt
 [ OK ]   119,038 src/blacklist/validin-phish-feed/validin-phish-feed-3.txt
@@ -3299,24 +3296,24 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 5,709,816
-Filter Duplicates   : 4,349,032
-External Whitelist  : 4,180,404
-Filter Whitelist    : 4,180,328
-Import Blacklist    : 4,181,024
-Compressed          : 3,460,002
+Total Blacklist     : 5,678,000
+Filter Duplicates   : 4,333,368
+External Whitelist  : 4,164,803
+Filter Whitelist    : 4,164,727
+Import Blacklist    : 4,165,423
+Compressed          : 3,448,502
 
    LENGTH     COUNT
-        2 2,407,821
-        3   745,204
-        4   265,939
-        5    36,770
-        6     3,261
-        7       674
-        8       129
+        2 2,400,348
+        3   741,447
+        4   265,739
+        5    36,746
+        6     3,259
+        7       633
+        8       127
         9        57
        10        14
-       11        17
+       11        16
        12         4
        13       105
        14         1
@@ -3324,7 +3321,7 @@ Compressed          : 3,460,002
        17         1
        19         1
 
-Total Blocklist     : 3,460,002
+Total Blocklist     : 3,448,502
 
 ~~~
 
@@ -3356,14 +3353,12 @@ https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt
 https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
 https://raw.githubusercontent.com/craiu/iocs/main/log4shell/log4j_blocklist.txt
-https://threatfox.abuse.ch/downloads/hostfile/
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 https://small.oisd.nl/
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
-https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/popads-domains.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
@@ -3379,7 +3374,6 @@ https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combine
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
 https://lists.cyberhost.uk/malware.txt
-https://urlhaus.abuse.ch/downloads/hostfile/
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
