@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-10-24 07:15:37 CEST
-# entries:        1155
+# last updated:   2026-11-01 07:35:00 CET
+# entries:        1156
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -848,6 +848,7 @@
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.matchads.net
 127.0.0.1 static.step.dk
+127.0.0.1 static.wireboard.io
 127.0.0.1 static.ws.apsis.one
 127.0.0.1 static.zotabox.com
 127.0.0.1 static.ads-twitter.com
