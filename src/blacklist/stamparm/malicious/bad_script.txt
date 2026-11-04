@@ -1491,7 +1491,7 @@ statconuter.com/c.php
 # Reference: https://blog.trendmicro.co.jp/archives/19054
 
 /7773/index.php
-/9125/gate.php 
+/9125/gate.php
 
 # Reference: https://www.bromium.com/mapping-malware-distribution-network/
 # Reference: https://otx.alienvault.com/pulse/5ca7142dd898276082584a58
@@ -3600,7 +3600,6 @@ tunacan-812.tk
 /RemittanceDetails.ps1
 /SupplierRemittanceDetails.ps1
 /WFACHPMT.ps1
-
 
 # Reference: https://www.fireeye.com/blog/threat-research/2019/08/game-over-detecting-and-stopping-an-apt41-operation.html
 # Reference: https://www.virustotal.com/gui/ip-address/67.229.97.229/relations
@@ -9064,7 +9063,7 @@ d3sf0irfhr5o320gc8s0di1mkfokc8i7a.oast.me
 /chiffonierfencing.ps1
 
 # Reference: https://x.com/smica83/status/1987534242155262045
-# Reference: # Reference: https://tria.ge/251109-r7rdhafj41/behavioral1
+# Reference: https://tria.ge/251109-r7rdhafj41/behavioral1
 
 /kaleb.ps1
 
@@ -9134,7 +9133,7 @@ d3sf0irfhr5o320gc8s0di1mkfokc8i7a.oast.me
 /xor-payload.py
 
 # Reference: https://x.com/smica83/status/2002493152641585438
-# Reference: # Reference: https://www.virustotal.com/gui/file/414db44b4d9fb12d73498677d31432496508b29ddc68288816316e298968e641/detection
+# Reference: https://www.virustotal.com/gui/file/414db44b4d9fb12d73498677d31432496508b29ddc68288816316e298968e641/detection
 
 /zo4nik/controversysit.ps1
 /zo4nik/dumprip.ps1
@@ -10448,6 +10447,10 @@ drvdb9rcebidk.cloudfront.net
 # Reference: https://www.virustotal.com/gui/file/f452b1a06c86c4ffa7ae32359cd2c03e58f6f20c7f892c4819c85836085804ae/detection
 
 /ruWkSudvNOtGH0q.html
+
+# Reference: https://hunt.io/blog/php2shell-honeypot-shells-root-palo-alto-firewalls
+
+/panos_rce_poc.py
 
 # Generic
 

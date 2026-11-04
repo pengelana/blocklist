@@ -1,0 +1,27 @@
+# Copyright (c) 2014-present Maltrail developers (https://github.com/stamparm/trails/)
+# See the file 'LICENSE.md' for copying permission
+
+# Out-of-band application security testing (OAST): blind SSRF/RCE/XXE payloads make the target
+# call back to one of these. Used by pentesters and attackers alike, hence suspicious.
+# Inbound (in a Host header or SNI) = someone probing you; outbound = a payload ran on your host.
+
+# Reference: https://github.com/projectdiscovery/interactsh
+
+oast.pro
+oast.live
+oast.site
+oast.online
+oast.fun
+oast.me
+interact.sh
+
+# Reference: https://portswigger.net/burp/documentation/collaborator
+
+oastify.com
+burpcollaborator.net
+
+# Reference: http://dnslog.cn/
+# Reference: http://ceye.io/
+
+dnslog.cn
+ceye.io
