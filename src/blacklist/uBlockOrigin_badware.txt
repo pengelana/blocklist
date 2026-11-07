@@ -1607,6 +1607,8 @@ cracksmid.com##div[style=""] > center > center
 ||galanzmotzjp.com^$all
 ! https://x.com/masaomi346/status/2117779362707886178
 ||downioads-japan.com^$all
+! https://x.com/masaomi346/status/2118996613377212533
+||cb-customa.com^$all
 
 ! scam sites
 ||webuzz.me^$doc
@@ -2843,7 +2845,6 @@ cracksmid.com##div[style=""] > center > center
 ||tennoito.jp^$doc
 ||cla-fando.com^$doc
 ||weclo-offer.online^$doc
-||lovean.jp^$doc
 ||yx5s6.com^$doc
 ||xrfg0dt.com^$doc
 ||pascal2417.com^$doc
@@ -3363,6 +3364,9 @@ r2.dev##body > .main-wrapper > .main-content:has(> #checkbox-window.checkbox-win
 
 ! https://ohey.ca/research/clocktail-clickfix-unfilled-command/
 ##body.glue-body > #cf-modal-overlay
+
+! https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-10-31-Romulus-Loader-spread-via-ClickFix-technique.txt
+/^https:\/\/sites\.google\.com\/view\/antibot[0-9]+\b/$doc,match-case
 
 ! !SECTION: ClickFix
 
@@ -5949,6 +5953,9 @@ rapidkil.com.au##+js(aost, XMLHttpRequest, /wp-content)
 
 ! https://www.reddit.com/r/Scams/comments/1iyqpsn/new_digital_fearscam_unlocked_zoom_phishing/
 ||zoom.us*web.us^$doc
+! https://www.reddit.com/r/Scams/comments/1xogded/job_scam_using_webzoomus/
+||webzoom.us^$all
+||us13webzoom.us^$all
 
 ! https://www.reddit.com/r/phishing/comments/1j2yegj/finally_got_one/
 ||e-zpass.com-$doc
@@ -6931,6 +6938,8 @@ top##body > center + .A + .post
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/238513
 ||luhxepremiumbags.com^$all
+! https://github.com/AdguardTeam/AdguardFilters/issues/246379
+||luhxetravelbag.co^$all
 
 ! https://github.com/uBlockOrigin/uAssets/issues/34150
 ! https://www.virustotal.com/gui/file/99989e96c1043349a4127d8a2f942bcae693fbaa0b05fc694ee53347d996114b
@@ -7026,3 +7035,14 @@ msm-wroclaw.pl##+js(noeval-if, _0x)
 
 ! https://disconinja.hatenablog.com/entry/2026/11/03/230647
 ||rivo.vin/rivo-stealer/
+
+! https://github.com/uBlockOrigin/uAssets/issues/35202
+! https://www.virustotal.com/gui/file/a216debace43f80a4d28d73c4e1c8b492669f2107c6ebb2eebcfb1ab2b3ec16d
+||wlygrowth.com^$all
+||ludashisafe.com^$all
+
+! https://www.reddit.com/r/Scams/comments/1xp6ej8/in_beware_of_this_crypto_scam_gtagrokcom/
+||gtagrok.com^$all
+
+! https://www.reddit.com/r/Scams/comments/1xo5pr0/heads_up_fake_aldi_website_phishing_scam_spotted/
+||pondmart.shop^$all

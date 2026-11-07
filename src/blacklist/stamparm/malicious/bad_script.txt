@@ -10743,6 +10743,16 @@ drvdb9rcebidk.cloudfront.net
 /cve_2019_0708.ps1
 /cve_bufferoverflow_test.txt
 
+# Reference: https://x.com/smica83/status/2118060524944384161
+# Reference: https://www.virustotal.com/gui/file/d08569427291a4ec1842a5d04833365fe537f82ebe603d496444693fa25fd365/detection
+
+/csr/decoy_rfp.hta
+/decoy_rfp.hta
+
+# Reference: ptsecurity.com/research/pt-esc-threat-intelligence/denomination-group-deno-in-attack-chains-targeting-russian-organizations/
+
+/aa2a48591dd88a31.js
+
 # Generic
 
 /5c0ca79.php
