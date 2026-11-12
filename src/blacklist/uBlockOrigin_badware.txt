@@ -4586,7 +4586,7 @@ www.cambe.pr.gov.br##+js(noeval-if, tigervip2)
 ! https://www.virustotal.com/gui/url/3cfd2e05f7e6129a6278d7f0ab0bce05d021cdf47407f51b5dbe6d975eb5ff56
 ! https://github.com/uBlockOrigin/uAssets/issues/33993
 ! https://github.com/uBlockOrigin/uAssets/issues/34059
-||steamcommunity.$doc,to=~steamcommunity.com|~steamcommunity.ai|~steamcommunity.gg|~steamcommunity.rocks|~steamcommunity.tips
+||steamcommunity.$doc,to=~steamcommunity.com|~steamcommunity.ai|~steamcommunity.cl|~steamcommunity.gg|~steamcommunity.rocks|~steamcommunity.tips
 
 ! pubg
 ||register-turnamen.free.nf^$all
@@ -5836,8 +5836,9 @@ rapidkil.com.au##+js(aost, XMLHttpRequest, /wp-content)
 ! https://www.reddit.com/r/antivirus/comments/1re2ox3/im_kinda_dumb_with_technology_in_general_should_i/
 ||kexornero.co.in^$all
 ! https://github.com/uBlockOrigin/uAssets/issues/33755
+! https://github.com/uBlockOrigin/uAssets/issues/35295
 !#if !ext_ubol
-/^https?:\/\/[a-z0-9]{10,}\.[a-z]{9,}\.co\.in\//$all,to=co.in|~unitybank.co.in
+! /^https?:\/\/[a-z0-9]{10,}\.[a-z]{9,}\.co\.in\//$all,to=co.in|~unitybank.co.in
 !#endif
 ! https://www.reddit.com/r/antivirus/comments/1rg9tbc/wife_computer_suddenly/
 ||vironexta.com^$all
@@ -7049,3 +7050,8 @@ msm-wroclaw.pl##+js(noeval-if, _0x)
 
 ! https://www.reddit.com/r/Scams/comments/1xo5pr0/heads_up_fake_aldi_website_phishing_scam_spotted/
 ||pondmart.shop^$all
+
+! https://github.com/hagezi/dns-blocklists/issues/12288
+||4kwallpapers.top^$all
+||pcsofts.site^$all
+||gover.top^$all
