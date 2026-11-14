@@ -3378,6 +3378,13 @@ r2.dev##body > .main-wrapper > .main-content:has(> #checkbox-window.checkbox-win
 ||browse-cloud.codes^$all
 ||encodelp.com^$all
 
+! https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/
+||securedoc.*.workers.dev^$doc
+##body > #rcOverlay > #rcCard
+
+! https://scanmalware.com/hunts/289
+||microsoft-winupdate.com^$all
+
 ! !SECTION: ClickFix
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/12ng4o8/
@@ -6826,6 +6833,7 @@ top##body > center + .A + .post
 ||imtolenplex.com^$all
 ||immanitys.com^$all
 ||tagesschau.tech^$doc
+||gmai.com^$all
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/235108
 ||shuru-baidu.com.cn^$all
