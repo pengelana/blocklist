@@ -637,7 +637,10 @@ howtoremove.guide###gray_de
 ||freefiles-upload.com^$doc
 ||projecthygieia.com^$all
 ||iridia.me^$doc
+
+! https://github.com/uBlockOrigin/uAssets/issues/35239
 ||nexusmops.com^$doc
+||nexusmcds.com^$doc
 
 ! fake software updaters /redirections
 ||atnpx.com^
@@ -5911,8 +5914,9 @@ rapidkil.com.au##+js(aost, XMLHttpRequest, /wp-content)
 ! https://github.com/uBlockOrigin/uAssets/issues/27109
 ! https://github.com/uBlockOrigin/uAssets/issues/27172
 ! https://github.com/uBlockOrigin/uAssets/issues/27583
-||sharedrop.io^$all
-||snapdrop.net^$all
+! https://github.com/uBlockOrigin/uAssets/issues/35333
+! ||sharedrop.io^$all
+! ||snapdrop.net^$all
 
 ! https://cyble.com/blog/deepseeks-growing-influence-surge-frauds-phishing-attacks/
 ||usadeepseek.com^$all
@@ -7061,3 +7065,6 @@ msm-wroclaw.pl##+js(noeval-if, _0x)
 ||4kwallpapers.top^$all
 ||pcsofts.site^$all
 ||gover.top^$all
+
+! https://github.com/uBlockOrigin/uAssets/issues/35345
+||sumatrapdf.org^$all
