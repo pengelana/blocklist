@@ -42,7 +42,7 @@
 [ OK ]     4,269 src/blacklist/firebog_net_Prigent_Ads.txt
 [ OK ]       356 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
-[ OK ]   544,356 src/blacklist/hagezi_dga7.txt
+[ OK ] 2,900,696 src/blacklist/hagezi_dga30.txt
 [ OK ]     3,566 src/blacklist/hagezi_doh.txt
 [ OK ]    18,778 src/blacklist/hagezi_fake.txt
 [ OK ]   220,872 src/blacklist/hagezi_multi.txt
@@ -3336,18 +3336,18 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 6,508,890
-Filter Duplicates   : 5,163,583
-External Whitelist  : 4,995,738
-Filter Whitelist    : 4,995,652
-Import Blacklist    : 4,996,345
-Compressed          : 4,265,460
+Total Blacklist     : 8,865,230
+Filter Duplicates   : 7,510,874
+External Whitelist  : 7,342,940
+Filter Whitelist    : 7,342,854
+Import Blacklist    : 7,343,547
+Compressed          : 6,611,127
 
    LENGTH     COUNT
-        2 3,020,898
-        3   877,187
-        4   320,578
-        5    40,410
+        2 5,305,627
+        3   938,520
+        4   320,191
+        5    40,402
         6     4,978
         7       908
         8       242
@@ -3361,7 +3361,7 @@ Compressed          : 4,265,460
        17         1
        19         1
 
-Total Blocklist     : 4,265,460
+Total Blocklist     : 6,611,127
 
 ~~~
 
