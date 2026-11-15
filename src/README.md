@@ -9,7 +9,7 @@
 [ OK ]    23,787 src/blacklist/AdguardTeam_disguised_microsites_justdomains.txt
 [ OK ]   306,601 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ]       929 src/blacklist/AssoEchap_hosts.txt
-[ OK ]   211,377 src/blacklist/Cats-Team_dns.txt
+[ OK ]   211,536 src/blacklist/Cats-Team_dns.txt
 [ OK ]   346,795 src/blacklist/DNSBunker_CTI_domains.txt
 [ OK ]    11,689 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       480 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
@@ -42,7 +42,7 @@
 [ OK ]     4,269 src/blacklist/firebog_net_Prigent_Ads.txt
 [ OK ]       356 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
-[ OK ] 2,900,696 src/blacklist/hagezi_dga30.txt
+[ OK ]   544,356 src/blacklist/hagezi_dga7.txt
 [ OK ]     3,566 src/blacklist/hagezi_doh.txt
 [ OK ]    18,778 src/blacklist/hagezi_fake.txt
 [ OK ]   220,872 src/blacklist/hagezi_multi.txt
@@ -3336,18 +3336,18 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 8,865,071
-Filter Duplicates   : 7,510,831
-External Whitelist  : 7,342,894
-Filter Whitelist    : 7,342,808
-Import Blacklist    : 7,343,501
-Compressed          : 6,611,081
+Total Blacklist     : 6,508,890
+Filter Duplicates   : 5,163,583
+External Whitelist  : 4,995,738
+Filter Whitelist    : 4,995,652
+Import Blacklist    : 4,996,345
+Compressed          : 4,265,460
 
    LENGTH     COUNT
-        2 5,305,581
-        3   938,520
-        4   320,191
-        5    40,402
+        2 3,020,898
+        3   877,187
+        4   320,578
+        5    40,410
         6     4,978
         7       908
         8       242
@@ -3361,7 +3361,7 @@ Compressed          : 6,611,081
        17         1
        19         1
 
-Total Blocklist     : 6,611,081
+Total Blocklist     : 4,265,460
 
 ~~~
 
