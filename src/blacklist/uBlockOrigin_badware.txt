@@ -1615,6 +1615,8 @@ cracksmid.com##div[style=""] > center > center
 ||downioads-japan.com^$all
 ! https://x.com/masaomi346/status/2118996613377212533
 ||cb-customa.com^$all
+! https://x.com/masaomi346/status/2122161201132277825
+||googlea.eu.cc^$all
 
 ! scam sites
 ||webuzz.me^$doc
@@ -7076,3 +7078,9 @@ msm-wroclaw.pl##+js(noeval-if, _0x)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/35345
 ||sumatrapdf.org^$all
+
+! https://github.com/uBlockOrigin/uAssets/pull/35378
+! https://bazaar.abuse.ch/browse/tag/kurdishmyth/
+/^https?:\/\/cdn\.discordapp\.com\/[^?]*\/(?:[A-Z][a-z]+SMP.zip|[A-Za-z_]+Mod.zip)(?:\?|$)/$document,match-case
+/^https?:\/\/cdn\.discordapp\.com\/[^?]*\.(?:jar|mrpack|litemod|mcpack|mcaddon)(?:\?|$)/$document
+
