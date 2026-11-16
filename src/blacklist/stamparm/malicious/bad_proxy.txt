@@ -1,6 +1,8 @@
 # Copyright (c) 2014-present Maltrail developers (https://github.com/stamparm/trails/)
 # See the file 'LICENSE.md' for copying permission
 
+# Aliases: redguardc2
+
 # Reference: https://twitter.com/abuse_ch/status/1141702499889553409
 
 47.96.84.138:80
@@ -56,3 +58,15 @@ metallurgify.com
 # Reference: https://reliaquest.com/blog/threat-spotlight-clickfix-evolves-with-pysoxy-proxying/
 
 167.99.158.97:443
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-90day.csv (# 2026-11-15, RedGuard C2)
+
+http://103.23.172.132
+http://124.156.152.46
+http://129.226.174.180
+http://45.137.10.110
+http://96.44.160.44
+103.117.123.125:4433
+45.141.136.133:2096
+64.90.10.227:8080
+64.90.10.67:443
