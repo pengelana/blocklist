@@ -1,8 +1,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2026-11-06 07:42:53 CET
-# entries:        1152
+# last updated:   2026-11-17 07:08:44 CET
+# entries:        1154
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -286,6 +286,7 @@
 127.0.0.1 cdn.insurads.com
 127.0.0.1 cdn.izooto.com
 127.0.0.1 cdn.jst.ai
+127.0.0.1 cdn.leeadsadprofit.tech
 127.0.0.1 cdn.logsnag.com
 127.0.0.1 cdn.matomo.cloud
 127.0.0.1 cdn.maxetise.net
@@ -694,6 +695,7 @@
 127.0.0.1 platform.bidgear.com
 127.0.0.1 platform.iteratehq.com
 127.0.0.1 platform-api.sharethis.com
+127.0.0.1 plaus.alltomelbil.se
 127.0.0.1 plausible.webfokus.no
 127.0.0.1 plus.sharedcount.com
 127.0.0.1 pm.azerioncircle.com
