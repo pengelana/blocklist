@@ -1,0 +1,257 @@
+//
+// Android specific exclusions
+//
+// https://github.com/AdguardTeam/HttpsExclusions/issues/655
+sahibinden-vod2.mncdn.com$app=org.mozilla.firefox
+// https://github.com/AdguardTeam/AdguardFilters/issues/18070
+termux.net
+// https://github.com/AdguardTeam/AdguardFilters/issues/12189
+wodtogether.com
+// https://github.com/AdguardTeam/AdguardFilters/issues/9120
+mapi.flypgs.com
+// https://github.com/AdguardTeam/AdguardFilters/issues/9860
+review.lineageos.org
+// https://github.com/AdguardTeam/AdguardFilters/issues/9688
+instapaper.com
+// https://github.com/AdguardTeam/AdguardFilters/issues/9584
+budgetbankers.com
+// https://github.com/AdguardTeam/HttpsExclusions/issues/28
+thisissand.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1270
+tamtam.ok.ru
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1269
+global.ssl.fastly.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/609
+androidwearcloudsync-pa.googleapis.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/613
+mob.maps.yandex.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/343
+global.uci.blackberry.com
+profile.bbm.blackberry.com
+goods.bbm.blackberry.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/362
+vas.samsungapps.com
+samsungosp.com
+// Dropbox
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/371
+api-notify.dropbox.com
+dropboxapi.com
+dropboxusercontent.com
+// Yandex Taxi
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/320
+m.taxi.yandex.ru
+// WhatsApp
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/376
+whatsapp.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/388
+mobile.yandex.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/387
+webdav.yandex.ru
+webdav.yandex.com.ua
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/464
+musical.ly
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/462
+whisper.sh
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/642
+api.box.com
+// https://github.com/AdguardTeam/ExperimentalFilter/issues/1935
+api.accuweather.com
+brightcove.com
+urbanairship.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/498
+login.live.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/529
+api-kino.vl.ru
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/528
+api.meetme.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/530
+api.here.com
+data.here.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/565
+quizup.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/560
+apis.live.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/571
+isu-odc.samsungapps.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/543
+mob2api.mdc53.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/591
+api-between.vcnc.co.kr
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/570
+auth.simperium.com
+api.simperium.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/510
+media.tumblr.com
+api.tumblr.com
+vt.tumblr.com
+static.tumblr.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/476
+lastpass.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/518
+wire.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/622
+api.freeletics.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/516
+us-central-api.yikyakapi.net
+notify.yikyakapi.net
+content.yikyakapi.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/647
+navcloud.tomtom.com
+lcms.services.tomtom.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/736
+disk.yandex.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/711
+newstube.ru
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/754
+accountsettingsmobile-pa.googleapis.com
+android.clients.google.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/811
+feoquizserver.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/814
+trips-pa.googleapis.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/837
+api.crunchyroll.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/929
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/960
+ac-talk.kakao.com
+api.kakao.com
+channel.kakao.com
+clog-aggregator.kakao.com
+gift.kakao.com
+item.kakao.com
+katalk.kakao.com
+pf-api.kakao.com
+talk.kakao.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1073
+wunderlist.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1229
+spdy3.maps.rostaxi.org
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1206
+grabtaxi.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1211
+zenstudios.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1248
+tech1-cdn.com
+tech2-cdn.com
+//https://github.com/AdguardTeam/AdguardForAndroid/issues/1372
+tamtam.chat
+//https://github.com/AdguardTeam/AdguardForAndroid/issues/1184
+tutotoons.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1493
+userapi.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1557
+voiseservices.yandex.net
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1567
+bccard.com
+local.gosi.go.kr
+// https://github.com/AdguardTeam/AdguardFilters/issues/8191
+productserver.sygic.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1641
+api.cognitive.microsoft.com
+otf.msn.com
+websockets.platform.bing.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1936
+clientproxyservice.atomtickets.com
+// Samsung own stats are sent here, but it checks the cert
+atlas.samsung.com
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/1867
+generalmotorscorporation.sc.omtrdc.net
+api.gm.com
+gmmobileservices.gm.com
+acompli.net
+// https://github.com/AdguardTeam/CoreLibs/issues/1032 (acompli.net Outlook)
+//
+// Specific Exclusions for Applications
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3052
+//
+// Mamba:
+api.mobile-api.ru$app=ru.mamba.client
+// Tunnelbear:
+tunnelbear.com$app=com.tunnelbear.android
+amazonaws.com$app=com.tunnelbear.android
+// VK:
+google.com$app=com.vkontakte.android
+vk.com$app=com.vkontakte.android
+vkuservideo.net$app=com.vkontakte.android
+vk-cdn.net$app=com.vkontakte.android
+// Outlook:
+azureedge.net$app=com.microsoft.office.outlook
+acompli.net$app=com.microsoft.office.outlook
+microsoft.com$app=com.microsoft.office.outlook
+// Instagram:
+facebook.com$app=com.instagram.android
+// Whatsapp & Whatsapp 4B:
+whatsapp.net$app=com.whatsapp
+whatsapp.net$app=com.whatsapp.w4b
+// Tele2:
+tele2.ru$app=ru.tele2.mytele2
+// My Beeline:
+amazonaws.com$app=ru.beeline.services
+// Facebook:
+fna.fbcdn.net$app=com.facebook.katana
+xx.fbcdn.net$app=com.facebook.katana
+xx.fbcdn.net$app=com.facebook.katana
+mqtt-mini.facebook.com$app=com.facebook.katana
+xx.fbcdn.net$app=com.facebook.katana
+m.facebook.com$app=com.facebook.katana
+graph.fbpigeon.com$app=com.facebook.katana
+// Google play services: https://github.com/AdguardTeam/AdguardForAndroid/issues/1894
+googleapis.com$app=com.google.android.gms
+myaccount.google.com$app=com.google.android.gms
+www.google.com$app=com.google.android.gms
+gvt1.com$app=com.google.android.gms
+// Plex https://github.com/AdguardTeam/AdguardForAndroid/issues/3324
+plex.tv$app=com.plexapp.android
+// Railcard https://github.com/AdguardTeam/AdguardForAndroid/issues/3255
+railcard.co.uk$app=com.raildeliverygroup.railcard
+digital-railcard.co.uk$app=com.raildeliverygroup.railcard
+//
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3328
+//
+// Norton mobile security
+developers.google.com$app=com.symantec.mobilesecurity
+norton.com$app=com.symantec.mobilesecurity
+// Sophos Intercept X
+sophosxl.net$app=com.sophos.smsec
+// Zomato
+api.zomato.com$app=com.application.zomato
+// Google calendar
+googleapis.com$app=com.google.android.calendar
+googleapis.com$app=com.google.android.syncadapters.calendar
+// Audible by Amazon
+amazon.com$app=com.audible.application
+audible.de$app=com.audible.application
+// SASystemProviders (Samsung)
+dls-udc.dqa.samsung.com$app=com.samsung.accessory.safiletransfer
+// Play Services fonts
+fonts.gstatic.com$app=com.google.android.gms
+// YouTube
+googleusercontent.com$app=com.google.android.youtube
+youtubei.googleapis.com$app=com.google.android.youtube
+youtube.com$app=com.google.android.youtube
+ggpht.com$app=com.google.android.youtube
+ytimg.com$app=com.google.android.youtube
+// Yandex Disk
+downloader.disk.yandex.ru$app=ru.yandex.disk
+api.browser.yandex.ru$app=ru.yandex.disk
+cloud-api.yandex.net$app=ru.yandex.disk
+google.com$app=ru.yandex.disk
+// PS App
+playstation.com$app=com.scee.psxandroid
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3419
+store.hispace.hicloud.com$app=com.huawei.gameassistant
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3425
+dl.google.com$app=com.android.providers.media
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3681
+weatherapi.market.xiaomi.com$app=com.miui.weather2
+// https://github.com/AdguardTeam/HttpsExclusions/issues/357
+zoom.us
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3729
+app.adjust.com$app=com.azure.authenticator
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/3818
+msa.enel.it
+hk.enel.it
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/4775
+cdc.daikin.eu
+// https://github.com/AdguardTeam/AdguardForAndroid/issues/5096
+wallpaperapi.sofa.opera-api2.com
