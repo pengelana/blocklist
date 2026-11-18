@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 17 Nov 2026 15:53 UTC
-# Version: 2026.1117.1553.43
+# Last modified: 17 Nov 2026 23:55 UTC
+# Version: 2026.1117.2355.47
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 4001
+# Number of entries: 4006
 #
 ss.0001.xyz
 003153.xyz
@@ -179,7 +179,6 @@ dns.abdullahabas.de
 dns.abdullahabas.online
 dns.abhimankolte.com
 abluehope.com
-dns.abluehope.com
 panel.abolisub.ir
 dns.abppro.ru
 abpvn.org
@@ -233,6 +232,9 @@ family.adguard-dns.com
 unfiltered.adguard-dns.com
 adguard-home.de
 adguardaaron.com
+dns.adguarddns.com
+family.adguarddns.com
+unfiltered.adguarddns.com
 admir21.ru
 dns.adnull.com
 dns.adrianlam.com
@@ -1093,6 +1095,9 @@ dns-free.link
 dns.dns-heimdall.com
 dns.dns-over-https.com
 dns.dns-vanhuynh.click
+dns0.eu
+kids.dns0.eu
+open.dns0.eu
 pub.am.dns24.online
 doh.dns4all.eu
 doh64.dns4all.eu
