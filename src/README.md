@@ -46,13 +46,10 @@
 [ OK ]     4,006 src/blacklist/hagezi_doh.txt
 [ OK ]    18,803 src/blacklist/hagezi_fake.txt
 [ OK ]   408,896 src/blacklist/hagezi_multi.txt
-[ OK ]       770 src/blacklist/hagezi_native.amazon.txt
 [ OK ]       184 src/blacklist/hagezi_native.huawei.txt
 [ OK ]     2,291 src/blacklist/hagezi_native.lgwebos.txt
 [ OK ]       627 src/blacklist/hagezi_native.oppo-realme.txt
 [ OK ]       156 src/blacklist/hagezi_native.roku.txt
-[ OK ]       269 src/blacklist/hagezi_native.samsung.txt
-[ OK ]       551 src/blacklist/hagezi_native.tiktok.txt
 [ OK ]       307 src/blacklist/hagezi_native.vivo.txt
 [ OK ]       550 src/blacklist/hagezi_native.xiaomi.txt
 [ OK ]    88,157 src/blacklist/hagezi_popup.txt
@@ -3350,18 +3347,18 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 9,500,327
-Filter Duplicates   : 8,025,915
-External Whitelist  : 7,857,508
-Filter Whitelist    : 7,857,424
-Import Blacklist    : 7,858,117
-Compressed          : 7,013,069
+Total Blacklist     : 9,498,737
+Filter Duplicates   : 8,025,621
+External Whitelist  : 7,857,219
+Filter Whitelist    : 7,857,135
+Import Blacklist    : 7,857,828
+Compressed          : 7,012,914
 
    LENGTH     COUNT
         2 5,684,850
-        3   950,946
-        4   329,328
-        5    41,213
+        3   950,809
+        4   329,312
+        5    41,211
         6     5,180
         7       991
         8       268
@@ -3376,7 +3373,7 @@ Compressed          : 7,013,069
        18         1
        19         1
 
-Total Blocklist     : 7,013,069
+Total Blocklist     : 7,012,914
 
 ~~~
 
