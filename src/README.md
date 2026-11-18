@@ -45,7 +45,7 @@
 [ OK ] 2,776,494 src/blacklist/hagezi_dga30.txt
 [ OK ]     4,006 src/blacklist/hagezi_doh.txt
 [ OK ]    18,803 src/blacklist/hagezi_fake.txt
-[ OK ]   408,896 src/blacklist/hagezi_multi.txt
+[ OK ]   410,469 src/blacklist/hagezi_multi.txt
 [ OK ]       184 src/blacklist/hagezi_native.huawei.txt
 [ OK ]     2,291 src/blacklist/hagezi_native.lgwebos.txt
 [ OK ]       627 src/blacklist/hagezi_native.oppo-realme.txt
@@ -422,7 +422,7 @@
 [ OK ]     5,635 src/blacklist/stamparm/malware/android_hydra.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_ibanking.txt
 [ OK ]         2 src/blacklist/stamparm/malware/android_iconosys.txt
-[ OK ]     4,810 src/blacklist/stamparm/malware/android_joker.txt
+[ OK ]     4,814 src/blacklist/stamparm/malware/android_joker.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_jsmshider.txt
 [NOK ]         0 src/blacklist/stamparm/malware/android_kbuster.txt
 [ OK ]         2 src/blacklist/stamparm/malware/android_kemoge.txt
@@ -722,7 +722,7 @@
 [ OK ]        92 src/blacklist/stamparm/malware/apt_keyboy.txt
 [ OK ]    30,057 src/blacklist/stamparm/malware/apt_kimsuky.txt
 [ OK ]       577 src/blacklist/stamparm/malware/apt_kun3.txt
-[ OK ]     4,535 src/blacklist/stamparm/malware/apt_lazarus.txt
+[ OK ]     4,538 src/blacklist/stamparm/malware/apt_lazarus.txt
 [ OK ]        18 src/blacklist/stamparm/malware/apt_lazyscripter.txt
 [ OK ]         7 src/blacklist/stamparm/malware/apt_leafminer.txt
 [ OK ]       311 src/blacklist/stamparm/malware/apt_librarianghouls.txt
@@ -745,7 +745,7 @@
 [ OK ]         1 src/blacklist/stamparm/malware/apt_motorbeacon.txt
 [ OK ]         5 src/blacklist/stamparm/malware/apt_moustachedbouncer.txt
 [ OK ]        66 src/blacklist/stamparm/malware/apt_mudcarp.txt
-[ OK ]    33,772 src/blacklist/stamparm/malware/apt_muddywater.txt
+[ OK ]    33,790 src/blacklist/stamparm/malware/apt_muddywater.txt
 [ OK ]         4 src/blacklist/stamparm/malware/apt_murenshark.txt
 [ OK ]       315 src/blacklist/stamparm/malware/apt_mustangpanda.txt
 [ OK ]        64 src/blacklist/stamparm/malware/apt_naikon.txt
@@ -3326,7 +3326,7 @@
 [ OK ]         9 src/blacklist/stamparm/suspicious/web_shells.txt
 [ OK ]         1 src/blacklist/stamparm/suspicious/xenarmor.txt
 [ OK ]    18,111 src/blacklist/stamparm_blackbook.txt
-[ OK ]    86,844 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]    86,853 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,399 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]   108,286 src/blacklist/validin-phish-feed/validin-phish-feed-1.txt
 [ OK ]    93,358 src/blacklist/validin-phish-feed/validin-phish-feed-2.txt
@@ -3348,19 +3348,19 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 9,436,988
-Filter Duplicates   : 7,963,416
-External Whitelist  : 7,795,017
-Filter Whitelist    : 7,794,931
-Import Blacklist    : 7,795,623
-Compressed          : 6,950,068
+Total Blacklist     : 9,438,595
+Filter Duplicates   : 7,964,492
+External Whitelist  : 7,796,095
+Filter Whitelist    : 7,796,009
+Import Blacklist    : 7,796,701
+Compressed          : 6,950,643
 
    LENGTH     COUNT
-        2 5,626,968
-        3   945,999
-        4   329,164
-        5    41,209
-        6     5,176
+        2 5,627,003
+        3   946,457
+        4   329,242
+        5    41,212
+        6     5,177
         7       993
         8       265
         9       118
@@ -3374,7 +3374,7 @@ Compressed          : 6,950,068
        18         1
        19         1
 
-Total Blocklist     : 6,950,068
+Total Blocklist     : 6,950,643
 
 ~~~
 
