@@ -9,8 +9,8 @@
 [ OK ]    23,787 src/blacklist/AdguardTeam_disguised_microsites_justdomains.txt
 [ OK ]   306,601 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ]       929 src/blacklist/AssoEchap_hosts.txt
-[ OK ]   211,245 src/blacklist/Cats-Team_dns.txt
-[ OK ]   381,801 src/blacklist/DNSBunker_CTI_domains.txt
+[ OK ]   211,320 src/blacklist/Cats-Team_dns.txt
+[ OK ]   382,615 src/blacklist/DNSBunker_CTI_domains.txt
 [ OK ]    11,689 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       480 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
@@ -28,7 +28,7 @@
 [ OK ]       973 src/blacklist/craiu_list.txt
 [ OK ]        40 src/blacklist/craiu_log4j_blocklist.txt
 [ OK ]        10 src/blacklist/crowdstrike_t.txt
-[ OK ]   158,540 src/blacklist/crux_judol.txt
+[ OK ]   126,406 src/blacklist/crux_judol.txt
 [ OK ]     2,697 src/blacklist/disconnect_me_simple_ad.txt
 [ OK ]     2,732 src/blacklist/disconnect_me_simple_malvertising.txt.txt
 [ OK ]       352 src/blacklist/dnstunneling_t.txt
@@ -36,7 +36,7 @@
 [ OK ]     2,414 src/blacklist/easylist_adservers_popup.txt
 [ OK ]     2,046 src/blacklist/ethanr_Mandiant_APT1_Report_Appendix_D.txt
 [ OK ]        60 src/blacklist/fakenews_t.txt
-[ OK ]   190,470 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]   190,541 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]    11,490 src/blacklist/firebog_Prigent-Crypto.txt
 [ OK ]    43,260 src/blacklist/firebog_net_Easyprivacy.txt
 [ OK ]     4,269 src/blacklist/firebog_net_Prigent_Ads.txt
@@ -72,7 +72,7 @@
 [ OK ]     2,355 src/blacklist/matomo_org_spammers.txt
 [ OK ]    62,858 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]   144,899 src/blacklist/phishing_army_blocklist_extended.txt
+[ OK ]   144,920 src/blacklist/phishing_army_blocklist_extended.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       125 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]     1,195 src/blacklist/redirect_t.txt
@@ -3352,23 +3352,23 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 9,399,797
-Filter Duplicates   : 7,947,100
-External Whitelist  : 7,779,029
-Filter Whitelist    : 7,778,943
-Import Blacklist    : 7,779,637
-Compressed          : 6,932,652
+Total Blacklist     : 9,368,644
+Filter Duplicates   : 7,915,503
+External Whitelist  : 7,747,442
+Filter Whitelist    : 7,747,356
+Import Blacklist    : 7,748,050
+Compressed          : 6,903,580
 
    LENGTH     COUNT
-        2 5,611,156
-        3   945,414
-        4   329,132
-        5    40,990
-        6     4,513
-        7       907
-        8       252
-        9       113
-       10        44
+        2 5,608,381
+        3   919,684
+        4   328,575
+        5    40,994
+        6     4,500
+        7       902
+        8       261
+        9       114
+       10        38
        11         9
        12         6
        13       107
@@ -3378,7 +3378,7 @@ Compressed          : 6,932,652
        18         1
        19         1
 
-Total Blocklist     : 6,932,652
+Total Blocklist     : 6,903,580
 
 ~~~
 
