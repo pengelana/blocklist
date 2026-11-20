@@ -10,7 +10,7 @@
 [ OK ]   306,601 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ]       929 src/blacklist/AssoEchap_hosts.txt
 [ OK ]   211,679 src/blacklist/Cats-Team_dns.txt
-[ OK ]   376,632 src/blacklist/DNSBunker_CTI_domains.txt
+[ OK ]   376,717 src/blacklist/DNSBunker_CTI_domains.txt
 [ OK ]    11,689 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       480 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
@@ -77,7 +77,7 @@
 [ OK ]       125 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]     1,195 src/blacklist/redirect_t.txt
 [ OK ]   130,674 src/blacklist/romainmarcoux_malicious-domains/full-domains-aa.txt
-[ OK ]    63,782 src/blacklist/romainmarcoux_malicious-domains/full-domains-ab.txt
+[ OK ]    63,779 src/blacklist/romainmarcoux_malicious-domains/full-domains-ab.txt
 [NOK ]         0 src/blacklist/romainmarcoux_malicious-domains/full-domains-ac.txt
 [ OK ]   145,180 src/blacklist/smet_cz_nrd_today.txt
 [ OK ]    13,090 src/blacklist/someonewhocares_hosts.txt
@@ -722,7 +722,7 @@
 [ OK ]        59 src/blacklist/stamparm/malware/apt_ke3chang.txt
 [ OK ]        92 src/blacklist/stamparm/malware/apt_keyboy.txt
 [ OK ]    30,088 src/blacklist/stamparm/malware/apt_kimsuky.txt
-[ OK ]       577 src/blacklist/stamparm/malware/apt_kun3.txt
+[ OK ]       578 src/blacklist/stamparm/malware/apt_kun3.txt
 [ OK ]     4,542 src/blacklist/stamparm/malware/apt_lazarus.txt
 [ OK ]        18 src/blacklist/stamparm/malware/apt_lazyscripter.txt
 [ OK ]         7 src/blacklist/stamparm/malware/apt_leafminer.txt
@@ -2509,7 +2509,7 @@
 [NOK ]         0 src/blacklist/stamparm/malware/povloader.txt
 [ OK ]         2 src/blacklist/stamparm/malware/powelike.txt
 [ OK ]         4 src/blacklist/stamparm/malware/powerpool.txt
-[ OK ]     7,032 src/blacklist/stamparm/malware/powershell_injector.txt
+[ OK ]     7,033 src/blacklist/stamparm/malware/powershell_injector.txt
 [NOK ]         0 src/blacklist/stamparm/malware/powershell_ransomware.txt
 [ OK ]         6 src/blacklist/stamparm/malware/powershell_smbghost.txt
 [NOK ]         0 src/blacklist/stamparm/malware/powerworm.txt
@@ -3353,19 +3353,19 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 9,443,409
-Filter Duplicates   : 8,008,459
-External Whitelist  : 7,841,478
-Filter Whitelist    : 7,841,399
-Import Blacklist    : 7,842,097
-Compressed          : 7,040,331
+Total Blacklist     : 9,443,493
+Filter Duplicates   : 8,008,518
+External Whitelist  : 7,841,536
+Filter Whitelist    : 7,841,457
+Import Blacklist    : 7,842,155
+Compressed          : 7,040,378
 
    LENGTH     COUNT
-        2 5,757,557
-        3   915,883
-        4   321,174
+        2 5,757,586
+        3   915,896
+        4   321,178
         5    39,951
-        6     4,507
+        6     4,508
         7       850
         8       166
         9        75
@@ -3379,7 +3379,7 @@ Compressed          : 7,040,331
        18         1
        19         1
 
-Total Blocklist     : 7,040,331
+Total Blocklist     : 7,040,378
 
 ~~~
 
