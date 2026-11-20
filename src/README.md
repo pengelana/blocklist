@@ -10,7 +10,7 @@
 [ OK ]   306,601 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ]       929 src/blacklist/AssoEchap_hosts.txt
 [ OK ]   211,610 src/blacklist/Cats-Team_dns.txt
-[ OK ]   376,673 src/blacklist/DNSBunker_CTI_domains.txt
+[ OK ]   376,557 src/blacklist/DNSBunker_CTI_domains.txt
 [ OK ]    11,689 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       480 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
@@ -35,7 +35,7 @@
 [ OK ]     2,414 src/blacklist/easylist_adservers_popup.txt
 [ OK ]     2,046 src/blacklist/ethanr_Mandiant_APT1_Report_Appendix_D.txt
 [ OK ]        60 src/blacklist/fakenews_t.txt
-[ OK ]   190,881 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]   190,908 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]    11,490 src/blacklist/firebog_Prigent-Crypto.txt
 [ OK ]    43,260 src/blacklist/firebog_net_Easyprivacy.txt
 [ OK ]     4,269 src/blacklist/firebog_net_Prigent_Ads.txt
@@ -70,7 +70,7 @@
 [ OK ]     1,627 src/blacklist/marco-acorte_antispam-it.txt
 [ OK ]     2,355 src/blacklist/matomo_org_spammers.txt
 [ OK ]   443,236 src/blacklist/nrd30_judol.txt
-[ OK ]    63,118 src/blacklist/oisd_small.txt
+[ OK ]    63,332 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [NOK ]         0 src/blacklist/phishing_army_blocklist_extended.txt
 [ OK ]         7 src/blacklist/popup_t.txt
@@ -3353,21 +3353,21 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 9,550,988
-Filter Duplicates   : 8,152,457
-External Whitelist  : 7,986,865
-Filter Whitelist    : 7,986,788
-Import Blacklist    : 7,987,486
-Compressed          : 7,198,687
+Total Blacklist     : 9,551,113
+Filter Duplicates   : 8,152,420
+External Whitelist  : 7,986,828
+Filter Whitelist    : 7,986,751
+Import Blacklist    : 7,987,449
+Compressed          : 7,198,654
 
    LENGTH     COUNT
-        2 5,914,256
-        3   917,819
-        4   320,896
-        5    39,945
-        6     4,503
+        2 5,914,206
+        3   917,814
+        4   320,903
+        5    39,949
+        6     4,511
         7       855
-        8       166
+        8       169
         9        78
        10        39
        11         9
@@ -3379,7 +3379,7 @@ Compressed          : 7,198,687
        18         1
        19         1
 
-Total Blocklist     : 7,198,687
+Total Blocklist     : 7,198,654
 
 ~~~
 
