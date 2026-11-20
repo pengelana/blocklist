@@ -9,8 +9,8 @@
 [ OK ]    23,787 src/blacklist/AdguardTeam_disguised_microsites_justdomains.txt
 [ OK ]   306,601 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ]       929 src/blacklist/AssoEchap_hosts.txt
-[ OK ]   211,610 src/blacklist/Cats-Team_dns.txt
-[ OK ]   376,557 src/blacklist/DNSBunker_CTI_domains.txt
+[ OK ]   211,679 src/blacklist/Cats-Team_dns.txt
+[ OK ]   376,324 src/blacklist/DNSBunker_CTI_domains.txt
 [ OK ]    11,689 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       480 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
@@ -3353,18 +3353,18 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 9,551,113
-Filter Duplicates   : 8,152,420
-External Whitelist  : 7,986,828
-Filter Whitelist    : 7,986,751
-Import Blacklist    : 7,987,449
-Compressed          : 7,198,654
+Total Blacklist     : 9,550,949
+Filter Duplicates   : 8,152,423
+External Whitelist  : 7,986,831
+Filter Whitelist    : 7,986,754
+Import Blacklist    : 7,987,452
+Compressed          : 7,198,656
 
    LENGTH     COUNT
-        2 5,914,206
-        3   917,814
-        4   320,903
-        5    39,949
+        2 5,914,214
+        3   917,816
+        4   320,901
+        5    39,943
         6     4,511
         7       855
         8       169
@@ -3379,7 +3379,7 @@ Compressed          : 7,198,654
        18         1
        19         1
 
-Total Blocklist     : 7,198,654
+Total Blocklist     : 7,198,656
 
 ~~~
 
