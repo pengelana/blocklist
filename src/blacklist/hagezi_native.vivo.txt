@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 13 Nov 2026 19:28 UTC
-# Version: 2026.1113.1928.45
+# Last modified: 20 Nov 2026 22:38 UTC
+# Version: 2026.1120.2238.10
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 307
+# Number of entries: 306
 #
 vhs.wwstat.com.eo.unicomcdn.com.cn
 adlog.vivo.com.cn
@@ -113,7 +113,6 @@ co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
 co-vcode-or.vivoglobal.com
 de-gdpr-err-up.vivoglobal.com
-de-gdpr-vcode-api.vivoglobal.com
 err-up.vivoglobal.com
 eu-album-api.vivoglobal.com
 eu-api-stsdk.vivoglobal.com
@@ -122,7 +121,6 @@ eu-cota.vivoglobal.com
 eu-domaincfg.vivoglobal.com
 eu-errup.vivoglobal.com
 eu-monitor-stsdk.vivoglobal.com
-eu-nrt-stsdk.vivoglobal.com
 eu-onrt-stsdk.vivoglobal.com
 eu-ort-stsdk.vivoglobal.com
 eu-p.vivoglobal.com
@@ -172,6 +170,7 @@ in-ort-stsdk.vivoglobal.com
 in-os-config-appstore.vivoglobal.com
 in-pnrt-stsdk.vivoglobal.com
 in-prt-stsdk.vivoglobal.com
+in-rt-stsdk.vivoglobal.com
 in-third-appstore.vivoglobal.com
 in-timesync.vivoglobal.com
 in-vcode-api.vivoglobal.com
