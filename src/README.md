@@ -10,7 +10,7 @@
 [ OK ]   306,601 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ]       929 src/blacklist/AssoEchap_hosts.txt
 [ OK ]   212,170 src/blacklist/Cats-Team_dns.txt
-[ OK ] 1,309,134 src/blacklist/DNSBunker_CTI_domains.txt
+[ OK ] 1,309,699 src/blacklist/DNSBunker_CTI_domains.txt
 [ OK ]    11,688 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       480 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
@@ -72,12 +72,12 @@
 [ OK ]   435,676 src/blacklist/nrd30_judol.txt
 [ OK ]    62,058 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]   146,415 src/blacklist/phishing_army_blocklist_extended.txt
+[ OK ]   146,387 src/blacklist/phishing_army_blocklist_extended.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       125 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]     1,195 src/blacklist/redirect_t.txt
 [ OK ]   130,678 src/blacklist/romainmarcoux_malicious-domains/full-domains-aa.txt
-[ OK ]    65,646 src/blacklist/romainmarcoux_malicious-domains/full-domains-ab.txt
+[ OK ]    65,683 src/blacklist/romainmarcoux_malicious-domains/full-domains-ab.txt
 [NOK ]         0 src/blacklist/romainmarcoux_malicious-domains/full-domains-ac.txt
 [ OK ]   507,477 src/blacklist/smet_cz_nrd_today.txt
 [ OK ]    13,090 src/blacklist/someonewhocares_hosts.txt
@@ -3336,7 +3336,7 @@
 [ OK ]         9 src/blacklist/stamparm/suspicious/web_shells.txt
 [ OK ]         1 src/blacklist/stamparm/suspicious/xenarmor.txt
 [ OK ]    18,111 src/blacklist/stamparm_blackbook.txt
-[ OK ]    87,118 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]    87,126 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,394 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]   108,286 src/blacklist/validin-phish-feed/validin-phish-feed-1.txt
 [ OK ]    93,358 src/blacklist/validin-phish-feed/validin-phish-feed-2.txt
@@ -3358,23 +3358,23 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 10,632,678
-Filter Duplicates   : 8,877,236
-External Whitelist  : 8,708,882
-Filter Whitelist    : 8,708,800
-Import Blacklist    : 8,709,492
-Compressed          : 7,885,708
+Total Blacklist     : 10,633,260
+Filter Duplicates   : 8,877,907
+External Whitelist  : 8,709,559
+Filter Whitelist    : 8,709,477
+Import Blacklist    : 8,710,169
+Compressed          : 7,885,945
 
    LENGTH     COUNT
-        2 6,538,868
-        3   976,701
-        4   324,434
-        5    39,437
-        6     4,738
-        7       975
-        8       200
-        9       183
-       10        37
+        2 6,538,867
+        3   976,920
+        4   324,433
+        5    39,459
+        6     4,732
+        7       980
+        8       195
+        9       184
+       10        40
        11        13
        12         9
        13       101
@@ -3384,7 +3384,7 @@ Compressed          : 7,885,708
        18         1
        19         1
 
-Total Blocklist     : 7,885,708
+Total Blocklist     : 7,885,945
 
 ~~~
 
