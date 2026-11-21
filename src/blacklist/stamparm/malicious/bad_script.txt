@@ -10037,9 +10037,12 @@ drvdb9rcebidk.cloudfront.net
 /ICMacOs?arch=
 
 # Reference: https://x.com/malwrhunterteam/status/2101224412192141722
+# Reference: https://scanmalware.com/hunts/273
 
 /rce_loader.js
+/rce_module.js
 /rce_worker.js
+/rce_worker_18.4.js
 
 # Reference: https://x.com/k3yp0d/status/2101642228879794316
 # Reference: https://x.com/ffforward/status/2101654077490745856
