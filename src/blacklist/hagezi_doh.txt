@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 21 Nov 2026 16:00 UTC
-# Version: 2026.1121.1600.15
+# Last modified: 21 Nov 2026 23:59 UTC
+# Version: 2026.1121.2359.22
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 4006
 #
@@ -362,7 +362,6 @@ dns-sehat.apigw.online
 ag.apollohct.com
 ds.appl.pk
 doh.dns.apple.com
-mask-api.fe.apple-dns.net
 dns.applewebkit.dev
 applied-privacy.net
 doh.applied-privacy.net
@@ -487,7 +486,6 @@ adblock.benmeyer.net
 berd.moe
 dns.bermeitinger.eu
 domburg.beruys.com
-bestwon203.com
 dns.bezmezhau.com
 dns.bgeneto.com
 dns.bibica.net
@@ -2449,6 +2447,8 @@ orjp4.lz0724.com
 addns1.m-it.ro
 mabuktogel.business
 mabuktogel.cards
+mabuktogel.enterprises
+mabuktogel.ltd
 mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
@@ -3031,6 +3031,7 @@ dns.phillipjberry.net
 philqoo.com
 dns.philqoo.com
 phongg.vn
+doh.centraleu.pi-dns.com
 adguard.piekacz.pl
 dns.pierzchlewicz.pl
 dns.pieterdherde.com
@@ -3558,7 +3559,6 @@ nl.tcpu.ru
 dns.teaminfo.fr
 dns.home.tebinulrich.de
 dns-br.leonardo.tec.br
-tecdrive.site
 dns.techcpu.net
 dns1.techeasy.org
 vpn.technicule.info
