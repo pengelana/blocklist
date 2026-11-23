@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 22 Nov 2026 16:00 UTC
-# Version: 2026.1122.1600.21
+# Last modified: 22 Nov 2026 23:52 UTC
+# Version: 2026.1122.2352.00
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 4005
+# Number of entries: 3990
 #
 ss.0001.xyz
 003153.xyz
@@ -98,7 +98,6 @@ doh.360.cn
 dot.360.cn
 adns.3am.la
 dns.3dcapitaltrust.net
-3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 adg.3k.work
@@ -369,8 +368,6 @@ dot1.applied-privacy.net
 doh.appliedprivacy.net
 dot1.appliedprivacy.net
 dns.aquilenet.fr
-dns.arapurayil.com
-2.dnscrypt-cert.dns.arapurayil.com
 arashi.solutions
 adguard.arashi.solutions
 invidious.arashi.solutions
@@ -537,7 +534,6 @@ adguard.blogssl.com
 dns.blokada.org
 rfree1.blue-shield.at
 rfree2.blue-shield.at
-bluedns.xyz
 dns.bluehome-networks.de
 bluemood.me
 hk-adg.bluenight.me
@@ -792,7 +788,6 @@ dns2.thylacine.co.nz
 doh.tsmu.co.id
 dns1.understandingcyber.co.uk
 dns.unknown-universe.co.uk
-doh.vpsdns.co.za
 dns.walshnet.co.uk
 augne.dns.walshnet.co.uk
 aviemore.dns.walshnet.co.uk
@@ -1598,9 +1593,6 @@ jp.dns.bliod.eu.org
 clic.eu.org
 resolver.dns.eban.eu.org
 doh.excdn.eu.org
-futuredns.eu.org
-dns.de.futuredns.eu.org
-dns.us.futuredns.eu.org
 doh.greenwood.eu.org
 sweethome.in.eu.org
 kaiser.int.eu.org
@@ -1634,7 +1626,6 @@ dns.exonip.de
 extratv.org
 dns.extrawdw.net
 ad.exxo.work
-fra1.eyecay.xyz
 eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
 dns.f1tech.info
 dns.f4a.fun
@@ -2303,7 +2294,6 @@ adguard.kngnet.de
 knight1.de
 dns.knyfie.com
 dns.kobo.dev
-kocapb.ru
 doh.koduarve.ee
 dns.koeberle.fr
 kokesh.se
@@ -2553,7 +2543,6 @@ dns.millernetwork.uk
 color.mine.bz
 aitkcrev.minhduc.pw
 minilla.store
-dns.mipauns.com
 guard.miracloud.fr
 netcup.mismat.ch
 httpdns.browser.miui.com
@@ -2689,7 +2678,6 @@ graf.mywire.org
 fwgw.orangepipc.mywire.org
 dns.mzjtechnology.com
 dns.mzrme.cn
-n0.eu
 pdns1.n00b.fr
 dns-mik.pdns1.n00b.fr
 dns.n23.io
@@ -2997,7 +2985,6 @@ paskam.xyz
 rumsk.paskam.xyz
 dns.pastorov.ru
 wg.pastorov.ru
-doh.gcp.pathofgrace.com
 nas.patrick-antoine.fr
 dns.paxavemedia.com
 vps-ovh.pb2004.pl
@@ -3488,7 +3475,6 @@ dns.streamsmoke.com
 dns.streamvine.app
 www.vpn.stroialliance.com
 dns.struchkov.dev
-structoriumwings.ru
 dns.stud.cloud
 www.dns.stud.cloud
 la-doh.stuptech.com
@@ -3985,7 +3971,6 @@ zaziss.com
 zdn.ro
 register.zedzander.com
 dns.zemows.industries
-doh.zephyrus.id
 adguard-kartoffel.zernico.de
 oraclejp01.zerotorez.com
 d.zhanchuraevv.ru
