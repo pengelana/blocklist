@@ -10,7 +10,7 @@
 [ OK ]   367,148 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ]       929 src/blacklist/AssoEchap_hosts.txt
 [ OK ]   214,251 src/blacklist/Cats-Team_dns.txt
-[ OK ] 1,631,586 src/blacklist/DNSBunker_CTI_domains.txt
+[ OK ]   476,300 src/blacklist/DNSBunker_CTI_domains.txt
 [ OK ]    11,688 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       480 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
@@ -35,23 +35,23 @@
 [ OK ]     2,416 src/blacklist/easylist_adservers_popup.txt
 [ OK ]     2,046 src/blacklist/ethanr_Mandiant_APT1_Report_Appendix_D.txt
 [ OK ]        60 src/blacklist/fakenews_t.txt
-[ OK ]   193,450 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]   193,478 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]    11,490 src/blacklist/firebog_Prigent-Crypto.txt
 [ OK ]    43,260 src/blacklist/firebog_net_Easyprivacy.txt
 [ OK ]     4,269 src/blacklist/firebog_net_Prigent_Ads.txt
 [ OK ]       356 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
-[ OK ] 2,651,349 src/blacklist/hagezi_dga30.txt
-[ OK ]     3,984 src/blacklist/hagezi_doh.txt
-[ OK ]    10,357 src/blacklist/hagezi_fake.txt
-[ OK ]   379,929 src/blacklist/hagezi_multi.txt
+[ OK ] 2,526,659 src/blacklist/hagezi_dga30.txt
+[ OK ]     3,987 src/blacklist/hagezi_doh.txt
+[ OK ]    10,326 src/blacklist/hagezi_fake.txt
+[ OK ]   393,072 src/blacklist/hagezi_multi.txt
 [ OK ]       184 src/blacklist/hagezi_native.huawei.txt
 [ OK ]     2,295 src/blacklist/hagezi_native.lgwebos.txt
 [ OK ]       629 src/blacklist/hagezi_native.oppo-realme.txt
 [ OK ]       156 src/blacklist/hagezi_native.roku.txt
 [ OK ]       306 src/blacklist/hagezi_native.vivo.txt
 [ OK ]       549 src/blacklist/hagezi_native.xiaomi.txt
-[ OK ]    69,877 src/blacklist/hagezi_popup.txt
+[ OK ]    71,069 src/blacklist/hagezi_popup.txt
 [ OK ]       311 src/blacklist/hoshsadiq_nocoin_hosts.txt
 [ OK ]    15,175 src/blacklist/hostfiles_frogeye_fr_firstparty-trackers-hosts.txt
 [ OK ]       753 src/blacklist/hpthreatresearch_domains.txt
@@ -70,16 +70,16 @@
 [ OK ]     1,627 src/blacklist/marco-acorte_antispam-it.txt
 [ OK ]     2,355 src/blacklist/matomo_org_spammers.txt
 [ OK ]   435,676 src/blacklist/nrd30_judol.txt
-[ OK ]    62,669 src/blacklist/oisd_small.txt
+[ OK ]    62,659 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
 [ OK ]   145,976 src/blacklist/phishing_army_blocklist_extended.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       125 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]     1,195 src/blacklist/redirect_t.txt
 [ OK ]   130,676 src/blacklist/romainmarcoux_malicious-domains/full-domains-aa.txt
-[ OK ]    67,306 src/blacklist/romainmarcoux_malicious-domains/full-domains-ab.txt
+[ OK ]    67,305 src/blacklist/romainmarcoux_malicious-domains/full-domains-ab.txt
 [NOK ]         0 src/blacklist/romainmarcoux_malicious-domains/full-domains-ac.txt
-[ OK ]   141,575 src/blacklist/smet_cz_nrd_today.txt
+[ OK ]   318,857 src/blacklist/smet_cz_nrd_today.txt
 [ OK ]    13,116 src/blacklist/someonewhocares_hosts.txt
 [NOK ]         0 src/blacklist/stamparm/malicious/365stealer_phishtool.txt
 [ OK ]         5 src/blacklist/stamparm/malicious/404_tds.txt
@@ -3338,7 +3338,7 @@
 [ OK ]         9 src/blacklist/stamparm/suspicious/web_shells.txt
 [ OK ]         1 src/blacklist/stamparm/suspicious/xenarmor.txt
 [ OK ]    18,111 src/blacklist/stamparm_blackbook.txt
-[ OK ]    87,181 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]    87,187 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,396 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]   108,286 src/blacklist/validin-phish-feed/validin-phish-feed-1.txt
 [ OK ]    93,358 src/blacklist/validin-phish-feed/validin-phish-feed-2.txt
@@ -3360,33 +3360,33 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 10,552,240
-Filter Duplicates   : 8,700,129
-External Whitelist  : 8,531,980
-Filter Whitelist    : 8,531,897
-Import Blacklist    : 8,532,585
-Compressed          : 7,676,682
+Total Blacklist     : 9,463,876
+Filter Duplicates   : 7,993,197
+External Whitelist  : 7,826,332
+Filter Whitelist    : 7,826,252
+Import Blacklist    : 7,826,944
+Compressed          : 6,987,043
 
    LENGTH     COUNT
-        2 6,278,709
-        3 1,002,269
-        4   347,384
-        5    41,952
-        6     4,896
-        7       964
-        8       240
-        9       101
-       10        34
-       11        12
-       12         8
+        2 5,618,898
+        3   975,171
+        4   345,302
+        5    41,662
+        6     4,741
+        7       854
+        8       195
+        9        73
+       10        24
+       11         8
+       12         6
        13       100
-       14         4
-       16         6
+       14         2
+       16         4
        17         1
        18         1
        19         1
 
-Total Blocklist     : 7,676,682
+Total Blocklist     : 6,987,043
 
 ~~~
 

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 23 Nov 2026 23:55 UTC
-# Version: 2026.1123.2355.12
+# Last modified: 24 Nov 2026 09:04 UTC
+# Version: 2026.1124.0904.25
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3984
+# Number of entries: 3987
 #
 ss.0001.xyz
 003153.xyz
@@ -1088,8 +1088,6 @@ dns.dns-heimdall.com
 dns.dns-over-https.com
 dns.dns-vanhuynh.click
 dns0.eu
-kids.dns0.eu
-open.dns0.eu
 pub.am.dns24.online
 doh.dns4all.eu
 doh64.dns4all.eu
@@ -1518,6 +1516,7 @@ dns.echpochmak-club.ru
 dns.edc-pws.com
 dns.eddi.net
 doh.eddi.net
+dns.edgeburnmedia.com
 dns.edgeworkssystems.ca
 doh.edifiels.ru
 dns.edison42.dev
@@ -1614,7 +1613,6 @@ pan.yuhui.eu.org
 t.yuhui.eu.org
 v.yuhui.eu.org
 www.yuhui.eu.org
-vm596152.eurodir.ru
 exns1.exalto.nu
 excelkin.online
 dns.exhome.pl
@@ -3013,6 +3011,12 @@ dns.philqoo.com
 phongg.vn
 doh.centraleu.pi-dns.com
 dot.centraleu.pi-dns.com
+doh.pi-dns.com
+dot.eastas.pi-dns.com
+doh.eastau.pi-dns.com
+dot.eastau.pi-dns.com
+dot.eastus.pi-dns.com
+doh.westus.pi-dns.com
 adguard.piekacz.pl
 dns.pierzchlewicz.pl
 dns.pieterdherde.com
@@ -3205,7 +3209,6 @@ reniac.su
 dns.reolinks.ru
 dns.repinger.com
 dns.repressoh.it
-wg.req1.fr
 x.res.wang
 dns.resoft.org
 dnspub.restena.lu
