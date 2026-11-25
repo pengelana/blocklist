@@ -10,7 +10,7 @@
 [ OK ]   367,148 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ]       929 src/blacklist/AssoEchap_hosts.txt
 [ OK ]   214,612 src/blacklist/Cats-Team_dns.txt
-[ OK ]   568,141 src/blacklist/DNSBunker_CTI_domains.txt
+[ OK ]   583,127 src/blacklist/DNSBunker_CTI_domains.txt
 [ OK ]    11,688 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       480 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
@@ -72,12 +72,12 @@
 [ OK ]   435,676 src/blacklist/nrd30_judol.txt
 [ OK ]    62,907 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]   146,516 src/blacklist/phishing_army_blocklist_extended.txt
+[ OK ]   146,570 src/blacklist/phishing_army_blocklist_extended.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       125 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]     1,195 src/blacklist/redirect_t.txt
 [ OK ]   130,677 src/blacklist/romainmarcoux_malicious-domains/full-domains-aa.txt
-[ OK ]    68,020 src/blacklist/romainmarcoux_malicious-domains/full-domains-ab.txt
+[ OK ]    68,034 src/blacklist/romainmarcoux_malicious-domains/full-domains-ab.txt
 [NOK ]         0 src/blacklist/romainmarcoux_malicious-domains/full-domains-ac.txt
 [ OK ]   318,705 src/blacklist/smet_cz_nrd_today.txt
 [ OK ]    13,116 src/blacklist/someonewhocares_hosts.txt
@@ -424,7 +424,7 @@
 [ OK ]     5,635 src/blacklist/stamparm/malware/android_hydra.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_ibanking.txt
 [ OK ]         2 src/blacklist/stamparm/malware/android_iconosys.txt
-[ OK ]     4,838 src/blacklist/stamparm/malware/android_joker.txt
+[ OK ]     4,846 src/blacklist/stamparm/malware/android_joker.txt
 [ OK ]         1 src/blacklist/stamparm/malware/android_jsmshider.txt
 [NOK ]         0 src/blacklist/stamparm/malware/android_kbuster.txt
 [ OK ]         2 src/blacklist/stamparm/malware/android_kemoge.txt
@@ -724,7 +724,7 @@
 [ OK ]        92 src/blacklist/stamparm/malware/apt_keyboy.txt
 [ OK ]    30,238 src/blacklist/stamparm/malware/apt_kimsuky.txt
 [ OK ]       578 src/blacklist/stamparm/malware/apt_kun3.txt
-[ OK ]     4,553 src/blacklist/stamparm/malware/apt_lazarus.txt
+[ OK ]     4,554 src/blacklist/stamparm/malware/apt_lazarus.txt
 [ OK ]        18 src/blacklist/stamparm/malware/apt_lazyscripter.txt
 [ OK ]         7 src/blacklist/stamparm/malware/apt_leafminer.txt
 [ OK ]       311 src/blacklist/stamparm/malware/apt_librarianghouls.txt
@@ -747,7 +747,7 @@
 [ OK ]         1 src/blacklist/stamparm/malware/apt_motorbeacon.txt
 [ OK ]         5 src/blacklist/stamparm/malware/apt_moustachedbouncer.txt
 [ OK ]        66 src/blacklist/stamparm/malware/apt_mudcarp.txt
-[ OK ]    34,016 src/blacklist/stamparm/malware/apt_muddywater.txt
+[ OK ]    34,053 src/blacklist/stamparm/malware/apt_muddywater.txt
 [ OK ]         4 src/blacklist/stamparm/malware/apt_murenshark.txt
 [ OK ]       315 src/blacklist/stamparm/malware/apt_mustangpanda.txt
 [ OK ]        64 src/blacklist/stamparm/malware/apt_naikon.txt
@@ -3362,21 +3362,21 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 9,535,724
-Filter Duplicates   : 8,047,229
-External Whitelist  : 7,880,202
-Filter Whitelist    : 7,880,122
-Import Blacklist    : 7,880,814
-Compressed          : 7,029,087
+Total Blacklist     : 9,550,824
+Filter Duplicates   : 8,057,947
+External Whitelist  : 7,890,892
+Filter Whitelist    : 7,890,812
+Import Blacklist    : 7,891,504
+Compressed          : 7,039,200
 
    LENGTH     COUNT
-        2 5,621,123
-        3 1,014,223
-        4   346,193
-        5    41,617
-        6     4,736
-        7       831
-        8       165
+        2 5,627,877
+        3 1,017,579
+        4   346,210
+        5    41,613
+        6     4,728
+        7       830
+        8       164
         9        62
        10        15
        11         8
@@ -3388,7 +3388,7 @@ Compressed          : 7,029,087
        18         1
        19         1
 
-Total Blocklist     : 7,029,087
+Total Blocklist     : 7,039,200
 
 ~~~
 
