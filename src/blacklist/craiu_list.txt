@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 # See: https://github.com/craiu/mobiletrackers/
-# Version 1.48 - 2026-11-25
+# Version 1.49 - 2026-11-25
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -1158,3 +1158,34 @@ xiaoyuner.com
 
 #T3 Code - https://x.com/realchendahuang/status/2125153472450527440
 ingest.t3.codes
+
+# Max Messenger DPS network reachability reporting - https://interseclab.org/research/max/
+trace-flow.ru
+
+# Qwen Code usage statistics (Alibaba Cloud RUM) - https://github.com/QwenLM/qwen-code/issues/17052
+gb4w8c3ygj-default-sea.rum.aliyuncs.com
+
+# Browser-use plugin telemetry (PostHog) - https://github.com/anthropics/claude-code/issues/111396 and https://github.com/browser-use/browser-harness/issues/681
+# URL rule: eu.i.posthog.com/batch
+# URL rule: eu.i.posthog.com/i/v0/e
+
+# OpenHands Agent Canvas telemetry (PostHog proxy) - https://github.com/OpenHands/OpenHands/issues/18081
+z.openhands.dev
+
+# Max Messenger crash reporting (AppTracer) - https://interseclab.org/research/max/
+sdk-api.apptracer.ru
+
+# Max Messenger tracking pixel (Mail.ru) - https://interseclab.org/research/max/
+top-fwz1.mail.ru
+
+# OpenSpec CLI usage analytics (PostHog proxy) - https://github.com/Fission-AI/OpenSpec/blob/605d9e7a2bb5c1bab90268933f9b84ff1eb8807c/src/telemetry/index.ts
+edge.openspec.dev
+
+# Crush usage analytics (PostHog proxy) - https://github.com/charmbracelet/crush/blob/main/internal/event/event.go
+data.charm.land
+
+# Max Messenger video and call analytics (OK.ru) - https://interseclab.org/research/max/
+# URL rule: api.ok.ru/api/log/externalLog
+
+# Telega usage analytics (VK MyTracker) - https://files.rks.global/telegram_alt_test_en.pdf
+tracker-api.vk-analytics.ru
