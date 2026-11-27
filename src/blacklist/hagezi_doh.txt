@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 26 Nov 2026 09:10 UTC
-# Version: 2026.1126.0910.26
+# Last modified: 26 Nov 2026 23:53 UTC
+# Version: 2026.1126.2353.23
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3993
+# Number of entries: 4022
 #
 ss.0001.xyz
 003153.xyz
@@ -96,6 +96,7 @@ dns.354688.xyz
 xjpdns.354688.xyz
 doh.360.cn
 dot.360.cn
+doh.361.best
 adns.3am.la
 dns.3dcapitaltrust.net
 3dns.eu
@@ -178,6 +179,7 @@ dns.abdullahabas.de
 dns.abdullahabas.online
 dns.abhimankolte.com
 abluehope.com
+dns.abluehope.com
 panel.abolisub.ir
 dns.abppro.ru
 abpvn.org
@@ -360,6 +362,7 @@ dns-sehat.apigw.online
 ag.apollohct.com
 ds.appl.pk
 doh.dns.apple.com
+mask-api.fe.apple-dns.net
 dns.applewebkit.dev
 applied-privacy.net
 doh.applied-privacy.net
@@ -367,6 +370,8 @@ dot1.applied-privacy.net
 doh.appliedprivacy.net
 dot1.appliedprivacy.net
 dns.aquilenet.fr
+dns.arapurayil.com
+2.dnscrypt-cert.dns.arapurayil.com
 arashi.solutions
 adguard.arashi.solutions
 invidious.arashi.solutions
@@ -570,6 +575,7 @@ agh.broaddy.com
 www.agh.broaddy.com
 service.broe.ru
 dns.brono.cloud
+home.bruckmoser.it
 81.brudnowski.eu
 81xyz.brudnowski.eu
 doh.bt.com
@@ -1497,6 +1503,7 @@ resolver2.dyndnsinternetguide.com
 rafi.dynns.com
 ccadguard.dynu.net
 adguard.ekhozie.dynu.net
+flyloadguard.dynu.net
 quangdo92.dynu.net
 gustamadh.dynv6.net
 dns.dynx.pro
@@ -1590,6 +1597,9 @@ jp.dns.bliod.eu.org
 clic.eu.org
 resolver.dns.eban.eu.org
 doh.excdn.eu.org
+futuredns.eu.org
+dns.de.futuredns.eu.org
+dns.us.futuredns.eu.org
 doh.greenwood.eu.org
 sweethome.in.eu.org
 kaiser.int.eu.org
@@ -1612,6 +1622,7 @@ pan.yuhui.eu.org
 t.yuhui.eu.org
 v.yuhui.eu.org
 www.yuhui.eu.org
+vm596152.eurodir.ru
 exns1.exalto.nu
 excelkin.online
 dns.exhome.pl
@@ -1622,6 +1633,7 @@ dns.exonip.de
 extratv.org
 dns.extrawdw.net
 ad.exxo.work
+fra1.eyecay.xyz
 eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
 dns.f1tech.info
 dns.f4a.fun
@@ -1763,6 +1775,7 @@ dns.beta.gandi.net
 dns.garymarek.me
 adguard.gattow.com
 ad.gaukova.ru
+dns.gearworks.app
 adg.geili.me
 genscorp.es
 dns.geohide.ru
@@ -1861,6 +1874,7 @@ secure.hafnova.com
 dns.hahnjo.de
 dns.haka.se
 dns.hakim.one
+dns.hakutakucn.com
 dns.hanahira.dev
 adguard.haneulo.com
 dns.hanmey.de
@@ -2104,6 +2118,7 @@ dns.dugi.io.vn
 ion.pm
 dns.cloud.ionutl.ro
 iozoi.cn
+serv0.ingener002.ip-dynamic.org
 kino.ipcon9886546.space
 dns.ipoac.nl
 dns.iqiyi.com
@@ -2215,6 +2230,7 @@ juicysalmon.ru
 addns.jujuland.net
 dns.jundev.org
 dns.jungle-im.ir
+dns.jupitrdns.com
 sgs02.just-a-web.com
 ad.justincounts.com
 dns.justinnetworkingsolutions.com
@@ -2441,6 +2457,7 @@ mimir.magicaobscura.de
 maherhost.uk
 dns.mahiro.online
 adhome.maige.fun
+dns.mailcastle.in
 dnsserver.mailchan.eu
 maincloud.ir
 dns.maitrekuc.fr
@@ -2474,6 +2491,7 @@ www.masters-of-cloud.de
 dns.mateo.ovh
 dns.mathewakhil.online
 rasp.matthias-iwer.de
+dns.matthias-prost.com
 maxfong.cc
 www.maxfong.cc
 maxlichuan.top
@@ -2533,11 +2551,14 @@ dns.mikopono.nl
 rwkdwpwsyv48.mikopono.nl
 dns.millernetwork.uk
 color.mine.bz
+nl-nod2.mineweb.cc
 aitkcrev.minhduc.pw
 minilla.store
+dns.mipauns.com
 guard.miracloud.fr
 netcup.mismat.ch
 httpdns.browser.miui.com
+dns.miyun1.com
 doh.mmmalia.com
 dns.mnet-online.de
 dns.mni.li
@@ -2558,6 +2579,7 @@ dns.mooncheng.top
 dns.moondip.net
 dns.moonssif.com
 dns.moonwx.net
+disinformer.mooo.com
 e23a.mooo.com
 feellike.mooo.com
 helsh0ru5.mooo.com
@@ -2668,6 +2690,7 @@ graf.mywire.org
 fwgw.orangepipc.mywire.org
 dns.mzjtechnology.com
 dns.mzrme.cn
+n0.eu
 pdns1.n00b.fr
 dns-mik.pdns1.n00b.fr
 dns.n23.io
@@ -2760,6 +2783,7 @@ tlan.aa1.netvolante.jp
 dns.netvpn.net
 cube.neubsi.at
 dns.neubsi.at
+dns.neutopia.org
 doh.nexen.cloud
 doh.luigi.nexific.it
 anycast.nextdns.io
@@ -2974,6 +2998,7 @@ paskam.xyz
 rumsk.paskam.xyz
 dns.pastorov.ru
 wg.pastorov.ru
+doh.gcp.pathofgrace.com
 nas.patrick-antoine.fr
 dns.paxavemedia.com
 vps-ovh.pb2004.pl
@@ -3201,6 +3226,7 @@ www.rd-service.moscow
 adguard.rdekuyper.nl
 1.rdnls.ru
 hk.reaticle.com
+adg.rednetline.com
 dns.redroot.cc
 dns.redvau.lt
 cdn.refined.pro
@@ -3213,6 +3239,7 @@ reniac.su
 dns.reolinks.ru
 dns.repinger.com
 dns.repressoh.it
+wg.req1.fr
 x.res.wang
 dns.resoft.org
 dnspub.restena.lu
@@ -3259,6 +3286,7 @@ vps.rokian.net
 vps-1a.rokian.net
 vps-1b.rokian.net
 dns.romain.tech
+dns.romareyme.online
 dns.ronc.ru
 vps1.rootax.org
 vps2.rootax.org
@@ -3786,6 +3814,7 @@ solution.w10.life
 dns.w3ctag.org
 bh.wael.name
 dns.wael.name
+dns.wahr.top
 aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
