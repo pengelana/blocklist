@@ -10,7 +10,7 @@
 [ OK ]   367,148 src/blacklist/AdguardTeam_disguised_trackers_justdomains.txt
 [ OK ]       929 src/blacklist/AssoEchap_hosts.txt
 [ OK ]   215,601 src/blacklist/Cats-Team_dns.txt
-[ OK ]   641,033 src/blacklist/DNSBunker_CTI_domains.txt
+[ OK ]   653,266 src/blacklist/DNSBunker_CTI_domains.txt
 [ OK ]    11,688 src/blacklist/DandelionSprout_AntiMalwareHosts.txt
 [ OK ]       481 src/blacklist/DandelionSprout_NordicFiltersPiHole.txt
 [ OK ]     2,189 src/blacklist/FadeMind_hosts.txt
@@ -35,13 +35,13 @@
 [ OK ]     2,416 src/blacklist/easylist_adservers_popup.txt
 [ OK ]     2,046 src/blacklist/ethanr_Mandiant_APT1_Report_Appendix_D.txt
 [ OK ]        60 src/blacklist/fakenews_t.txt
-[ OK ]   194,569 src/blacklist/filters_adtidy_org_15.txt
+[ OK ]   194,605 src/blacklist/filters_adtidy_org_15.txt
 [ OK ]    11,490 src/blacklist/firebog_Prigent-Crypto.txt
 [ OK ]    43,260 src/blacklist/firebog_net_Easyprivacy.txt
 [ OK ]     4,269 src/blacklist/firebog_net_Prigent_Ads.txt
 [ OK ]       356 src/blacklist/firebog_net_w3kbl.txt
 [ OK ]        12 src/blacklist/fox_threatintel_t.txt
-[ OK ] 2,520,334 src/blacklist/hagezi_dga30.txt
+[ OK ] 2,555,081 src/blacklist/hagezi_dga30.txt
 [ OK ]     4,022 src/blacklist/hagezi_doh.txt
 [ OK ]    10,726 src/blacklist/hagezi_fake.txt
 [ OK ]   385,358 src/blacklist/hagezi_multi.txt
@@ -72,12 +72,12 @@
 [ OK ]   435,676 src/blacklist/nrd30_judol.txt
 [ OK ]    63,317 src/blacklist/oisd_small.txt
 [ OK ]        91 src/blacklist/parseword_hosts-government-malware.txt
-[ OK ]   146,815 src/blacklist/phishing_army_blocklist_extended.txt
+[ OK ]   146,781 src/blacklist/phishing_army_blocklist_extended.txt
 [ OK ]         7 src/blacklist/popup_t.txt
 [ OK ]       125 src/blacklist/quidsup_notrack-malware.txt
 [ OK ]     1,195 src/blacklist/redirect_t.txt
-[ OK ]   130,678 src/blacklist/romainmarcoux_malicious-domains/full-domains-aa.txt
-[ OK ]    69,888 src/blacklist/romainmarcoux_malicious-domains/full-domains-ab.txt
+[ OK ]   130,679 src/blacklist/romainmarcoux_malicious-domains/full-domains-aa.txt
+[ OK ]    69,908 src/blacklist/romainmarcoux_malicious-domains/full-domains-ab.txt
 [NOK ]         0 src/blacklist/romainmarcoux_malicious-domains/full-domains-ac.txt
 [ OK ]   105,629 src/blacklist/smet_cz_nrd_today.txt
 [ OK ]    13,117 src/blacklist/someonewhocares_hosts.txt
@@ -3341,7 +3341,7 @@
 [ OK ]         9 src/blacklist/stamparm/suspicious/web_shells.txt
 [ OK ]         1 src/blacklist/stamparm/suspicious/xenarmor.txt
 [ OK ]    18,111 src/blacklist/stamparm_blackbook.txt
-[ OK ]    87,230 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
+[ OK ]    87,232 src/blacklist/stopforumspam_com_toxic_domains_whole.txt
 [ OK ]     3,396 src/blacklist/uBlockOrigin_badware.txt
 [ OK ]   108,286 src/blacklist/validin-phish-feed/validin-phish-feed-1.txt
 [ OK ]    93,358 src/blacklist/validin-phish-feed/validin-phish-feed-2.txt
@@ -3363,23 +3363,23 @@
 [ OK ]    18,739 src/blacklist/validin-phish-feed/validin-phish-feed-youcangetnoinfo.txt
 [ OK ]    89,017 src/blacklist/validin-phish-feed/validin-phish-feed.txt
 
-Total Blacklist     : 9,416,199
-Filter Duplicates   : 7,916,196
-External Whitelist  : 7,749,041
-Filter Whitelist    : 7,748,961
-Import Blacklist    : 7,749,653
-Compressed          : 6,892,365
+Total Blacklist     : 9,463,204
+Filter Duplicates   : 7,958,526
+External Whitelist  : 7,791,340
+Filter Whitelist    : 7,791,260
+Import Blacklist    : 7,791,952
+Compressed          : 6,933,303
 
    LENGTH     COUNT
-        2 5,467,045
-        3 1,029,605
-        4   347,523
+        2 5,500,750
+        3 1,036,639
+        4   347,765
         5    41,864
-        6     5,010
-        7       881
-        8       226
+        6     5,009
+        7       875
+        8       184
         9        69
-       10        18
+       10        24
        11         9
        12         5
        13       100
@@ -3389,7 +3389,7 @@ Compressed          : 6,892,365
        18         2
        19         1
 
-Total Blocklist     : 6,892,365
+Total Blocklist     : 6,933,303
 
 ~~~
 
