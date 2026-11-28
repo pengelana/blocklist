@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 20 Nov 2026 22:39 UTC
-# Version: 2026.1120.2239.17
+# Last modified: 27 Nov 2026 22:32 UTC
+# Version: 2026.1127.2232.24
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 549
+# Number of entries: 553
 #
 traffic-media.co.uk
 mistat.india.xiaomi.com.edgesuite.net
@@ -45,6 +45,7 @@ kuyun.com
 config.kuyun.com
 logonext.tv.kuyun.com
 www.kuyun.com
+ad.xiaomi.com.mgslb.com
 ad.intl.xiaomi.com.mgslb.com
 mistat.xiaomi.com.mgslb.com
 ad.mi.com
@@ -249,6 +250,7 @@ ad.xiaomi.com
 api.ad.xiaomi.com
 ssp.api.ad.xiaomi.com
 cdn.ad.xiaomi.com
+cupid.ad.xiaomi.com
 databi.ad.xiaomi.com
 diagnosis.ad.xiaomi.com
 e.ad.xiaomi.com
@@ -375,6 +377,7 @@ mosapi.ad.intl.xiaomi.com
 odml.ad.intl.xiaomi.com
 omad.ad.intl.xiaomi.com
 pixel.ad.intl.xiaomi.com
+pixel-api.ad.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sgpapi.ad.intl.xiaomi.com
 test.ad.intl.xiaomi.com
@@ -430,6 +433,7 @@ mibi.xiaomi.com
 hk.mibi.xiaomi.com
 m.hk.mibi.xiaomi.com
 staging.hk.mibi.xiaomi.com
+staging.mibi.xiaomi.com
 tj1.staging.mibi.xiaomi.com
 api.micloud.xiaomi.net
 find.api.micloud.xiaomi.net
